@@ -12,7 +12,6 @@ env:
   AWS_DEFAULT_REGION: ap-south-1
   S3_BUCKET: web-student
   DISTRIBUTION_ID_1: E24XAO9VUI2QUO
-  DISTRIBUTION_ID_2: E3NNQJJAQJHJJT
 
 jobs:
   deploy:
@@ -21,6 +20,13 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+
+      - name: Configure AWS credentials (using IAM user)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_DEFAULT_REGION }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -37,9 +43,7 @@ jobs:
         run: npm run build
 
       - name: Deploy to S3
-        run: aws s3 sync ./dist s3://$S3_BUCKET --delete --region $AWS_DEFAULT_REGION --exact-timestamps --fail-on-empty-changeset
+        run: aws s3 sync ./dist s3://$S3_BUCKET --delete --exact-timestamps --fail-on-empty-changeset
 
       - name: Invalidate CloudFront cache
-        run: |
-          aws cloudfront create-invalidation --distribution-id $DISTRIBUTION_ID_1 --paths "/*"
-          aws cloudfront create-invalidation --distribution-id $DISTRIBUTION_ID_2 --paths "/*"
+        run: aws cloudfront create-invalidation --distribution-id $DISTRIBUTION_ID_1 --paths "/*"
