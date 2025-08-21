@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { toast } from "react-toastify";
-import axiosInstance from "../../API/axiosConfig";
+import axiosInstance from "../../api/axiosConfig";
 import { Spinner } from "react-bootstrap";
 import "../Contact/style.css";
 import { API_ENDPOINTS } from "../../ulits/apiConstant";
