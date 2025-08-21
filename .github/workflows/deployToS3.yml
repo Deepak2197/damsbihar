@@ -46,8 +46,10 @@ jobs:
           fi
           # Replace wrong imports in JS/JSX files
           find src \( -name "*.js" -o -name "*.jsx" \) -print0 | xargs -0 sed -i \
+            -e 's|from "./API/|from "./api/|g' \
             -e 's|from "../API/|from "../api/|g' \
-            -e 's|from "../../API/|from "../../api/|g'
+            -e 's|from "../../API/|from "../../api/|g' \
+            -e 's|from "../../../API/|from "../../../api/|g'
 
       - name: Build application
         env:
