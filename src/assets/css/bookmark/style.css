@@ -1,0 +1,747 @@
+.BookMarkdata {
+  padding: 50px 0px;
+  background: #fafafa;
+  width: 100%;
+}
+.no-bookmark {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh; /* Full height of the screen */
+  text-align: center;
+}
+
+.BookMarkdata .profile-content-bx {
+  border: 1px solid #e9e9e9;
+  padding: 10px 20px 20px;
+  border-radius: 10px;
+  background: #fff;
+}
+.BookMarkdata .profile-content-bx .nav-tabs .nav-item {
+  margin-right: 15px;
+  list-style: none;
+}
+.BookMarkdata .tab-pane .my-bookmark .profile-head {
+  margin-bottom: 15px;
+}
+.BookMarkdata .recent-posts-entry.curriculum-emez .widget-post {
+  padding: 10px 10px;
+  margin-bottom: 20px !important;
+  position: relative;
+  box-shadow: 0 0 8px 0 rgb(29 25 0 / 10%);
+  border-radius: 5px;
+  border: 1px solid #eee;
+}
+
+.BookMarkdata .recent-posts-entry.curriculum-emez img {
+  max-width: 100%;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  width: 300px !important;
+  height: auto !important;
+}
+.BookMarkdata .listbox_bookmark h1 {
+  margin-top: 0px;
+  color: #3f5395;
+  margin-bottom: 0px;
+  font-size: 18px;
+  line-height: 0px;
+}
+.BookMarkdata .posttitleSet {
+  display: flex;
+  align-items: center;
+  padding: 14px 20px;
+  border-radius: 16px;
+  margin-bottom: 24px;
+  box-shadow: #3f53951a 0 1px 3px, #3f53950f 0 1px 2px;
+}
+.BookMarkdata .posttitleSet .ttr-post-header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.BookMarkdata .widget .post-title a {
+  color: #000;
+  font-size: 15px !important;
+  font-weight: 500;
+}
+.DqbBookmarkData .widget .feeddetails span {
+  display: block;
+  color: #757575;
+  font-weight: 400;
+  font-size: 14px;
+}
+.BookMarkdata .ttr-post-info svg {
+  width: 22px;
+  color: #3f5395;
+  padding: 0;
+}
+.BookMarkdata .my-bookmark .nav-tabs .nav-link {
+  width: 190px;
+  font-size: 15px;
+  border-radius: 4px;
+  padding: 20px 20px;
+  text-align: center;
+  background-color: #eee;
+  color: #212121;
+  font-weight: 500;
+}
+.BookMarkdata .my-bookmark .nav-tabs .nav-link p {
+  font-size: 15px;
+  margin: 0;
+  color: #212121;
+  font-weight: 400;
+}
+.my-bookmark .nav-tabs .nav-link:hover {
+  color: #ed633d !important;
+  background: #fbf5f4;
+  background: linear-gradient(184deg, #fbf5f4 32%, #fff);
+}
+.my-bookmark .nav-tabs .nav-link:hover p {
+  color: #ed633d;
+}
+.BookMarkdata .my-bookmark .nav-tabs .nav-item.active .nav-link {
+  color: #ed633d !important;
+  background: #fbf5f4;
+  background: linear-gradient(184deg, #fbf5f4 32%, #fff);
+}
+.BookMarkdata .my-bookmark .nav-tabs .nav-item.active p {
+  color: #ed633d !important;
+}
+.BookMarkdata .widget-post-bx ul {
+  margin: 0px 0px 20px !important;
+  border: solid 1px #e7e7e7;
+  border-radius: 16px;
+  padding: 14px 20px;
+}
+.BookMarkdata .widget-post-bx ul li {
+  position: relative;
+}
+.BookMarkdata .bookmarkiconSet svg {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+.BookMarkdata .widget-post-bx ul li p img {
+  width: 200px;
+}
+.BookMarkdata .widget-post-bx li {
+  list-style: disc;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  font-size: 15px;
+}
+.BookMarkdata .course_type {
+  border: solid 0px #e0e0e0;
+  padding: 16px 10px;
+  border-radius: 8px;
+  margin: 18px 0px 0px;
+  background: #ffffff;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+}
+.BookMarkdata .course_type h2 {
+  color: #212121;
+  font-size: 15px;
+  margin: 0px 0px 10px;
+  font-weight: 500;
+  line-height: 20px;
+  text-overflow: ellipsis;
+  width: 100%;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.BookMarkdata .course_type img {
+  width: 100% !important;
+  border-radius: 4px;
+  height: 80px;
+}
+.BookMarkdata .course_type .enroll_now .btn.full_amount:focus {
+  box-shadow: 0 0 0 0px !important;
+}
+.BookMarkdata .course_type .enroll_now .btn.full_amount {
+  background: #3f5395;
+  font-size: 13px;
+  display: block;
+  width: 100%;
+  margin: 12px 0px 0px;
+  padding: 8px 0px;
+}
+.BookMarkdata .course_type h3 {
+  color: #757575;
+  font-size: 14px;
+  margin: 0;
+  font-weight: 400;
+}
+
+.BookMarkdata .course_type .textPart {
+  position: relative;
+  padding: 16px 0px;
+}
+.BookMarkdata .course_type .textPart svg {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.BookMarkdata .listbox_bookmark {
+  width: 50px;
+  height: 50px;
+  border-radius: 100px;
+  background: #e5eaf9;
+  background: linear-gradient(184deg, #e5eaf9 15%, #fff);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.BookMarkdata .curriculum-tab {
+  margin-bottom: 20px !important;
+  padding-bottom: 20px !important;
+}
+
+.audio-img-big-m-ply {
+  border-radius: 100px;
+}
+.audio-img-big-m-ply img {
+  max-width: 100%;
+  width: 85px;
+  height: 85px;
+  border-radius: 100px !important;
+}
+.audio-mid-big-m-ply h3 {
+  font-size: 20px !important;
+  margin-bottom: 10px;
+}
+.audio-mid-big-m-ply p {
+  font-size: 15px;
+  color: #000;
+  font-weight: 500;
+}
+.allpodcast-group-big-music-plyr {
+  display: block;
+  padding: 20px;
+  background: rgb(227, 254, 247);
+  border: 1px solid #3f53956e;
+  border-radius: 10px;
+}
+.allpodcast-group-big-music-plyr .player {
+  margin-top: 20px;
+}
+.allpodcast-group-big-music-plyr .player audio {
+  width: 100%;
+  border: 1px solid #eee;
+  border-radius: 100px;
+}
+
+.DqbBookmarkData {
+  margin: 150px 0px 50px;
+}
+
+.DqbBookmarkData .widget.curriculum-emez {
+  /* border-bottom: 1px solid #eee; */
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+/* .DqbBookmarkData .widget.curriculum-emez .widget-post-bx ul{
+    margin-left: 55px !important;
+} */
+.DqbBookmarkData .widget-post-bx .questionBoxSet {
+  border: solid 1px #e7e7e7;
+  padding: 12px 20px;
+  margin: 20px 0px 0px;
+  border-radius: 16px;
+}
+.DqbBookmarkData .listbox_bookmark {
+  /* background: #297e22; */
+  background: rgb(229, 234, 249);
+  background: linear-gradient(
+    184deg,
+    rgba(229, 234, 249, 1) 15%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  width: 50px;
+  height: 50px;
+  /* width: 3%; */
+  float: left;
+  border-radius: 50px;
+  margin-right: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.DqbBookmarkData .listbox_bookmark h1 {
+  color: #3f5395;
+  margin-bottom: 0px;
+  font-size: 21px;
+  line-height: 0px;
+}
+.DqbBookmarkData .widget .setofDiv {
+  box-shadow: rgba(63, 83, 149, 0.1) 0px 1px 3px 0px,
+    rgba(63, 83, 149, 0.06) 0px 1px 2px 0px;
+  padding: 14px 20px;
+  border-radius: 16px;
+}
+.DqbBookmarkData h6.post-title {
+  line-height: 20px;
+  margin-bottom: 0;
+  /* margin-top: 10px; */
+  text-transform: capitalize;
+  font-size: 18px;
+  color: #404040;
+  font-weight: 500;
+  font-family: roboto;
+}
+.DqbBookmarkData .widget .post-title a {
+  color: #212121;
+  font-size: 16px !important;
+  line-height: 24px;
+  font-weight: 500;
+}
+.DqbBookmarkData ul li {
+  list-style: none;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+.DqbBookmarkData ul li p {
+  font-weight: 500;
+  color: #000;
+  margin: 0;
+}
+
+.customQBank {
+  padding: 40px 0 50px;
+  background: #fafafa;
+}
+.customQBank .table th {
+  border: 1px solid #ccc !important;
+  font-size: 16px;
+  color: #000;
+  min-width: auto;
+  padding: 10px 10px;
+  background: #ebf5fe;
+}
+.customQBank .table td {
+  border: 1px solid #ccc !important;
+  font-size: 15px;
+  color: #000;
+  min-width: auto;
+  padding: 10px 10px;
+}
+.customQBank .custombtn {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.customQBank .qbankInner {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  flex-direction: column;
+}
+.customQBank .qbankChild {
+  width: 100%;
+  background-color: rgb(233, 236, 239);
+  padding: 20px;
+  border-radius: 10px;
+}
+.customQBank .qbankInner .groupbtndata {
+  width: 100%;
+  height: auto;
+  background-color: rgb(233, 236, 239);
+  padding: 20px;
+}
+.customQBank .qbankInner .groupbtndata .btndataset {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  margin: 20px 0;
+  align-items: center;
+}
+.customQBank .qbankInner .groupbtndata .btndataset button {
+  width: 20%;
+  padding: 12px 0px;
+  border-radius: 8px;
+  margin-bottom: 13px;
+  margin-right: 20px;
+  font-size: 16px;
+  font-weight: 600;
+}
+/* .customQBank .qbankInner .groupbtndata .btndataset  button.allSub {
+    color: #fff;
+} */
+
+.customQBank .bottomNext {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+}
+.customQBank .bottomNext button {
+  width: 150px;
+  padding: 8px 0px;
+  height: auto;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.customQBank .allSubInner {
+  display: flex;
+  padding: 10px 0 10px;
+  /* border-bottom: 1px solid #ddd; */
+  justify-content: space-between;
+  /* margin-bottom: 8px; */
+  align-items: center;
+}
+.customQBank .allSubInner input {
+  width: 16px;
+  height: 16px;
+}
+.customQBank .allSubInner span.selectName {
+  width: 100%;
+  margin-left: 10px;
+  font-size: 16px;
+}
+.customQBank .allSubMap .leftData {
+  margin-left: 22px;
+  background: #fafafa;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+.btndefinedata {
+  width: 150px;
+  /* background-color: #3F5395; */
+  padding: 5px 0;
+  border-radius: 5px;
+  color: #757575;
+}
+
+.choosepredata {
+  width: 100%;
+}
+.choosepredata h4 {
+  font-size: 23px;
+  margin-bottom: 13px;
+  color: #000;
+}
+.choosepredata h6 {
+  font-size: 18px;
+  margin-bottom: 13px;
+  color: #000;
+}
+.examModeData {
+  display: flex;
+  padding: 15px 20px;
+  background-color: rgb(233, 236, 239);
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.examModeData input {
+  width: 22px;
+  height: 22px;
+}
+.examModeData .modeInner h5 {
+  font-size: 18px;
+  margin-bottom: 6px;
+}
+.examModeData .modeInner p {
+  font-size: 15px;
+  margin: 0;
+  font-weight: 400;
+  color: #000;
+}
+.allSelectedData1 {
+  margin-left: 15px;
+  background: #fafafa;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+.ttr-post-header .arrowSet {
+  float: right;
+  padding: 10px 0px;
+}
+.Bookmarklist .setDivBookmark ul.nav-tabs {
+  display: flex;
+  gap: 20px;
+  border: none;
+}
+.Bookmarklist .setDivBookmark .tab-pane .profile-head {
+  border: 0px solid #e9e9e9;
+}
+
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+  .BookMarkdata .my-bookmark .nav-tabs .nav-link {
+    width: 180px;
+    padding: 18px 10px;
+    font-size: 14px;
+  }
+  .BookMarkdata {
+    margin: 25px 0px;
+    padding: 10px 0px;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  .BookMarkdata .my-bookmark .nav-tabs .nav-link {
+    width: 180px;
+    padding: 18px 10px;
+    font-size: 14px;
+  }
+  .BookMarkdata {
+    margin: 25px 0px;
+    padding: 10px 0px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .BookMarkdata .my-bookmark .nav-tabs .nav-link {
+    width: 180px;
+    padding: 18px 10px;
+    font-size: 14px;
+  }
+  .BookMarkdata {
+    margin: 25px 0px;
+    padding: 10px 0px;
+  }
+  .BookMarkdata .my-bookmark .nav-tabs .nav-link p {
+    font-size: 13px;
+  }
+  .BookMarkdata .course_type h2 {
+    font-size: 13px;
+    line-height: 21px;
+  }
+  .BookMarkdata .course_type h3 {
+    font-size: 11px;
+  }
+  .customQBank .qbankInner .groupbtndata .btndataset button {
+    width: 30%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .BookMarkdata {
+    margin: 25px 0px;
+    padding: 10px 0px;
+  }
+  .BookMarkdata .curriculum-tab {
+    margin-bottom: 0px !important;
+    white-space: nowrap;
+    flex-wrap: initial;
+    overflow: auto;
+    scrollbar-width: thin;
+  }
+  .BookMarkdata .profile-head h3 {
+    padding: 10px 0px;
+    font-size: 14px;
+  }
+  .course_type {
+    margin: 15px 0px 0px !important;
+  }
+  .BookMarkdata .profile-content-bx {
+    border: 0px;
+  }
+  .BookMarkdata .my-bookmark .nav-tabs .nav-link {
+    width: 140px;
+    font-size: 12px;
+    padding: 7px 7px;
+  }
+  .BookMarkdata .my-bookmark .nav-tabs .nav-link p {
+    font-size: 13px;
+  }
+  .BookMarkdata .my-bookmark .nav-tabs .nav-link.active {
+    font-size: 11px;
+  }
+  .BookMarkdata .course_type h2 {
+    font-size: 13px;
+    line-height: 21px;
+  }
+  .BookMarkdata .course_type h3 {
+    font-size: 11px;
+    line-height: 19px;
+  }
+  .BookMarkdata .profile-content-bx .nav-tabs .nav-item {
+    margin-bottom: 10px;
+  }
+  .BookMarkdata .widget-post-bx li {
+    font-size: 12px;
+  }
+  .BookMarkdata .widget-post-bx li img {
+    height: auto !important;
+  }
+  .BookMarkdata .widget .post-title a {
+    font-size: 14px !important;
+  }
+  .BookMarkdata .listbox_bookmark h1 {
+    font-size: 15px;
+    line-height: 19px;
+    margin-top: 0px !important;
+  }
+  .BookMarkdata .listbox_bookmark {
+    width: 35px !important;
+    height: 35px;
+  }
+  .BookMarkdata .course_type img {
+    height: 65px;
+  }
+  .BookMarkdata img.videosvg {
+    height: 30px !important;
+    margin-top: 13px;
+  }
+
+  .DqbBookmarkData {
+    margin: 90px 0px 50px;
+  }
+  .DqbBookmarkData .listbox_bookmark {
+    width: 30px !important;
+    height: 30px !important;
+  }
+  .DqbBookmarkData .listbox_bookmark h1 {
+    font-size: 15px;
+    margin-top: 0px !important;
+  }
+  .DqbBookmarkData .widget .post-title a {
+    font-size: 14px !important;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .ttr-post-header .arrowSet {
+    padding: 0px 0px;
+  }
+  .DqbBookmarkData .widget.curriculum-emez li img {
+    max-width: 100%;
+    width: 100% !important;
+    height: auto !important;
+  }
+  .customQBank {
+    margin: 90px 0 50px;
+  }
+  .customQBank .table th,
+  td {
+    font-size: 11px !important;
+    padding: 10px 10px !important;
+    background: #ebf5fe;
+    min-width: 85px !important;
+  }
+  .customQBank .custombtn {
+    margin-top: 30px;
+  }
+  .customQBank .custombtn button {
+    font-size: 12px;
+  }
+  .customQBank .bottomNext button {
+    width: 125px;
+    padding: 7px 0px;
+    font-size: 15px;
+  }
+  .customQBank .qbankInner .groupbtndata {
+    padding: 10px 10px;
+    border-radius: 10px;
+  }
+  .customQBank .qbankInner .groupbtndata .btndataset button {
+    width: 45%;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 10px 0px;
+  }
+  .customQBank .allSubInner span.selectName {
+    font-size: 13px;
+  }
+  .btndefinedata {
+    font-size: 12px;
+    width: 130px;
+  }
+  .customQBank .allSubInner input {
+    width: 15px;
+    height: 15px;
+  }
+  .choosepredata h4 {
+    font-size: 18px;
+  }
+  .choosepredata h6 {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  .examModeData {
+    padding: 10px 12px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+  }
+  .examModeData .modeInner h5 {
+    font-size: 16px;
+  }
+  .examModeData .modeInner p {
+    font-size: 14px;
+  }
+  .examModeData input {
+    width: 20px;
+    height: 20px;
+  }
+  .customQBank .allSubMap .leftData {
+    margin-left: 18px;
+  }
+  .customQBank .qbankChild h6 {
+    font-size: 14px;
+  }
+  .customQBank .qbankChild {
+    padding: 10px;
+  }
+  .customQBank .allSubInner span.selectName {
+    margin-left: 10px;
+    font-size: 12px !important;
+  }
+  .DqbBookmarkData ul li {
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .BookMarkdata .course_type .textPart {
+    padding: 6px 0px;
+  }
+}
+/* for Bookmark */
+/* Skeleton Animation */
+.skeleton-animate {
+  animation: pulse 1.5s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0% {
+    opacity: 0.9;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 0.9;
+  }
+}
+
+/* Responsive Fixes */
+@media (max-width: 768px) {
+  .skeleton-detail-grid {
+    padding: 0.5rem;
+  }
+
+  .skeleton-detaile {
+    width: 100% !important;
+  }
+
+  .inside-detaile {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem !important;
+  }
+}

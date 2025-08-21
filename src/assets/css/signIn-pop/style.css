@@ -1,0 +1,566 @@
+/* .container {
+    max-width: 1400px !important;
+    width: 90%;
+} */
+
+a:hover {
+    text-decoration: none !important;
+}
+
+.login-popup {
+    margin: 0px 0px;
+    font-family: Poppins;
+}
+
+.login-popup .modal-content {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.login-popup .modal {
+    background: #0505055c;
+}
+button.btn.signmodel_btn {
+    color: #80addf;
+    background: #fff;
+    box-shadow: 0 3px 0 #eceaea !important;
+    font-size: 15px;
+    border: 1px solid #9cceec !important;
+    padding: 2px 15px;
+    border-radius: 5px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0;
+}
+
+.modal-header.close_btn .close {
+    padding: 0px;
+    margin: 0px 0px;
+    color: #ff693d;
+    opacity: 1;
+    font-weight: 600;
+}
+
+.modal-body.login_area {
+    border-top: 0px !important;
+    padding: 0px 20px 20px;
+    text-align: center;
+}
+
+.login_img {
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #e4eff9a6;
+    border-radius: 100px 30px 30px 100px;
+    width: 250px;
+    height: 190px;
+    margin: 0px auto !important;
+}
+
+.login_img img {
+    max-width: 100%;
+    width: 175px;
+}
+
+.login-logo img {
+    max-width: 100%;
+    width: 70px;
+    margin-bottom: 15px;
+}
+
+.login-logo .form-group {
+    margin-bottom: 15px;
+}
+
+.login_text h2 {
+    font-size: 16px !important;
+    margin-bottom: 10px;
+    display: block;
+    color: #3b89d2;
+    line-height: 22px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.login_text p {
+    margin-bottom: 0px;
+    font-size: 15px;
+    line-height: 25px;
+    color: #666666;
+    font-family: sans-serif;
+}
+
+.login-logo_text h2 {
+    font-size: 15px !important;
+    margin: 0px;
+    display: block;
+    font-weight: 600;
+    color: #ff693d;
+    line-height: 26px;
+    font-family: sans-serif;
+}
+
+.country-code {
+    position: absolute;
+    height: 40px;
+    max-width: 80px;
+    width: calc(100% - 80px);
+    font-size: 18px!important;
+    border: 0;
+    outline: 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.login-input-group input {
+    font-size: 14px;
+    display: block;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 10px 5px 4px;
+}
+
+.is-hidden {
+    display: none!important;
+}
+
+datalist {
+    display: none;
+}
+
+.otp-sent-pop a:focus {
+    border: 1px solid #f15a22 !important;
+    padding: 7px 0px;
+    border-radius: 100px;
+    width: 270px;
+    display: inline-block;
+}
+
+.otp-sent-pop button.common-bottom-btn:focus-visible {
+    border: 1px solid #e3e6e491 !important;
+}
+
+.bar {
+    top: 43px;
+    position: relative;
+    display: block;
+    width: 100%;
+}
+
+.login-input-group input:focus~.bar:before {
+    width: 50%;
+}
+
+.iti-mobile .intl-tel-input .country-list {
+    max-height: 100%;
+    width: 21% !important;
+    left: 51% !important;
+    top: 171px !important;
+}
+
+/* .common-bottom-btn {
+    width: 280px;
+    height: 40px;
+    line-height: 40px;
+    cursor: pointer;
+    font-size: 14px;
+    text-transform: uppercase;
+    border-radius: 24px;
+    text-align: center;
+    color: #fff;
+    margin: 15px auto 0;
+    position: relative;
+    border: none;
+    outline: none;
+    background: #ff693d;
+    box-shadow: 0 4px 0 #f35427 !important;
+    font-weight: 600;
+    font-family: sans-serif;
+} */
+
+
+#login-email-phone input {
+    left: 0px;
+    width: 100%;
+    font-weight: 600;
+    padding-bottom: 8px;
+    float: right;
+    font-family: sans-serif;
+    border-bottom: 1px solid #ccc !important;
+    border: 0px;
+    border-radius: 0px;
+}
+
+.react-tel-input .flag-dropdown{
+    border: 0px !important;
+}
+.react-tel-input .selected-flag .arrow {
+    top: 35% !important;
+    left: 24px!important;
+    width: 0!important;
+    height: 0!important;
+    border-left: 3px solid transparent!important;
+    border-right: 3px solid transparent!important;
+    border-top: 5px solid #555!important;
+    position: absolute!important;
+    margin: 0px;
+    padding: 0px !important;
+    border:0px;
+}
+.react-tel-input .selected-flag .arrow.up{
+    border-bottom: 0px !important;
+}
+
+.react-tel-input .country-list{ 
+    text-align: left !important;
+    width: 271px !important;
+    top: 34px!important;
+}
+.react-tel-input .country-list .country {
+    padding: 5px 9px;
+    width: auto !important;
+    display: block !important;
+}
+
+.login-google-btn .login-google-icon {
+    position: absolute;
+    left: 30px;
+    top: 11px;
+    width: 21px;
+    height: 21px;
+}
+
+#login-email-phone label {
+    left: calc(50% - 110px);
+    bottom: -30px;
+    position: absolute;
+}
+
+#login-email-phone input:valid~label {
+    left: calc(50% - 61px);
+}
+
+.login-input-group .bar:before {
+    content: "";
+    height: 2px;
+    width: 0;
+    bottom: 1px;
+    position: absolute;
+    background: #4a29bf;
+    -webkit-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -ms-transition: all .2s ease;
+    transition: all .2s ease;
+    left: 50%;
+}
+
+.login-input-group label {
+    color: #999;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    pointer-events: none;
+    bottom: 8px;
+    left: 4px;
+    -webkit-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -ms-transition: all .2s ease;
+    transition: all .2s ease;
+}
+
+.login-input-group .form-control:focus {
+    outline: none;
+    color: #000;
+    border-bottom: none;
+    box-shadow:0 0 0 0px !important
+}
+
+.login-input-group input:focus~label,
+.login-input-group input:valid~label {
+    top: -10px;
+    font-size: 10px;
+    color: #9b9b9b;
+}
+
+#login-email-phone input:focus~label,
+#login-email-phone input:valid~label {
+    left: calc(50% - 61px);
+}
+
+.login-input-group input:focus~.bar:after,
+.login-input-group input:focus~.bar:before {
+    width: 50%;
+}
+
+.login-input-group .bar:after,
+.login-input-group .bar:before {
+    content: "";
+    height: 2px;
+    width: 0;
+    bottom: 1px;
+    position: absolute;
+    background: #3b89d2;
+    -webkit-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -ms-transition: all .2s ease;
+    transition: all .2s ease;
+}
+
+.login-input-group .bar:after {
+    right: 50%;
+}
+
+.login-permission {
+    font-size: 12px;
+    color: #9b9b9b;
+    position: relative;
+    width: 280px;
+    text-align: center;
+    padding-left: 10px;
+    margin: 8px auto 0;
+    font-family: sans-serif;
+}
+
+.login-permission .login-permisson-icon {
+    position: absolute;
+    height: 13px;
+    top: 2px;
+    left: 10px;
+    width: 11px;
+}
+
+.login-input-group .error-container {
+    display: none;
+}
+
+.otp-sent-pop h4.modal-title {
+    color: #000;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.otp-sent-pop .modal-footer {
+    padding: 10px 10px;
+    border-top: 0px;
+}
+
+.otp-sent-pop .title {
+    font-weight: 600;
+    margin-top: 15px;
+    font-size: 18px;
+    color: #095fb6;
+}
+
+.otp-sent-pop .modal-content {
+    box-shadow: 0px 3px 6px 0px #cacaca99;
+}
+
+.otp-sent-pop form input {
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    box-shadow: 0px 3px 6px 0px #cacaca99;
+    border-radius: 100px;
+    border: 1px solid #cccccc96;
+    font-weight: 600;
+    font-size: 18px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #438ed4;
+}
+
+.login-logo .form-group{
+    width: 100% !important;
+}
+a#otp_resend{
+    color: #757575 !important;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+.otp-sent-pop button#validotp {
+    font-size: 14px;
+    padding: 8px 22px;
+    margin-top: 20px;
+}
+
+.otp-sent-pop .back-icon {
+    background: none;
+}
+
+.otp-sent-pop .back-icon em {
+    font-weight: 700;
+    font-size: 18px;
+    color: #9b9b9b;
+    margin-left: 10px;
+}
+
+.otp-sent-pop .form-group a.resend {
+    color: #f15a22;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.otp-sent-pop a.verify-procedd {
+    width: 70%;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 8px 0px;
+    text-transform: uppercase;
+    background: #ff693d;
+    box-shadow: 0 4px 0 #f35427 !important;
+    border-radius: 100px;
+    font-size: 15px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.otp-sent-pop .login_img {
+    bottom: 3%;
+}
+
+.course-section .input_box .form-group input {
+    width: 100%;
+    min-height: 40px;
+    padding: 0 0px;
+    border-bottom: 1px solid #ccc !important;
+    border: 0px;
+    color: #666666;
+}
+
+.course-section select.form-control {
+    border: 0px;
+    border-bottom: 1px solid #ccc;
+    padding: 0px;
+    font-size: 15px;
+    color: #666666;
+}
+
+.course-section .edit-text {
+    margin-top: -14px;
+    color: #666666;
+    font-size: 13px;
+}
+
+.course-section .radio_btn {
+    margin-top: 25px;
+    text-align: left;
+    margin-bottom: -25px;
+}
+
+.course-section .radio_btn p {
+    color: #000;
+}
+
+.course-section input::placeholder {
+    font-size: 15px !important;
+    color: #666666;
+}
+
+.course-section .submit_bg {
+    width: 340px !important;
+}
+
+.course-section input[type="radio"] {
+    appearance: none;
+    border: 0px;
+}
+
+.course-section input[type="radio"]+label {
+    cursor: pointer;
+    position: relative;
+    padding-left: 25px;
+    line-height: 20px;
+    color: #666666;
+    font-size: 15px;
+}
+
+.course-section input[type="radio"]+label::before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    aspect-ratio: 1;
+    border: 1px solid #ff693d;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    opacity: 1;
+    transition: all 0.3s;
+}
+
+.course-section input[type="radio"]+label::after {
+    content: "";
+    display: inline-block;
+    width: 8px;
+    aspect-ratio: 1;
+    border: 1px solid #ff693d;
+    background: #ff693d;
+    border-radius: 50%;
+    position: absolute;
+    left: 4px;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 0;
+    transition: all 0.3s;
+}
+
+.course-section input[type="radio"]:checked+label::after {
+    opacity: 1;
+}
+
+
+/* Email pop css */
+
+.email-acc a {
+    font-weight: 600;
+    font-family: sans-serif;
+    width: 200px;
+    margin: 19px auto 0;
+    display: inline-block;
+    color: #61a2f7;
+    text-align: center;
+    font-size: 15px;
+}
+
+.email-acc a:hover {
+    color: #61a2f7;
+}
+
+.login-input-group {
+    position: relative;
+    margin: 10px auto 12px;
+    width: 75%;
+}
+.react-tel-input .selected-flag{
+    padding: 0 0 0 0px !important;
+}
+
+.emailInput input {
+    font-size: 14px;
+    width: 100%;
+    border: 1px solid #d2cecd;
+    padding: 8px 10px 8px 10px;
+    font-family: sans-serif;
+    font-weight: 600;
+    border-radius: 4px;
+    margin-top: 10px;
+    display: inline-block;
+    background: #edf5fb;
+}
+
+.emailInput input:focus {
+    border-bottom: 1px solid #ff693d;
+}

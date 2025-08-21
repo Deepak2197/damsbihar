@@ -1,0 +1,264 @@
+/** Poll Page Css **/
+
+.poll_section {
+    margin: 50px 0px;
+}
+
+.poll_section .add_poll {
+    background: #f5f5f5;
+    padding: 8px 20px;
+    border-radius: 4px;
+    border: 1px solid #cccccc1a;
+}
+
+.poll_section .add_poll h4 {
+    font-size: 16px;
+    color: #212121;
+    margin: 8px 0px;
+    font-weight: 400;
+}
+
+.poll_section .add_poll a.addbutton {
+    background-color: #0096ff;
+    color: #fff;
+    padding: 6px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-top: 6px;
+}
+
+.poll_section .add_poll .fa-plus {
+    font-size: 12px;
+    font-weight: lighter;
+    margin-right: 8px;
+}
+
+.poll_section .add_poll em.fa-plus:before {
+    content: "\f067";
+    font-family: FontAwesome;
+    font-weight: 400;
+}
+
+.poll_section .poll_list {
+    background: #fff;
+    margin: 20px 0px 40px;
+    border-radius: 4px;
+}
+
+.poll_section .poll_list h3 {
+    font-size: 14px;
+    color: #212121;
+    margin: 20px 0px 10px;
+}
+
+.poll_section .poll_list .table-sec {
+    background: #f5f5f5;
+    padding: 20px 20px;
+    border-radius: 4px;
+}
+
+.poll_section .poll_list .table-sec label {
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.dataTables_wrapper .dataTables_filter input::placeholder {
+    color: #bdbdbd;
+}
+
+.poll_section .poll_list .table-sec .table-bordered {
+    border: 0px;
+}
+
+.poll_section .poll_list .table-sec em.fa-pencil {
+    font-size: 14px;
+    color: #757575;
+    border: solid 1px #e0e0e0;
+    padding: 4px 5px;
+}
+
+.poll_section .poll_list .table-sec em.fa-trash {
+    font-size: 14px;
+    color: #0096ff;
+    background-color: #e1f5fe;
+    border: 1px solid #0096ff;
+    padding: 4px 5px;
+}
+
+.poll_section .poll_list .table-sec em.fa-trash:before {
+    content: "\f1f8";
+    font-family: FontAwesome;
+    font-weight: 400;
+}
+
+.poll_section .poll_list .table-sec em.fa-pencil:before {
+    content: "\f040";
+    font-family: FontAwesome;
+    font-weight: 400;
+}
+
+.poll_section .poll_list .table-sec em.fa-calendar:before {
+    content: "\f133";
+    font-family: FontAwesome;
+    font-weight: 400;
+}
+
+.poll_section .poll_list .table-sec .table-dropdwn {
+    position: relative;
+}
+
+.poll_section .poll_list .table-sec .dateselect {
+    position: absolute;
+    top: 4px;
+    left: 180px;
+    z-index: 2;
+}
+
+.poll_section .poll_list .table-sec .table-dropdwn .selct-fld {
+    border-radius: 4px;
+    border: 1px solid #e0e0e0;
+    padding: 6px 30px;
+    width: 160px;
+    background: #fff;
+    position: absolute;
+    top: -4px;
+    left: 156px;
+    z-index: 1;
+    color: #757575;
+    font-size: 13px;
+}
+
+
+/** Add Poll Page Css **/
+
+.addpoll_section {
+    width: 1140px;
+    margin: 50px auto 50px;
+}
+
+.addpoll_section .form-control {
+    font-size: 12px;
+    color: #495057;
+    margin-bottom: 10px;
+    border: 1px solid #ced4da;
+    height: calc(2.25rem + 2px);
+}
+
+.addpoll_section .form-group {
+    width: 100%;
+}
+
+.addpoll_section .form-group label.col-form-label {
+    font-size: 12px;
+    padding: 8px 0px;
+    font-weight: 400;
+}
+
+.addpoll_section .poll_editor {
+    border: solid 1px #e0e0e0;
+    padding: 10px 10px 0px;
+    margin-bottom: 18px;
+    border-radius: 4px;
+}
+
+.addpoll_section .poll_editor h4 {
+    font-size: 14px;
+    color: #212121;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    font-weight: 400;
+}
+
+.addpoll_section .poll_editor .add-description {
+    border-top: solid 1px #e0e0e0;
+    padding-top: 10px;
+}
+
+.addpoll_section .poll_editor .note-editor.note-frame {
+    border: 1px solid #ced4da;
+}
+
+.addpoll_section .poll_editor .note-toolbar {
+    background: #0096ff;
+}
+
+.addpoll_section .poll_editor button.note-btn {
+    background: #0096ff;
+    border: none;
+}
+
+.addpoll_section .poll_editor .note-editing-area p {
+    font-size: 12px;
+    color: #212121;
+}
+
+.addpoll_section .poll_editor .note-editable {
+    height: auto !important;
+    padding: 20px 10px !important;
+}
+
+.addpoll_section .poll_editor .dropdown-toggle::after {
+    display: none;
+}
+
+.addpoll_section .poll_editor button.note-btn i {
+    color: #fff;
+}
+
+.addpoll_section .poll_editor span.note-icon-caret {
+    color: #fff;
+}
+
+.addpoll_section .togle .switch input {
+    display: none;
+}
+
+.addpoll_section .togle .switch {
+    display: inline-block;
+    width: 28px;
+    height: 14px;
+    margin: 8px;
+    transform: translateY(78%);
+    position: relative;
+}
+
+.addpoll_section .togle span.option {
+    font-size: 13px;
+}
+
+.addpoll_section .togle .slider {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-radius: 30px;
+    box-shadow: 0 0 0 1px #adb5bd, 0 0 2px #adb5bd;
+    cursor: pointer;
+    border: 1px solid transparent;
+    overflow: hidden;
+    transition: .4s;
+}
+
+.addpoll_section .togle .slider:before {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: #adb5bd;
+    border-radius: 16px;
+    transform: translateX(-14px);
+    transition: .4s;
+}
+
+.addpoll_section .togle input:checked+.slider:before {
+    transform: translateX(14px);
+    background: #fff;
+}
+
+.addpoll_section .togle input:checked+.slider {
+    box-shadow: 0 0 0 1px limegreen, 0 0 2px limegreen;
+    background: limegreen;
+}

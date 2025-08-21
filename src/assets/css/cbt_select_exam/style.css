@@ -1,0 +1,1112 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+a:focus,
+a:hover {
+    text-decoration: none !important;
+    color: none;
+}
+
+ul {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+/*=====  CBT Select Exam  ======= */
+.CbtSelectexam{
+    padding: 60px 0;
+    /* background: #ffff url(https://d2enu63wt1sf3u.cloudfront.net/react_emed_web/background-bg.svg); */
+    background: #FAFAFA;
+}
+
+.CbtSelectexam .search_btng {
+    margin: 0px 0px 40px;
+}
+
+.CbtSelectexam .search_btng .form-control {
+    padding: 10px 0 10px 55px;
+    font-size: 16px;
+    color: #9E9E9E;
+    font-weight: 500;
+    height: 48px;
+    min-height: 48px;
+    background: #fff;
+    border: solid 1px #e0e0e0;
+    border-radius: 16px;
+}
+
+.CbtSelectexam .search_btng i {
+    position: absolute;
+    top: 12px;
+    left: 22px;
+    color: #3F5395;
+    font-size: 15px;
+}
+
+.CbtSelectexam .selectExamTab {
+    margin-bottom: 40px;
+}
+
+.CbtSelectexam .selectExamTab ul.nav.nav-pills {
+    margin-bottom: 3% !important;
+}
+
+.CbtSelectexam .selectExamTab .nav-item a.nav-link {
+    width: auto;
+    font-size: 15px;
+    text-align: center;
+    padding:8px 20px;
+    /* background: #fff; */
+    /* border: solid 1px #BDBDBD; */
+    color: #616161;
+    border-radius: 8px;
+    margin-right: 15px;
+    font-weight: 500;
+}
+
+.CbtSelectexam .comingSoon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.CbtSelectexam .selectExamTab .nav-item a.nav-link.active {
+    border-bottom: solid 2px #ED633D;
+    background: none;
+    color: #ED633D;
+    border-radius: 0px;
+}
+.CbtSelectexam .selectExamTab  .tab-content {
+    position: relative;
+}
+
+.CbtSelectexam .damsSec {
+    /* border: solid 1px #e0e0e0; */
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 15px;
+    background: #fff;
+    box-shadow: rgba(147, 54, 180, 0.1) 0px 10px 50px;
+}
+
+.CbtSelectexam .damsSec img {
+    width: 100%;
+}
+
+.CbtSelectexam .damsSec .textSec h1 {
+    font-size: 14px;
+    margin-bottom: 8px;
+    line-height: 22px;
+    color: #3F5395;
+}
+
+.CbtSelectexam .damsSec .textSec h2 {
+    font-size: 18px;
+    margin-bottom: 7px;
+    font-weight: 500;
+    color: #212121;
+}
+
+.CbtSelectexam .damsSec .textSec h2 span.rupees {
+    font-size: 16px;
+    font-weight: 500;
+    color: #757575;
+    padding: 0px 10px;
+}
+
+.CbtSelectexam .damsSec .textSec h2 span.regisAmount {
+    font-size: 14px;
+    font-weight: 400;
+    color: #757575;
+}
+
+.CbtSelectexam .damsSec .textSec h3 {
+    font-size: 14px;
+    margin-bottom: 4px;
+    color: #757575;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.CbtSelectexam .damsSec .textSec h3.mrginText {
+    margin-top: 20px;
+}
+
+.CbtSelectexam .damsSec .textSec h3 span.date {
+    font-size: 14px;
+    font-weight: 600;
+    color: #212121;
+    margin-left: 6px;
+}
+
+.CbtSelectexam .damsSec .textSec h3 span.dateNew {
+    font-size: 14px;
+    font-weight: 600;
+    color: #3F5395;
+}
+
+.CbtSelectexam .damsSec .btnGroup {
+    display: flex;
+    justify-content: space-between;
+    /* border-top: solid 1px #e0e0e0; */
+    /* padding: 20px 0px 0px; */
+    margin: 20px 0px 0px;
+}
+
+
+.CbtSelectexam .damsSec .btnGroup a.butBtn {
+    width: 48%;
+    background: #3F5395;
+    font-size: 16px;
+    color: #fff;
+    padding: 10px 0px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.CbtSelectexam .damsSec .btnGroup a.butBtn.success {
+    background: #4dc247 !important;
+}
+
+.CbtSelectexam .damsSec .btnGroup a.butBtn.test {
+    background: #FCEEEA;
+    color: #ED633D;
+}
+
+/*=====  Popup  ======= */
+
+.CbtSelectexam .ExamPopup .modal-header .close {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+.CbtSelectexam .ExamPopup h4.modal-title {
+    font-size: 20px;
+    text-align: center;
+}
+
+.CbtSelectexam .ExamPopup .radioSet {
+    display: flex;
+    align-items: center;
+    margin: 14px 0px;
+}
+
+.CbtSelectexam .ExamPopup label {
+    margin-bottom: 0px;
+    margin-left: 10px;
+}
+
+.CbtSelectexam .ExamPopup .modal-footer {
+    display: block;
+}
+
+.CbtSelectexam .ExamPopup button.btn.btn-danger {
+    font-size: 16px;
+    width: 100px;
+    background: #3F5395;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+.CbtSelectexam .tab-content h2 {
+    font-size: 20px;
+    color: #212121;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+/*=====  CBT Select Location  ======= */
+
+.cbtLocate .city_hdng h3 {
+    font-size: 15px;
+    color: #212121;
+    font-weight: 500;
+}
+
+.cbtLocate .nav-item a.nav-link {
+    text-align: center;
+}
+
+.cbtLocate .nav-item a.nav-link .tab-group {
+    border: 1px solid #E0E0E0;
+    padding: 0px 30px;
+    text-align: center;
+    border-radius: 8px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 90px;
+    margin-bottom: 10px;
+}
+
+.cbtLocate .nav-item a.nav-link.active .tab-group {
+    border: 1px solid #3F5395;
+    box-shadow: rgb(0 0 0 / 20%) 0px 2px 13px;
+}
+
+.cbtLocate .nav-item a.nav-link .tab-group img {
+    width: 35px;
+    height: 35px;
+}
+
+.cbtLocate .nav-item a.nav-link.active .tab-group img {
+    filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(353deg) brightness(95%) contrast(80%);
+    height: -moz-fit-content;
+    height: -webkit-fit-content;
+    height: fit-content;
+}
+
+.cbtLocate .nav-item .nav-link {
+    display: block;
+    padding-left: 0 !important;
+}
+
+.cbtLocate .nav-item a.nav-link.active {
+    background: none !important;
+}
+
+.cbtLocate .nav-item a.nav-link.active p {
+    color: #3F5395;
+}
+
+.cbtLocate .show_data_city {
+    margin: 0px 0px 20px;
+}
+
+.cbtLocate .show_data_city em.fa.fa-map-marker {
+    color: #3F5395;
+    margin-right: 8px;
+    font-size: 18px;
+}
+
+.cbtLocate .show_data_city h2 {
+    font-size: 15px;
+    font-weight: 400;
+    color: #757575;
+    margin: 20px 10px 0px;
+}
+
+.cbtLocate .show_data_city a {
+    color: #757575;
+    margin: 10px 0px;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    border: solid 1px #757575;
+    border-radius: 30px;
+    width: 100%;
+    padding: 10px 10px;
+    text-align: center;
+}
+.cbtLocate .show_data_city a:hover {
+    color: #212121;
+    border: solid 1px #9235B3;
+}
+
+/* .cbtLocate .show_data_city a:after {
+    content: "";
+    width: 250px;
+    height: 1px;
+    background: #E0E0E0;
+    position: absolute;
+    bottom: 0px;
+    left: 16px;
+} */
+.cbtLocate .show_data_city a:hover:after {
+    background: #9235B3;
+}
+
+
+/*=====  CBT Test Instructions  ======= */
+.testInstructions {
+    margin: 20px 0px
+}
+
+.testInstructions .featureSec {
+    background: rgb(251, 245, 244);
+    background: linear-gradient(184deg, rgba(251, 245, 244, 1) 32%, rgba(255, 255, 255, 1) 100%);
+    padding: 40px;
+    border-radius: 20px;
+    margin: 40px 0px 0px;
+    
+}
+
+.testInstructions .featureSec h1 {
+    font-size: 24px;
+    color: #F55353;
+}
+
+.testInstructions .featureSec h1.detail {
+    color: #3F5395;
+}
+
+.testInstructions .featureSec h1.pattern {
+    color: #6528F7;
+}
+
+.testInstructions .featureSec ul {
+    list-style: none;
+    font-size: 32px;
+}
+
+.testInstructions .featureSec ul li {
+    font-size: 16px;
+    padding: 4px 0px;
+}
+
+.testInstructions .featureSec ul li::before {
+    content: "\2022";
+    padding-right: 10px;
+    color: #212121;
+}
+
+.testInstructions .featureSec p {
+    font-size: 15px;
+    margin: 0;
+    color: #000;
+    font-weight: 500;
+    padding: 5px 0px;
+}
+
+.CbtSelectexam .damsSec img {
+    width: 80px;
+    height: 80px;
+    /* border: 1px solid #ddd; */
+    padding: 8px;
+    border-radius: 8px;
+    background: #EBEEFD;
+}
+
+.CbtSelectexam .search_btng i {
+    top: 16px;
+    font-size: 18px;
+}
+
+
+.popup-overlay {
+    width: 410px;
+    margin: 0 auto;
+    background: #fffffff7;
+    padding: 16px 20px;
+    /* border: 4px double #f15a2221; */
+    border-radius: 20px;
+    top: 0%;
+    position: absolute;
+    right: 35%;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+    border: 1px solid #ccc;
+}
+.popup-overlay .radioSet {
+    background: rgb(251, 245, 244);
+    background: linear-gradient(184deg, rgba(251, 245, 244, 1) 32%, rgba(255, 255, 255, 1) 100%);
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px 0px 0px;
+}
+.popup-overlay .popup-overlay  input:checked ~ label, label:hover, label:hover ~ label {
+    color: #0075ff;
+}
+.popup-overlay label{
+    margin: 0;
+    font-weight: 500;
+    padding-left: 26px;
+}
+.popup-overlay label:hover{
+    color: #212121 !important;
+    background: none !important;
+    -webkit-text-fill-color: #212121;
+}
+.popup-overlay input:checked~label:hover {
+    -webkit-text-fill-color: #212121;
+}
+.popup-overlay button.btn{
+    width: 85px;
+    margin-bottom: 10px;
+    background: #3F5395;
+    font-size: 15px;
+    padding: 7px 0px;
+    box-shadow: 0 0 0 0px !important;
+}
+.popup-overlay button.close {
+    text-align: right !important;
+    margin-top: -26px;
+    color: #757575;
+    font-weight: 600;
+    opacity: 1;
+    font-size: 22px;
+    border: solid 1px #757575 !important;
+    border-radius: 30px;
+    line-height: 12px;
+    padding: 1px 0px;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.CbtSelectexam .popup-overlay input[type=radio] {
+    position: absolute;
+    left: 40px;
+    top: auto;
+    margin-top: 4px;
+    width: 16px;
+    height: 16px;
+}
+
+.popup-overlay .error {
+    position: absolute;
+    top: 44px !important;
+    font-size: 14px;
+    color: red;
+}
+.popup-overlay .modal-title {
+    margin-bottom: 0 !important;
+    font-size: 18px !important;
+    margin-top: 0;
+    color: #3F5395;
+    font-weight: 500;
+}
+
+.popup-overlay .radioSet [type="radio"]:checked,
+.popup-overlay .radioSet [type="radio"]:not(:checked) {
+    position: absolute;
+    left: -9999px;
+}
+.popup-overlay .radioSet [type="radio"]:checked + label,
+.popup-overlay .radioSet [type="radio"]:not(:checked) + label
+{
+    position: relative;
+    padding-left: 34px;
+    cursor: pointer;
+    line-height: 22px;
+    display: inline-block;
+    color: #212121;
+}
+.popup-overlay .radioSet [type="radio"]:checked + label
+{
+    color: #ED633D;
+}
+.popup-overlay .radioSet [type="radio"]:checked + label:before,
+.popup-overlay .radioSet [type="radio"]:not(:checked) + label:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 22px;
+    height: 22px;
+    border: 1px solid #707070;
+    border-radius: 100%;
+    background: #fff;
+}
+.popup-overlay .radioSet [type="radio"]:checked + label:after,
+.popup-overlay .radioSet [type="radio"]:not(:checked) + label:after {
+    content: '';
+    width: 22px;
+    height: 22px;
+    border: solid 5px #ED633D;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 100%;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+.popup-overlay .radioSet [type="radio"]:not(:checked) + label:after {
+    opacity: 0;
+    -webkit-transform: scale(0);
+    transform: scale(0);
+}
+.popup-overlay .radioSet [type="radio"]:checked + label:after {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+ 
+/* Profile update css*/
+/* .profileUpdation {
+    background: #ffff url(../images/background-bg.svg);
+} */
+.profileNew {
+    width: 1366px;
+    margin: 0px auto 0px;
+    padding: 40px 0px;
+}
+
+.profileNew .avatar-upload {
+    position: relative;
+    max-width: 205px;
+    margin: 50px auto;
+}
+
+.profileNew .avatar-upload .avatar-edit {
+    position: absolute;
+    right: 12px;
+    z-index: 1;
+    top: 10px;
+}
+
+.profileNew .avatar-upload .avatar-edit input {
+    display: none;
+}
+
+.profileNew .avatar-upload .avatar-edit input+label {
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    margin-bottom: 0;
+    border-radius: 100%;
+    background: #FFFFFF;
+    border: 1px solid transparent;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+    font-weight: normal;
+    transition: all 0.2s ease-in-out;
+}
+
+.profileNew .avatar-upload .avatar-edit input+label:hover {
+    background: #f1f1f1;
+    border-color: #d6d6d6;
+}
+
+.profileNew .avatar-upload .avatar-edit input+label:after {
+    content: "\f040";
+    font-family: 'FontAwesome';
+    color: #757575;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin: auto;
+}
+
+.profileNew .avatar-upload .avatar-preview {
+    width: 192px;
+    height: 192px;
+    position: relative;
+    border-radius: 100%;
+    border: 6px solid #F8F8F8;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.1);
+}
+
+.profileNew .avatar-upload .avatar-preview>div {
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: solid 1px #e0e0e0;
+}
+
+.profileNew .form-group {
+    margin-bottom: 15px;
+}
+
+.profileNew .form-group label {
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    color: #000 !important;
+}
+
+
+.profileNew .form-group .form-control {
+    font-size: 15px !important;
+    color: #757575;
+    height: 50px;
+}
+
+button.cbt_modal {
+    width: 120px;
+    margin: 0 auto;
+    padding: 9px 0px;
+    font-size: 15px;
+}
+
+.profileNew textarea.form-control {
+    height: 40px;
+}
+
+.profileNew .form-group input[type=checkbox],
+input[type=radio] {
+    position: absolute;
+    left: 0;
+    top: 4px;
+}
+
+.profileNew .form-group label.sidelable {
+    padding-left: 24px;
+}
+
+
+.profileNew .circle {
+    border-radius: 100% !important;
+    overflow: hidden;
+    width: 145px;
+    height: 145px;
+    border: 1px solid #ddd;
+}
+
+.profileNew .profile-pic {
+    width: 145px;
+    height: 145px;
+    display: inline-block;
+    border-radius: 100px;
+    padding: 4px;
+}
+
+.profileNew .p-image {
+    position: absolute;
+    bottom: 40px;
+    right: 18%;
+    color: #1873cf;
+    transition: all .3s cubic-bezier(.175, .885, .32, 1.275);
+}
+
+.profileNew .upload-button {
+    font-size: 18px;
+    color: #3F5395;
+}
+
+.profileNew .file-upload {
+    display: none;
+}
+
+.profileNew .detail-form p {
+    margin-top: 7px;
+    margin-bottom: 0;
+    font-weight: 600;
+    font-size: 15px;
+    color: #3F5395;
+}
+
+.profileNew button#btnNext {
+    padding: 13px 10px;
+    width: 170px;
+    font-size: 16px;
+    margin-top: 65px;
+    font-weight: 500;
+    background: #3F5395;
+    color: #fff;
+}
+
+.profileNew select {
+    height: 50px !important;
+}
+
+
+/* Begin: popup moadl css */
+
+.cbtModel .modal-dialog {
+    margin-top: 10%;
+    max-width: 568px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cbtModel .modal-content {
+    margin-top: 30px;
+    box-shadow: rgb(17 17 26 / 9%) 0px 4px 16px, rgb(17 17 26 / 10%) 0px 8px 24px, rgb(17 17 26 / 0%) 0px 16px 56px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-bottom: 0px;
+    border: 1px solid #cccccc59;
+    font-size: 15px;
+    line-height: 25px;
+    background: #fff;
+}
+.cbtModel .modal-title {
+    font-size: 18px !important;
+    text-align: center;
+}
+.cbtModel input[type=radio]{
+    position: relative;
+    top: 0px;
+    margin-right: 15px;
+    width: 16px;
+
+}
+.cbtModel input:checked ~ label, label:hover, label:hover ~ label {
+    color: #000;
+    margin: 0;
+}
+.cbtModel .cbtRadio label{
+    margin: 0px !important;
+}
+.cbtModel .cbtRadio label:hover{
+    background: #000;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+.cbtModel .modal-header {
+    padding: 10px 0px;
+    border-bottom: 1px solid #eee;
+}
+.cbtModel .modal-dialog button.btn-close {
+    float: right;
+    padding: 0px !important;
+    opacity: 1;
+    margin-top: -19px !important;
+}
+
+/* End: popup moadl css */
+
+
+/* Begin: cbt combo css */
+
+.CbtCombolist{
+    margin: 50px 0px;
+}
+.CbtCombolist h3{
+    font-size: 18px;
+    color: #000;
+    margin-bottom: 15px;
+}
+.CbtCombolist .combocbttest {
+    border: 1px solid #eee;
+    padding: 15px 20px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 12px;
+    margin: 20px 0px;
+}
+.CbtCombolist .combocbttest img{
+    max-width: 100%;
+    width: 60px;
+}
+.CbtCombolist .combocbttest p{
+    font-size: 16px;
+    margin: 0px;
+    font-weight: 500;
+    color: #212121;
+}
+
+.CbtComboReport {
+    width: 100%;
+    margin: 30px 0px;
+    float: left;
+}
+.CbtComboReport .RankGroup {
+    width: 1200px;
+    margin: 50px auto;
+    background: #8798aa21;
+    padding: 50px 20px;
+    border-radius: 20px;
+}
+.CbtComboReport .yourRank {
+    text-align: center;
+}
+.CbtComboReport .yourRank h2 {
+    font-size: 24px;
+    color: #212121;
+    margin-bottom: 35px;
+    position: relative;
+}
+.CbtComboReport .yourRank h2:after{
+    position: absolute;
+    top: 45px;
+    right: 43%;
+    content: '';
+    width: 150px;
+    height: 2px;
+    background: #3F5395;
+}
+.CbtComboReport .yourRank h3{
+    color: #4497e6;
+    font-size: 35px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.CbtComboReport .yourRank p{
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0; 
+}
+
+.CbtComboReport .questinAnswer {
+    border-top: 1px solid #ccc;
+    margin: 32px 0px 0px;
+    padding: 25px 10px;
+    text-align: center;
+}
+
+.CbtComboReport .questinAnswer .rightWrong h3 {
+    font-size: 20px;
+    color: #212121;
+    margin-bottom: 15px;
+}
+.CbtComboReport .questinAnswer .rightWrong h2 {
+    font-size: 28px;
+    color: #30b771;
+    margin: 0;
+}
+
+.CbtComboReport .YourMarks{
+    padding: 25px 15px;
+    background: #a0b2be4a;
+    text-align: center;
+    border-radius: 7px;
+}
+.CbtComboReport .YourMarks h3 {
+    font-size: 20px;
+    color: #212121;
+    margin-bottom: 15px;
+}
+.CbtComboReport .YourMarks h2 {
+    font-size: 25px;
+    color: #212121;
+    margin: 0;
+}
+
+.CbtComboReport .CharArea {
+    width: 1200px;
+    margin: 50px auto;
+    background: #8798aa21;
+    padding: 50px 20px;
+    border-radius: 20px; 
+}
+.CbtComboReport .CharArea h3{
+    font-size: 20px;
+    color: #212121;
+    margin-bottom: 15px;
+}
+
+.CbtComboReport .subjectWiseDetail{
+    width: 1200px;
+    margin: 50px auto;
+    background: #8798aa21;
+    padding: 50px 20px 0;
+    border-radius: 20px; 
+}
+
+.CbtComboReport .subjectWiseDetail h3{
+    font-size: 20px;
+    color: #212121;
+    margin-bottom: 15px;
+}
+.CbtComboReport .subjectWiseDetail .table th{
+    background: #018af2 !important;
+    color: #fff;
+    font-size: 16px;
+    padding: 20px 30px;
+    text-align: left !important;
+    font-family: sans-serif;
+    border: 0px;
+}
+
+.CbtComboReport .subjectWiseDetail .table td{
+    font-size: 16px;
+    padding: 20px 30px;
+    text-align: left !important;
+    background: none !important;
+    border: 1px solid #dddddd29 !important;
+    border-right: 1px solid #7b8ca0 !important;
+    font-weight: 500 !important;
+}
+
+ tr:nth-child(even) {
+    background-color: #bdcfe53d !important;
+}
+
+.CbtComboReport .viewSolution button{
+    background: #018af2;
+    color: #fff;
+    border-radius: 12px;
+    padding: 15px 0px;
+    font-size: 17px;
+    width: 250px;
+    margin-bottom: 25px;
+}
+.CbtComboReport .attemptTest button{
+    margin-top: 15%;
+}
+.notePop h3{
+    font-size: 25px;
+    margin-bottom: 15px;
+    background: #f2f2f2;
+    padding: 12px 0px;
+}
+
+.notePop .modal-but {
+    padding: 10px 5px;
+    border-radius: 5px;
+    width: 130px;
+    font-size: 16px;
+}
+.ReactModal__Content.ReactModal__Content--after-open {
+    width: 30% ;
+    /* padding: 0px 0 30px; */
+    top: 30%;
+}
+
+.notePop .deviceTest p{
+    font-size: 16px;
+    margin: 15px;
+    font-weight: 600;
+}
+/* End: cbt combo css*/
+
+/* Admit cardpage*/
+
+.AdmitCard {
+    width: 568px;
+    margin: 50px auto;
+}
+.AdmitCard .cardDetail img{
+    max-width: 100%;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+.AdmitCard .cardDetail h3{
+    font-size: 20px;
+    color: #212121;
+    margin-bottom: 15px;
+    margin-bottom: 35px;
+}
+.AdmitCard .table {
+    margin-top: 30px;
+    margin-left: 18% !important;
+}
+.AdmitCard .table td{
+    border: 0px !important;
+    font-size: 16px;
+    padding: 12px 0px;
+    font-weight: 600;
+    color: #212121;
+}
+.AdmitCard .ProceedNow{
+    text-align: center;
+}
+.AdmitCard .ProceedNow button{
+    background: #0085ea;
+    color: #fff;
+    border-radius: 12px;
+    padding: 15px 0px;
+    font-size: 17px;
+    width: 500px;
+    margin-bottom: 25px;
+    margin-top: 25%;
+}
+.AttemptBtn{
+    background: #0085ea;
+    color: #fff;
+    border-radius: 12px;
+    padding: 15px 0px;
+    font-size: 17px;
+    width: 500px;
+    margin-bottom: 25px;
+    margin-top: 15%;
+}
+/* Admit card detail */
+.AdmitCardDeatil {
+    width: 1200px;
+    margin: 50px auto;
+    border: 1px solid #eee;
+    padding: 50px 20px;
+    border-radius: 10px;
+}
+.AdmitCardDeatil .cardDetail p.boxbg {
+    border: 1px solid #eee;
+    width: 150px;
+    margin: 0 auto 30px;
+    padding: 10px 0px;
+    border-radius: 6px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.AdmitCardDeatil .profileimg img{
+    max-width: 100%;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+.AdmitCardDeatil .cardDetail h3{
+    font-size: 20px;
+    color: #212121;
+    margin-bottom: 25px;
+}
+.AdmitCardDeatil .admitcardprofile {
+    margin: 0 30px;
+}
+.AdmitCardDeatil .admitcardprofile td{
+    color: #0085ea !important;
+    padding: 0 0 18px !important;
+}
+
+.AdmitCardDeatil .Notes {
+    border-top: 1px solid #ccc;
+    padding-top: 30px;
+    margin-top: 10px;
+}
+.AdmitCardDeatil .Notes h2{
+    font-size: 22px;
+    color: #212121;
+}
+.AdmitCardDeatil .Notes li{
+    font-size: 16px;
+    margin-bottom: 15px;
+    line-height: 26px;
+}
+
+.AdmitCardDeatil .table td{
+    border: 0px !important;
+    font-size: 15px;
+    padding: 10px 0px;
+    font-weight: 600;
+    color: #212121;
+}
+.AdmitCardDeatil .download{
+    text-align: center;
+}
+
+.AdmitCardDeatil .btnMixed{
+    margin-top: 15%;
+}
+.AdmitCardDeatil  .btnMixed button{
+    background: #0085ea;
+    color: #fff;
+    border-radius: 12px;
+    padding: 15px 0px;
+    font-size: 17px;
+    width: 100%;
+    margin-bottom: 25px;
+
+}
+.LeaderBoard{
+    width: 1200px;
+    margin: 50px auto;
+    background: #8798aa21;
+    padding: 50px 20px;
+    border-radius: 20px;
+}
+.LeaderBoard td img{
+    max-width: 100%;
+    width: 35px;
+    height: 35px;
+    padding: 0px;
+    border-radius: 100px;
+    margin-right: 7px;
+}
+.CbtComboReport .LeaderBoard .table td{
+    border-right: 0px !important;
+}
+.apexcharts-menu-icon, .apexcharts-reset-icon, .apexcharts-zoom-icon {
+    transform: scale(.85);
+    display: none;
+}

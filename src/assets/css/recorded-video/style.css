@@ -1,0 +1,498 @@
+.recorded-video-teg {
+    padding: 50px 0px;
+    border-top: 1px solid #cccccc4d;
+}
+
+.recorded-video-teg h2.session {
+    color: #2e90cf;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.recorded-video-teg .choose-language {
+    border-radius: 10px;
+    background-image: linear-gradient(180deg, rgba(255, 195, 113, 0.05) 0%, rgba(255, 195, 113, 0.5) 100%);
+    padding: 12px 10px;
+    text-align: center;
+    border: 1px solid #ccccccf2;
+}
+
+.recorded-video-teg .english {
+    background-image: linear-gradient(180deg, rgba(255, 95, 109, 0.05) 0%, rgba(255, 95, 109, 0.5) 100%);
+}
+
+.recorded-video-teg .oth {
+    background-image: linear-gradient(180deg, rgba(18, 194, 233, 0.05) 0%, rgba(18, 194, 233, 0.5) 100%);
+}
+
+.recorded-video-teg .choose-language {
+    min-height: 245px;
+}
+
+.recorded-video-teg .choose-language h3 {
+    color: #212121;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    margin: 0px 0 25px;
+    text-transform: uppercase;
+}
+
+.recorded-video-teg .choose-language .inner-text img {
+    max-width: 100%;
+    margin-bottom: 15px;
+    width: auto;
+    height: 60px;
+}
+
+.recorded-video-teg .choose-language .inner-text p {
+    color: #212121;
+    font-weight: 600;
+    font-size: 18px;
+    margin: 0;
+}
+
+.recorded-video-teg .choose-language .inner-text a {
+    border-radius: 4px;
+    background-color: #0096ff;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 8px 0px;
+    width: 210px;
+    margin: 18px auto 0;
+}
+
+.recorded-video-teg .choose-language .inner-text img {
+    height: 75px;
+}
+
+
+/* Begin: Recorded session page */
+
+.recorded-session {
+    margin: 30px auto 50px;
+}
+
+
+.recorded-session .banner_back {
+    /* background-image: linear-gradient(to right, #e1f5fe 0%, #2f80ed 100%);
+    border-radius: 12px; */
+    margin-bottom: 50px;
+}
+
+.recorded-session .banner_back img {
+    width: 100%;
+    height: 300px;
+    border-radius: 12px;
+}
+
+
+.recorded-session .banner_back h1 {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.recorded-session .banner_back .record {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.recorded-session .subject {
+    margin: 25px 0 0px;
+}
+
+.recorded-session .subject h2 {
+    color: #212121;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.recorded-session .subject .sub-ico {
+    border-radius: 10px;
+    opacity: 0.5;
+    border: 1px solid #f5f5f5;
+    padding: 20px 12px;
+    margin-bottom: 25px;
+    min-height: 120px;
+    background: none;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 1px 5px -2px, rgba(0, 0, 0, 0.3) 0px 3px 2px -3px;
+}
+
+
+.recorded-session .subject .sub-ico img {
+    margin-bottom: 10px;
+    height:110px;
+    border-radius: 3px;
+}
+
+
+.recorded-session .subject .sub-ico.active {
+    opacity: 1;
+}
+
+
+.recorded-session .subject .sub-ico a {
+    color: #333;
+    font-size: 16px;
+}
+
+.recorded-session .subject .sub-ico em {
+    margin-top: 4px;
+    font-size: 20px;
+}
+
+.recorded-session .subject .buy_btn {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-top: 30px;
+    background: #eaf3fa;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+.recorded-session .subject .arround {
+    justify-content: space-between;
+}
+
+.recorded-session .subject .buy_btn a {
+    color: #0096ff;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 30px;
+}
+
+.recorded-session .subject .buy_btn a.btn {
+    width: 145px;
+    height: 35px;
+    border-radius: 4px;
+    background-color: #0096ff;
+    color: #fff !important;
+}
+
+.recorded-session .subject .modal-dialog {
+    color: #212121;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 28px;
+}
+
+.recorded-session .subject .modal-title {
+    margin-bottom: 0;
+    line-height: 1.5;
+    color: #0096ff;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.04px;
+}
+
+.recorded-session .subject .modal-body p {
+    color: #212121;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 27px;
+}
+
+.recorded-session .subject .modal-content {
+    display: block!important;
+    border-radius: 10px;
+    text-align: center;
+    padding: 0px 20px 20px!important;
+}
+
+.recorded-session .subject .modal-header .close {
+    padding: 0;
+    margin: 13px;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+
+/* End: Recorded Session page */
+
+
+/* Begin: Recorded videos page */
+
+.recorded-video-course {
+    margin: 0px 0 50px;
+}
+.recorded-video-course .banner_back {
+    padding: 0 15px;
+}
+.recorded-video-course .topic {
+    margin-top: 25px;
+}
+
+.recorded-video-course .topic h3 {
+    color: #212121;
+    font-size: 23px;
+    font-weight: 700;
+    margin: 0;
+}
+
+
+.recorded-video-course .banner_back img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #eee;
+    border-radius: 10px;
+}
+.recorded-video-course h2{
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    color: #000;
+}
+.recorded-video-course .banner_back .record {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.recorded-video-course .accordion .card {
+    margin: 15px 0 2px;
+    background: #fafafa;
+}
+.recorded-video-course .accordion .card .card-header{
+    padding: 6px 15px;
+}
+.recorded-video-course .accordion .card .card-header img{
+    height: 55px;
+    width: 60px;
+    border: 1px solid #ccc;
+    margin-right: 15px;
+    border-radius: 5px;
+    background: #fff;
+    padding: 4px;
+}
+.recorded-video-course .accordion .card .boxSubmenu img {
+    width: 55px;
+    height: 50px;
+    border-radius: 3px;
+    margin-right: 15px;
+}
+.recorded-video-course .banner_back h1 {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 0px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+
+.recorded-video-course #main {
+    transition: margin-right .5s;
+    margin-top: 0;
+}
+
+.recorded-video-course #main #faq .card {
+    margin-bottom: 20px;
+    margin-top: 10px;
+    border-bottom: 1px solid #cccccc8a;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-radius: 0px;
+}
+
+.recorded-video-course #main #faq .card:last-child {
+    border-bottom: 0px;
+}
+
+.recorded-video-course #main #faq .card p {
+    color: #0096ff;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.recorded-video-course #main #faq .card .card-header {
+    border: 0;
+    padding: 0px;
+}
+
+.recorded-video-course .card-body {
+    padding: 10px 0 15px;
+}
+
+.recorded-video-course .card-body:last-child {
+    padding-bottom: 0px;
+}
+
+.recorded-video-course #main #faq .card .card-header .btn-header-link {
+    display: block;
+    text-align: left;
+    background: #fff;
+    padding: 15px 0px;
+    border-radius: 0;
+    font-size: 16px;
+    color: #212121;
+    font-weight: 600;
+    box-shadow: 0 0 0px;
+    display: inline-block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden!important;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+.recorded-video-course #main #faq .card .card-header .btn-header-link:after {
+    content: "\f106";
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 600;
+    float: right;
+    font-size: 20px;
+    color: #757575;
+}
+
+.recorded-video-course #main #faq .card .card-header .btn-header-link.collapsed:after {
+    content: "\f107";
+}
+
+.recorded-video-course #main #faq .card .collapse {
+    border: 0;
+}
+
+.recorded-video-course #main #faq .card .collapse.show {
+    background: #fff;
+    line-height: 30px;
+    color: #373636;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.recorded-video-course .accrodiab_btn .video-border {
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 10px;
+}
+
+.recorded-video-course .accrodiab_btn .video-border:last-child {
+    border-bottom: 0px;
+}
+
+.recorded-video-course .accrodiab_btn .record-img {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding: 0;
+}
+
+.recorded-video-course .accrodiab_btn .record-img img {
+    max-width: 100%;
+}
+
+.recorded-video-course .accrodiab_btn .video-text h4 {
+    color: #212121;
+    font-size: 19px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.recorded-video-course .accrodiab_btn .video-text p {
+    color: #e53935 !important;
+    font-size: 15px !important;
+    font-weight: 600;
+    margin: 0 !important;
+}
+
+.recorded-video-course .accrodiab_btn .icons em {
+    color: #0096ff;
+    width: 30px;
+    height: 30px;
+    padding: 6px;
+    border: 2px solid #0096ff;
+    border-radius: 100px;
+    font-size: 14px;
+    margin-left: 8px;
+}
+
+.recorded-video-course .accrodiab_btn .icons em.down {
+    color: #757575;
+    border: 2px solid #757575;
+}
+
+.recorded-video-course .accrodiab_btn .icons em.pause {
+    color: #ffa000;
+    border: 2px solid #ffa000;
+}
+.disabled {
+    opacity: 1.5 !important;
+}
+
+
+h4.session {
+    word-break: break-all;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1.19;
+    color: #00A651;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-family: sans-serif;
+}
+
+.botton-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    margin: 10px 20%;
+}
+
+.botton-btn a {
+    font-size: 16px;
+}
+
+.recorded-session .subject .modal-body p {
+    color: #212121c7;
+}
+
+.botton-btn a.buy_now {
+    color: #fff;
+    border: 1px solid #f15a22;
+    font-weight: 500;
+    background: #f15a22;
+    font-size: 13px;
+    font-family: sans-serif;
+    border-radius: 10px;
+    width: 140px;
+}
+
+.recorded-session .Class_classReminder__2EOd3.Class_remindMe__3HLYT {
+    width: 30%;
+    margin: 20px auto 0;
+}
+
+
+.sub-ico p {
+    font-size: 15px;
+    line-height: 20px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 500;
+}
+
+
+/* End: Recorded videos page */

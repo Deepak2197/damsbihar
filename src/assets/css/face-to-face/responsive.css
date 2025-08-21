@@ -1,0 +1,918 @@
+@media only screen and (min-width:1330px) and (max-width:1400px) {
+    .face-to-face .buy_group .course_text p {
+        font-size: 12px;
+    }
+    .face-to-face .buy_group .course_text h3 {
+        line-height: 15px;
+        font-size: 16px;
+    }
+    .face-to-face .buy_group .offer_img a {
+        font-size: 12px;
+    }
+    .face-to-face .buy_group .course_text span.rating {
+        font-size: 13px;
+        padding: 2px 8px;
+    }
+    .face-to-face .view_btn li a {
+        font-size: 14px;
+    }
+    .select-center .show-center .dams-center .dams-text p {
+        font-size: 13px;
+    }
+    .select-center .show-center .dams-center .map {
+        padding: 0;
+    }
+    .face-to-face .box-shadow {
+        margin: 0 15px 10px;
+    }
+    .select-center .nav-item a.nav-link .tab-group {
+        width: 80px;
+        padding: 0px 10px;
+        min-height: 75px;
+        margin-bottom: 5px;
+    }
+    .select-center .nav-item a.nav-link p {
+        font-size: 15px;
+    }
+    .face-to-face .buy_group .course_text li {
+        margin-right: 5px;
+    }
+    .face-to-face .buy_group .course_text li a {
+        font-size: 12px;
+    }
+    .subscription-data {
+        padding: 50px 5% 60px;
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1329px) {
+    .face-to-face .box-shadow {
+        margin: 0 12px 10px;
+    }
+    .face-to-face .face-class h4 {
+        font-size: 10px;
+        line-height: 13px;
+    }
+    .face-to-face .buy_group .course_text h3 {
+        font-size: 15px;
+    }
+    .face-to-face .buy_group .offer_img a {
+        font-size: 11px;
+        bottom: 44px;
+        width: 80%;
+    }
+    .face-to-face .buy_group .course_text p.number_stu {
+        padding: 0px 0px;
+        font-size: 13px;
+    }
+    .face-to-face .view_btn li a {
+        font-size: 14px;
+    }
+    .face-to-face .buy_group .course_text li {
+        margin-right: 2px;
+    }
+    .face-to-face .buy_group .course_text li a {
+        font-size: 11px;
+        padding: 2px 6px;
+    }
+    .select-center {
+        margin: 50px 0px;
+    }
+    .select-center .nav-item a.nav-link p {
+        font-size: 12px;
+    }
+    .select-center .show-center .dams-center .dams-text h3 {
+        font-size: 15px;
+    }
+    .select-center .show-center .dams-center .dams-text p {
+        font-size: 14px;
+    }
+    .select-center .show-center .dams-center .map {
+        padding: 0;
+    }
+  
+    .select-center .show-center .dams-center .map img {
+        margin-left: -6px;
+    }
+    .select-center .show-center .dams-center .map span {
+        margin-left: 4px;
+        font-size: 13px;
+    }
+    .select-center .show-center .dams-center .location-img {
+        padding: 10px 13px;
+    }
+    .select-center .nav-item a.nav-link .tab-group {
+        width: 72px;
+        padding: 0px 10px;
+        min-height: 70px;
+        margin-bottom: 6px;
+    }
+    .select-center .nav-item a.nav-link p {
+        font-size: 12px;
+    }
+    .select-center .nav-item .nav-link:last-child {
+        padding-left: 0px;
+    }
+    .subscription-data .show-center .dams-center .month-text h5 {
+        font-size: 15px;
+    }
+    .subscription-data .show-center .dams-center .dams-text p {
+        font-size: 14px;
+    }
+    .subscription-data .slider {
+        padding: 60px 0;
+    }
+    .subscription-data .slider img {
+        width: 250px;
+    }
+    .select-datebg {
+        padding: 50px 1% 60px;
+    }
+    .select-datebg .date-group {
+        margin: 18px 0px;
+        height: 95px
+    }
+    .select-datebg .or {
+        height: 70px;
+    }
+    .select-datebg h3 {
+        font-size: 18px;
+    }
+    .select-datebg .select-imgbg {
+        padding: 25px 0;
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .face-to-face .face-class h4 {
+        font-size: 8px;
+        line-height: 12px;
+    }
+    .face-to-face .box-shadow {
+        margin: 0 5px 10px;
+    }
+    .face-to-face .buy_group .course_text span.rating {
+        padding: 2px 4px;
+        font-size: 12px;
+    }
+    .face-to-face .box-shadow img {
+        height: 16px;
+        width: 16px;
+    }
+    .face-to-face .buy_group .course_text h3 {
+        font-size: 13px;
+    }
+    .face-to-face .buy_group .course_share li a {
+        width: 30px;
+        height: 30px;
+        padding: 2px 8px;
+    }
+    .face-to-face .buy_group .offer_img a {
+        font-size: 11px;
+        padding: 0px 0;
+        bottom: 60px;
+        right: 1px;
+    }
+    .face-to-face .buy_group .course_text p.number_stu {
+        font-size: 11px;
+        width: 130px;
+        padding: 0px 0px;
+    }
+    .face-to-face .view_btn li a {
+        font-size: 12px;
+        padding: 4px 0;
+    }
+    .face-to-face .view_btn {
+        padding: 15px 0px 0;
+        margin-top: 20px;
+    }
+    .face-to-face .buy_group .course_text p {
+        font-size: 11px;
+        line-height: 20px;
+    }
+    .face-to-face .buy_group .course_text li {
+        margin-right: 0px;
+    }
+    .face-to-face .buy_group .course_text li a {
+        font-size: 9px;
+        padding: 1px 3px;
+    }
+    .select-center .search_btng .form-control {
+        font-size: 15px;
+    }
+    .select-center ul.nav-pills {
+        flex-wrap: initial;
+        overflow: auto;
+    }
+    .select-center ::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.3);
+        border-radius: 10px;
+        background-color: #F5F5F5;
+    }
+    .select-center ::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,.3);
+        background-color: #c1c1c1;
+    }
+    .select-center ::-webkit-scrollbar {
+        width: 6px;
+        height: 6px;
+        background-color: #F5F5F5;
+    }
+    .select-center .nav-item a.nav-link .tab-group {
+        min-height: 80px;
+    }
+    .select-center .show-center h2 {
+        font-size: 16px;
+    }
+    .select-center .show-center .dams-center {
+        margin: 10px 0px;
+    }
+    .select-center .show-center .dams-center .dams-text h3 {
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .select-center .show-center .dams-center .dams-text p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .select-center .show-center .dams-center .map {
+        padding: 0 0px;
+    }
+    .select-center .show-center .dams-center .map img {
+        width: 20px;
+        margin-left: -10px;
+    }
+  
+    .select-center .show-center .dams-center .map span {
+        margin-left: 2px;
+        font-size: 12px;
+    }
+    .select-center .show-center .dams-center .location-img {
+        padding: 10px 10px;
+    }
+    .subscription-data {
+        padding: 40px 0 50px;
+    }
+    .subscription-data .show-center .dams-center .month-text h5 {
+        font-size: 15px;
+    }
+    .select-datebg {
+        padding: 50px 1% 60px;
+    }
+    .select-datebg h3 {
+        font-size: 18px;
+    }
+    .select-datebg .pro-text h3 {
+        font-size: 14px;
+    }
+    .select-datebg .validity h3 {
+        font-size: 15px;
+    }
+    .select-datebg .validity li {
+        font-size: 13px;
+    }
+    .select-datebg .date-group {
+        height: 85px;
+        margin: 20px 0px;
+    }
+    .select-datebg .or {
+        height: 60px;
+    }
+    .select-datebg .or h2 {
+        font-size: 14px;
+    }
+    .select-datebg .select-imgbg img {
+        width: 200px;
+    }
+    .datepicker.datepicker-dropdown.dropdown-menu.datepicker-orient-right.datepicker-orient-bottom {
+        left: 72% !important;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .face-to-face h2 {
+        font-size: 19px;
+        margin-bottom: 10px;
+    }
+    .face-to-face .box-shadow {
+        margin: 0 10px 10px;
+    }
+    .face-to-face .face-class h4 {
+        line-height: 15px;
+        font-size: 10px;
+    }
+    .face-to-face .buy_group .course_text h3 {
+        font-size: 15px;
+        margin-bottom: 2px;
+        line-height: 20px;
+    }
+    .face-to-face .buy_group .course_text p.number_stu {
+        margin: 10px 0px 0px;
+        width: 150px;
+        padding: 0px 0px;
+        font-size: 13px;
+    }
+    .face-to-face .buy_group .course_share li a {
+        width: 30px;
+        height: 30px;
+        padding: 3px 8px;
+    }
+    .face-to-face .view_btn li a {
+        font-size: 14px;
+        padding: 6px 0;
+    }
+    .face-to-face .buy_group .offer_img a {
+        font-size: 12px;
+        padding: 0px 0;
+        bottom: 33px;
+    }
+    .face-to-face .buy_group {
+        margin: 0px 0 20px;
+        padding: 10px 10px;
+    }
+    .face-to-face .buy_group .course_text li {
+        margin-right: 3px;
+    }
+    .face-to-face .buy_group .course_text li a {
+        font-size: 11px;
+        padding: 2px 6px;
+    }
+    .select-center .search_btng .form-control {
+        font-size: 16px;
+    }
+    .select-center li.nav-item {
+        width: 16.66%;
+    }
+    .select-center .show-center h2 {
+        font-size: 16px;
+    }
+    .select-center .show-center .continuebtn {
+        width: 35%;
+    }
+    .select-center .show-center .dams-center {
+        margin: 12px 0px;
+        padding: 10px 0px;
+    }
+    .select-center .show-center .dams-center .dams-text {
+        padding: 0px;
+    }
+    .select-center .show-center .dams-center .dams-text h3 {
+        margin-bottom: 5px;
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .select-center .show-center .dams-center .dams-text p {
+        font-size: 12px;
+        line-height: 21px;
+    }
+    .select-center .show-center .dams-center .location-img img {
+        width: 20px;
+    }
+    .select-center .show-center .dams-center .map {
+        padding: 0;
+    }
+    .select-center .show-center .dams-center .map span {
+        font-size: 12px;
+    }
+    .select-center .show-center .dams-center .map img {
+        width: 20px;
+        margin-left: -36px;
+    }
+    .select-center ul.nav-pills {
+        flex-wrap: initial;
+        overflow: auto;
+    }
+    .select-center ::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.3);
+        border-radius: 10px;
+        background-color: #F5F5F5;
+    }
+    .select-center ::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,.3);
+        background-color: #c1c1c1;
+    }
+    .select-center ::-webkit-scrollbar {
+        width: 6px;
+        height: 6px;
+        background-color: #F5F5F5;
+    }
+    .select-center .nav-item a.nav-link p {
+        font-size: 12px;
+    }
+    .select-center .nav-item a.nav-link .tab-group {
+        margin-bottom: 6px;
+        min-height: 80px;
+        width: 80px;
+    }
+    .select-center .continuebtn {
+        width: 50%;
+    }
+    .subscription-data {
+        padding: 50px 0 60px;
+    }
+    .subscription-data .show-center .dams-center {
+        padding: 15px 15px 10px;
+    }
+    .subscription-data .show-center .dams-center .month-text h5 {
+        font-size: 13px;
+    }
+    .subscription-data .show-center .dams-center .dams-text p {
+        font-size: 11px;
+    }
+    .subscription-data .slider {
+        padding: 60px 30px;
+    }
+    .subscription-data .slider img {
+        width: 230px;
+    }
+    .subscription-data .show-center .dams-center .round {
+        width: 15px;
+        height: 15px;
+    }
+    .select-datebg {
+        padding: 30px 0 60px;
+    }
+    .select-datebg .select-imgbg img {
+        width: 200px;
+    }
+    .select-datebg .select-imgbg {
+        padding: 30px 0;
+    }
+    .select-datebg h3 {
+        font-size: 18px;
+    }
+    .select-datebg .date-group {
+        height: 90px;
+        margin: 15px 0px;
+    }
+    .select-datebg .date-group h2 {
+        font-size: 14px !important;
+    }
+    .select-datebg .date-group .datepicker.date.input-group input#fecha1 {
+        font-size: 14px !important;
+    }
+    .select-datebg .or {
+        height: 55px;
+    }
+    .select-datebg .or h2 {
+        font-size: 13px;
+    }
+    .select-datebg .validity h3 {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .select-datebg .validity li {
+        font-size: 11px;
+    }
+    .select-datebg .pro-text h3 {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .select-datebg a.proceed {
+        margin: 23px 0px 0;
+        padding: 10px 0px;
+    }
+    .select-datebg .date-group.active .fa-check:before {
+        font-size: 11px;
+        padding: 4px;
+    }
+    .datepicker.datepicker-dropdown.dropdown-menu.datepicker-orient-right.datepicker-orient-bottom {
+        left: 60% !important;
+    }
+    .select-datebg .validity ul {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .face-to-face h2 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .face-to-face .box-shadow {
+        margin: 0 7px 10px;
+    }
+    .face-to-face .box-shadow img {
+        height: 20px;
+        width: 20px;
+    }
+    .face-to-face .face-class h4 {
+        line-height: 12px;
+        font-size: 9px;
+    }
+    .face-to-face .margin-set {
+        margin-bottom: 20px;
+    }
+    .face-to-face .buy_group {
+        padding: 10px 10px;
+        margin: 0px 0 20px;
+    }
+    .face-to-face .buy_group .course_text h3 {
+        font-size: 13px;
+        line-height: 10px;
+    }
+    .face-to-face .buy_group .course_text p {
+        font-size: 12px;
+    }
+    .face-to-face .buy_group .offer_img a {
+        font-size: 11px;
+        padding: 0px 0;
+        bottom: 38px;
+        right: 2px;
+        line-height: 19px;
+    }
+    .face-to-face .buy_group .course_share li a {
+        width: 25px;
+        height: 25px;
+        padding: 0px 6px;
+    }
+    .face-to-face .buy_group .course_text p.number_stu {
+        font-size: 12px;
+        padding: 0px 0px;
+        margin: 8px 0px 0px;
+        width: 130px;
+    }
+    .face-to-face .view_btn li a {
+        font-size: 13px;
+        padding: 5px 0;
+    }
+    /* .face-to-face .mobile-pd {
+        padding: 0;
+    } */
+    .face-to-face .view_btn {
+        margin-top: 12px;
+    }
+    .face-to-face .buy_group .course_text span.rating {
+        font-size: 12px;
+        padding: 1px 5px;
+    }
+    .select-center {
+        margin: 20px 0;
+    }
+    .select-center .search_btng .form-control {
+        padding: 10px 0px 10px 40px;
+        height: 34px;
+        min-height: 34px;
+        font-size: 12px;
+    }
+    .select-center .search_btng i {
+        top: 10px;
+        left: 18px;
+        font-size: 14px;
+    }
+    .select-center .search_btng span.voice {
+        top: 8px;
+        right: 12px;
+    }
+    .select-center .nav-item {
+        width: 33%;
+    }
+    .select-center .nav-item .nav-link {
+        padding: 0px 8px 20px 3px !important;
+    }
+    .select-center ul.nav {
+        white-space: initial;
+        flex-wrap: initial;
+        overflow: auto;
+    }
+    .select-center ::-webkit-scrollbar {
+        height: 10px;
+    }
+    .select-center h2.all-city {
+        font-size: 14px;
+    }
+    .select-center ::-webkit-scrollbar-track {
+        box-shadow: 0 0 0 0px;
+        background: #fff;
+        border: 1px solid #ccc6;
+        background: #cccccc82;
+        border-radius: 100px;
+    }
+    .select-center ::-webkit-scrollbar-thumb {
+        background: #2e90cf;
+        border-radius: 10px;
+    }
+    .select-center .nav-item a.nav-link .tab-group {
+        padding: 0px 0px;
+        min-height: 65px;
+        margin-bottom: 6px;
+        width: 68px;
+    }
+    .select-center ::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.3);
+        border-radius: 10px;
+        background-color: #F5F5F5;
+    }
+    .select-center ::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,.3);
+        background-color: #c1c1c1;
+    }
+    .select-center ::-webkit-scrollbar {
+        width: 6px;
+        height: 6px;
+        background-color: #F5F5F5;
+    }
+    .select-center .nav-item a.nav-link p {
+        font-size: 12px;
+    }
+    .select-center .tab-content .continuebtn a {
+        font-size: 14px;
+    }
+    .select-center .show-center h2 {
+        font-size: 14px;
+    }
+    .select-center .show-center .dams-center {
+        padding: 10px 0px;
+        margin: 10px 0px;
+        height: 78px;
+    }
+    .select-center .show-center .dams-center .dams-text {
+        padding: 0 15px 0 0;
+    }
+    .select-center .show-center .dams-center .dams-text h3 {
+        margin-bottom: 7px;
+        font-size: 12px;
+        line-height: 17px;
+        text-align: left;
+    }
+    .select-center .show-center .dams-center .dams-text p {
+        font-size: 12px;
+        line-height: 14px;
+        text-align: justify;
+    }
+    .select-center .show-center .dams-center .location-img {
+        padding: 0px 0 0 13px;
+        width: 50px;
+    }
+    .select-center .show-center .dams-center .location-img img {
+        width: 16px;
+    }
+    .select-center .show-center .dams-center .map {
+        margin: 0 0px 0 -6px;
+        padding: 0;
+    }
+    .select-center .show-center .dams-center .map img {
+        width: 20px;
+        margin-left: -36px;
+    }
+    .select-center .show-center .dams-center .map span {
+        font-size: 12px;
+        position: absolute;
+        top: 38px;
+        right: 0px;
+        display: contents;
+    }
+    .select-center .subscription .start-date h3 {
+        font-size: 16px;
+    }
+    .select-center .subscription .start-date .date-group {
+        height: 85px;
+        margin: 20px 0px;
+    }
+    .select-center .subscription .start-date .or {
+        height: 85px;
+        margin: 20px 0px;
+    }
+    .select-center .subscription .start-date .date-group h2 {
+        font-size: 13px !important;
+    }
+    .select-center .subscription .start-date .date-group .datepicker.date.input-group input#fecha1 {
+        font-size: 13px !important;
+    }
+    .datepicker-dropdown {
+        left: 35px !important;
+    }
+    .select-center .subscription .validity h3 {
+        font-size: 15px;
+    }
+    .select-center .subscription .validity li {
+        font-size: 11px;
+    }
+    .select-center .subscription .validity li span {
+        font-size: 10px;
+    }
+    .select-center .subscription h3 {
+        font-size: 13px;
+        line-height: 21px;
+    }
+    .select-center .subscription a.proceed {
+        font-size: 14px;
+    }
+    .select-center .subscription .start-date .or h2 {
+        font-size: 12px !important;
+    }
+    .select-center .show-center .continuebtn {
+        width: 100%;
+        margin: 20% auto 0;
+    }
+    .select-center .show-center .continuebtn a {
+        font-size: 14px;
+        padding: 10px 0px;
+    }
+    .face-to-face .inclusion-model .inclusion-text {
+        padding: 0;
+    }
+    .face-to-face .buy_group .course_text {
+        padding-right: 0px;
+    }
+    .face-to-face .buy_group .course_text li {
+        margin-right: 7px;
+    }
+    .face-to-face .buy_group .course_text li a {
+        font-size: 11px;
+        padding: 2px 5px;
+    }
+    .face-to-face h2.neet_pg {
+        font-size: 15px;
+    }
+    .face-to-face .view_btn a {
+        padding: 5px 0;
+        font-size: 14px;
+    }
+    .select-center h2.heading-center {
+        font-size: 14px;
+        margin-bottom: 4px;
+    }
+    .select-center .continuebtn {
+        width: 100%;
+    }
+    .select-center h5 {
+        font-size: 13px;
+        color: #2e90cf;
+        font-weight: 600;
+        text-align: center;
+        margin: 0px 0px;
+    }
+    .select-center h5.heading-city {
+        font-size: 14px;
+        margin-bottom: 10px;
+        text-align: left;
+    }
+    .select-center .search_btng {
+        margin-bottom: 20px;
+    }
+    .face-to-face .schedule-model .micro-sec {
+        padding: 4px 4px;
+    }
+    .face-to-face .schedule-model .micro-sec h4 {
+        font-size: 9px;
+        line-height: 18px;
+    }
+    .face-to-face .schedule-model .micro-sec p {
+        font-size: 10px;
+    }
+    .face-to-face .schedule-model .micro-sec .border-rightbg:after {
+        right: -15px;
+        height: 47px;
+    }
+    .face-to-face .inclusion-model h3 {
+        margin-bottom: 0;
+        font-size: 15px;
+    }
+    .face-to-face .inclusion-model li {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .face-to-face .inclusion-model li span img {
+        width: 10px;
+    }
+    .face-to-face .inclusion-model a.ok_btn {
+        padding: 6px 0px;
+    }
+    .face-to-face .schedule-model .modal-body {
+        height: 550px;
+    }
+    .subscription-data {
+        padding: 0px 0 60px;
+    }
+    .subscription-data h3 {
+        font-size: 16px;
+    }
+    .subscription-data .slider {
+        padding: 20px 0;
+        margin-bottom: 40px;
+    }
+    .subscription-data .slider img {
+        width: 160px;
+    }
+    .subscription-data .show-center .map {
+        padding: 0 0 0 0;
+    }
+    .subscription-data .show-center .dams-center .month-text h5 {
+        font-size: 11px;
+    }
+    .subscription-data .show-center .dams-center .dams-text p {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .subscription-data .show-center .dams-center .dams-text del {
+        margin-right: 10px;
+    }
+    .subscription-data .show-center .dams-center {
+        padding: 15px 20px 10px;
+    }
+    .subscription-data .show-center .dams-center .round {
+        width: 18px;
+        height: 18px;
+    }
+    .subscription-data .continuebtn a {
+        font-size: 13px;
+        padding: 10px 0px;
+    }
+    .subscription-data a.activate-free {
+        font-size: 12px;
+        padding: 10px 0px;
+    }
+    .select-datebg {
+        padding: 0px 0 50px;
+    }
+    .select-datebg .select-imgbg img {
+        width: 160px;
+    }
+    .select-datebg .select-imgbg {
+        padding: 25px 0;
+    }
+    .select-datebg h3 {
+        font-size: 14px;
+    }
+    .select-datebg .mobile-pd {
+        /* padding: 0; */
+        margin-top: 12px !important;
+    }
+    .select-datebg .validity {
+        padding: 10px 6px;
+    }
+    #appendcources {
+        padding: 0;
+    }
+    .select-datebg .select-imgbg {
+        margin-bottom: 30px;
+    }
+    .select-datebg .date-group {
+        height: 80px;
+        margin: 12px 0px;
+    }
+    .select-datebg .or {
+        height: 50px;
+    }
+    .select-datebg .or h2 {
+        font-size: 14px;
+    }
+    .select-datebg .date-group h2 {
+        font-size: 13px !important;
+    }
+    .select-datebg .date-group .datepicker.date.input-group input#fecha1 {
+        font-size: 12px !important;
+    }
+    .select-datebg .validity h3 {
+        font-size: 12px;
+    }
+    .select-datebg .validity li {
+        font-size: 11px;
+    }
+    .select-datebg .pro-text h3 {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .select-datebg a.proceed {
+        margin: 40px 0px 25px;
+        padding: 8px 0px;
+        font-size: 13px;
+    }
+    .face-to-face li.nav-item a.nav-link {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+    .subscription-data .show-center .dams-center .dams-text {
+        text-align: right;
+        padding: 0px;
+    }
+   
+    .select-center1 {
+         margin: 0px 0 0px !important;
+    }
+    .select-datebg .validity ul {
+        display: flex;
+        justify-content: space-around;
+    }
+}
+
+@media only screen and (min-width:640px) and (max-width:767px) {
+    .select-center .nav-item {
+        width: 16%;
+    }
+    face-to-face .schedule-model .modal-body {
+        height: 400px;
+    }
+    .face-to-face .schedule-model .micro-sec h4 {
+        font-size: 15px;
+        line-height: 30px;
+    }
+    .face-to-face .schedule-model .micro-sec {
+        padding: 10px 10px;
+    }
+}

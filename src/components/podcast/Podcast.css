@@ -1,0 +1,135 @@
+.podcast-gallery {
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  padding: 10px 0;
+  scroll-behavior: smooth;
+}
+
+.podcast-item {
+  flex: 0 0 auto;
+  width: 300px; /* Adjust width to match the design */
+  background: #2a2a2a;
+  border-radius: 20px;
+  padding: 15px;
+  color: #fff;
+}
+
+/* Waveform */
+.waveform-container {
+  position: relative;
+  margin-bottom: 26px;
+}
+
+.waveform {
+  width: 100%;
+}
+
+.time-display {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: #ccc;
+  margin-top: 5px;
+}
+
+.time.start {
+  position: absolute;
+  left: 0;
+}
+
+.time.end {
+  position: absolute;
+  right: 0;
+}
+
+/* Controls */
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 22px;
+  margin-bottom: 16px;
+}
+
+.speed-btn,
+.control-btn,
+.play-pause-btn,
+.volume-btn {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.speed-btn:disabled,
+.control-btn:disabled,
+.play-pause-btn:disabled,
+.volume-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.controls button.control-btn {
+  font-size: 14px;
+}
+.play-pause-btn {
+  background: #fff;
+  color: #2a2a2a;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.play-pause-btn i.fa.fa-play {
+  font-size: 12px;
+}
+
+/* Podcast Info */
+.podcast-info {
+  background: #424242;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.podcast-info p {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 400;
+  color: #FFFFFF;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.podcast-meta {
+  /* display: flex;
+  gap: 10px; */
+  /* justify-content: space-between; */
+  /* align-items: center; */
+  font-size: 12px;
+  color: #FFFFFF;
+  margin-top: 5px;
+}
+.podcast-meta i.fa.fa-bookmark-o {
+  float: right;
+  padding-top: 4px;
+}
+.podcast-meta span {
+  margin-right: 10px;
+}
+.podcast-meta span:last-child {
+  margin-right: 0px !important;
+  display: inline-block;
+}
+
+.share-btn {
+  background: none;
+  border: none;
+  color: #ccc;
+  cursor: pointer;
+}

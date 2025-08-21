@@ -1,0 +1,293 @@
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+  .my-order .fullSec {
+    width: calc(31.3% - 10px) !important;
+  }
+  .my-order .textSec h2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  .my-order .fullSec {
+    width: calc(31% - 10px) !important;
+  }
+  .my-order .textSec h2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .OrderDetail {
+    margin: 40px auto;
+    width: 100%;
+  }
+  .my-order .fullSec {
+    width: calc(48% - 20px) !important;
+  }
+  .my-order .textSec h2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .OrderDetail {
+    margin: 40px auto;
+    width: 100%;
+  }
+  .OrderDetail .downloadInvoice p {
+    font-size: 16px;
+  }
+  .OrderDetail .downloadInvoice .Invoice h3 {
+    font-size: 18px;
+  }
+  .OrderDetail .downloadInvoice .Invoice h3 img {
+    width: 20px;
+  }
+  .OrderDetail .shipmentDetails h1 {
+    font-size: 18px;
+  }
+  .OrderDetail .shipmentDetails .textSide h2 {
+    font-size: 16px;
+  }
+  .OrderDetail .shipmentDetails .workbookUltimate .orderTrak p {
+    font-size: 16px;
+  }
+  .OrderDetail .addressDetail h2 {
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+  .OrderDetail .addressDetail p {
+    font-size: 14px;
+  }
+  .OrderDetail .addressDetail h4 {
+    font-size: 14px;
+  }
+  .OrderDetail .shipmentDetails .bookSide img {
+    width: 100px;
+  }
+  .OrderDetail .orderSummary h2 {
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+  .OrderDetail .workbookUltimate .orderTrak .timeline .status:before {
+    content: "";
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    border-radius: 25px;
+    border: 1px solid #ddd;
+    position: absolute;
+    top: 0%;
+    left: -14px;
+  }
+  .OrderDetail .workbookUltimate .orderTrak .timeline .status label {
+    font-weight: 400;
+    text-align: center;
+    color: #757575;
+    font-size: 14px;
+    margin: 0px 0px 30px;
+  }
+  .OrderDetail .workbookUltimate .orderTrak .timeline .status {
+    padding: 0px 26px;
+    display: flex;
+    justify-content: flex-start;
+    border-top: none;
+    border-left: 2px solid #d6dce0;
+    position: relative;
+    transition: all 200ms ease-in;
+  }
+  .OrderDetail .workbookUltimate .orderTrak .timeline li.complete .status {
+    border-top: none;
+    border-left: 2px solid #66dc71;
+  }
+  /* Hide border for the last step in mobile view */
+  .OrderDetail .workbookUltimate .orderTrak .timeline li:last-child .status {
+    border-left: none !important;
+  }
+  .OrderDetail .workbookUltimate .orderTrak .timeline {
+    list-style-type: none;
+    display: block;
+    justify-content: center;
+    padding-top: 20px;
+    padding-left: 40px;
+    width: 100%;
+  }
+
+  .my-order .fullSec {
+    width: calc(48% - 20px) !important;
+  }
+  .my-order .searchPart .sort-container {
+    width: auto;
+  }
+  .my-order .textSec h2 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #212121;
+  }
+  .my-order .imgSec img {
+    width: 60px;
+  }
+  .my-order .textSec h2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .OrderDetail {
+    margin: 0px auto;
+    padding: 20px 0px;
+    width: 100%;
+  }
+  .OrderDetail .downloadInvoice {
+    padding: 20px 20px;
+  }
+  .OrderDetail .downloadInvoice p {
+    font-size: 16px;
+  }
+  .OrderDetail .downloadInvoice .Invoice h3 {
+    font-size: 16px;
+  }
+  .OrderDetail .downloadInvoice .Invoice h3 img {
+    width: 18px;
+  }
+  .OrderDetail .shipmentDetails {
+    padding: 20px 20px;
+    margin: 8% 0px;
+  }
+  .OrderDetail .shipmentDetails h1 {
+    font-size: 18px;
+  }
+  .OrderDetail .shipmentDetails .textSide h2 {
+    font-size: 16px;
+  }
+  .OrderDetail .shipmentDetails .textSide .ruppes {
+    top: 40px;
+    font-size: 16px;
+  }
+  .OrderDetail .shipmentDetails .textSide {
+    padding: 0px 10px;
+  }
+  .OrderDetail .workbookUltimate .orderTrak .timeline .status:before {
+    content: "";
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    border-radius: 25px;
+    border: 1px solid #ddd;
+    position: absolute;
+    top: 0%;
+    left: -14px;
+  }
+  .OrderDetail .workbookUltimate .orderTrak .timeline .status label {
+    font-weight: 400;
+    text-align: left;
+    color: #757575;
+    font-size: 14px;
+    margin: 0px 0px 30px;
+  }
+  .OrderDetail .workbookUltimate .orderTrak .timeline .status {
+    padding: 0px 26px;
+    display: flex;
+    justify-content: flex-start;
+    border-top: none;
+    border-left: 2px solid #d6dce0;
+    position: relative;
+    transition: all 200ms ease-in;
+  }
+  .OrderDetail .workbookUltimate .orderTrak .timeline li.complete .status {
+    border-top: none;
+    border-left: 2px solid #66dc71;
+  }
+  /* Hide border for the last step in mobile view */
+  .OrderDetail .workbookUltimate .orderTrak .timeline li:last-child .status {
+    border-left: none !important;
+  }
+  .OrderDetail .workbookUltimate .orderTrak .timeline {
+    list-style-type: none;
+    display: block;
+    justify-content: center;
+    padding-top: 20px;
+    padding-left: 40px;
+    width: 100%;
+  }
+  .OrderDetail .shipmentDetails .workbookUltimate .orderTrak p {
+    font-size: 16px;
+  }
+  .OrderDetail .RateYourExperience li img {
+    width: 30px;
+    margin-bottom: 8px;
+  }
+  .OrderDetail .addressDetail {
+    padding: 20px 20px;
+  }
+  .OrderDetail .addressDetail h2 {
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+  .OrderDetail .addressDetail p {
+    font-size: 14px;
+  }
+  .OrderDetail .addressDetail h4 {
+    font-size: 14px;
+  }
+  .OrderDetail .RateYourExperience {
+    padding: 20px 20px;
+    margin: 8% 0px;
+  }
+  .OrderDetail .orderSummary {
+    padding: 20px 20px;
+  }
+  .OrderDetail .orderSummary h2 {
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+  .my-order {
+    padding: 30px 0px !important;
+  }
+  .my-order .fullSec {
+    width: 100% !important;
+  }
+  .my-order .textSec h2 {
+    font-size: 16px;
+  }
+  .my-order .imgSec img {
+    width: 64px;
+  }
+  .my-order .textSec h3 {
+    font-size: 14px;
+  }
+  .my-order .textSec h3 span em {
+    top: 24px;
+  }
+  .my-order .searchPart .serchSec {
+    width: 100%;
+  }
+  .my-order .searchPart .dropSec {
+    width: 100%;
+  }
+  .my-order .searchPart .sort-container {
+    width: auto;
+  }
+  .my-order .ultimateLive {
+    gap: 20px;
+  }
+  .my-order .searchPart {
+    margin: 0px 0px 10px;
+  }
+}

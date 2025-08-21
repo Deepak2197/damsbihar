@@ -1,0 +1,1528 @@
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+    /** Invited **/
+    .invitedQBank{
+        margin: 10% 0% 4%;
+    }
+    .invitedQBank .qbankPart .qbankinvite p {
+        font-size: 16px;
+    }
+    .invitedQBank .qbankPart span.inviteBlock {
+        font-size: 14px;
+    }
+
+    /** Number Select Question **/
+    .numberOFquestion{
+        margin: 10% 0% 4%;
+    }
+
+    /** Attempt **/
+    .attempT{
+        margin: 10% 16% 4%;
+    }
+    .attemptPeriod .btnSet {
+        top: 14px;
+        right: -8px;
+    }
+
+    /** QBank List **/
+    .QbankList{
+        margin: 12% 10% 4%;
+    }
+
+    .topicShare .joinCustomQbank {
+        width: 100%;
+        padding: 40px 40px;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+    /** Custom QBank **/
+    .NewcustomQbank{
+        margin: 12% 0px 0%;
+    }
+
+    /** Custom QBank2 **/
+    .customizeQBank .attemptedBoxes .textBLock1 {
+        font-size: 16px;
+    }
+
+    /** Choose Levels **/
+    .chooseLevel{
+        margin: 12% 10% 4%;
+    }
+
+    /** Attemp History **/
+    .attemptPeriod .btnSet {
+        position: initial;
+    }
+    .attemptHistory .historyBox {
+        padding: 12px 12px;
+    }
+    .attemptHistory .attemptPeriod h1 {
+        margin-bottom: 10px;
+    }
+    .attemptHistory .historyBox .boximg {
+        width: 16%;
+    }
+    .attemptHistory .attemptPeriod {
+        width: 84%;
+    }
+
+    /** Invited **/
+    .invitedQBank{
+        margin: 12% 0% 4%;
+    }
+    .invitedQBank .qbankPart .qbankinvite p {
+        font-size: 16px;
+    }
+    .invitedQBank .qbankPart span.inviteBlock {
+        font-size: 14px;
+    }
+    .invitedQBank .qbankPart {
+        padding: 10px 10px;
+    }
+    .invitedQBank .qbankPart .qbankinvite h1 {
+        margin-bottom: 10px;
+    }
+    .invitedQBank .qbankPart .btnGrp {
+        position: initial;
+    }
+
+
+
+    /** Number Select Question **/
+    .numberOFquestion{
+        margin: 14% 0% 4%;
+        width: 100%;
+    }
+
+    /** Leader Board **/
+    .leaderBoard{
+        margin: 8% 0% 4%;
+        width: 100%;
+    }
+    .leaderBoard .qsnTotal .butnSet button.btn {
+        width: 56%;
+    }
+
+    /** Attempt **/
+    .attempT{
+        margin: 12% 10% 4%;
+    }
+
+    /** QBank List **/
+    .QbankList{
+        margin: 12% 10% 4%;
+    }
+
+    .topicShare .joinCustomQbank {
+        width: 100%;
+        padding: 40px 40px;
+    }
+    .customizeQBank .attemptedBoxes .boximg {
+        width: 16%;
+        margin-right: 10px;
+    }
+    .customizeQBank .attemptedBoxes .textSec {
+        width: 84%;
+    }
+    .customizeQBank .attemptedBoxesNew .boximg {
+        width: 16%;
+        margin-right: 10px;
+    }
+    .customizeQBank .attemptedBoxesNew .textSet {
+        width: 84%;
+    }
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    /** Custom QBank **/
+    .NewcustomQbank{
+        margin: 12% 0px 0%;
+    }
+    .NewcustomQbank .anatomyBoxes .boximg {
+        width: 12%;
+    }
+
+    /** Custom QBank2 **/
+    .customizeQBank .attemptedBoxes .textSec ul li {
+        font-size: 15px;
+    }
+    /* .customizeQBank .attemptedBoxes {
+        display: flow;
+    } */
+    .customizeQBank .attemptedBoxes .textSec {
+        width: 88%;
+    }
+    .customizeQBank .attemptedBoxes .textBLock1 {
+        font-size: 15px;
+    }
+    .customizeQBank .attemptedBoxes .textBLock {
+        font-size: 15px;
+    }
+    .customizeQBank .attemptedBoxesNew .boximg {
+        width: 12%;
+    }
+    .customizeQBank .attemptedBoxesNew .textSet {
+        width: 88%;
+    }
+
+
+    /** Choose Levels **/
+    .chooseLevel{
+        margin: 12% 0% 4%;
+    }
+    .qbankInnerNew .selectMode {
+        padding: 0px 20px 50px;
+    }
+
+    /** Attemp History **/
+    .attemptHistory{
+        margin: 12% 0% 4%;
+    }
+    .attemptPeriod .btnSet {
+        top: 14px;
+        right: 0px;
+    }
+
+    /** Invited **/
+    .invitedQBank{
+        margin: 14% 0% 4%;
+    }
+    .invitedQBank .qbankPart .qbankinvite p {
+        font-size: 16px;
+    }
+    .invitedQBank .qbankPart span.inviteBlock {
+        font-size: 14px;
+    }
+
+    /** Number Select Question **/
+    .numberOFquestion{
+        margin: 14% 0% 4%;
+    }
+
+    /** Topic Share **/
+    .topicShare {
+        margin: 14% 10% 4%;
+    }
+    .topicShare .liveChallenge .startingSoon button.btn.custonBtn {
+        font-size: 14px;
+        padding: 8px 8px;
+        width: 180px;
+    }
+    .topicShare .liveChallenge .startingSoon p {
+        font-size: 14px;
+    }
+    .topicShare .liveChallenge .fulllBox {
+        padding: 20px 10px;
+    }
+    .topicShare .totalTime .timePer .imgSec img {
+        width: 18px;
+        margin-right: 10px;
+    }
+    .totalTime .timePer p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .totalTime .timePer span.qsnNumber {
+        font-size: 16px;
+    }
+    .topicShare .liveChallenge .fulllBox .topicBox .imgPart {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+    }
+    .topicShare .liveChallenge .fulllBox .topicBox .imgPart img {
+        width: 16px;
+    }
+    .topicShare .liveChallenge .fulllBox .topicBox .textPart h3 {
+        font-size: 16px;
+    }
+    .topicShare .sharePart {
+        padding: 10px 10px;
+        margin: 10% 0px;
+    }
+    .topicShare .sharePart p {
+        font-size: 12px;
+    }
+    .topicShare .searchSec {
+        margin: 10% 0px;
+    }
+    .topicShare .Players h4 {
+        font-size: 16px;
+    }
+    .topicShare .availabelPlayer img.profile {
+        width: 40px;
+        height: 40px;
+        margin-right: 14px;
+    }
+    .topicShare .availabelPlayer p {
+        font-size: 16px;
+    }
+    .topicShare .availabelPlayer button.btn {
+        width: 120px;
+        font-size: 14px;
+    }
+    .topicShare .butnPart button.btn.attempt {
+        width: 50%;
+    }
+
+    /** Leader Board **/
+    .leaderBoard{
+        margin: 8% 0% 4%;
+        width: 100%;
+    }
+    .leaderBoard .qsnTotal .butnSet button.btn {
+        width: 56%;
+    }
+
+    /** Attempt **/
+    .attempT{
+        margin: 12% 10% 4%;
+    }
+
+    /** QBank List **/
+    .QbankList{
+        margin: 12% 10% 4%;
+    }
+    .customQBank .qbankInnerNew {
+        width: 100%;
+    }
+
+    .topicShare .joinCustomQbank {
+        width: 100%;
+        padding: 40px 40px;
+    }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    /** Custom QBank **/
+    .NewcustomQbank{
+        margin: 18% 0px 0%;
+    }
+    .NewcustomQbank .boxSection .imgPart {
+        width: 60px;
+        height: 60px;
+    }
+    .NewcustomQbank .boxSection .imgPart img {
+        width: 22px;
+        height: 22px;
+    }
+    .NewcustomQbank .boxSection .textPart h3 {
+        font-size: 16px;
+    }
+    .NewcustomQbank .mainHeading h1 {
+        font-size: 20px;
+    }
+    .NewcustomQbank .boxSectiontopDivSet {
+        justify-content: center;
+    }
+    .NewcustomQbank .anatomyBoxes .boximg {
+        width: 24%;
+    }
+    .NewcustomQbank .anatomyBoxes {
+        padding: 6px 20px;
+    }
+    .NewcustomQbank .anatomyBoxes .textSec p {
+        font-size: 16px;
+    }
+    .NewcustomQbank .anatomyBoxes .textSec .textBlock {
+        font-size: 12px;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    /** Custom QBank2 **/
+    /* .customizeQBank .attemptedBoxes {
+        display: flow;
+    } */
+    .customizeQBank .attemptedBoxes .boxenter {
+        width: 40px;
+        height: 40px;
+    }
+    .customizeQBank .attemptedBoxes {
+        padding: 12px 12px;
+    }
+    .customizeQBank .attemptedBoxes .boximg {
+        width: 16%;
+        margin-right: 10px;
+    }
+    .customizeQBank .attemptedBoxes .textSec {
+        width: 84%;
+    }
+    .customizeQBank .attemptedBoxesNew {
+        padding: 12px 12px;
+    }
+    .customizeQBank .attemptedBoxes .textSec ul li {
+        font-size: 12px;
+        line-height: 24px;
+    }
+    .customizeQBank .attemptedBoxesNew .textSet h2 {
+        margin-bottom: 10px;
+    }
+    .customizeQBank .attemptedBoxesNew .boxenter {
+        width: 40px;
+        height: 40px;
+        /* margin-top: 24px; */
+    }
+    .customizeQBank .attemptedBoxesNew .boxenter img {
+        width: 20px;
+    }
+    .customizeQBank .attemptedBoxes .textBLock1 {
+        font-size: 12px;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .customizeQBank .attemptedBoxes .textBLock {
+        font-size: 12px;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .customQBank .qbankInnerNew {
+        width: 100%;
+    }
+    .customizeQBank .attemptedBoxesNew .boximg {
+        width: 16%;
+        margin-right: 10px;
+    }
+    .customizeQBank .attemptedBoxesNew .textSet {
+        width: 84%;
+    }
+    .customizeQBank .attemptedBoxesNew .textSet h3 {
+        font-size: 16px;
+    }
+    .customizeQBank .attemptedBoxesNew .textSet h4 {
+        font-size: 14px;
+    }
+    .customizeQBank .attemptedBoxesNew .textSet h5 {
+        font-size: 12px;
+    }
+
+    /** Choose Levels **/
+    .chooseLevel{
+        margin: 14% 0% 4%;
+    }
+    .qbankInnerNew .selectMode {
+        padding: 0px 20px 50px;
+    }
+
+    /** Attemp History **/
+    .attemptHistory{
+        margin: 16% 0% 4%;
+    }
+    .attemptHistory .attemptPeriod h1 {
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+    .attemptHistory .attemptPeriod h2 {
+        font-size: 14px;
+    }
+    /* .attemptHistory .attemptPeriod {
+        padding: 16px;
+    }
+    .attemptPeriod button.btn.review {
+        width: 80px;
+        font-size: 14px;
+        padding: 4px 0px;
+    } */
+    .attemptPeriod .btnSet {
+        /* top: 42px;
+        right: 16px; */
+        position: initial;
+    }
+    .attemptHistory .historyBox {
+        padding: 12px 12px;
+    }
+    .attemptHistory .historyBox .boxenter {
+        width: 40px;
+        height: 40px;
+    }
+    .attemptHistory .historyBox .boximg {
+        width: 14%;
+        margin-right: 10px;
+    }
+    .attemptHistory .attemptPeriod {
+        width: 86%;
+    }
+    
+
+    /** Invited **/
+    .invitedQBank{
+        margin: 14% 0% 4%;
+    }
+    .invitedQBank .qbankPart .qbankinvite p {
+        font-size: 16px;
+    }
+    .invitedQBank .qbankPart span.inviteBlock {
+        font-size: 14px;
+    }
+    .invitedQBank .qbankPart .namePart {
+        width: 40px;
+        height: 40px;
+    }
+    .invitedQBank .qbankPart .boximg {
+        width: 14%;
+        margin-right: 10px;
+    }
+    .invitedQBank .qbankPart .qbankinvite {
+        width: 86%;
+    }
+    .invitedQBank .qbankPart .btnGrp {
+        position: initial;
+    }
+    .invitedQBank .qbankPart {
+        padding: 10px 10px;
+    }
+    .invitedQBank .qbankPart .qbankinvite h1 {
+        margin-bottom: 10px;
+    }
+
+    /** Number Select Question **/
+    .numberOFquestion{
+        margin: 18% 0% 4%;
+    }
+
+    /** Topic Share **/
+    .topicShare {
+        margin: 18% 0% 4%;
+    }
+    .topicShare .liveChallenge .startingSoon button.btn.custonBtn {
+        font-size: 12px;
+        padding: 8px 8px;
+        width: 180px;
+    }
+    .topicShare .liveChallenge .startingSoon p {
+        font-size: 14px;
+    }
+    .topicShare .liveChallenge .fulllBox {
+        padding: 20px 10px;
+    }
+    .topicShare .totalTime .timePer .imgSec img {
+        width: 18px;
+        margin-right: 10px;
+    }
+    .totalTime .timePer p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .totalTime .timePer span.qsnNumber {
+        font-size: 16px;
+    }
+    .topicShare .liveChallenge .fulllBox .topicBox .imgPart {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+    }
+    .topicShare .liveChallenge .fulllBox .topicBox .imgPart img {
+        width: 16px;
+    }
+    .topicShare .liveChallenge .fulllBox .topicBox .textPart h3 {
+        font-size: 16px;
+    }
+    .topicShare .sharePart {
+        padding: 10px 10px;
+        margin: 10% 0px;
+    }
+    .topicShare .sharePart p {
+        font-size: 12px;
+    }
+    .topicShare .Players h4 {
+        font-size: 16px;
+    }
+    .topicShare .availabelPlayer img.profile {
+        width: 40px;
+        height: 40px;
+        margin-right: 14px;
+    }
+    .topicShare .availabelPlayer p {
+        font-size: 16px;
+    }
+    .topicShare .availabelPlayer button.btn {
+        width: 120px;
+        font-size: 14px;
+    }
+    .topicShare .butnPart button.btn.attempt {
+        width: 50%;
+    }
+
+    /** Leader Board **/
+    .leaderBoard{
+        margin: 16% 0% 4%;
+    }
+    .leaderBoard .qsnTotal .butnSet button.btn {
+        width: 56%;
+    }
+
+    /** Attempt **/
+    .attempT{
+        margin: 16% 0% 4%;
+    }
+    .attempT .heaDing h1 {
+        font-size: 16px;
+    }
+    .attempT .attempQBank .textPArt h3 {
+        font-size: 16px;
+    }
+    .attempT .attempQBank .textPArt button.Btn {
+        width: 96px;
+        font-size: 14px;
+        border-radius: 6px;
+        padding: 6px 10px;
+    }
+    .attempT .attempQBank .imagPart img {
+        min-width: 40px;
+        height: 40px;
+        padding: 8px;
+    }
+
+    /** QBank List **/
+    .QbankList{
+        margin: 16% 0% 4%;
+    }
+    .QbankList .allQBankhead h1 {
+        font-size: 16px;
+    }
+    .QbankList .allQBankhead p {
+        font-size: 14px;
+    }
+    .QbankList .subJect p {
+        font-size: 16px;
+    }
+    .QbankList .QbankComplete img {
+        width: 140px;
+    }
+    .QbankList .QbankComplete h3 {
+        font-size: 18px;
+    }
+    .QbankList .QbankComplete h4 {
+        font-size: 16px;
+    }
+    .QbankList .QbankComplete h5 {
+        font-size: 14px;
+    }
+    .QbankList .rewButton button.btn {
+        padding: 8px 0px;
+        font-size: 16px;
+        width: 260px;
+    }
+    .groupbtndata {
+        padding: 10px 10px;
+    }
+  
+    .groupbtndata .btndataset button.selectedBtn {
+        width: 160px;
+        padding: 8px 0px;
+    }
+    .groupbtndata .btndataset button.nonselectedBtn {
+        width: 160px;
+        padding: 8px 0px;
+    }
+
+    .topicShare .joinCustomQbank {
+        width: 100%;
+        padding: 40px 40px;
+    }
+    .leaderBoard{
+        width: 100%;
+        margin: 8% 0% 4%;
+    }
+    .qbankInnerNew .qBankOptionPart {
+        padding: 20px 20px;
+    }
+    .qbankInnerNew .setdiffiLevel {
+        padding: 20px 20px;
+        margin: 24px 0px;
+    }
+    .setdiffiLevel .inputSection [type="radio"]:checked + label,
+    .setdiffiLevel .inputSection [type="radio"]:not(:checked) + label {
+        font-size: 16px;
+    }
+   
+}
+
+@media only screen and (max-width: 767px) {
+    /** Custom QBank **/
+    .NewcustomQbank{
+        margin: 24% 0px 0%;
+    }
+    .NewcustomQbank .boxSection .imgPart img {
+        width: 22px;
+        height: 22px;
+    }
+    .NewcustomQbank .boxSection .imgPart {
+        width: 60px;
+        height: 60px;
+    }
+    .NewcustomQbank .boxSection .textPart h3 {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        margin: 10px 0px;
+    }
+    .NewcustomQbank .mainHeading h1 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .NewcustomQbank .boxSectiontopDivSet {
+        justify-content: center;
+    }
+    .NewcustomQbank .anatomyBoxes .boximg {
+        width: 30%;
+    }
+    .NewcustomQbank .anatomyBoxes .textSec p {
+        font-size: 16px;
+    }
+    .NewcustomQbank .anatomyBoxes .textSec .textBlock {
+        font-size: 14px;
+    }
+    .NewcustomQbank .anatomyBoxes {
+        padding: 6px 20px;
+    }
+    .customQBank .qbankInnerNew {
+        width: 100%
+    }
+    .qbankInnerNew .naPillsTab ul.nav.nav-pills {
+        width: auto;
+    }
+    .qbankInnerNew .qBankOptionPart {
+        padding: 10px 10px;
+    }
+    .setdiffiLevel .inputSection {
+        display: inline-block;
+    }
+    .qbankInnerNew .difLevel h2 {
+        font-size: 16px;
+    }
+    .qbankInnerNew .difLevel h2 img {
+        width: 40px;
+        height: 40px;
+    }
+    .qbankInnerNew .setdiffiLevel {
+        padding: 20px 20px;
+        margin: 20px 0px;
+    }
+    .qbankInnerNew .difLevel {
+        margin: 0px 0px 20px;
+        padding: 10px 10px;
+    }
+    .setdiffiLevel .inputSection [type="radio"]:checked + label,
+    .setdiffiLevel .inputSection [type="radio"]:not(:checked) + label {
+        font-size: 15px;
+    }
+
+    /** Custom QBank2 **/
+    .customizeQBank .attemptedBoxes {
+        /* display: flow; */
+        padding: 12px 12px;
+    }
+    .customizeQBank .attemptedBoxes .textSec h3 {
+        font-size: 14px;
+    }
+    .customizeQBank .attemptedBoxes .textSec h4 span {
+        font-size: 12px;
+    }
+    .customizeQBank .attemptedBoxes .boxenter {
+        width: 40px;
+        height: 40px;
+    }
+    .customizeQBank .attemptedBoxes .boximg {
+        width: 14%;
+        margin-right: 10px;
+    }
+    .customizeQBank .attemptedBoxes .textSec ul li {
+        font-size: 12px;
+        line-height: 24px;
+        width: 28%;
+    }
+    .customizeQBank .attemptedBoxes .textBLock1 {
+        font-size: 12px;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .customizeQBank .attemptedBoxes .textBLock {
+        font-size: 12px;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .customizeQBank .attemptedBoxesNew .boxenter {
+        width: 40px;
+        height: 40px;
+        /* margin-top: 28px; */
+    }
+    .customizeQBank .attemptedBoxesNew .boxenter img {
+        width: 18px;
+    }
+    .customizeQBank .attemptedBoxesNew .textSet h2{
+        margin-bottom: 10px;
+    }
+    .customizeQBank .attemptedBoxes .textSec {
+        width: 86%;
+    }
+    .customizeQBank .attemptedBoxesNew .boximg {
+        width: 14%;
+        margin-right: 10px;
+    }
+    .customizeQBank .attemptedBoxesNew .textSet {
+        width: 86%;
+    }
+    .customizeQBank .attemptedBoxesNew .textSet h3 {
+        font-size: 14px;
+    }
+    .customizeQBank .attemptedBoxesNew .textSet h4 {
+        font-size: 14px;
+    }
+    .customizeQBank .attemptedBoxesNew .textSet h5 {
+        font-size: 14px;
+    }
+    .customizeQBank .attemptedBoxesNew {
+        padding: 12px 12px;
+    }
+
+    /** Choose Levels **/
+    .chooseLevel{
+        margin: 24% 0% 4%;
+    }
+    .chooseLevel .difLevel {
+        padding: 26px 0px 0px;
+        margin-top: 26px;
+    }
+    .chooseLevel .numberHeading h1 {
+        font-size: 16px;
+    }
+    .chooseLevel .difLevel h2 {
+        font-size: 15px;
+    }
+    .chooseLevel .levelTab .workingBox .mcqPart p {
+        font-size: 16px;
+    }
+
+    /** Attemp History **/
+    .attemptHistory{
+        margin: 24% 0% 4%;
+    }
+    .attemptHistory .attemptPeriod h1 {
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+    .attemptHistory .attemptPeriod h2 {
+        font-size: 14px;
+    }
+    .attemptPeriod .btnSet {
+        top: 4px;
+        right: 0px;
+    }
+    .attemptHistory .historyBox {
+        padding: 12px 12px;
+    }
+    .attemptHistory .historyBox .boxenter {
+        width: 40px;
+        height: 40px;
+    }
+    .attemptHistory .historyBox .boximg {
+        width: 14%;
+        margin-right: 10px;
+    }
+    .attemptHistory .attemptPeriod {
+        width: 86%;
+    }
+
+    /** Invited **/
+    .invitedQBank{
+        margin: 24% 0% 4%;
+    }
+    .invitedQBank .qbankPart .qbankinvite p {
+        font-size: 16px;
+    }
+    .invitedQBank .qbankPart span.inviteBlock {
+        font-size: 14px;
+    }
+    .invitedQBank .qbankPart span.inviteBlock {
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    /** Number Select Question **/
+    .numberOFquestion{
+        margin: 12% 0% 4%;
+    }
+    .numberOFquestion .spinner {
+        width: 300px;
+    }
+
+    /** Choose Subject **/
+    .chooseSubject {
+        margin: 12% 0% 4%;
+    }
+
+    /** Select Mode **/
+    .selectMode {
+        margin: 12% 0% 4%;
+    }
+    .selectMode .difLevel {
+        padding: 26px 0px 0px;
+        margin-top: 0px;
+    }
+    .chooseLevel .difLevel img {
+        width: 32px;
+    }
+    .selectMode .headmain h2 {
+        font-size: 16px;
+    }
+    .selectMode .modeOption .modetext h3 {
+        font-size: 16px;
+    }
+    .selectMode .modeOption .modetext p {
+        font-size: 14px;
+    }
+
+    /** Topic Share **/
+    .topicShare {
+        margin: 24% 0% 4%;
+    }
+    .topicShare .liveChallenge .startingSoon button.btn.custonBtn {
+        font-size: 14px;
+        padding: 8px 8px;
+        width: 180px;
+    }
+    .topicShare .liveChallenge .startingSoon p {
+        font-size: 14px;
+    }
+    .topicShare .liveChallenge .fulllBox {
+        padding: 20px 10px;
+    }
+    .topicShare .totalTime .timePer .imgSec img {
+        width: 18px;
+        margin-right: 10px;
+    }
+    .totalTime .timePer p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .totalTime .timePer span.qsnNumber {
+        font-size: 16px;
+    }
+    .topicShare .liveChallenge .fulllBox .topicBox .imgPart {
+        width: 40px;
+        height: 40px;
+        font-size: 14px;
+        margin-right: 10px;
+    }
+    .topicShare .liveChallenge .fulllBox .topicBox .imgPart img {
+        width: 16px;
+    }
+    .topicShare .liveChallenge .fulllBox .topicBox .textPart h3 {
+        font-size: 14px;
+    }
+    .topicShare .liveChallenge .fulllBox .topicBox .imgPartNew img {
+        width: 36px;
+        margin-right: 10px;
+    }
+    .topicShare .sharePart {
+        padding: 10px 10px;
+        margin: 10% 0px;
+    }
+    .topicShare .sharePart p {
+        font-size: 12px;
+    }
+    .topicShare .Players .btnGroup button.btn {
+        width: 100%;
+        margin: 4px auto;
+    }
+    .topicShare .Players .btnGroup {
+        display: grid;
+        justify-content: normal;
+    }
+    .topicShare .searchSec {
+        margin: 10% 0px;
+    }
+    .topicShare .Players h4 {
+        font-size: 16px;
+    }
+    .topicShare .availabelPlayer img.profile {
+        width: 40px;
+        height: 40px;
+        margin-right: 14px;
+    }
+    .topicShare .availabelPlayer p {
+        font-size: 14px;
+        display: flex;
+        align-items: center;
+        display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    }
+    .topicShare .availabelPlayer button.btn {
+        width: 30%;
+        font-size: 14px;
+    }
+    .topicShare .butnPart button.btn.attempt {
+        width: 50%;
+    }
+
+    /** Leader Board **/
+    .leaderBoard{
+        width: 100%;
+        margin: 12% 0% 4%;
+    }
+    .leaderBoard .headingSec h1 {
+        font-size: 16px;
+    }
+    .leaderBoard .headingSec p {
+        font-size: 13px;
+    }
+    .leaderBoard .qsnTotal h2 {
+        font-size: 16px;
+    }
+    .leaderBoard .qsnTotal {
+        display: grid;
+    }
+    .leaderBoard .qsnTotal .butnSet button.btn {
+        width: 100%;
+    }
+    .leaderBoard .qsnTotal .butnSet {
+        width: 100%;
+    }
+    .leaderBoard .qsnTotal .correctResult {
+        width: 100%;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .leaderBoard .SetPositionBox {
+        padding: 40px 10px 30px;
+    }
+    .leaderBoard .positionAttempt img.number {
+        width: 20px;
+    }
+    .leaderBoard .positionAttempt img.pic {
+        width: 36px;
+        margin: 0px 10px;
+    }
+    .leaderBoard .positionAttempt img.crown {
+        top: -20px;
+        left: 36px;
+    }
+    .leaderBoard .positionAttempt h3 {
+        font-size: 14px;
+    }
+    .leaderBoard .positionAttempt h4 {
+        right: 0px;
+        font-size: 14px;
+    }
+
+    /** Attempt **/
+    .attempT{
+        margin: 24% 0% 4%;
+    }
+    .attempT .heaDing h1 {
+        font-size: 16px;
+    }
+    .attempT .attempQBank .textPArt h3 {
+        font-size: 16px;
+    }
+    .attempT .attempQBank .textPArt button.Btn {
+        width: 96px;
+        font-size: 14px;
+        border-radius: 6px;
+        padding: 6px 10px;
+    }
+    .attempT .attempQBank .imagPart img {
+        min-width: 40px;
+        height: 40px;
+        padding: 8px;
+    }
+
+    /** QBank List **/
+    .QbankList{
+        margin: 24% 0% 4%;
+    }
+    .QbankList .allQBankhead h1 {
+        font-size: 16px;
+    }
+    .QbankList .allQBankhead p {
+        font-size: 14px;
+    }
+    .QbankList .subJect p {
+        font-size: 16px;
+    }
+    .QbankList .QbankComplete img {
+        width: 140px;
+    }
+    .QbankList .QbankComplete h3 {
+        font-size: 18px;
+    }
+    .QbankList .QbankComplete h4 {
+        font-size: 16px;
+    }
+    .QbankList .QbankComplete h5 {
+        font-size: 14px;
+    }
+    .QbankList .rewButton button.btn {
+        padding: 8px 0px;
+        font-size: 16px;
+        width: 260px;
+    }
+    .groupbtndata{
+        padding: 10px 10px;
+    }
+    .groupbtndata .btndataset button.selectedBtn {
+        width: 132px;
+        padding: 8px 0px;
+        font-size: 14px;
+    }
+    .groupbtndata .btndataset button.nonselectedBtn {
+        width: 132px;
+        padding: 8px 0px;
+        font-size: 14px;
+    }
+    .customQBank .allSubInner {
+        padding: 0px 0 14px;
+    }
+    .groupbtndata .allSelectedData {
+        margin: 24px 0px;
+        padding: 20px 20px;
+    }
+    
+    .qbankInnerNew .selectMode {
+        padding: 0px 10px 40px;
+    }
+    .selectMode .modeOption .modeimg {
+        max-width: 50px;
+        margin-bottom: 14px;
+    }
+    .selectMode .modeOption {
+        display: grid;
+    }
+    .topicShare .joinCustomQbank {
+        width: 100%;
+        padding: 20px 10px;
+    }
+    .invitedQBank .qbankPart {
+        padding: 10px 10px;
+    }
+}
+
+@media only screen and (min-width: 740px) and (max-width: 767px) {
+    /** Custom QBank **/
+    .NewcustomQbank{
+        margin: 12% 0px 0%;
+    }
+
+    /** Sttemp History **/
+    .attemptHistory{
+        margin: 12% 0% 4%;
+    }
+
+    /** Invited **/
+    .invitedQBank{
+        margin: 12% 0% 4%;
+    }
+
+    /** Leader Board **/
+    .leaderBoard{
+        margin: 12% 0% 4%;
+    }
+
+    /** Attempt **/
+    .attempT{
+        margin: 12% 0% 4%;
+    }
+
+    /** QBank List **/
+    .QbankList{
+        margin: 12% 0% 4%;
+    }
+
+}
+
+@media only screen and (min-width: 640px) and (max-width: 739px) {
+    /** Custom QBank **/
+    .NewcustomQbank{
+        margin: 12% 0px 0%;
+    }
+
+    /** Custom QBank2 **/
+    .customizeQBank .attemptedBoxes .textSec ul li {
+        font-size: 11px;
+    }
+    .customizeQBank .attemptedBoxesNew .boximg {
+        width: 30%;
+    }
+
+    /** Sttemp History **/
+    .attemptHistory{
+        margin: 14% 0% 4%;
+    }
+
+    /** Invited **/
+    .invitedQBank{
+        margin: 12% 0% 4%;
+    }
+
+    /** Leader Board **/
+    .leaderBoard{
+        margin: 12% 0% 4%;
+    }
+
+    /** Attempt **/
+    .attempT{
+        margin: 12% 0% 4%;
+    }
+
+    /** QBank List **/
+    .QbankList{
+        margin: 12% 0% 4%;
+    }
+
+    
+}
+
+@media only screen and (min-width: 568px) and (max-width: 639px) {
+    /** Custom QBank **/
+    .NewcustomQbank .anatomyBoxes .boximg {
+        width: 18%;
+    }
+
+    /** Custom QBank2 **/
+    .customizeQBank .attemptedBoxes {
+        display: flex;
+    }
+    .customizeQBank .attemptedBoxes .textSec {
+        width: 88%;
+    }
+    .customizeQBank .attemptedBoxesNew .boximg {
+        width: 16%;
+    }
+
+    /** Choose Levels **/
+    .chooseLevel .levelTab .nav-link {
+        font-size: 16px;
+        width: 152px;
+    }
+
+     /** Sttemp History **/
+     .attemptHistory{
+        margin: 14% 0% 4%;
+    }
+
+    /** Invited **/
+    .invitedQBank{
+        margin: 14% 0% 4%;
+    }
+
+    /** Leader Board **/
+    .leaderBoard{
+        margin: 14% 0% 4%;
+    }
+
+    /** Attempt **/
+    .attempT{
+        margin: 14% 0% 4%;
+    }
+
+    /** QBank List **/
+    .QbankList{
+        margin: 14% 0% 4%;
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 567px) {
+    /** Custom QBank **/
+    .NewcustomQbank .anatomyBoxes .boximg {
+        width: 18%;
+    }
+
+    /** Choose Levels **/
+    .chooseLevel .levelTab .nav-link {
+        font-size: 16px;
+        width: 132px;
+    }
+
+    /** Invited **/
+    .invitedQBank{
+        margin: 16% 0% 4%;
+    }
+    /* .invitedQBank .qbankPart .namePart {
+        width: 14%;
+    }
+    .invitedQBank .qbankPart .namePart h3 {
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+    }
+    .invitedQBank .qbankPart .qbankinvite {
+        width: 86%;
+    }
+    .invitedQBank .qbankPart .btnGrp {
+        display: inline-grid;
+    }
+    .invitedQBank .qbankPart .btnGrp button.btn {
+        padding: 2px 0px;
+        margin: 0px 0px 6px 0px;
+    } */
+
+    /** Number Select Question **/
+    .numberOFquestion{
+        margin: 16% 0% 4%;
+    }
+
+    /** Attempt **/
+    .attempT{
+        margin: 16% 0% 4%;
+    }
+
+    /** QBank List **/
+    .QbankList{
+        margin: 16% 0% 4%;
+    }
+
+    .qbankInnerNew .naPillsTab li.nav-item {
+        width: 100%;
+    }
+    .qbankInnerNew .naPillsTab li .nav-link {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
+
+    
+}
+
+@media only screen and (min-width: 411px) and (max-width: 479px) {
+    /** Custom QBank **/
+    .NewcustomQbank .anatomyBoxes .boximg {
+        width: 24%;
+    }
+
+    /** Choose Levels **/
+    .chooseLevel .levelTab .nav-link {
+        font-size: 16px;
+        width: 140px;
+    }
+    .chooseLevel .workingBox .nav-link {
+        font-size: 16px;
+        width: 110px;
+    }
+
+    /** Invited **/
+    .invitedQBank{
+        margin: 16% 0% 4%;
+    }
+    /* .invitedQBank .qbankPart .namePart {
+        width: 14%;
+    }
+    .invitedQBank .qbankPart .namePart h3 {
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+    }
+    .invitedQBank .qbankPart .qbankinvite {
+        width: 86%;
+    }
+    .invitedQBank .qbankPart .btnGrp {
+        display: inline-grid;
+    }
+    .invitedQBank .qbankPart .btnGrp button.btn {
+        padding: 2px 0px;
+        margin: 0px 0px 6px 0px;
+    } */
+
+    /** Number Select Question **/
+    .numberOFquestion{
+        margin: 18% 0% 4%;
+    }
+
+    /** Attempt **/
+    .attempT{
+        margin: 18% 0% 4%;
+    }
+
+    /** QBank List **/
+    .QbankList{
+        margin: 18% 0% 4%;
+    }
+
+    .qbankInnerNew .naPillsTab li.nav-item {
+        width: 100%;
+    }
+    .qbankInnerNew .naPillsTab li .nav-link {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
+    .groupbtndata .btndataset {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 410px) {
+
+    /** Choose Levels **/
+    .chooseLevel .levelTab .nav-link {
+        font-size: 16px;
+        width: 160px;
+    }
+    .chooseLevel .workingBox .nav-link {
+        font-size: 16px;
+        width: 100px;
+    }
+
+    /** Invited **/
+    .invitedQBank{
+        margin: 16% 0% 4%;
+    }
+    /* .invitedQBank .qbankPart .namePart {
+        width: 18%;
+    }
+    .invitedQBank .qbankPart .namePart h3 {
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+    }
+    .invitedQBank .qbankPart .qbankinvite {
+        width: 82%;
+    }
+    .invitedQBank .qbankPart .btnGrp {
+        display: inline-grid;
+    }
+    .invitedQBank .qbankPart .btnGrp button.btn {
+        padding: 0px 0px;
+        width: 70px;
+        margin: 0px 0px 6px 0px;
+    }
+    .invitedQBank .qbankPart {
+        padding: 10px 10px;
+    } */
+    .invitedQBank .qbankPart .boximg {
+        width: 14%;
+        margin-right: 10px;
+    }
+    .invitedQBank .qbankPart .namePart {
+        width: 40px;
+        height: 40px;
+    }
+    .invitedQBank .qbankPart .qbankinvite {
+        width: 86%;
+    }
+    .invitedQBank .qbankPart .btnGrp {
+        display: flex;
+        position: initial;
+    }
+    .invitedQBank .qbankPart .qbankinvite h1 {
+        margin-bottom: 6px;
+    }
+
+    /** Number Select Question **/
+    .numberOFquestion{
+        margin: 24% 0% 4%;
+    }
+
+    .qbankInnerNew .naPillsTab li.nav-item {
+        width: 100%;
+    }
+    .qbankInnerNew .naPillsTab li .nav-link {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
+    .attemptPeriod .btnSet {
+        position: initial;
+    }
+    .groupbtndata .btndataset {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+}
+
+@media only screen and (min-width: 360px) and (max-width: 374px) {
+
+    .attemptPeriod .btnSet {
+        position: initial;
+    }
+
+    /** Choose Levels **/
+    .chooseLevel .levelTab .nav-link {
+        font-size: 16px;
+        width: 152px;
+    }
+    .chooseLevel .workingBox .nav-link {
+        font-size: 16px;
+        width: 98px;
+    }
+
+    /** Invited **/
+    .invitedQBank{
+        margin: 20% 0% 4%;
+    }
+    .invitedQBank .qbankPart .boximg {
+        width: 14%;
+        margin-right: 10px;
+    }
+    .invitedQBank .qbankPart .namePart {
+        width: 40px;
+        height: 40px;
+    }
+    .invitedQBank .qbankPart .qbankinvite {
+        width: 86%;
+    }
+    .invitedQBank .qbankPart .btnGrp {
+        display: flex;
+        position: initial;
+    }
+    /* .invitedQBank .qbankPart .btnGrp button.btn {
+        padding: 0px 0px;
+        width: 70px;
+        margin: 0px 0px 6px 0px;
+    } */
+    .invitedQBank .qbankPart .qbankinvite h1 {
+        margin-bottom: 6px;
+    }
+    .invitedQBank .qbankPart {
+        padding: 10px 10px;
+    }
+
+    /** Number Select Question **/
+    .numberOFquestion{
+        margin: 24% 0% 4%;
+    }
+
+    /** Select Mode **/
+    .selectMode {
+        margin: 16% 0% 4%;
+    }
+
+    .qbankInnerNew .naPillsTab li.nav-item {
+        width: 100%;
+    }
+    .qbankInnerNew .naPillsTab li .nav-link {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
+    .groupbtndata .btndataset {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}

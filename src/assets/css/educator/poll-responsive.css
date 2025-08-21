@@ -1,0 +1,182 @@
+
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	/*** Add poll ***/
+	.addpoll_section .togle span.option {
+		font-size: 13px;
+	}
+	.addpoll_section .togle .switch {
+		margin: 4px 8px;
+		transform: translateY(50%);
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	/*** Add poll ***/
+	.addpoll_section .togle span.option {
+		font-size: 13px;
+	}
+	.addpoll_section .togle .switch {
+		margin: 4px 8px;
+		transform: translateY(50%);
+	}
+	.addpoll_section .pd_set {
+		padding-left: 0px;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	/*** poll ***/
+	.poll_section .add_poll h4 {
+		font-size: 14px;
+	}
+	.poll_section .add_poll a.addbutton {
+		padding: 6px 10px;
+	}
+	.poll_section .poll_list .table-sec {
+		padding: 10px 10px;
+	}
+	.poll_section .dataTables_length label {
+		float: left;
+	    margin-bottom: 20px;
+	}
+	.poll_section .poll_list .table-sec .table-dropdwn .selct-fld {
+		padding: 4px 26px;
+		width: 146px;
+		top: 2px;
+		left: 122px;
+	}
+	.poll_section .poll_list .table-sec .dateselect {
+		top: 8px;
+		left: 146px;
+	}
+	
+	
+	/*** Add poll ***/
+	.addpoll_section .form-group label.col-form-label {
+		padding: 8px 16px;
+    }
+	.addpoll_section .form-control {
+		margin-bottom: 0px;
+	}
+	.addpoll_section .poll_editor h4 {
+		font-size: 12px;
+	}
+	.addpoll_section .poll_editor button.note-btn {
+		font-size: 12px;
+		padding: 6px 7px;
+	}
+	
+	
+
+}
+
+@media only screen and (min-width: 740px) and (max-width: 767px) {
+	/*** poll ***/
+	.poll_section .dataTables_wrapper .dataTables_filter input {
+		width: 140px !important;
+	}
+	
+	
+	/*** Add poll ***/
+	.addpoll_section .form-group label.col-form-label {
+		padding: 8px 0px;
+		font-size: 11px;
+    }
+	.addpoll_section .form-control {
+		margin-bottom: 6px;
+	}
+	.addpoll_section .togle span.option {
+		font-size: 11px;
+	}
+	.addpoll_section .togle .switch {
+		margin: 0px 8px;
+		transform: translateY(24%);
+	}
+	
+}
+
+@media only screen and (min-width: 640px) and (max-width: 739px) {
+	/*** poll ***/
+	.poll_section .dataTables_wrapper .dataTables_filter input {
+		width: 140px !important;
+	}
+	.poll_section .dataTables_wrapper .dataTables_filter label {
+		float: right;
+	}
+	
+	
+	/*** Add poll ***/
+	.addpoll_section .form-group label.col-form-label {
+		padding: 8px 0px;
+		font-size: 11px;
+    }
+	.addpoll_section .form-control {
+		margin-bottom: 6px;
+	}
+	.addpoll_section .togle span.option {
+		font-size: 11px;
+	}
+	.addpoll_section .togle .switch {
+		margin: 0px 8px;
+		transform: translateY(24%);
+	}
+
+}
+
+@media only screen and (min-width: 568px) and (max-width: 639px) {
+	/*** poll ***/
+	.poll_section .dataTables_wrapper .dataTables_filter input {
+		width: 140px !important;
+	}
+	.poll_section .dataTables_wrapper .dataTables_filter label {
+		float: right;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 567px) {
+	/*** poll ***/
+	.poll_section .dataTables_wrapper .dataTables_filter input {
+		width: 140px !important;
+	}
+	.poll_section .dataTables_wrapper .dataTables_filter label {
+		float: right;
+	}
+	.poll_section .poll_list .table-sec .table-dropdwn .selct-fld {
+		padding: 4px 16px;
+		width: 116px;
+		font-size: 11px;
+	}
+	.poll_section .poll_list .table-sec em.fa-calendar:before {
+		font-size: 10px;
+	}
+	.poll_section .poll_list .table-sec .dateselect {
+		top: 6px;
+		left: 144px;
+	}
+}
+
+@media only screen and (min-width: 411px) and (max-width: 479px) {
+	/*** poll ***/
+	.poll_section .dataTables_wrapper .dataTables_filter input {
+		width: 72px !important;
+	}
+	.poll_section .dataTables_wrapper .dataTables_filter label {
+		float: right;
+	}
+	.poll_section .poll_list .table-sec .table-dropdwn .selct-fld {
+		padding: 4px 16px;
+		width: 116px;
+		font-size: 11px;
+	}
+	.poll_section .poll_list .table-sec em.fa-calendar:before {
+		font-size: 10px;
+	}
+	.poll_section .poll_list .table-sec .dateselect {
+		top: 6px;
+		left: 144px;
+	}
+	
+
+
+}

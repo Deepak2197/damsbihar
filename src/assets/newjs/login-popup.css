@@ -1,0 +1,161 @@
+@media only screen and (min-width: 1200px) and (max-width: 1366px) {
+    /**********Login popup**********/
+   
+    a.help {
+        top: 10px;
+        left: 48px;
+    }
+   
+    div#exampleModal-reg {
+        padding-right: 0px !important;
+    }
+
+  /**********Get Started popup**********/
+ 
+
+    /**********Login Verify OTP popup**********/
+  
+    .verify-btn .btn {
+        width: 100%;
+        margin-top: 0px;
+        margin-left: -14px;
+        padding: 12px 0px;
+        background-color: #61A2F7;
+        border-color: #61A2F7;
+        font-size: 14px;
+    }
+
+}
+@media only screen and (max-width:1024px) {
+
+    a.help {
+        top: 10px;
+        left: 48px;
+    }
+
+
+    div#exampleModal-reg {
+        padding-right: 0px !important;
+    }
+
+    /**********Login Verify OTP popup**********/
+
+    .verify-img img{
+        width: 200px;
+        margin: 78px 0px;
+    }
+    
+    .verify-btn .btn {
+        width: 100%;
+        margin-top: 0px;
+        margin-left: -14px;
+        padding: 12px 0px;
+        background-color: #61A2F7;
+        border-color: #61A2F7;
+        font-size: 14px;
+    }
+
+    /**********Login Verify OTP End**********/
+}
+@media only screen and (min-width:812px) and (max-width:991px) {
+
+/**********Login popup**********/
+
+a.help {
+    top: 10px;
+    left: 48px;
+}
+
+div#exampleModal-reg {
+    padding-right: 0px !important;
+}
+
+/**********Login Verify OTP popup**********/
+
+.verify-img img{
+   width: 120px;
+   margin: 104px 0px;
+}
+
+.verify-btn .btn {
+    width: 100%;
+    margin-top: 0px;
+    margin-left: -14px;
+    padding: 10px 0px;
+    background-color: #61A2F7;
+    border-color: #61A2F7;
+    font-size: 12px;
+}
+
+
+/**********Login Verify OTP End**********/
+   
+    
+}
+@media only screen and (max-width:768px) {
+    /**********Login popup**********/
+    a.help {
+        top: 10px;
+        left: 48px;
+    }
+
+    div#exampleModal-reg {
+        padding-right: 0px !important;
+    }
+
+  /**********Get Started popup**********/
+ 
+    /**********Login Verify OTP popup**********/
+
+    .verify-img img{
+       width: 120px;
+       margin: 104px 0px;
+    }
+    
+    .verify-btn .btn {
+        width: 100%;
+        margin-top: 0px;
+        margin-left: -14px;
+        padding: 10px 0px;
+        background-color: #61A2F7;
+        border-color: #61A2F7;
+        font-size: 12px;
+    }
+
+    /**********Login Verify OTP End**********/
+}
+@media only screen and (max-width:767px) {
+
+     /**********Login popup**********/
+   
+    a.help {
+        top: 20px;
+        left: 48px;
+    }
+
+    div#exampleModal-reg {
+        padding-right: 0px !important;
+    }
+   
+
+   /**********Get Started popup**********/
+
+    /**********Login Verify OTP popup**********/
+
+    .verify-img img{
+       width: 120px;
+    }
+    
+    .verify-btn .btn {
+        width: 100%;
+        margin-top: 24px;
+        margin-left: 0px;
+        padding: 10px 0px;
+        background-color: #61A2F7;
+        border-color: #61A2F7;
+        font-size: 12px;
+    }
+   
+
+    /**********Login Verify OTP End**********/
+}

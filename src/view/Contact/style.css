@@ -1,0 +1,379 @@
+.Contactus {
+  width: 100%;
+  float: left;
+}
+.contactBanner {
+  width: 100%;
+  float: left;
+  /* background-image:url(https://d2enu63wt1sf3u.cloudfront.net/react_emed_web/conatcbg.png); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto; */
+  padding: 40px 0px;
+  /* border-left: 16px solid #f16136; */
+}
+.contactForm {
+  background: #eeeeee99;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 12px;
+  padding: 10px 15px;
+  /* border: 1px solid #bdbdbd; */
+  /* background: #fff; */
+  line-height: 26px;
+  font-weight: 500;
+}
+.contactBanner .contactForm .textareabg {
+  width: 100%;
+  border-radius: 20px;
+  padding: 10px 15px;
+  border: 1px solid #bdbdbd;
+  height: 80px;
+  font-size: 14px;
+  font-weight: 500;
+}
+.contactBanner .contactForm .sendMsg {
+  background: #b8b8b8;
+  background: linear-gradient(
+    90deg,
+    rgba(184, 184, 184, 1) 0%,
+    rgba(33, 33, 33, 1) 100%
+  );
+  color: #fff;
+  width: 220px;
+  padding: 12px 0px;
+  text-align: center;
+  border-radius: 20px;
+  /* box-shadow: 0 13px 50px 0 #ed633d, 0 0px 0px 0 #ed633d !important; */
+  font-weight: 500;
+}
+.contactBanner .contactForm .leftImg {
+  float: right;
+}
+.contactBanner .contactForm .leftImg img {
+  max-width: 100%;
+  width: 530px;
+  margin-top: 25px;
+}
+
+/* .Contactus .commanColor {
+  position: absolute;
+  background: #fdede8;
+  top: 30px;
+  width: 420px;
+  height: 351px;
+  right: 0;
+  z-index: -1;
+} */
+
+.contact-page {
+  width: 100%;
+  float: left;
+  margin: 60px 0px;
+  background: #fafafa;
+  padding: 50px 50px;
+  border-radius: 40px;
+}
+.contact-page .ConIfo {
+  margin: 0px 0px 30px;
+}
+
+.contact-page .contact-info-bx h2 {
+  font-size: 22px;
+  color: #212121;
+  font-weight: 500;
+}
+.contact-page .contact-info-bx p {
+  font-size: 16px;
+  color: #757575;
+  font-weight: 400;
+}
+.contact-page .corporateOffice h2 {
+  color: #212121 !important;
+  font-size: 22px !important;
+  font-weight: 500;
+  margin-bottom: 24px !important;
+}
+.contact-page .corporateOffice {
+  margin: 30px 0px 40px;
+  position: relative;
+}
+.contact-page .corporateOffice ul li {
+  color: #757575;
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 6px;
+  line-height: 30px;
+  position: relative;
+  margin-left: 40px;
+}
+.contact-page .corporateOffice li em {
+  color: #424242;
+  font-size: 18px;
+  position: absolute;
+  left: -35px;
+  top: 4px;
+}
+
+.contact-page .classRoomCenter {
+  margin: 30px 0px 40px;
+  position: relative;
+}
+.contact-page .classRoomCenter h2 {
+  color: #212121 !important;
+  font-size: 22px !important;
+  font-weight: 500;
+  margin-bottom: 24px !important;
+}
+.contact-page .classRoomCenter ul li {
+  color: #212121;
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 6px;
+  line-height: 30px;
+  position: relative;
+  margin-left: 40px;
+}
+.contact-page .classRoomCenter li em {
+  color: #424242;
+  font-size: 18px;
+  position: absolute;
+  left: -35px;
+  top: 4px;
+}
+
+.contact-page .mapBg iframe {
+  border-radius: 10px;
+}
+.contact-page .contact-social li {
+  display: inline-block;
+  margin-right: 10px;
+}
+.contact-page .contact-social li img {
+  max-width: 100%;
+  width: 30px;
+}
+
+/* Media Query */
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+  .commanColor {
+    width: 375px;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  .commanColor {
+    width: 340px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .contactBanner {
+    padding: 20px 0px;
+  }
+  .contactBanner .contactForm h2 {
+    font-size: 25px;
+  }
+  .contactBanner .contactForm .form-control {
+    height: 40px;
+    font-size: 13px;
+  }
+  .contactBanner .contactForm .form-group {
+    margin-bottom: 10px !important;
+  }
+  .contactBanner .contactForm .sendMsg {
+    padding: 10px 0px;
+    font-size: 15px;
+  }
+  .contactBanner .contactForm .textareabg {
+    border-radius: 12px;
+    height: 65px;
+    font-size: 14px;
+  }
+
+  .contactBanner .contactForm .leftImg img {
+    width: 375px;
+    margin-top: 57px;
+  }
+  .contact-page .contact-info-bx h2 {
+    font-size: 22px;
+  }
+  .contact-page .contact-info-bx p {
+    font-size: 13px;
+  }
+  .contact-page .corporateOffice h2 {
+    font-size: 21px !important;
+    margin-bottom: 20px !important;
+  }
+  .contact-page .corporateOffice ul li {
+    font-size: 14px;
+    line-height: 28px;
+  }
+  .contact-page .corporateOffice li em {
+    font-size: 19px;
+  }
+
+  .contact-page .classRoomCenter h2 {
+    font-size: 21px !important;
+    margin-bottom: 20px !important;
+  }
+  .contact-page .classRoomCenter ul li {
+    font-size: 14px;
+    line-height: 28px;
+  }
+  .contact-page .classRoomCenter li em {
+    font-size: 19px;
+  }
+  .contact-page .contact-social li img {
+    width: 28px;
+  }
+  .contact-page .mapBg {
+    margin-top: 50px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .contactBanner {
+    padding: 20px 0px;
+  }
+  .contactBanner .contactForm h2 {
+    font-size: 25px;
+  }
+  .contactBanner .contactForm .form-control {
+    height: 40px;
+    font-size: 13px;
+  }
+  .contactBanner .contactForm .form-group {
+    margin-bottom: 10px !important;
+  }
+  .contactBanner .contactForm .sendMsg {
+    width: 100%;
+    padding: 10px 0px;
+    font-size: 15px;
+  }
+  .contactBanner .contactForm .textareabg {
+    border-radius: 12px;
+    height: 65px;
+    font-size: 14px;
+  }
+  .contactBanner .contactForm .leftImg {
+    margin-top: 62px;
+  }
+  .contact-page {
+    padding: 30px 30px;
+  }
+  .contact-page .contact-info-bx h2 {
+    font-size: 22px;
+  }
+  .contact-page .contact-info-bx p {
+    font-size: 15px;
+  }
+  .contact-page .corporateOffice h2 {
+    font-size: 21px !important;
+    margin-bottom: 20px !important;
+  }
+  .contact-page .corporateOffice ul li {
+    font-size: 14px;
+    line-height: 28px;
+  }
+  .contact-page .corporateOffice li em {
+    font-size: 19px;
+  }
+
+  .contact-page .classRoomCenter h2 {
+    font-size: 21px !important;
+    margin-bottom: 20px !important;
+  }
+  .contact-page .classRoomCenter ul li {
+    font-size: 14px;
+    line-height: 28px;
+  }
+  .contact-page .classRoomCenter li em {
+    font-size: 19px;
+  }
+  .contact-page .contact-social li img {
+    width: 28px;
+  }
+  .contact-page .mapBg {
+    margin-top: 50px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .contactBanner {
+    padding: 20px 0px;
+  }
+  .contactForm {
+    padding: 20px 20px;
+  }
+  .contactBanner .contactForm h2 {
+    font-size: 18px;
+  }
+  .contactBanner .contactForm .form-control {
+    height: 40px;
+    font-size: 13px;
+  }
+  .contactBanner .contactForm .form-group {
+    width: 100% !important;
+    margin-bottom: 10px !important;
+  }
+  .contactBanner .contactForm .sendMsg {
+    width: 100%;
+    font-size: 15px;
+    padding: 10px 0px;
+  }
+  .contactBanner .contactForm .leftImg img {
+    margin-top: 50px;
+  }
+  .contact-page {
+    padding: 20px 30px;
+    border-radius: 20px;
+  }
+  .contact-page .contact-info-bx h2 {
+    font-size: 18px;
+  }
+  .contact-page .contact-info-bx p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .contact-page .corporateOffice h2 {
+    font-size: 18px !important;
+    margin-bottom: 20px !important;
+  }
+  .contact-page .corporateOffice ul li {
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 30px;
+  }
+  .contact-page .corporateOffice li em {
+    font-size: 18px;
+    left: -25px;
+    top: 6px;
+  }
+  .contact-page .classRoomCenter h2 {
+    font-size: 18px !important;
+    margin-bottom: 15px !important;
+  }
+  .contact-page .classRoomCenter ul li {
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 30px;
+  }
+  .contact-page .classRoomCenter li em {
+    font-size: 18px;
+    left: -25px;
+    top: 6px;
+  }
+  .contact-page .contact-social li img {
+    width: 25px;
+  }
+  .contact-page .mapBg iframe {
+    height: 370px;
+  }
+  .contact-page .mapBg {
+    margin-top: 40px;
+  }
+}

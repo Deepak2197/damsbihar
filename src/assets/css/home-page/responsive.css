@@ -1,0 +1,2597 @@
+@media only screen and (min-width: 1345px) and (max-width: 1440px) {
+  .coursename-area .mix-group {
+    margin: 0px 35px 30px 0px !important;
+  }
+  .courseplanBg {
+    margin-left: 10px;
+  }
+  .HometopperZone .btn_tabbing button {
+    font-size: 14px !important;
+    width: 116px !important;
+  }
+}
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+  .home_banner .carousel-inner .carousel-item img {
+    height: 400px !important;
+  }
+
+  .recorded-video-teg .choose-language h3 {
+    font-size: 15px;
+  }
+  .recorded-video-teg .choose-language .inner-text p {
+    font-size: 16px;
+  }
+
+  .daily-quiz-area .anatomytopic li {
+    padding: 0px !important;
+  }
+  .newsBoxSet .datePart .imgSec ul li img {
+    width: 16px !important;
+    height: auto !important;
+  }
+  #tabs .nav-tabs .nav-link {
+    border-radius: 7px;
+  }
+
+  .facilities-box > .row > .thumb > img {
+    width: 65%;
+  }
+
+  .owl-stage-outer .testimonial {
+    min-height: 268px;
+    border-radius: 10px;
+  }
+  .facilities-box .content-box .item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 0px;
+  }
+
+  .daily-quiz-area .anatomytopic li img {
+    max-width: 100% !important;
+    margin-top: -18px !important;
+  }
+  .coursename-area .textimg-group .neetpg {
+    margin: 0 0px 0 78px;
+  }
+
+  .coursename-area .mix-group {
+    margin: 0px 23px 30px 0px !important;
+  }
+  .coursename-area .mix-group .btncot {
+    bottom: 15px;
+  }
+
+  .video-play-button:after {
+    width: 50px !important;
+    height: 50px !important;
+  }
+
+  .featuredBg .item img {
+    width: 200px !important;
+    border-radius: 15px !important;
+    top: -55px !important;
+  }
+  .homeletestNews .publish li {
+    font-size: 12px !important;
+  }
+  .homeletestNews .article-img h4 {
+    font-size: 16px !important;
+    margin-bottom: 10px !important;
+  }
+  .homeletestNews .article-img img {
+    right: 24px !important;
+    width: 240px !important;
+  }
+  .sblue {
+    font-size: 26px !important;
+  }
+  .face-to-face span {
+    font-size: 16px !important;
+  }
+  .course-section .rowbg .item.courses h2 {
+    font-size: 18px !important;
+    margin: 15px 0 5px !important;
+  }
+  .coursename-area .mix-group h3 {
+    font-size: 21px !important;
+  }
+  .vidmargin h3 {
+    font-size: 28px !important;
+  }
+  #tabs .btn_tabbing button {
+    font-size: 16px !important;
+    line-height: 18px !important;
+  }
+  .testimonial .pic img {
+    width: 90px !important;
+    height: 90px !important;
+  }
+  .testimonial .pic {
+    left: 35px !important;
+  }
+
+  .learning-app .right-data p {
+    font-size: 20px !important;
+  }
+  .learning-app a.shre-link {
+    font-size: 16px !important;
+  }
+  .searchText select.form-control:not([size]):not([multiple]) {
+    background-position-x: 256px !important;
+    background-size: 4% !important;
+  }
+  .learning-app .app-img img {
+    top: -104px !important;
+    right: 70px !important;
+  }
+  .homeColor {
+    height: 290px !important;
+  }
+
+  .HometopperZone .btn_tabbing button {
+    font-size: 14px !important;
+    width: 116px !important;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  .homeColor {
+    height: 275px !important;
+  }
+  .home_banner .carousel-inner .carousel-item img {
+    height: 300px !important;
+  }
+  .home_banner .slick-slide img {
+    height: 500px !important;
+  }
+
+  .sblue {
+    font-size: 26px !important;
+  }
+  .vidmargin h3 {
+    font-size: 28px !important;
+  }
+
+  .course-section .rowbg .item.courses h2 {
+    margin: 20px 0 10px !important;
+    font-size: 20px !important;
+  }
+  .coursename-area .textimg-group h3 {
+    font-size: 14px !important;
+  }
+  .coursename-area {
+    padding: 50px 0px 40px !important;
+  }
+  .coursename-area .mix-group {
+    padding: 18px 5px 0px !important;
+    margin: 0px 21px 30px 0px !important;
+    height: 195px;
+  }
+  .coursename-area .mix-group h3 {
+    font-size: 18px !important;
+  }
+  #tabs .scroll-group .article-img {
+    margin: 0 15px 0px 0 !important;
+  }
+  .testimonial .pic {
+    left: 8px !important;
+  }
+
+  .recorded-video-teg h2.session {
+    font-size: 21px;
+  }
+  .recorded-video-teg .choose-language .inner-text p {
+    font-size: 15px;
+  }
+
+  .coursename-area .textimg-group .neetpg {
+    margin: 0 0px 0 58px;
+  }
+
+  #tabs .owl-stage {
+    padding: 0 50px 0px 108px !important;
+  }
+  #testimonial-area h2 {
+    font-size: 24px;
+    margin-bottom: 25px !important;
+  }
+
+  p.description111 {
+    line-height: 24px;
+    font-size: 12px;
+  }
+  #tabs .owl-stage-outer .testimonial {
+    min-height: 225px;
+  }
+  .searchText {
+    padding: 40px 25px;
+  }
+
+  .searchText select.form-control:not([size]):not([multiple]) {
+    background-position-x: 231px !important;
+  }
+  .HometopperZone .scroll-group .article-img {
+    margin: 0 15px 0px 0 !important;
+  }
+
+  a.help {
+    top: 10px;
+    left: 48px;
+  }
+
+  div#exampleModal-reg {
+    padding-right: 0px !important;
+  }
+  /**********Get Started popup**********/
+
+  /**********Login Verify OTP popup**********/
+
+  .verify-btn .btn {
+    width: 100%;
+    margin-top: 0px;
+    margin-left: -14px;
+    padding: 12px 0px;
+    background-color: #61a2f7;
+    border-color: #61a2f7;
+    font-size: 14px;
+  }
+
+  /**********Login Verify OTP End**********/
+
+  .owl-stage-outer .testimonial {
+    min-height: 258px;
+  }
+
+  .daily-quiz-area .anatomytopic .tono {
+    font-size: 13px !important;
+  }
+
+  .daily-quiz-area .anatomytopic li span {
+    font-size: 13px !important;
+  }
+  .carousel-indicators {
+    bottom: 40px;
+  }
+
+  .learning-app h2 {
+    font-size: 26px !important;
+  }
+  .learning-app .right-data p {
+    font-size: 18px !important;
+  }
+  .learning-app .app-img img {
+    top: -106px !important;
+    right: 53px !important;
+  }
+  .learning-app a.shre-link {
+    font-size: 15px !important;
+  }
+  .homeletestNews .article-img h4 {
+    font-size: 16px !important;
+  }
+  .homeletestNews .article-img p {
+    font-size: 13px !important;
+  }
+
+  .stories-inspire .video_area .video_textBg img {
+    width: 320px !important;
+    height: 205px !important;
+  }
+  .stories-inspire .video_area .video_textBg .backRadius {
+    width: 320px !important;
+    height: 205px !important;
+  }
+  .stories-inspire .student_text {
+    top: 135px !important;
+  }
+  .stories-inspire .student_text h3 {
+    font-size: 13px !important;
+    line-height: 21px !important;
+  }
+  .video-play-button:after {
+    width: 50px !important;
+    height: 50px !important;
+  }
+  .stories-inspire .video_area .video_textBg .backRadius {
+    border-radius: 120px 44px 120px 44px !important;
+  }
+  .stories-inspire .video_area .video_textBg img {
+    border-radius: 120px 44px 120px 44px !important;
+  }
+  .featuredBg .item {
+    margin: 60px 0px 0 !important;
+  }
+  .featuredBg .scroll-group .article-img {
+    margin: 0 0px 0px !important;
+  }
+  .featuredBg .item img {
+    width: 200px !important;
+    border-radius: 15px !important;
+    top: -55px !important;
+  }
+  .homeletestNews .publish li {
+    font-size: 11px !important;
+  }
+  .homeletestNews .article-img {
+    margin: -20px 0px 0 0px !important;
+  }
+  .newsBoxSet .datePart .imgSec ul li img {
+    width: 16px !important;
+    height: auto !important;
+  }
+  .homeletestNews .article-img img {
+    right: 16px !important;
+    width: 220px !important;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .homeColor {
+    height: 200px !important;
+  }
+
+  .home_banner .carousel-inner .carousel-item img {
+    height: 270px !important;
+  }
+  .searchText select.form-control:not([size]):not([multiple]) {
+    padding: 0px 10px !important;
+    font-size: 13px !important;
+    background-position-x: 180px !important;
+    background-size: 4% !important;
+  }
+
+  .course-section .rowbg .courses img {
+    height: auto !important;
+  }
+  .coursename-area .mix-group {
+    padding: 15px 10px 4px !important;
+    width: 23% !important;
+    height: 152px !important;
+    margin: 0px 15px 30px 0px !important;
+  }
+
+  .coursename-area .mix-group h3 {
+    font-size: 16px !important;
+    line-height: 24px !important;
+  }
+  .coursename-area .mix-group img {
+    width: auto !important;
+    height: 35px !important;
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;
+  }
+  .daily-quiz-area {
+    padding: 30px 0px !important;
+  }
+  .daily-quiz-area h2 {
+    font-size: 25px !important;
+  }
+  .daily-quiz-area img.titleimg {
+    width: 30px;
+  }
+  .HometopperZone {
+    padding: 30px 0px !important;
+  }
+
+  .globe_heading h2 {
+    font-size: 22px !important;
+  }
+  .impact-at-scale .globe_heading p {
+    font-size: 14px !important;
+  }
+  .impact-at-scale .impact_text li {
+    font-size: 20px !important;
+  }
+  .impact-at-scale .impact_text li span {
+    font-size: 12px !important;
+    font-weight: 700 !important;
+  }
+  .impact-at-scale .right-box .mixed-text {
+    width: 100px !important;
+    height: 40px !important;
+  }
+  .impact-at-scale .right-box .mixed-box {
+    height: 54px !important;
+    width: 90px !important;
+  }
+  .impact-at-scale .right-box .q-bank-box {
+    left: 20px !important;
+  }
+  .homeletestNews .article-img {
+    height: auto !important;
+    padding: 10px 10px !important;
+  }
+  .homeletestNews .article-img h4 {
+    font-size: 14px !important;
+    margin-bottom: 5px !important;
+    line-height: 22px !important;
+  }
+  .neetPGnext .technicalSupport {
+    width: 60% !important;
+  }
+  .homeletestNews .article-img p {
+    font-size: 13px !important;
+  }
+  .homeletestNews .publish {
+    margin-top: 15px !important;
+  }
+  .homeletestNews .publish li {
+    font-size: 9px !important;
+    padding-bottom: 3px !important;
+  }
+
+  .homeletestNews .article-img .like-wish li a {
+    width: 35px !important;
+    height: 35px !important;
+  }
+
+  .homeletestNews .article-img img {
+    height: 75px !important;
+    top: -87px !important;
+    right: 17px !important;
+    width: 170px !important;
+  }
+  .featuredBg .item img {
+    width: 181px !important;
+    top: -45px !important;
+    right: 0 !important;
+  }
+  .featuredBg .scroll-group .article-img {
+    margin: 0 0px 0 !important;
+    padding: 0px 4px !important;
+  }
+
+  .stories-inspire .student_text h3 {
+    font-size: 13px !important;
+    margin: -38px 0px 0 !important;
+    line-height: 17px !important;
+  }
+  .stories-inspire .student_text i {
+    font-size: 35px !important;
+  }
+
+  .stories-inspire .carousel-indicators {
+    bottom: -14px;
+  }
+  .stories-inspire .video-play-round:after {
+    width: 50px;
+    height: 50px;
+    left: 44%;
+    top: 40%;
+  }
+  .stories-inspire .video-play-button {
+    top: 43% !important;
+    left: 45% !important;
+  }
+  .stories-inspire .video-play-round i {
+    top: 45.5%;
+    left: 48.5%;
+  }
+
+  .action-box > .newmg {
+    width: 105px;
+  }
+  .arrow {
+    padding: 3px;
+  }
+
+  .HometopperZone .zonetext h3 {
+    font-size: 26px !important;
+  }
+  .HometopperZone .testimonial {
+    padding: 40px 15px 20px !important;
+  }
+  .HometopperZone .testimonial .title {
+    font-size: 14px !important;
+  }
+  .HometopperZone .testimonial .pictesti {
+    left: 30% !important;
+  }
+  .HometopperZone .testimonial .pictesti img {
+    width: 80px !important;
+    height: 80px !important;
+  }
+  .HometopperZone .testimonial p.description111 span {
+    padding: 5px 0 0 !important;
+    font-size: 13px !important;
+    line-height: 20px !important;
+  }
+  .HometopperZone .scroll-group .article-img {
+    margin: 0 10px 0px 0 !important;
+  }
+
+  .scroll {
+    height: 84vh;
+    overflow-y: scroll;
+  }
+  .vidmargin {
+    margin: 0px 0px 21px;
+  }
+  .vidmargin h3 {
+    font-size: 28px !important;
+  }
+
+  .video-play-button:after {
+    width: 50px !important;
+    height: 50px !important;
+  }
+  .stories-inspire .video_area .video_textBg .backRadius {
+    border-radius: 115px 44px 115px 44px !important;
+    width: 273px !important;
+    height: 192px !important;
+  }
+  .stories-inspire .video_area .video_textBg img {
+    border-radius: 115px 44px 115px 44px !important;
+    width: 273px !important;
+    height: 192px !important;
+  }
+
+  .sblue {
+    font-size: 26px !important;
+  }
+  .course-section .rowbg .item.courses h2 {
+    margin: 15px 0 7px !important;
+    font-size: 18px !important;
+  }
+  .course-section .courses {
+    padding: 20px 6px !important;
+  }
+  .course-section .thumb-box {
+    width: 70px !important;
+  }
+  .course-section .rowbg .item.courses p {
+    font-size: 12px !important;
+  }
+  .learning-app .right-data p {
+    font-size: 16px !important;
+  }
+  .learning-app a.shre-link {
+    font-size: 15px !important;
+  }
+  .learning-app .Download-app p {
+    font-size: 16px !important;
+  }
+  .learning-app .Download-app img {
+    width: 145px !important;
+  }
+
+  .learning-app .app-img img {
+    top: -51px !important;
+    right: 49px !important;
+    width: 352px !important;
+  }
+  .impact-at-scale .impact_text h3 {
+    font-size: 20px !important;
+  }
+  .impact-at-scale .impact_text img {
+    width: 30px !important;
+    margin-bottom: 20px !important;
+    min-height: 34px !important;
+  }
+  .impact-at-scale .impact_text p {
+    font-size: 15px !important;
+  }
+
+  .daily-quiz-area .anatomytopic li {
+    font-size: 13px !important;
+  }
+  .daily-quiz-area .anatomytopic li span {
+    font-size: 12px !important;
+  }
+  .daily-quiz-area .anatomytopic .tono {
+    font-size: 13px !important;
+  }
+
+  .daily-quiz-area .anatomytopic li img {
+    width: 26px !important;
+    margin-right: 6px !important;
+  }
+  .daily-quiz-area .anatomytopic .plybtn button {
+    font-size: 11px !important;
+  }
+
+  .testim > .tab-content {
+    width: 500px;
+    min-height: 217px;
+  }
+
+  .learning-app .right-data h2 {
+    font-size: 25px !important;
+    margin-bottom: 3px !important;
+  }
+  .learning-app .right-data .radio-check {
+    margin-top: 30px;
+  }
+
+  .learning-app .greenback {
+    padding: 0px !important;
+  }
+}
+@media only screen and (min-width: 1024px) and (max-width: 1199px) {
+  .learning-app .app-img img {
+    top: -51px !important;
+  }
+  .stories-inspire .video_area .video_textBg .backRadius {
+    top: -5px !important;
+    left: 0px !important;
+  }
+
+  .lkpm {
+    position: relative;
+    top: 0px;
+  }
+
+  .owl-stage-outer .testimonial {
+    min-height: 253px;
+  }
+  .search_input_login {
+    width: 168px !important;
+  }
+  .searchbar > .search_input {
+    padding: 1px 9px;
+    font-size: 11px;
+  }
+
+  .daily-quiz-area {
+    padding: 0px 0px 50px !important;
+  }
+  /**********Login popup**********/
+
+  a.help {
+    top: 10px;
+    left: 48px;
+  }
+
+  div#exampleModal-reg {
+    padding-right: 0px !important;
+  }
+  /**********Get Started popup**********/
+
+  /**********Login Verify OTP popup**********/
+
+  .verify-btn .btn {
+    width: 100%;
+    margin-top: 0px;
+    margin-left: -14px;
+    padding: 12px 0px;
+    background-color: #61a2f7;
+    border-color: #61a2f7;
+    font-size: 14px;
+  }
+
+  /**********Login Verify OTP End**********/
+  /*New-home page*/
+  .topimg {
+    width: 100%;
+    height: 98px;
+  }
+  .trn {
+    min-height: 154px;
+    margin-bottom: 0px;
+  }
+
+  .courseplanBg {
+    margin-left: 15px;
+  }
+  .featuredBg {
+    padding: 30px 0 70px;
+  }
+}
+@media only screen and (min-width: 812px) and (max-width: 991px) {
+  .action-box > .newmg {
+    width: 106px;
+  }
+
+  .daily-quiz-area .anatomytopic li span {
+    font-size: 10px !important;
+  }
+
+  .daily-quiz-area .anatomytopic ul.status li.pause {
+    padding: 3px 0px !important;
+  }
+  .daily-quiz-area .anatomytopic ul.status li a {
+    font-size: 10px !important;
+  }
+  .daily-quiz-area .anatomytopic ul.status li.stbg {
+    font-size: 11px !important;
+  }
+
+  #tabs .nav-tabs .nav-link {
+    font-size: 15px;
+    max-width: 130px;
+  }
+  .testimonial p.description1 {
+    font-size: 13px;
+    line-height: 23px;
+  }
+  span#subtitle_message {
+    font-size: 15px;
+    line-height: 22px;
+  }
+
+  h5#testi_name {
+    margin-top: -55px;
+  }
+
+  .topimg {
+    height: 78px;
+  }
+  .trn {
+    min-height: 149px;
+    margin-bottom: 0px;
+  }
+
+  .content-box.padd {
+    margin-top: 100px;
+    text-align: center;
+  }
+  .sblue {
+    font-weight: 600;
+    font-size: 18px !important;
+  }
+  .facilities-box img.thumb {
+    width: 250px;
+  }
+
+  /**********Login popup**********/
+
+  div#exampleModal-reg {
+    padding-right: 0px !important;
+  }
+  /**********Login Verify OTP popup**********/
+
+  .verify-btn .btn {
+    width: 100%;
+    margin-top: 0px;
+    margin-left: -14px;
+    padding: 10px 0px;
+    background-color: #61a2f7;
+    border-color: #61a2f7;
+    font-size: 12px;
+  }
+
+  .mshow .location-icon {
+    width: 28px;
+    height: 20px;
+    margin-top: 5px;
+  }
+
+  .carousel-indicators {
+    bottom: 20px;
+  }
+
+  .carousel-indicators li {
+    width: 8px;
+    height: 8px;
+  }
+  .carousel-indicators .active {
+    width: 20px;
+    height: 8px;
+  }
+
+  .vidmargin {
+    margin: 26px 0px;
+  }
+
+  .testimonial .title {
+    font-size: 14px;
+    margin: 0 0 0px 0;
+  }
+  .testimonial .post {
+    font-size: 14px;
+  }
+  .count-box > .newmg {
+    width: 70px;
+  }
+
+  #tabs .nav-tabs .nav-link {
+    font-size: 15px;
+    height: 35px;
+  }
+  .vidmargin h3 {
+    font-size: 21px;
+    margin-bottom: 17px;
+  }
+  #tabs .owl-stage {
+    padding: 0 50px 0px 130px !important;
+  }
+  .testimonial {
+    margin: 0;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .homeColor {
+    width: 300px !important;
+    height: 170px !important;
+  }
+  .home_banner .carousel-inner .carousel-item img {
+    height: 250px !important;
+  }
+  .course-section {
+    margin: 0 !important;
+  }
+  .course-section .courses {
+    padding: 8px 5px !important;
+    margin: 0px auto 0 !important;
+    text-align: left !important;
+  }
+  .course-section .courses:hover {
+    border-radius: 10px !important;
+  }
+  .course-section .rowbg .item.courses p {
+    font-size: 12px !important;
+    line-height: 20px !important;
+    text-align: center !important;
+    margin: 5px 0 5px !important;
+    padding: 0px !important;
+  }
+
+  .searchText select.form-control:not([size]):not([multiple]) {
+    padding: 0px 10px !important;
+    font-size: 14px !important;
+    background-position-x: 146px !important;
+    background-size: 5% !important;
+  }
+  .search_bar .form-2 {
+    width: 190px !important;
+  }
+  #tabs .btn_tabbing button {
+    font-size: 15px !important;
+    margin-right: 20px !important;
+    padding: 11px 0 !important;
+    width: 130px !important;
+  }
+  #tabs .scroll-group .article-img {
+    margin: 0 15px 0px 0;
+  }
+
+  .video-play-button:after {
+    width: 36px !important;
+    height: 36px !important;
+  }
+
+  .rowbg .item.courses h2 {
+    font-size: 14px !important;
+    margin: 0 !important;
+    text-align: left !important;
+  }
+  .coursename-area {
+    padding: 50px 0px 40px !important;
+  }
+  .coursename-area .mix-group {
+    width: 31% !important;
+    height: 143px !important;
+    margin: 0px 15px 30px 0px !important;
+  }
+  .coursename-area .mix-group h3 {
+    font-size: 14px !important;
+    line-height: 20px !important;
+    height: 40px !important;
+  }
+  .coursename-area .mix-group img {
+    margin-bottom: 0 !important;
+    height: 35px !important;
+  }
+  .course-section .thumb-box {
+    padding: 6px 10px !important;
+    margin: 0 auto !important;
+    border-radius: 10px !important;
+    margin-bottom: 10px !important;
+    text-align: center;
+  }
+  .daily-quiz-area h2 {
+    font-size: 22px !important;
+  }
+  .daily-quiz-area img.titleimg {
+    width: 27px !important;
+    margin-right: 10px !important;
+  }
+  .HometopperZone {
+    padding: 30px 0px 50px !important;
+  }
+  .HometopperZone .testimonial .pictesti {
+    left: 36% !important;
+  }
+  .HometopperZone .testimonial .pictesti img {
+    width: 90px !important;
+    height: 90px !important;
+  }
+  .HometopperZone .scroll-group .article-img {
+    margin: 0 2px 0px 0 !important;
+    padding: 0px 4px !important;
+  }
+
+  .HometopperZone .zonetext h3 {
+    font-size: 25px !important;
+  }
+  .HometopperZone .zonetext {
+    margin: 0px 0px 35px !important;
+  }
+  .learning-app .right-data {
+    padding: 15px 0px 30px 0 !important;
+  }
+  .learning-app input.email-box {
+    height: 40px !important;
+  }
+  .learning-app a.shre-link {
+    margin-left: -68% !important;
+    height: 40px !important;
+  }
+  .learning-app .app-img img {
+    width: 271px !important;
+    top: -51px !important;
+    right: 20px !important;
+  }
+  .stories-inspire h2 {
+    margin-bottom: 0px !important;
+  }
+  .globe_heading h2 {
+    font-size: 23px !important;
+  }
+  .impact-at-scale .impact_text h3 {
+    font-size: 20px !important;
+  }
+  .impact-at-scale .impact_text p {
+    font-size: 14px !important;
+  }
+  .impact-at-scale .impact_text img {
+    width: 34px !important;
+    margin-bottom: 13px !important;
+    min-height: 40px !important;
+  }
+  .impact-at-scale .globe_heading p {
+    font-size: 15px !important;
+  }
+  .impact-at-scale .impact_text li {
+    font-size: 17px !important;
+    width: 45% !important;
+  }
+  .impact-at-scale .impact_text li span {
+    font-size: 9px !important;
+    line-height: 12px !important;
+  }
+  .impact-at-scale .right-box .q-bank-box {
+    left: 12px !important;
+  }
+  .impact-at-scale .right-box .mixed-text {
+    height: 38px !important;
+    width: 90px !important;
+    font-size: 13px !important;
+  }
+  .impact-at-scale .right-box .mixed-box {
+    border-radius: 10px !important;
+    height: 50px !important;
+    width: 86px !important;
+  }
+  .impact-at-scale .right-box .mcq-box {
+    right: 13% !important;
+    top: 23px !important;
+  }
+  .impact-at-scale .right-box .q-bank-box {
+    top: 60px !important;
+    left: 15px !important;
+  }
+  .impact-at-scale .right-box .outs-box {
+    top: 56% !important;
+    right: 0% !important;
+  }
+  .impact-at-scale .right-box .test-box {
+    bottom: -7px !important;
+    left: 15% !important;
+  }
+  .impact-at-scale .right-box .live-class-box {
+    top: 17px !important;
+    left: 36% !important;
+  }
+  .impact-at-scale .right-box .detail-box {
+    bottom: -24px !important;
+  }
+  .student_text i {
+    font-size: 22px !important;
+  }
+  .stories-inspire .student_text h3 {
+    font-size: 12px !important;
+    margin: 52px 15px 10px !important;
+    line-height: 21px !important;
+  }
+
+  .stories-inspire .video_area .video_textBg .backRadius {
+    width: 210px !important;
+    height: 140px !important;
+    top: -11px !important;
+    left: 6px !important;
+    border-radius: 15px !important;
+  }
+  .stories-inspire .carousel-indicators {
+    bottom: 20px !important;
+  }
+  .stories-inspire .carousel-indicators li {
+    width: 25px !important;
+    height: 25px !important;
+  }
+  .stories-inspire .carousel-indicators .active {
+    width: 25px !important;
+    height: 25px !important;
+  }
+  .stories-inspire .carousel-indicators li em {
+    top: 33% !important;
+    right: -982px !important;
+    font-size: 12px !important;
+  }
+  .stories-inspire .video-play-round:after {
+    left: 44% !important;
+    top: 40% !important;
+    width: 50px !important;
+    height: 50px !important;
+  }
+  .stories-inspire .video_area .video_textBg img {
+    height: 145px !important;
+    border-radius: 12px !important;
+  }
+  .stories-inspire .video-play-button {
+    top: 50% !important;
+    left: 50% !important;
+  }
+  .stories-inspire .video-play-button i {
+    font-size: 14px;
+    left: -5px;
+    bottom: 0;
+  }
+  .stories-inspire {
+    padding: 33px 0px !important;
+  }
+
+  .homeletestNews {
+    padding: 32px 0px !important;
+  }
+  .homeletestNews .article-img {
+    padding: 14px 14px;
+  }
+  .homeletestNews .newsBoxSet {
+    margin-bottom: 24px !important;
+  }
+  .newsBoxSet .datePart .imgSec ul li img {
+    width: 14px !important;
+    position: initial;
+    height: auto !important;
+    border-radius: 0px !important;
+  }
+  .homeletestNews .article-img h4 {
+    font-size: 12px !important;
+    line-height: 20px !important;
+    margin-bottom: 6px !important;
+  }
+  .homeletestNews .article-img p {
+    font-size: 12px !important;
+    line-height: 21px !important;
+  }
+  .homeletestNews .publish li {
+    font-size: 12px !important;
+    line-height: 26px !important;
+  }
+  .homeletestNews .article-img .like-wish li a {
+    width: 30px !important;
+    height: 30px !important;
+  }
+  .homeletestNews .article-img img {
+    width: 180px !important;
+    height: 82px !important;
+    top: -94px !important;
+    border-radius: 10px !important;
+    right: 10px !important;
+  }
+  .homeletestNews .publish {
+    text-align: left !important;
+  }
+  .homeletestNews .view_like {
+    margin-top: 5px !important;
+  }
+  .featuredBg {
+    padding: 40px 0px 50px !important;
+  }
+  .featuredBg h2 {
+    font-size: 22px !important;
+    margin-bottom: 20px !important;
+    margin-top: 30px !important;
+  }
+  .featuredBg .info-bx {
+    padding: 15px 10px !important;
+    border-radius: 10px !important;
+  }
+  .featuredBg .item img {
+    width: 170px !important;
+    border-radius: 10px !important;
+    top: -59px !important;
+    right: 11px !important;
+  }
+
+  .featuredBg .scroll-group .article-img {
+    margin: 0 0px 0px !important;
+    padding: 0px !important;
+  }
+
+  .course-section .btncourse {
+    font-size: 11px !important;
+    padding: 5px 20px !important;
+  }
+  img.left-polygon {
+    top: 20px !important;
+    width: 35px !important;
+  }
+  .action-box > .newmg {
+    width: 102px;
+  }
+
+  .facilities-box .content-box .item {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 0px;
+  }
+
+  .lkpm {
+    position: relative;
+    top: 0px;
+  }
+
+  .daily-quiz-area h3 {
+    font-size: 21px !important;
+    margin-bottom: 5px !important;
+  }
+
+  p.description111 {
+    line-height: 25px;
+    padding: 5px 5px;
+    font-size: 13px;
+  }
+
+  .daily-quiz-area .anatomytopic li {
+    font-size: 16px !important;
+  }
+  .daily-quiz-area .anatomytopic li span {
+    font-size: 12px !important;
+  }
+  .daily-quiz-area .anatomytopic {
+    border-radius: 12px !important;
+    margin-bottom: 10px !important;
+  }
+  .daily-quiz-area .anatomytopic .tono {
+    font-size: 13px !important;
+  }
+  .daily-quiz-area .anatomytopic li img {
+    width: 30px !important;
+    margin-right: 8px !important;
+  }
+  .daily-quiz-area .anatomytopic ul.status li i {
+    width: 13px !important;
+    height: 13px !important;
+    font-size: 4px !important;
+  }
+  .daily-quiz-area .anatomytopic ul.status li a {
+    font-size: 9px !important;
+  }
+  .daily-quiz-area .anatomytopic ul.status li.stbg {
+    font-size: 11px !important;
+  }
+  .daily-quiz-area .anatomytopic ul.status li.pause {
+    padding: 0px 5px !important;
+  }
+  .daily-quiz-area .anatomytopic .plybtn button {
+    padding: 5px 12px !important;
+    font-size: 11px !important;
+  }
+
+  h4 > .right {
+    top: 21px;
+    right: 0px;
+    border-width: 0 2px 2px 0;
+  }
+
+  .testimonial p.description1 {
+    font-size: 12px;
+    line-height: 21px;
+  }
+  .testimonial .title {
+    font-size: 12px;
+  }
+  .testim > .tab-content {
+    width: 450px;
+    min-height: 210px;
+    margin-top: 33px;
+  }
+  h5#testi_name {
+    margin-top: 0;
+    font-size: 13px;
+  }
+
+  span#subtitle_message {
+    font-size: 12px;
+    line-height: 19px;
+  }
+  .servic-bx .info-bx h5 {
+    font-size: 13px !important;
+  }
+  .servic-bx .action-box.topimg {
+    height: 100px;
+    padding: 10px 0px;
+  }
+  .trn {
+    min-height: 151px;
+  }
+  .textpad {
+    padding: 0px 3px;
+  }
+
+  .doctorLodge {
+    padding: 50px 0px !important;
+  }
+  .vidmargin {
+    margin: 0px 0px 15px !important;
+  }
+  .vidmargin h2 {
+    font-size: 23px !important;
+  }
+  .sblue {
+    font-size: 20px !important;
+  }
+  .see-btn {
+    margin-top: 25px !important;
+  }
+  .tab-content .owl-item.cloned {
+    margin-right: 4px !important;
+  }
+  .tab-content .owl-item.cloned.active {
+    margin-right: 10px !important;
+  }
+  #testimonial-area h2 {
+    font-size: 20px;
+  }
+  .facilities-box .thumb img {
+    width: 160px;
+  }
+
+  .timer {
+    text-align: center;
+  }
+  /**********Login popup**********/
+
+  a.help {
+    top: 10px;
+    left: 48px;
+  }
+
+  div#exampleModal-reg {
+    padding-right: 0px !important;
+  }
+  /**********Get Started popup**********/
+
+  /**********Login Verify OTP popup**********/
+
+  .verify-btn .btn {
+    width: 100%;
+    margin-top: 0px;
+    margin-left: -14px;
+    padding: 10px 0px;
+    background-color: #61a2f7;
+    border-color: #61a2f7;
+    font-size: 12px;
+  }
+
+  .learning-app {
+    margin: 0 0px !important;
+    padding: 20px 0px 40px !important;
+  }
+  .stories-inspire .student_text {
+    padding: 0 5px !important;
+    top: 18px !important;
+    right: 2px !important;
+  }
+  .learning-app a.shre-link {
+    font-size: 12px !important;
+  }
+  .learning-app .right-data h2 {
+    font-size: 22px !important;
+    margin-bottom: 3px !important;
+  }
+  .learning-app .right-data .radio-check {
+    margin-top: 20px !important;
+  }
+  .learning-app .right-data p {
+    font-size: 13px !important;
+  }
+  .learning-app .Download-app img {
+    width: 110px !important;
+  }
+  .learning-app .Download-app {
+    margin-top: 10px !important;
+    text-align: left !important;
+  }
+  .learning-app label {
+    margin-right: 25px !important;
+  }
+
+  #tabs .nav-tabs .nav-link {
+    font-size: 12px !important;
+    line-height: 15px !important;
+    padding-top: 11px !important;
+    margin-top: 20px !important;
+  }
+
+  /* New News Css */
+  .newNewsPartician .newSPart {
+    grid-template-columns: repeat(auto-fill, minmax(286px, 1fr)) !important;
+    gap: 20px !important;
+  }
+  .newNewsPartician {
+    padding: 30px 30px !important;
+  }
+  .newNewsPartician .headinGSystem h2 {
+    font-size: 18px !important;
+  }
+  .newNewsPartician .headinGSystem a {
+    font-size: 14px !important;
+  }
+  .newNewsPartician {
+    margin: 0px 0px 40px;
+  }
+  .newNewsPartician .newSPart .newSBox .newSPic {
+    min-width: 60px !important;
+  }
+  .newNewsPartician .newSPart {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    gap: 16px !important;
+    scroll-snap-type: x mandatory !important;
+  }
+  .newNewsPartician .newSPart .newSBox {
+    flex: 0 0 60% !important;
+    min-width: 260px !important;
+    scroll-snap-align: start !important;
+    padding: 12px !important;
+  }
+
+  /* Optional: Hide scrollbar in modern browsers */
+  .newNewsPartician .newSPart::-webkit-scrollbar {
+    display: none !important;
+  }
+  .newNewsPartician .newSPart {
+    -ms-overflow-style: none !important; /* IE and Edge */
+    scrollbar-width: none !important; /* Firefox */
+  }
+
+  /* New Article Css */
+  .newArticlePartician {
+    margin: 0px 0px 40px !important;
+  }
+  .newArticlePartician .ArticlePart {
+    grid-template-columns: repeat(auto-fill, minmax(286px, 1fr)) !important;
+    gap: 20px !important;
+  }
+  .newArticlePartician {
+    padding: 30px 30px !important;
+  }
+  .newArticlePartician .headinGSystem h2 {
+    font-size: 18px !important;
+  }
+  .newArticlePartician .headinGSystem a {
+    font-size: 14px !important;
+  }
+  .newArticlePartician .ArticleBottomBox {
+    padding: 14px !important;
+  }
+
+  .newArticlePartician .ArticlePart {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    gap: 16px !important;
+    scroll-snap-type: x mandatory !important;
+  }
+  .newArticlePartician .ArticlePart .ArticleBox {
+    flex: 0 0 60% !important;
+    min-width: 260px !important;
+    scroll-snap-align: start !important;
+    padding: 0px !important;
+  }
+  .newArticlePartician .ArticlePart::-webkit-scrollbar {
+    display: none !important;
+  }
+  .newArticlePartician .ArticlePart {
+    -ms-overflow-style: none !important;
+    scrollbar-width: none !important;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .home_banner .carousel-inner .carousel-item img {
+    height: 120px !important;
+  }
+  .homeColor {
+    width: 221px !important;
+    height: 111px !important;
+  }
+  .home_banner .carousel-control-next {
+    height: auto !important;
+  }
+
+  .searchText select.form-control:not([size]):not([multiple]) {
+    background-position-x: 114px !important;
+    background-size: 6% !important;
+    padding: 0px 15px !important;
+    font-size: 13px !important;
+    height: 45px !important;
+    border-radius: 8px !important;
+  }
+
+  .coursename-area .courseplanBg {
+    margin-left: 7px !important;
+  }
+  .coursename-area .mix-group {
+    width: 45% !important;
+    padding: 14px 5px 0 !important;
+    height: 125px !important;
+    border-radius: 18px !important;
+    margin: 0px 12px 15px 0px !important;
+  }
+  .coursename-area .mix-group .btncot {
+    bottom: 6px !important;
+    right: 30px !important;
+    font-size: 12px !important;
+    padding: 1px 8px !important;
+  }
+  .coursename-area .mix-group h3 {
+    line-height: 17px !important;
+    margin-top: 12px !important;
+    margin-bottom: 5px !important;
+    font-size: 13px !important;
+    height: auto !important;
+  }
+  .coursename-area .mix-group img {
+    height: 25px !important;
+    margin-top: 0 !important;
+    margin-bottom: 2px !important;
+    width: auto !important;
+  }
+
+  .course-section .rowbg .item.courses p {
+    font-size: 12px !important;
+    line-height: 18px !important;
+    padding: 0 !important;
+    text-align: center !important;
+  }
+
+  .shoping-cart .alert-success {
+    width: 100%;
+    position: absolute;
+    top: 0;
+  }
+
+  .courses {
+    padding: 12px 10px 5px !important;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px !important;
+  }
+
+  .daily-quiz-area {
+    padding: 0px 0px 40px !important;
+    border-top: 0px;
+  }
+
+  .daily-quiz-area h2 {
+    font-size: 20px !important;
+  }
+  .daily-quiz-area img.titleimg {
+    width: 23px !important;
+    margin-right: 10px !important;
+  }
+  .daily-quiz-area h3 {
+    margin-bottom: 0px !important;
+    font-size: 20px !important;
+  }
+
+  .daily-quiz-area .anatomytopic li img {
+    width: 24px !important;
+    margin-right: 8px !important;
+  }
+
+  .daily-quiz-area .anatomytopic li span {
+    font-size: 12px !important;
+  }
+  .daily-quiz-area .anatomytopic .tono {
+    font-size: 12px !important;
+  }
+  .daily-quiz-area .anatomytopic li {
+    font-size: 14px !important;
+    margin-bottom: 8px !important;
+  }
+  .daily-quiz-area .anatomytopic ul.status li.stbg {
+    font-size: 13px !important;
+  }
+  .daily-quiz-area .anatomytopic ul.status li a {
+    font-size: 10px !important;
+  }
+  .daily-quiz-area .anatomytopic ul {
+    margin-bottom: 0px !important;
+  }
+  .daily-quiz-area .anatomytopic ul.status li i {
+    width: 13px !important;
+    height: 13px !important;
+    font-size: 7px !important;
+    padding: 3px 3px !important;
+  }
+
+  .HometopperZone {
+    padding: 40px 0px 30px !important;
+  }
+  .HometopperZone .zonetext {
+    margin: 0px 0px 30px !important;
+  }
+  .HometopperZone .zonetext h3 {
+    font-size: 21px !important;
+  }
+  .HometopperZone .btn_tabbing .see-btn {
+    font-size: 14px !important;
+  }
+  .HometopperZone .btn_tabbing button {
+    font-size: 12px !important;
+    margin-right: 6px !important;
+    line-height: 17px !important;
+    padding: 8px 0 !important;
+    width: 68px !important;
+    border-radius: 6px !important;
+  }
+  .HometopperZone .testimonial .title {
+    font-size: 14px !important;
+  }
+  .HometopperZone .testimonial a.reed {
+    font-size: 13px !important;
+  }
+  .HometopperZone .testimonial .pictesti img {
+    width: 80px !important;
+    height: 80px !important;
+  }
+  .HometopperZone .testimonial {
+    padding: 36px 10px 15px !important;
+    margin-top: 65px !important;
+  }
+  .HometopperZone .scroll-group .article-img {
+    margin: 0 15px 0px 0 !important;
+  }
+  .HometopperZone .testimonial .pictesti {
+    left: 38% !important;
+  }
+  .HometopperZone .scroll-group .row {
+    padding: 0px !important;
+  }
+
+  .learning-app {
+    padding: 30px 0px !important;
+    margin: 0px !important;
+  }
+
+  .facilities-box {
+    padding: 40px 0px 50px;
+  }
+
+  .facilities-box .thumb img {
+    width: 160px;
+  }
+
+  .sblue {
+    font-size: 22px !important;
+    text-align: center !important;
+  }
+  h5.searchhead {
+    font-size: 15px !important;
+  }
+  .section-area .m-b30 {
+    margin-bottom: 13px !important;
+  }
+
+  .avail-mrg {
+    margin-bottom: 24px !important;
+    margin-top: 16px;
+  }
+
+  .count-box > .newmg {
+    width: 70px;
+  }
+  .vidmargin {
+    margin: 0px 0px 18px !important;
+    text-align: left !important;
+  }
+  .vidmargin h3 {
+    font-size: 20px !important;
+  }
+  #tabs .btn_tabbing button {
+    font-size: 13px !important;
+    width: 72px !important;
+    padding: 6px 5px !important;
+    margin-right: 9px !important;
+  }
+  #tabs .btn_tabbing .see-btn {
+    padding: 4px 9px !important;
+    font-size: 15px !important;
+  }
+  .service .info-bx > h5,
+  h4,
+  h6 {
+    font-size: 11px;
+  }
+  .topimg {
+    height: 85px;
+  }
+  .trn {
+    min-height: 133px;
+    margin-bottom: 0;
+  }
+  .service .action-box > .newmg {
+    width: 74%;
+  }
+
+  .othr-pd-o {
+    padding: 0px !important;
+  }
+  .cours-bx .info-bx {
+    padding: 0px;
+  }
+  .arrow {
+    border-width: 0 1px 1px 0;
+    padding: 2px;
+    margin-top: -5px;
+    margin-left: 7px;
+  }
+
+  .topgroupg img {
+    width: auto;
+    height: 30px;
+  }
+
+  .info-bx h4 > .right {
+    display: block;
+    top: 8px;
+    position: absolute;
+    right: 4px;
+  }
+
+  .vidmargin h3.sblue {
+    font-size: 16px;
+  }
+  h5#testi_name {
+    margin-top: -16px;
+    font-size: 11px;
+  }
+
+  span#subtitle_message {
+    font-size: 12px;
+  }
+  .site-heading h2 {
+    font-size: 17px !important;
+  }
+
+  /**********Login popup**********/
+
+  a.help {
+    top: 20px;
+    left: 48px;
+  }
+
+  div#exampleModal-reg {
+    padding-right: 0px !important;
+  }
+
+  /**********Get Started popup**********/
+
+  .verify-btn .btn {
+    width: 100%;
+    margin-top: 24px;
+    margin-left: 0px;
+    padding: 10px 0px;
+    background-color: #61a2f7;
+    border-color: #61a2f7;
+    font-size: 12px;
+  }
+
+  /**********New Home Page After Login**********/
+  p.my-profile {
+    display: none;
+  }
+
+  .daily-quiz-area .anatomytopic .plybtn button {
+    font-size: 11px !important;
+  }
+  .course-section .rowbg {
+    padding: 0px !important;
+  }
+  .searchText {
+    padding: 0px 10px 45px !important;
+    margin: 40px auto 10px !important;
+  }
+  .searchText .findcenterBg {
+    margin-top: 0px !important;
+  }
+  .search_bar input.amber-border {
+    height: 45px !important;
+    border-radius: 10px !important;
+    font-size: 15px !important;
+  }
+  .searchText .input-group {
+    margin: 10px 8px 10px !important;
+  }
+  .search_bar .form-2 {
+    width: 100% !important;
+    margin: 30px auto 0 !important;
+  }
+  .featuredBg .item {
+    margin: 60px 0px 0 0 !important;
+  }
+
+  img.left-polygon {
+    top: 28px !important;
+    left: 0px !important;
+    width: 25px !important;
+  }
+  .rowbg .item.courses h2 {
+    font-size: 12px !important;
+    line-height: 18px !important;
+  }
+  .btncourse {
+    font-size: 12px !important;
+    padding: 3px 10px !important;
+    top: 8px !important;
+  }
+  #nav-tabContent {
+    padding-left: 0px !important;
+  }
+  p.description111 {
+    font-size: 12px;
+    line-height: 22px;
+    text-align: left;
+    display: -webkit-box;
+    -webkit-line-clamp: initial;
+    line-clamp: initial;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+    padding: 0;
+  }
+
+  #tabs {
+    padding: 30px 0px 50px !important;
+  }
+  #tabs .owl-stage-outer .testimonial {
+    padding: 0 10px;
+    min-height: 200px;
+  }
+  #tabs .owl-stage-outer .testimonial a {
+    display: block;
+    width: 100px;
+    margin: 16px auto;
+    text-align: center;
+  }
+  #tabs .owl-carousel .owl-stage-outer {
+    height: 285px;
+  }
+  .face-to-face span {
+    font-size: 13px !important;
+    line-height: 21px;
+  }
+  .course-section .thumb-box {
+    padding: 7px 5px !important;
+    width: 70px !important;
+    border-radius: 10px !important;
+  }
+  .course-section .rowbg .courses img {
+    width: 40px !important;
+    height: auto !important;
+    margin: 10px 0px !important;
+  }
+  .course-section .rowbg .item.courses h2 {
+    margin: 15px 0px 10px !important;
+    font-size: 14px !important;
+    line-height: 13px !important;
+    text-align: center !important;
+  }
+  .face-to-face {
+    margin: 10px 0px !important;
+    padding: 20px 0px !important;
+  }
+  .impact-at-scale {
+    padding: 40px 0px 0 !important;
+  }
+  .globe_heading h2 {
+    font-size: 18px !important;
+    margin-bottom: 22px !important;
+    text-align: left !important;
+  }
+  .impact-at-scale .globe_heading {
+    text-align: left !important;
+  }
+  .impact-at-scale .globe_heading p {
+    font-size: 13px !important;
+    line-height: 23px !important;
+  }
+  .impact-at-scale .impact_text ul {
+    margin: 0 !important;
+  }
+  .impact-at-scale .impact_text li {
+    font-size: 18px !important;
+    padding: 0px 0px 24px !important;
+  }
+  .impact-at-scale .impact_text li span {
+    font-size: 12px !important;
+    margin-top: 5px !important;
+  }
+  .impact-at-scale .right-box .live-class-box {
+    left: 0 !important;
+  }
+  .impact-at-scale .right-box .mixed-text {
+    font-size: 11px !important;
+    height: 33px !important;
+    width: 85px !important;
+  }
+  .impact-at-scale .right-box .mixed-box {
+    border-radius: 8px !important;
+    height: 45px !important;
+    width: 75px !important;
+  }
+  .impact-at-scale .right-box .q-bank-box {
+    top: 60px !important;
+    left: 185px !important;
+  }
+  .impact-at-scale .right-box .tnd-box {
+    top: 70px !important;
+    left: 15px !important;
+  }
+  .impact-at-scale .right-box .outs-box {
+    top: 58% !important;
+    right: 35% !important;
+  }
+  .impact-at-scale .right-box .test-box {
+    bottom: 20px !important;
+    left: 0 !important;
+  }
+  .impact-at-scale .right-box .detail-box {
+    bottom: 24px !important;
+    right: 0 !important;
+  }
+  .stories-inspire {
+    margin: 0px 0px 0;
+    padding: 33px 0px 0px !important;
+  }
+  .stories-inspire .video-play-round:after {
+    left: 45%;
+    top: 42%;
+    width: 40px;
+    height: 40px;
+  }
+
+  .stories-inspire .student_text {
+    margin-top: 10px !important;
+    padding: 0 30px !important;
+    top: 90px !important;
+    right: 0 !important;
+  }
+  .stories-inspire .student_text h3 {
+    font-size: 11px !important;
+    margin: -2px 0px !important;
+    line-height: 17px !important;
+  }
+  .stories-inspire .video_area .video_textBg .backRadius {
+    width: 290px !important;
+    height: 150px !important;
+    top: -9px !important;
+    left: 10px !important;
+  }
+  .student_text i {
+    font-size: 27px !important;
+  }
+
+  .stories-inspire .carousel-indicators {
+    bottom: 25px !important;
+    left: 0 !important;
+  }
+  .stories-inspire .video_area .video_textBg {
+    margin-bottom: 50px !important;
+    padding: 30px 10px 0px !important;
+  }
+  .stories-inspire .carousel-indicators li {
+    margin-left: 6px !important;
+    width: 25px !important;
+    height: 25px !important;
+  }
+  .stories-inspire .carousel-indicators .active {
+    width: 25px !important;
+    height: 25px !important;
+  }
+  .stories-inspire .carousel-indicators li em {
+    right: -982px !important;
+    font-size: 12px !important;
+  }
+  .stories-inspire .video_area .video_textBg img {
+    width: 100% !important;
+    height: 150px !important;
+    margin-bottom: 20px !important;
+  }
+  .homeletestNews {
+    margin: 0px 0px;
+    padding: 35px 0px !important;
+  }
+  .homeletestNews span.seeAll {
+    font-size: 15px !important;
+  }
+  .homeletestNews .article-img {
+    margin: -20px 0px 0px 0px !important;
+    border: 1px solid #eeeeee7d !important;
+    height: auto !important;
+  }
+  .newsBoxSet .datePart .imgSec ul li img {
+    width: 16px !important;
+    height: auto !important;
+  }
+
+  .homeletestNews .article-img img {
+    width: 84% !important;
+    height: 100px !important;
+    top: -42px !important;
+    right: 25px !important;
+  }
+  .homeletestNews .article-img .like-wish li a {
+    border: 1px solid #cccccc94 !important;
+    margin-bottom: 4px !important;
+  }
+  .homeletestNews .article-img .like-wish {
+    top: 3px !important;
+  }
+  .homeletestNews .article-img h4 {
+    font-size: 14px !important;
+    margin-bottom: 5px !important;
+    line-height: 23px !important;
+  }
+  .homeletestNews .article-img p {
+    font-size: 12px !important;
+    line-height: 21px !important;
+  }
+
+  .homeletestNews .publish li {
+    font-size: 12px !important;
+    width: auto !important;
+  }
+  .featuredBg {
+    padding: 20px 0 50px !important;
+  }
+  .scroll-group ::-webkit-scrollbar {
+    height: 5px !important;
+  }
+  /*  Emedicoz learning App Page */
+  .learning-app .app-img {
+    text-align: center;
+  }
+  .learning-app .greenback {
+    padding: 8px 20px !important;
+    height: 438px !important;
+    border-radius: 20px !important;
+  }
+  .learning-app .app-img img {
+    width: 145px !important;
+    top: 24px !important;
+    right: 74px !important;
+  }
+  .learning-app .right-data {
+    margin-top: 20px !important;
+    margin-bottom: 8px !important;
+    padding: 0px 0px 0 0 !important;
+  }
+  .learning-app .right-data h2 {
+    font-size: 18px !important;
+    text-align: center;
+    margin-bottom: 5px;
+  }
+  .learning-app .right-data .radio-check {
+    margin-top: 25px !important;
+  }
+  .learning-app .right-data p {
+    font-size: 13px !important;
+    text-align: center !important;
+  }
+  .learning-app label {
+    font-size: 15px !important;
+    margin-right: 32px !important;
+  }
+  .radio-check .hide-show {
+    padding: 0px 0px 15px;
+  }
+  .learning-app input.email-box {
+    height: 45px !important;
+    font-size: 12px !important;
+  }
+  .learning-app a.shre-link {
+    font-size: 12px !important;
+    width: 37% !important;
+    margin-left: 160px !important;
+    margin-top: -45px !important;
+    height: 45px !important;
+  }
+  .learning-app .Download-app {
+    margin-top: 20px !important;
+    text-align: center !important;
+  }
+
+  .learning-app .Download-app img {
+    width: 99px !important;
+    margin-right: 10px !important;
+  }
+  .learning-app .radio-check .form-area .form-control {
+    height: 37px;
+    font-size: 11px;
+  }
+  .featuredBg h2 {
+    font-size: 17px !important;
+    margin-top: 15px;
+    text-align: left;
+    margin-bottom: 10px !important;
+  }
+  .featuredBg .item img {
+    width: 200px !important;
+    border-radius: 12px !important;
+    top: -59px !important;
+    right: 40px !important;
+  }
+  .featuredBg .info-bx {
+    padding: 15px 10px !important;
+  }
+  .stories-inspire .video-play-button {
+    top: 38% !important;
+    width: 30px !important;
+    height: 30px !important;
+    left: 48% !important;
+    padding: 4px 11px !important;
+  }
+  .stories-inspire .video-play-button:after {
+    width: 30px !important;
+    height: 30px !important;
+  }
+  .stories-inspire .video-play-button i {
+    font-size: 15px !important;
+    left: -5px !important;
+  }
+
+  .readModel .modal-dialog {
+    margin-top: 24% !important;
+  }
+  .readModel .modal-content .content h3.name-title {
+    font-size: 15px !important;
+  }
+  .readModel .modal-content .content p {
+    font-size: 13px !important;
+    line-height: 22px !important;
+    text-align: justify !important;
+  }
+
+  /* New News Css */
+  .newNewsPartician .newSPart {
+    grid-template-columns: repeat(auto-fill, minmax(286px, 1fr)) !important;
+    gap: 20px !important;
+  }
+  .newNewsPartician {
+    padding: 20px 10px !important;
+  }
+  .newNewsPartician .headinGSystem h2 {
+    font-size: 18px !important;
+  }
+  .newNewsPartician .headinGSystem a {
+    font-size: 14px !important;
+  }
+  .newNewsPartician {
+    margin: 0px 0px 40px;
+  }
+  .newNewsPartician .newSPart .newSBox .newSPic {
+    min-width: 60px !important;
+  }
+  .newNewsPartician .newSPart {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    gap: 16px !important;
+    scroll-snap-type: x mandatory !important;
+  }
+  .newNewsPartician .newSPart .newSBox {
+    flex: 0 0 90% !important;
+    min-width: 258px !important;
+    scroll-snap-align: start !important;
+    padding: 12px !important;
+  }
+
+  /* Optional: Hide scrollbar in modern browsers */
+  .newNewsPartician .newSPart::-webkit-scrollbar {
+    display: none !important;
+  }
+  .newNewsPartician .newSPart {
+    -ms-overflow-style: none !important; /* IE and Edge */
+    scrollbar-width: none !important; /* Firefox */
+  }
+
+  /* New Article Css */
+  .newArticlePartician {
+    margin: 0px 0px 40px !important;
+  }
+  .newArticlePartician .ArticlePart {
+    grid-template-columns: repeat(auto-fill, minmax(286px, 1fr)) !important;
+    gap: 20px !important;
+  }
+  .newArticlePartician {
+    padding: 20px 10px !important;
+  }
+  .newArticlePartician .headinGSystem h2 {
+    font-size: 18px !important;
+  }
+  .newArticlePartician .headinGSystem a {
+    font-size: 14px !important;
+  }
+  .newArticlePartician .ArticleBottomBox {
+    padding: 14px !important;
+  }
+
+  .newArticlePartician .ArticlePart {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    gap: 16px !important;
+    scroll-snap-type: x mandatory !important;
+  }
+  .newArticlePartician .ArticlePart .ArticleBox {
+    flex: 0 0 85% !important;
+    min-width: 260px !important;
+    scroll-snap-align: start !important;
+    padding: 0px !important;
+  }
+  .newArticlePartician .ArticlePart::-webkit-scrollbar {
+    display: none !important;
+  }
+  .newArticlePartician .ArticlePart {
+    -ms-overflow-style: none !important;
+    scrollbar-width: none !important;
+  }
+
+  .homeletestNews .articalolDSet {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    gap: 16px !important;
+    scroll-snap-type: x mandatory !important;
+  }
+  .homeletestNews .articalolDSet .newsBoxSet {
+    flex: 0 0 85% !important;
+    min-width: 260px !important;
+    scroll-snap-align: start !important;
+  }
+  /* Optional: Hide scrollbar in modern browsers */
+  .homeletestNews .articalolDSet::-webkit-scrollbar {
+    display: none !important;
+  }
+  .homeletestNews .articalolDSet {
+    -ms-overflow-style: none !important; /* IE and Edge */
+    scrollbar-width: none !important; /* Firefox */
+  }
+}
+
+@media only screen and (min-width: 740px) and (max-width: 767px) {
+  .daily-quiz-area .anatomytopic li img {
+    width: 30px !important;
+  }
+  .daily-quiz-area .anatomytopic li {
+    font-size: 11px !important;
+  }
+  .daily-quiz-area .anatomytopic li span {
+    font-size: 8px !important;
+  }
+
+  .daily-quiz-area .anatomytopic li {
+    font-size: 12px !important;
+  }
+
+  .sblue {
+    font-size: 24px;
+  }
+  .cours-bx .action-box > .newmg {
+    width: 72px;
+    margin: 0px auto;
+  }
+
+  .info-bx h4 > .right {
+    top: 27px;
+    right: 4px;
+  }
+
+  .testimonial .post {
+    font-size: 12px;
+  }
+  .testimonial .title {
+    margin: 0 0 0px 0;
+  }
+
+  #tabs .owl-stage {
+    padding: 0 50px 0px 114px !important;
+  }
+}
+
+@media only screen and (min-width: 667px) and (max-width: 739px) {
+  .daily-quiz-area .anatomytopic li img {
+    width: 30px !important;
+  }
+  .daily-quiz-area .anatomytopic li {
+    font-size: 11px !important;
+  }
+  .daily-quiz-area .anatomytopic li span {
+    font-size: 8px !important;
+  }
+
+  .daily-quiz-area .anatomytopic li {
+    font-size: 12px !important;
+  }
+
+  .sblue {
+    font-size: 24px;
+  }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 739px) {
+  .cours-bx .action-box > .newmg {
+    width: 71px;
+    margin: 0px auto;
+    display: flex;
+  }
+
+  .info-bx h4 > .right {
+    display: block;
+    top: 28px;
+    position: absolute;
+    right: 12px;
+  }
+
+  .testimonial .title {
+    font-size: 12px !important;
+    margin: 0 0 0px 0;
+  }
+  .testimonial .post {
+    font-size: 12px;
+    font-weight: 500;
+  }
+
+  #tabs .owl-stage {
+    padding: 0 51px 0px 88px !important;
+  }
+
+  .testim > .tab-content {
+    margin-top: 0;
+  }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+  .impact-at-scale .globe_heading {
+    margin-bottom: 60px !important;
+  }
+  .latest_news .article-img {
+    border: 0px !important;
+  }
+  .recorded-video-teg .choose-language .inner-text p {
+    font-size: 12px !important;
+  }
+  .recorded-video-teg .choose-language .inner-text a {
+    width: 100% !important;
+  }
+  .learning-app label {
+    margin-right: 25px !important;
+  }
+  .learning-app .app-img img {
+    width: 100% !important;
+  }
+  .learning-app .right-data h2 {
+    text-align: left !important;
+  }
+  .learning-app .right-data p {
+    text-align: left !important;
+  }
+  .learning-app .right-data {
+    margin-top: 0 !important;
+  }
+  .learning-app .radio-check .form-area .form-control {
+    font-size: 13px !important;
+  }
+  .learning-app a.shre-link {
+    width: 100% !important;
+    height: 40px !important;
+    margin: 2px auto !important;
+    font-size: 10px !important;
+  }
+  .learning-app .Download-app img {
+    width: 102px !important;
+  }
+}
+
+@media only screen and (min-width: 568px) and (max-width: 639px) {
+  .cours-bx {
+    width: auto !important;
+  }
+  .cours-bx .action-box > .newmg {
+    width: 40px !important;
+    margin: 0px auto !important;
+    display: flex !important;
+  }
+
+  .daily-quiz-area .anatomytopic li img {
+    width: 28px !important;
+    margin-right: 6px !important;
+  }
+  .daily-quiz-area .anatomytopic li {
+    font-size: 13px !important;
+  }
+  .daily-quiz-area .anatomytopic li span {
+    font-size: 10px !important;
+  }
+
+  #tabs .nav-tabs .nav-link {
+    max-width: 82px;
+  }
+
+  .site-heading h2 {
+    font-size: 22px;
+  }
+
+  .sblue {
+    font-size: 20px;
+  }
+
+  .daily-quiz-area h3 {
+    font-size: 16px !important;
+  }
+
+  .daily-quiz-area .anatomytopic ul {
+    margin: 6px 0px !important;
+  }
+
+  .info-bx h4 > .right {
+    top: 17px !important;
+    right: 8px !important;
+  }
+
+  .facilities-box .thumb img {
+    width: 130px;
+  }
+
+  .facilities-box .content-box .item {
+    display: block;
+  }
+
+  .counterimg {
+    padding: 16px 20px 16px 20px;
+  }
+
+  .single-item.thumb .info-bx h6 {
+    font-size: 10px;
+    line-height: 16px;
+  }
+  .textsdo .btn-more {
+    font-size: 10px;
+  }
+
+  span#subtitle_message {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  h5#testi_name {
+    margin-top: -16px;
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 567px) {
+  .searchText select.form-control:not([size]):not([multiple]) {
+    background-position-x: 177px !important;
+    background-size: 5% !important;
+  }
+  .coursename-area .courseplanBg {
+    margin-left: 10px !important;
+  }
+
+  .doctorLodge .videHeightbg {
+    height: 230px;
+  }
+  #tabs .btn_tabbing button {
+    font-size: 14px !important;
+    width: 115px !important;
+    padding: 10px 5px !important;
+  }
+  .testimonial .pic {
+    left: 80px !important;
+  }
+  .learning-app a.shre-link {
+    width: 40% !important;
+    margin-left: 231px !important;
+  }
+  .learning-app .app-img img {
+    right: 130px !important;
+  }
+  .learning-app .right-data p {
+    font-size: 15px !important;
+  }
+  .stories-inspire .video_area .video_textBg img {
+    height: 195px !important;
+  }
+  .stories-inspire .video_area .video_textBg .backRadius {
+    width: 404px !important;
+    height: 185px !important;
+    top: -5px !important;
+    left: 10px !important;
+  }
+  .stories-inspire .student_text h3 {
+    font-size: 14px !important;
+    margin: 24px 0px 0 !important;
+    line-height: 24px !important;
+  }
+  .homeletestNews .article-img img {
+    right: 31px !important;
+  }
+}
+
+@media only screen and (min-width: 414px) and (max-width: 479px) {
+  .testimonial .pic {
+    left: 50px !important;
+  }
+  .searchText select.form-control:not([size]):not([multiple]) {
+    background-position-x: 140px !important;
+  }
+  .learning-app a.shre-link {
+    margin-left: 208px !important;
+  }
+  .learning-app .app-img img {
+    top: 25px !important;
+    right: 110px !important;
+  }
+  .homeletestNews .article-img img {
+    width: 88% !important;
+  }
+  .stories-inspire .video_area .video_textBg .backRadius {
+    width: 354px !important;
+    height: 158px !important;
+    left: 7px !important;
+  }
+  .stories-inspire .student_text h3 {
+    font-size: 13px !important;
+    line-height: 21px !important;
+  }
+  .site-heading span.black {
+    font-size: 13px;
+  }
+
+  .testimonial .title {
+    font-size: 10px;
+  }
+  .info-bx h4 > .right {
+    right: 6px !important;
+  }
+  .scroll {
+    max-height: 25vh;
+    overflow-y: scroll;
+  }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 413px) {
+  .testimonial .pic {
+    left: 40px !important;
+  }
+  .searchText select.form-control:not([size]):not([multiple]) {
+    background-position-x: 130px !important;
+  }
+  .coursename-area .mix-group .btncot {
+    padding: 1px 10px;
+  }
+
+  .daily-quiz-area .anatomytopic ul.status li a {
+    font-size: 12px !important;
+  }
+  .daily-quiz-area .anatomytopic ul.status li.pause {
+    padding: 0 5px 4px !important;
+  }
+  .daily-quiz-area .anatomytopic .plybtn button {
+    padding: 6px 15px !important;
+  }
+  .learning-app a.shre-link {
+    margin-left: 186px !important;
+  }
+  .daily-quiz-area h3 {
+    font-size: 14px !important;
+  }
+
+  .homeletestNews .article-img img {
+    width: 80% !important;
+    right: 35px !important;
+  }
+  .stories-inspire .video_area .video_textBg img {
+    height: 170px !important;
+  }
+  .stories-inspire .student_text h3 {
+    font-size: 12px !important;
+    margin: 14px 0px 0 !important;
+    line-height: 18px !important;
+  }
+}
+
+@media only screen and (min-width: 390px) and (max-width: 413px) {
+  .learning-app a.shre-link {
+    margin-left: 193px !important;
+  }
+}
+
+@media only screen and (min-width: 360px) and (max-width: 374px) {
+  .searchText select.form-control:not([size]):not([multiple]) {
+    background-position-x: 125px !important;
+  }
+  .testimonial .pic {
+    left: 30px !important;
+  }
+  #tabs .btn_tabbing button {
+    width: 88px !important;
+  }
+  .coursename-area .mix-group .btncot {
+    padding: 1px 10px;
+  }
+  .learning-app a.shre-link {
+    width: 42% !important;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 359px) {
+  .coursename-area .mix-group h3 {
+    font-size: 10px !important;
+  }
+  .coursename-area .courseplanBg {
+    margin-left: 6px !important;
+  }
+  .coursename-area .mix-group .btncot {
+    bottom: 10px !important;
+    right: 17px !important;
+    font-size: 12px !important;
+  }
+  .daily-quiz-area .anatomytopic li img {
+    width: 22px !important;
+    margin-right: 3px !important;
+  }
+
+  .learning-app a.shre-link {
+    font-size: 11px !important;
+    width: 44% !important;
+    margin-left: 130px !important;
+  }
+  .learning-app .app-img img {
+    right: 47px !important;
+  }
+  .stories-inspire .video_area .video_textBg .backRadius {
+    width: 255px !important;
+    height: 120px !important;
+    top: -4px !important;
+    left: 14px !important;
+  }
+  .featuredBg .item img {
+    right: 22px !important;
+  }
+  .testimonial .pic {
+    left: 10px !important;
+  }
+  .HometopperZone .zonetext h3 {
+    font-size: 20px !important;
+  }
+  .HometopperZone .btn_tabbing button {
+    font-size: 12px !important;
+    padding: 6px 0 !important;
+    width: 59px !important;
+  }
+  .homeletestNews .publish li {
+    font-size: 11px !important;
+  }
+}

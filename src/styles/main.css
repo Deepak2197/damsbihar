@@ -1,0 +1,95 @@
+.pop-modal {
+  border-bottom: 0px;
+}
+.enroll-title {
+  color: #00a652;
+}
+
+.inp-title {
+  left: 0;
+}
+
+.modal-container {
+  display: block;
+  padding-left: 0px;
+}
+.email-acc > a > span {
+  color: #61a2f7;
+  cursor: pointer;
+}
+
+.course_type {
+  border: solid 1px #e0e0e0;
+  padding: 10px 10px;
+  border-radius: 8px;
+  margin: 30px 0px 0px;
+}
+.course_type img {
+  width: 100%;
+  border-radius: 4px;
+}
+.course_type h2 {
+  color: #212121;
+  font-size: 16px;
+  margin: 0px 0px 10px;
+  font-weight: 500;
+}
+.course_type h3 {
+  color: #212121;
+  font-size: 14px;
+  margin: 0px 0px 10px;
+  font-weight: 500;
+}
+.course_type ul {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px;
+}
+.course_type ul li {
+  display: inline-block;
+  margin: 6px 0px 0px;
+}
+.course_type ul li a {
+  color: #0096ff;
+  border: solid 1px #0096ff;
+  font-size: 12px;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+.course_type ul li.schedule a {
+  color: #fff;
+  background: #757575;
+  border: solid 1px #757575;
+}
+.course_type .enroll_now {
+  border-top: solid 1px #e0e0e0;
+  margin: 12px 0px 0px;
+}
+.course_type .enroll_now .btn.full_amount {
+  background: #0096ff;
+  font-size: 12px;
+  display: block;
+  width: 100%;
+  margin: 12px 0px 0px;
+}
+.full_amount{
+  color: white;
+}
+
+/* table */
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}

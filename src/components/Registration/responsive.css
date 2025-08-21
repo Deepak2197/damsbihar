@@ -1,0 +1,633 @@
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+  .neetBuyPlan .planSection {
+    padding: 20px;
+  }
+  .newPlan {
+    gap: 23px;
+  }
+  .newPlan .BoxUi {
+    width: 32%;
+  }
+  .newPlan .plan-title {
+    padding: 14px 14px;
+  }
+  .newPlan .plan-actions h3 {
+    font-size: 16px;
+  }
+  .newPlan .view-inclusion-btn {
+    font-size: 14px;
+  }
+  .newPlan .plan-footer h3 {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  /** NEET PG NEXT Page **/
+  .neetPGnext {
+    width: 100%;
+  }
+
+  /** NEET PG TEST **/
+  .neetTest {
+    width: 100%;
+  }
+  .neetPGnext .mediMart .setDivReadMore {
+    justify-content: flex-start !important;
+    gap: 30px 50px !important;
+  }
+
+  /** NEET PG Anatomy **/
+  .neetAnatomy .setSectionNew .setPartNew {
+    width: 47%;
+  }
+  .neetAnatomy .setSectionNew .textSecNew h2 {
+    font-size: 16px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .neetAnatomy .setSectionNew .generalHeading h4 {
+    font-size: 18px;
+  }
+
+  .neetBuyPlan .planSection {
+    padding: 20px;
+  }
+  .newPlan .BoxUi {
+    width: 48%;
+  }
+  .newPlan .plan-title {
+    padding: 14px 14px;
+  }
+  .newPlan .plan-actions h3 {
+    font-size: 16px;
+  }
+  .newPlan .view-inclusion-btn {
+    font-size: 14px;
+  }
+  .newPlan .plan-footer h3 {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  /** NEET PG NEXT Page **/
+  .neetPGnext {
+    width: 100%;
+  }
+  .neetPGnext .mediMart .setDivReadMore {
+    justify-content: flex-start !important;
+    gap: 30px 41px !important;
+  }
+
+  /** NEET PG TEST **/
+  .neetTest {
+    width: 100%;
+  }
+  .neetTest .setSection .setPart {
+    width: 47%;
+    padding: 16px;
+  }
+
+  /** NEET PG Anatomy **/
+  .neetAnatomy .setSectionNew .setPartNew {
+    width: 47%;
+  }
+  .neetAnatomy .setSectionNew .textSecNew h2 {
+    font-size: 16px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .neetAnatomy .setSectionNew .generalHeading h4 {
+    font-size: 18px;
+  }
+
+  /** NEET PG Subject **/
+  .neetSubject .BoxSection a {
+    width: 21%;
+  }
+  .neetSubject .BoxSection a:nth-child(n + 4) {
+    margin-right: 0px;
+  }
+
+  .neetBuyPlan .planSection {
+    padding: 20px;
+  }
+  .newPlan .BoxUi {
+    width: 48%;
+  }
+  .newPlan .plan-title {
+    padding: 14px 14px;
+  }
+  .newPlan .plan-actions h3 {
+    font-size: 16px;
+  }
+  .newPlan .view-inclusion-btn {
+    font-size: 14px;
+  }
+  .newPlan .plan-footer h3 {
+    font-size: 16px;
+  }
+  .newPlan .plan-actions {
+    padding: 32px 0px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /** NEET PG NEXT Page **/
+  .neetPGnext {
+    width: 100%;
+  }
+  .earnFree .textSec {
+    padding: 0px 20px;
+  }
+  .neetPGnext .mediMart .setDivReadMore {
+    justify-content: flex-start !important;
+  }
+  /** NEET PG TEST **/
+  .neetTest {
+    width: 100%;
+  }
+  .neetTest .setSection .setPart {
+    width: 47%;
+    padding: 16px;
+  }
+  .neetTest .setSection .textSec h2 {
+    font-size: 16px;
+  }
+  .neetTest .setSection .textSec h3 {
+    font-size: 16px;
+  }
+  .neetTest .setSection .picSec {
+    width: 50px;
+    height: 50px;
+    margin-right: 16px;
+  }
+  .neetTest .setSection .textSec p {
+    font-size: 12px;
+  }
+
+  /** NEET PG Anatomy **/
+  .neetAnatomy .setSectionNew .setPartNew {
+    width: 46%;
+  }
+  .neetAnatomy .setSectionNew .textSecNew h2 {
+    font-size: 14px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .neetAnatomy .setSectionNew .generalHeading h4 {
+    font-size: 18px;
+  }
+
+  /** NEET PG Subject **/
+  .neetSubject .BoxSection a {
+    width: 46%;
+    margin-right: 24px;
+    margin-bottom: 8%;
+  }
+
+  /** NEET PG > Buy Plan **/
+  .neetBuyPlan .planSection {
+    padding: 20px;
+  }
+  .neetBuyPlan .selectPlan .BoxUi .regularLive h2 {
+    font-size: 14px;
+  }
+  .neetBuyPlan .selectPlan .BoxUi .regularLive h3 {
+    font-size: 20px;
+  }
+  .neetBuyPlan .selectPlan .BoxUi .regularLive h4 {
+    font-size: 14px;
+  }
+  .neetBuyPlan .selectPlan .BoxUi .regularLive h5 {
+    font-size: 16px;
+  }
+  .neetBuyPlan .selectPlan {
+    padding-bottom: 20px;
+    gap: 20px;
+  }
+
+  .neetBuyPlan .planSection {
+    padding: 20px;
+  }
+  .newPlan .BoxUi {
+    width: 48%;
+  }
+  .newPlan .plan-title {
+    padding: 14px 14px;
+  }
+  .newPlan .plan-actions h3 {
+    font-size: 16px;
+  }
+  .newPlan .view-inclusion-btn {
+    font-size: 14px;
+  }
+  .newPlan .plan-footer h3 {
+    font-size: 16px;
+  }
+  .newPlan .plan-actions {
+    min-width: 80px;
+    padding: 30px 0px;
+  }
+  .BoxUi .plan-title .tags {
+    font-size: 10px;
+    padding: 4px 4px;
+  }
+  .newPlan .plan-title h2 {
+    font-size: 13px;
+  }
+  .upgradePLantask {
+    width: 100%;
+  }
+  .neetPGnext .launched {
+    width: 22% !important;
+  }
+  .neetPGnext .FullBox {
+    gap: 26px !important;
+    margin: 40px 0px !important;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  /** PESONAL DETAIL Page **/
+  .personalDetail {
+    width: 100%;
+    padding: 0px;
+    background: none;
+    border-radius: 0px;
+  }
+  .personalDetail .reqDetails input.setinputBox {
+    width: 73% !important;
+    top: 33px;
+  }
+  .personalDetail .reqDetails .my-custom-class {
+    width: 22% !important;
+    margin-left: 38px !important;
+  }
+  .personalDetail .reqDetails h1 {
+    font-size: 18px;
+  }
+  .reqDetails .fieldPart .form-group label {
+    font-size: 14px;
+  }
+  .personalDetail .reqDetails button.btn.btn-primary {
+    width: 130px;
+    font-size: 14px;
+  }
+  .reqDetails .fieldPart {
+    margin: 10% 0px 0px;
+  }
+
+  /** REGISTRATION SUCCESS Page **/
+  .regisSeuccess .conGraute h1 {
+    font-size: 18px;
+    text-align: center;
+  }
+  .regisSeuccess .conGraute h2 {
+    font-size: 14px;
+  }
+  .regisSeuccess .conGraute button.btn.btn-primary {
+    width: 130px;
+    font-size: 14px;
+  }
+
+  /** COURSE Page **/
+  .coUrse .yourCourse {
+    padding: 0px 10px;
+  }
+  .coUrse .yourCourse .inputSection [type="radio"]:checked + label,
+  .coUrse .yourCourse .inputSection [type="radio"]:not(:checked) + label {
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .educationDetails .yourCourse .courseUnderline {
+    font-size: 14px;
+  }
+
+  /** NEET PG NEXT Page **/
+  .neetPGnext {
+    width: 100%;
+  }
+  .neetPGnext .bannerSec {
+    /* padding: 20px; */
+    border-radius: 12px !important;
+  }
+  .neetPGnext .bannerSec .rytSide {
+    border-radius: 0px 12px 12px 0px !important;
+    padding: 18px 0px !important;
+  }
+
+  .neetPGnext .bannerSec .leftSide p {
+    font-size: 14px;
+  }
+  .neetPGnext .bannerSec .rytSide p {
+    font-size: 14px;
+    text-align: center;
+  }
+  .neetPGnext .bannerSec .rytSide span button.btn {
+    margin: 4px auto 0px;
+    width: 100px;
+  }
+  .neetPGnext .testSec .tabpart .tab {
+    width: 80px;
+    height: 70px;
+  }
+  .neetPGnext .testSec .tabpart .tag {
+    padding: 0px 2px !important;
+    font-size: 12px !important;
+  }
+  .neetPGnext .testSec .tabpart p {
+    font-size: 15px;
+  }
+  .neetPGnext .qUizofDay {
+    padding: 20px 20px;
+  }
+  .neetPGnext .qUizofDay .quiZpart h1 {
+    font-size: 16px;
+  }
+  .neetPGnext .qUizofDay .quiZpart h2 {
+    font-size: 16px;
+  }
+  .neetPGnext .qUizofDay .textPart p {
+    font-size: 14px;
+  }
+  .neetPGnext .mediMart {
+    padding: 20px 20px;
+    margin: 40px 0px;
+  }
+  .neetPGnext .testSec {
+    margin: 40px 0px;
+  }
+  .neetPGnext .mediMart h4 {
+    font-size: 16px;
+  }
+  .neetPGnext .mediMart .mediPart .tab img {
+    width: 26px;
+    height: 26px;
+  }
+  .neetPGnext .mediMart .mediPart .tab {
+    width: 60px;
+    height: 60px;
+  }
+  .neetPGnext .mediMart .mediPart p {
+    font-size: 14px;
+  }
+  /* .neetPGnext .mediMart .mediPart {
+    margin-right: 28px;
+    margin-bottom: 28px;
+  } */
+  .doctorLounge h5 {
+    font-size: 16px;
+  }
+  .neetPGnext .podCastSec {
+    margin: 40px 0px;
+    padding: 20px 20px;
+  }
+  .podCastSec ::-webkit-scrollbar {
+    display: none;
+  }
+  .neetPGnext .newsArtical h5 {
+    font-size: 16px;
+  }
+  .neetPGnext .newsArtical .nobelPrize h2 {
+    font-size: 14px;
+  }
+  .neetPGnext .earnFree {
+    margin: 40px 0px 40px;
+    padding: 20px 20px;
+  }
+  .neetPGnext .technicalSupport p {
+    font-size: 14px;
+  }
+  .neetPGnext .technicalSupport img {
+    width: 26px;
+  }
+  .neetPGnext .earnFree .imgSec img {
+    padding: 0px 10px;
+  }
+
+  .neetPGnext .SlideNewPart .ant-carousel .slick-slide img {
+    height: 160px;
+  }
+  .neetPGnext .qUizofDay .textPart h2 {
+    font-size: 14px !important;
+  }
+  .neetPGnext .qUizofDay .textPart button.btn {
+    font-size: 14px !important;
+  }
+
+  /** NEET PG TEST **/
+  .neetTest {
+    width: 100%;
+  }
+  .pillSec ul.nav-pills {
+    flex-wrap: initial !important;
+    overflow: auto;
+    white-space: nowrap;
+    padding-bottom: 4px;
+    margin-bottom: 20px;
+  }
+  .pillSec ul.nav-pills::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    background-color: #f5f5f5;
+  }
+  .pillSec ul.nav-pills::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+    background-color: #c1c1c1;
+  }
+  .pillSec ul.nav-pills::-webkit-scrollbar {
+    height: 6px;
+    background-color: #f5f5f5;
+  }
+  .neetTest .setSection .setPart {
+    width: 100%;
+    padding: 16px;
+  }
+  .neetTest .setSection .textSec h2 {
+    font-size: 16px;
+  }
+  .neetTest .setSection .textSec h3 {
+    font-size: 16px;
+  }
+  .neetTest .setSection .picSec {
+    width: 50px;
+    height: 50px;
+    margin-right: 16px;
+  }
+  .neetTest .setSection .textSec p {
+    font-size: 12px;
+  }
+  .neetTest .setSection {
+    gap: 20px;
+  }
+
+  /** NEET PG Anatomy **/
+  .neetAnatomy .subTopic ul li {
+    font-size: 14px;
+  }
+  .neetAnatomy .setSectionNew {
+    padding: 20px;
+  }
+  .neetAnatomy .setSectionNew .setPartNew {
+    width: 100%;
+  }
+  .neetAnatomy .setSectionNew .textSecNew h2 {
+    font-size: 14px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .neetAnatomy .setSectionNew .generalHeading h4 {
+    font-size: 18px;
+  }
+
+  /** NEET PG Subject **/
+  .neetSubject {
+    padding: 20px;
+  }
+  .neetSubject .BoxSection a {
+    width: 100%;
+    margin-bottom: 8%;
+  }
+
+  /** NEET PG > Buy Plan **/
+  .neetBuyPlan .planSection {
+    padding: 0px;
+    background: none;
+    min-width: 80px;
+    padding: 30px 0px;
+  }
+  .neetBuyPlan .selectPlan {
+    display: grid;
+  }
+  .neetBuyPlan .selectPlan .BoxUi {
+    width: 100%;
+  }
+  .neetBuyPlan .selectPlan .BoxUi .regularLive h2 {
+    font-size: 14px;
+  }
+  .neetBuyPlan .selectPlan .BoxUi .regularLive h3 {
+    font-size: 20px;
+  }
+  .neetBuyPlan .selectPlan .BoxUi .regularLive h4 {
+    font-size: 14px;
+  }
+  .neetBuyPlan .selectPlan .BoxUi .regularLive h5 {
+    font-size: 16px;
+  }
+  .neetBuyPlan .selectPlan {
+    padding-bottom: 20px;
+    gap: 20px;
+  }
+
+  .newPlan .BoxUi {
+    width: 100%;
+  }
+  .newPlan .plan-actions {
+    padding: 30px 0px;
+    min-width: 80px;
+  }
+  .newPlan .plan-title {
+    padding: 14px 14px;
+  }
+  .newPlan .plan-actions h3 {
+    font-size: 16px;
+  }
+  .newPlan .view-inclusion-btn {
+    font-size: 14px;
+  }
+  .newPlan .plan-footer h3 {
+    font-size: 16px;
+  }
+  .neetBuyPlan .planSection h3.heading {
+    font-size: 16px;
+  }
+  .newPlan.topHead h6 {
+    font-size: 16px;
+  }
+  .BoxUi .plan-title .tags {
+    font-size: 10px;
+    padding: 4px 4px;
+  }
+  .newPlan .plan-title h2 {
+    font-size: 13px;
+  }
+  .upgradePLantask {
+    width: 100%;
+  }
+  .upgradePLantask h1 {
+    font-size: 18px;
+    margin: 20px 0px 20px;
+  }
+  .upgradePLantask .planTask {
+    padding: 20px 20px;
+  }
+  .upgradePLantask .planTask .head h2 {
+    font-size: 18px;
+  }
+  .upgradePLantask .planTask .head button {
+    font-size: 14px;
+  }
+  .upgradePLantask .planTask p {
+    font-size: 16px;
+  }
+  .upgradePLantask .planTask ul li {
+    font-size: 14px;
+  }
+  .upgradePLantask .planTask .enrolbtn button.enroll {
+    font-size: 16px;
+    width: 140px;
+  }
+  .neetPGnext .launched {
+    width: 47% !important;
+  }
+  .neetPGnext .FullBox {
+    gap: 14px !important;
+    margin: 30px 0px !important;
+  }
+}
+
+@media only screen and (min-width: 740px) and (max-width: 767px) {
+  /** NEET PG TEST **/
+  .neetTest .setSection .setPart {
+    width: 48%;
+    padding: 16px;
+  }
+
+  /** NEET PG Subject **/
+  .neetSubject .BoxSection a {
+    width: 46%;
+    margin-right: 24px;
+    margin-bottom: 8%;
+  }
+  .personalDetail .reqDetails input.setinputBox {
+    width: 87% !important;
+  }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 739px) {
+  /** NEET PG TEST **/
+  .personalDetail .reqDetails input.setinputBox {
+    width: 85% !important;
+  }
+}
+
+@media only screen and (min-width: 568px) and (max-width: 639px) {
+  .personalDetail .reqDetails input.setinputBox {
+    width: 82% !important;
+  }
+}

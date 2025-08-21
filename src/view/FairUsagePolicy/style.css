@@ -1,0 +1,164 @@
+.fairUsagePolicy {
+  margin-top: 8%;
+  margin-bottom: 40px;
+  background: #fff;
+  padding: 30px 60px 50px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px,
+    rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+  border-radius: 20px;
+}
+.fairUsagePolicy .icon-circle {
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  margin-right: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #75757512;
+  filter: brightness(0) saturate(100%) invert(21%) sepia(0%) saturate(0%)
+    hue-rotate(25deg) brightness(100%) contrast(82%);
+}
+.fairUsagePolicy .card {
+  border-radius: 16px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.fairUsagePolicy .six h2 {
+  text-align: center;
+  line-height: 2em;
+  padding-bottom: 15px;
+  text-transform: none;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: italic;
+  font-family: "Playfair Display", "Bookman", serif;
+  color: #212121;
+  position: relative;
+}
+.fairUsagePolicy .six h2:after,
+.fairUsagePolicy .six h2:before {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 45px;
+  height: 4px;
+  content: "";
+  right: 45px;
+  margin: auto;
+  background-color: #ccc;
+}
+.fairUsagePolicy .six h2:before {
+  background-color: #757575;
+  left: 45px;
+  width: 90px;
+}
+.fairUsagePolicy .card-body {
+  margin: 24px 0px;
+}
+.fairUsagePolicy .policy-section {
+  margin: 0px 0px 40px;
+}
+.fairUsagePolicy .policy-section h4 {
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0px;
+  color: #212121;
+}
+.fairUsagePolicy .policy-section h5 {
+  font-size: 16px;
+  font-weight: 400;
+  margin: 14px 0px 40px;
+  color: #757575;
+}
+.fairUsagePolicy .policy-section p {
+  font-size: 14px;
+  color: #757575;
+  margin-left: 66px;
+}
+.fairUsagePolicy .policy-section .textSet {
+  color: #212121;
+  font-weight: 500;
+  font-size: 14px;
+}
+.fairUsagePolicy .policy-section li {
+  list-style: disc;
+  margin-left: 16px;
+}
+.fairUsagePolicy .policy-section .ExistsBox {
+  background: #eeeeee99;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  padding: 20px 20px;
+  border-radius: 16px;
+  text-align: center;
+}
+.fairUsagePolicy .policy-section .ExistsBox h6 {
+  font-weight: 500;
+  font-size: 18px;
+  color: #616161;
+  margin-bottom: 14px;
+}
+.fairUsagePolicy .policy-section .ExistsBox h3 {
+  font-weight: 400;
+  font-size: 16px;
+  color: #757575;
+}
+/* Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .fairUsagePolicy {
+    margin-top: 10%;
+    margin-bottom: 40px;
+    padding: 30px 0px 50px;
+    box-shadow: none;
+  }
+  .fairUsagePolicy .six h2 {
+    font-size: 20px;
+  }
+  .fairUsagePolicy .icon-circle {
+    width: 40px;
+    height: 40px;
+  }
+  .fairUsagePolicy .policy-section h4 {
+    font-size: 16px;
+  }
+  .fairUsagePolicy .policy-section p {
+    margin-left: 56px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .fairUsagePolicy {
+    margin-top: 10%;
+    margin-bottom: 40px;
+    padding: 30px 0px 50px;
+    box-shadow: none;
+  }
+  .fairUsagePolicy .six h2 {
+    font-size: 20px;
+  }
+  .fairUsagePolicy .icon-circle {
+    width: 40px;
+    height: 40px;
+  }
+  .fairUsagePolicy .policy-section h4 {
+    font-size: 16px;
+  }
+  .fairUsagePolicy .policy-section p {
+    margin-left: 56px;
+  }
+}

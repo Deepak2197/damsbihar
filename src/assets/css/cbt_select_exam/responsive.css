@@ -1,0 +1,415 @@
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+    .cbtLocate .nav-item a.nav-link .tab-group {
+        width: 90px;
+        min-height: 90px;
+        padding: 0px 0px;
+    }
+    .cbtLocate .nav-link p {
+        font-size: 14px;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        margin-bottom: 0px;
+    }
+    .cbtLocate ul.nav.nav-pills {
+        flex-wrap: initial !important;
+        overflow: auto;
+    }
+    .cbtLocate ul.nav-pills::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.3);
+        border-radius: 10px;
+        background-color: #F5F5F5;
+    }
+    .cbtLocate ul.nav-pills::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,.3);
+        background-color: #c1c1c1;
+    }
+    .cbtLocate ul.nav-pills::-webkit-scrollbar {
+        height: 6px;
+        background-color: #F5F5F5;
+    }
+    .profileNew .p-image{
+        right: 17%;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+    .profileNew{
+        width: 100% !important;
+    }
+    .CbtSelectexam .damsSec {
+        padding: 10px;
+    }
+    .CbtSelectexam .damsSec .textSec h1 {
+        font-size: 14px;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .CbtSelectexam .damsSec .textSec h2 {
+        font-size: 16px;
+    }
+    .CbtSelectexam .damsSec .textSec h3 {
+        font-size: 14px;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    .cbtLocate .nav-item a.nav-link .tab-group {
+        width: 90px;
+        min-height: 90px;
+        padding: 0px 0px;
+    }
+    .cbtLocate .nav-link p {
+        font-size: 14px;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        margin-bottom: 0px;
+    }
+    .cbtLocate ul.nav.nav-pills {
+        flex-wrap: initial !important;
+        overflow: auto;
+    }
+    .cbtLocate ul.nav-pills::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.3);
+        border-radius: 10px;
+        background-color: #F5F5F5;
+    }
+    .cbtLocate ul.nav-pills::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,.3);
+        background-color: #c1c1c1;
+    }
+    .cbtLocate ul.nav-pills::-webkit-scrollbar {
+        height: 6px;
+        background-color: #F5F5F5;
+    }
+    .profileNew .p-image{
+        right: 4%;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .profileNew{
+        width: 100% !important;
+        padding: 20px 0px;
+    }
+    .profileNew .circle{
+        width: 120px;
+        height: 120px;
+    }
+    .profileNew .detail-form p{
+        font-size: 12px;
+    }
+    .profileNew .profile-pic {
+        width: 120px;
+        height: 120px;
+    }
+    .cbtLocate .nav-item a.nav-link .tab-group {
+        width: 90px;
+        min-height: 90px;
+        padding: 0px 0px;
+    }
+    .cbtLocate .nav-link p {
+        font-size: 14px;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        margin-bottom: 0px;
+    }
+    .cbtLocate ul.nav.nav-pills {
+        flex-wrap: initial !important;
+        overflow: auto;
+    }
+    .cbtLocate ul.nav-pills::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.3);
+        border-radius: 10px;
+        background-color: #F5F5F5;
+    }
+    .cbtLocate ul.nav-pills::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,.3);
+        background-color: #c1c1c1;
+    }
+    .cbtLocate ul.nav-pills::-webkit-scrollbar {
+        height: 6px;
+        background-color: #F5F5F5;
+    }
+    .profileNew .p-image{
+        right: 1%;
+    }
+    .profileNew .form-group .form-control {
+        height: 42px !important;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .profileNew{
+        width: 100% !important;
+    }
+    .profileNew select {
+        height: 40px !important;
+    }
+    .profileNew .form-group .form-control {
+        height: 40px !important;
+    }
+    .profileNew button#btnNext {
+        padding: 10px 10px;
+        width: 150px;
+        font-size: 16px;
+    }
+    .profileNew .p-image{
+        right: 4% !important;
+    }
+    .cbtLocate .nav-item a.nav-link .tab-group {
+        width: 70px;
+        min-height: 70px;
+        padding: 0px 0px;
+    }
+    .CbtSelectexam .damsSec .textSec h3 {
+        font-size: 13px;
+        display: -webkit-box;
+    -webkit-line-clamp: 1;
+	line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    }
+    .cbtLocate .nav-link p {
+        font-size: 14px;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        margin-bottom: 0px;
+    }
+    .cbtLocate ul.nav.nav-pills {
+        flex-wrap: initial !important;
+        overflow: auto;
+    }
+    .cbtLocate ul.nav-pills::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.3);
+        border-radius: 10px;
+        background-color: #F5F5F5;
+    }
+    .cbtLocate ul.nav-pills::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,.3);
+        background-color: #c1c1c1;
+    }
+    .cbtLocate ul.nav-pills::-webkit-scrollbar {
+        height: 6px;
+        background-color: #F5F5F5;
+    }
+    .popup-overlay{
+        right: 13%;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+    .profileNew{
+        width: 100% !important;
+    }
+    .profileNew .profile-pic{
+        width: 125px!important;
+        height: 125px!important;
+    }
+    .profileNew .circle{
+        margin: 0 auto !important;
+        width: 125px!important;
+        height: 125px!important;
+    }
+    .profileNew select {
+        height: 40px !important;
+    }
+    .profileNew .form-group .form-control {
+        height: 40px !important;
+    }
+    .profileNew button#btnNext {
+        padding: 10px 10px;
+        width: 150px;
+        font-size: 16px;
+    }
+    .profileNew .detail-form{
+    text-align: center;
+    margin-bottom: 20px !important;
+    }
+   
+    .profileNew .p-image{
+        right: 25% !important;
+    }
+    .CbtSelectexam .search_btng i {
+        top: 12px;
+        font-size: 16px;
+        left: 18px;
+    }
+    .CbtSelectexam .search_btng .form-control {
+        height: 40px;
+        min-height: 37px;
+        font-size: 15px;
+    }
+    .CbtSelectexam .damsSec .btnGroup.set {
+        margin: 15px 0px 0px;
+    }
+    .CbtSelectexam .selectExamTab .nav-item a.nav-link {
+        width: auto;
+        font-size: 14px;
+        margin-right: 0px;
+        margin-bottom: 4px;
+        padding: 6px 10px;
+    }
+    .CbtSelectexam .damsSec .btnGroup a.butBtn{
+        font-size: 13px;
+    }
+    .CbtSelectexam .damsSec img{
+        height: 55px;
+    }
+    .CbtSelectexam .selectExamTab ul.nav.nav-pills {
+        margin-bottom: 4% !important;
+        flex-wrap: initial !important;
+        overflow: auto;
+    }
+    .selectExamTab ul.nav-pills::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.3);
+        border-radius: 10px;
+        background-color: #F5F5F5;
+    }
+    .selectExamTab ul.nav-pills::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,.3);
+        background-color: #c1c1c1;
+    }
+    .selectExamTab ul.nav-pills::-webkit-scrollbar {
+        height: 6px;
+        background-color: #F5F5F5;
+    }
+
+    .CbtSelectexam .damsSec {
+        padding: 10px;
+    }
+    .CbtSelectexam .damsSec .textSec h1 {
+        font-size: 14px;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .CbtSelectexam .damsSec .textSec h2 {
+        font-size: 13px;
+    }
+    .CbtSelectexam .damsSec .textSec h3 {
+        font-size: 12px;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .CbtSelectexam .damsSec .textSec h3 span.date {
+        font-size: 11px;
+    }
+
+    .testInstructions .featureSec p {
+        font-size: 12px;
+    }
+
+
+    .cbtLocate .nav-item a.nav-link .tab-group {
+        width: 70px;
+        min-height: 70px;
+        padding: 0px 0px;
+    }
+    .cbtLocate .nav-link p {
+        font-size: 14px;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        margin-bottom: 0px;
+    }
+    .cbtLocate ul.nav.nav-pills {
+        flex-wrap: initial !important;
+        overflow: auto;
+    }
+    .cbtLocate ul.nav-pills::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.3);
+        border-radius: 10px;
+        background-color: #F5F5F5;
+    }
+    .cbtLocate ul.nav-pills::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,.3);
+        background-color: #c1c1c1;
+    }
+    .cbtLocate ul.nav-pills::-webkit-scrollbar {
+        height: 6px;
+        background-color: #F5F5F5;
+    }
+
+    .testInstructions {
+        margin: 0px 0px;
+    }
+    .testInstructions .featureSec ul li {
+        font-size: 14px;
+    }
+    .testInstructions .featureSec h1 {
+        font-size: 20px;
+    }
+
+    .popup-overlay{
+        width: 100% !important;
+        padding: 10px 20px;
+        top: 20%;
+        right: 0;
+    }
+    .popup-overlay .modal-title {
+        font-size: 15px !important;
+    }
+    .selectExamTab .radioSet label{
+        font-size: 14px;
+        margin: 0;
+        margin-left: 15px !important
+    }
+    .CbtSelectexam .popup-overlay input[type=radio] {
+        left: 10px;
+        top: 58px;
+    }
+    .cbtLocate .show_data_city a{
+        width: 100% !important;
+        font-size: 14px;
+        padding: 6px 0px;
+
+    }
+}
+
+@media only screen and (min-width: 568px) and (max-width: 639px) {
+    .CbtSelectexam .damsSec img {
+        width: 60%;
+        margin: 0 auto;
+        display: block;
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 567px) {
+    .CbtSelectexam .damsSec img {
+        width: 60%;
+        margin: 0 auto;
+        display: block;
+    }
+}

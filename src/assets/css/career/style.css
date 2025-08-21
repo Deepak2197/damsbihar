@@ -1,0 +1,675 @@
+.Career {
+  /* background: #ffff
+      url(https://d2enu63wt1sf3u.cloudfront.net/react_emed_web/background-bg.svg); */
+}
+.carrerData {
+  width: 100%;
+  float: left;
+  /* background-image: url(https://d2enu63wt1sf3u.cloudfront.net/react_emed_web/conatcbg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; */
+  /* height: auto; */
+  padding: 40px 40px;
+  /* border-left: 16px solid #f16136; */
+  margin-bottom: 50px;
+  /* background: rgb(251, 245, 244);
+  background: linear-gradient(
+    184deg,
+    rgba(251, 245, 244, 1) 32%,
+    rgba(255, 255, 255, 1) 100%
+  ); */
+  border-radius: 20px;
+  background: #eeeeee99;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+
+.carrerData .commanColor {
+  position: absolute;
+  background: #fdede8;
+  top: 220px;
+  width: 500px;
+  height: 255px;
+  right: 0;
+  z-index: -1;
+}
+.Career .bannerData .carrerData h1 {
+  color: #212121;
+  font-size: 26px;
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+.bannerData .carrerData h3 {
+  color: #424242;
+  font-size: 18px !important;
+  margin-bottom: 12px !important;
+  font-weight: 500;
+}
+.bannerData .carrerData p {
+  color: #424242;
+  font-size: 14px;
+  margin-bottom: 0;
+  line-height: 28px;
+  font-weight: 400;
+}
+
+.carrerData .banner-img {
+  /* padding: 15px 0px; */
+  border-radius: 10px;
+  /* background: #f5c3d273; */
+  text-align: right;
+}
+.carrerData .banner-img img {
+  max-width: 100%;
+  width: 350px;
+}
+.Career .site-heading {
+  margin-bottom: 0;
+}
+.Career .site-heading h2 {
+  font-size: 26px;
+  color: #212121 !important;
+  font-weight: 500;
+}
+.Career .sblue strong {
+  color: #212121 !important;
+  font-weight: 700;
+}
+.Career .aboutspan {
+  font-size: 17px !important;
+  color: #212121 !important;
+  font-family: sans-serif;
+  line-height: 28px;
+  font-weight: 500;
+}
+.Career .about-items p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 15px;
+  color: #212121 !important;
+}
+
+.Career .section-area {
+  padding: 50px 0px;
+}
+.Career .section-area p {
+  font-size: 14px;
+  line-height: 26px;
+  color: #424242;
+  margin-bottom: 12px;
+  font-weight: 400;
+}
+.Career .section-area p.set {
+  font-size: 14px;
+  line-height: 26px;
+  color: #212121;
+  margin-bottom: 12px;
+  font-weight: 400;
+  padding: 70px 0px;
+  width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.Career .section-area .feature-container {
+  position: relative;
+  /* background-image: url(https://d2enu63wt1sf3u.cloudfront.net/react_emed_web/conatcbg.png); */
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  /* border: 1px solid #eee; */
+  min-height: 390px;
+  padding: 20px 10px;
+  border-radius: 10px;
+  /* box-shadow: 0 2px 18px 0 rgb(198 198 198 / 15%); */
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+  margin-bottom: 30px;
+}
+
+.Career .section-area .Career-box {
+  width: 70px;
+  height: 70px;
+  /* border: 1px solid #ddd; */
+  background: #eeeeee;
+  border-radius: 50px;
+  padding: 16px;
+  /* background: rgb(229, 234, 249);
+  background: linear-gradient(
+    184deg,
+    rgba(229, 234, 249, 1) 15%,
+    rgba(255, 255, 255, 1) 100%
+  ); */
+  margin: 0 auto 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Career .section-area .Career-box img {
+  width: 34px;
+  filter: brightness(0) saturate(100%) invert(21%) sepia(0%) saturate(0%)
+    hue-rotate(25deg) brightness(100%) contrast(82%);
+}
+.Career .section-area .icon-content > h5 {
+  color: #212121;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+}
+
+.Career .section-area .feature-container a.btn-design {
+  border: 1px solid #fff;
+  border-radius: 12px;
+  color: #fff;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: inline-block;
+  bottom: 20px;
+  padding: 6px 14px;
+  font-size: 15px;
+  background: #007aff;
+}
+
+.Career .section-area .feature-container a.btn-design:hover {
+  background: #3f5395;
+}
+
+.Career .section-area .Career-box {
+  padding: 15px;
+}
+
+.Career .about-area .about-items .info {
+  text-align: left;
+}
+
+.Career .formArea {
+  padding: 50px 0px;
+}
+
+.Career .formArea .touch h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #212121;
+  font-size: 26px;
+  font-weight: 500;
+  font-family: roboto;
+}
+.Career .formArea .touch p {
+  text-align: center;
+  margin-bottom: 60px;
+  color: #757575;
+  font-size: 15px;
+  font-weight: 400;
+}
+.Career .formArea .get-touch-img {
+  padding: 0px 0px;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+}
+.Career .formArea .get-touch-img img {
+  max-width: 100%;
+  width: 300px !important;
+}
+.Career .formArea .form-group {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.Career .formArea form.contact-bx {
+  /* background: rgb(251, 245, 244);
+  background: linear-gradient(
+    184deg,
+    rgba(251, 245, 244, 1) 32%,
+    rgba(255, 255, 255, 1) 100%
+  ); */
+  background: #eeeeee99;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 10px;
+  padding: 50px 35px;
+  /* background: #fff; */
+  width: 992px;
+  margin: 0 auto;
+}
+.Career .formArea .setOfform {
+  display: flex;
+}
+.Career .formArea .contact-bx .column {
+  width: 50%;
+  padding: 0px 20px;
+}
+.Career .formArea .contact-bx .touch {
+  width: 100%;
+}
+.Career .formArea textarea.form-control {
+  width: 100%;
+  border-radius: 20px;
+  padding: 10px 15px;
+  border: 1px solid #bdbdbd;
+  height: 176px;
+  font-size: 14px;
+}
+
+.Career .formArea .form-group input {
+  height: 48px;
+  font-size: 14px;
+  color: #757575;
+  border-radius: 16px;
+  padding: 10px 15px;
+  border: 1px solid #bdbdbd;
+  background: #fff;
+  line-height: 26px;
+}
+.Career .formArea .sendbtn {
+  padding: 12px 30px !important;
+  /* background: #ed633d; */
+  border-radius: 16px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  /* box-shadow: 0 13px 50px 0 #3f539561, 0 0px 0px 0 #3f5395a8 !important; */
+  width: 100%;
+  background: #eeeeee;
+  background: linear-gradient(
+    90deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(33, 33, 33, 1) 100%
+  );
+}
+
+.Career .section-area .carthumb.thumb img {
+  max-width: 100%;
+  width: 235px;
+  margin: 0 auto;
+}
+
+.Career .sinceSec {
+  background-image: url(https://d2enu63wt1sf3u.cloudfront.net/web_assets/images/newjs/img/about/why-bg.png);
+  background-size: contain;
+  background-repeat: repeat;
+  background-position: center;
+  padding: 0px;
+}
+
+.carrerModel .modal-content {
+  margin-top: 30px;
+  box-shadow: rgb(17 17 26 / 9%) 0px 4px 16px, rgb(17 17 26 / 10%) 0px 8px 24px,
+    rgb(17 17 26 / 0%) 0px 16px 56px;
+  border-radius: 7px;
+  padding: 10px 12px;
+  background: #f9ebd6;
+}
+.carrerModel .modal-content button.btn {
+  background: #3f5395;
+  width: 200px;
+  padding: 10px 0;
+}
+.carrerModel .modal-dialog {
+  margin-top: 5%;
+  max-width: 615px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carrerModel .modal-header {
+  border-bottom: 0 !important;
+  display: flex !important;
+  align-items: center;
+  justify-content: left;
+  padding-bottom: 10px;
+}
+.carrerModel textarea.form-control {
+  min-height: 80px !important;
+}
+.carrerModel .form-group {
+  width: 100%;
+}
+.carrerModel .form-group .form-control {
+  box-shadow: none;
+  height: 40px;
+  font-size: 13px !important;
+  line-height: 26px !important;
+  padding: 6px 15px !important;
+  border-radius: 8px;
+  color: #000;
+  font-weight: 400;
+}
+.carrerModel .sendbtn {
+  font-size: 16px;
+  font-weight: 400;
+  padding: 8px 30px;
+  background: #3f5395;
+  border-radius: 8px;
+  color: #fff;
+}
+
+.carrerModel button.btn-close {
+  position: absolute !important;
+  right: 32px !important;
+  top: 35px !important;
+  padding: 0px !important;
+  opacity: 0.7;
+  width: 12px;
+  height: 12px;
+  border-radius: 0;
+  margin: 0px;
+}
+
+.carrerModel .modal-title {
+  margin-bottom: 0 !important;
+  font-size: 18px !important;
+  color: #3f5395;
+  font-weight: 500;
+  width: 100%;
+  text-align: center;
+}
+
+/* Media Query */
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+  .Career .commanColor {
+    top: 110px;
+  }
+
+  .Career .section-area p.set {
+    width: 100%;
+    padding: 0px 0px;
+  }
+  .Career .formArea .touch h2 {
+    font-size: 20px;
+  }
+  .Career .formArea form.contact-bx {
+    width: 100%;
+  }
+  .Career .formArea .setOfform {
+    display: flex;
+  }
+  .Career .formArea .touch p {
+    margin-bottom: 30px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .Career .commanColor {
+    top: 60px;
+  }
+  .Career .section-area .icon-content > h5 {
+    font-size: 14px;
+    line-height: 22px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .Career .section-area .feature-container a.btn-design {
+    /* right: 18%;
+      padding: 6px 24px; */
+    font-size: 14px;
+  }
+  .Career .formArea .get-touch-img img {
+    width: 250px !important;
+  }
+  .Career .section-area p {
+    font-size: 12px;
+    line-height: 22px;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .Career .formArea form.contact-bx {
+    width: 100%;
+  }
+
+  .Career .section-area p.set {
+    width: 100%;
+    padding: 0px 0px;
+  }
+  .Career .formArea .touch h2 {
+    font-size: 20px;
+  }
+  .Career .formArea form.contact-bx {
+    width: 100%;
+  }
+  .Career .formArea .setOfform {
+    display: flex;
+  }
+  .Career .formArea .touch p {
+    margin-bottom: 30px;
+  }
+
+  .Career .section-area .feature-container {
+    min-height: 340px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .carrerData {
+    padding: 15px 20px;
+  }
+  .Career .bannerData .carrerData h1 {
+    font-size: 24px;
+  }
+  .bannerData .carrerData h3 {
+    font-size: 16px !important;
+  }
+  .bannerData .carrerData p {
+    font-size: 13px;
+    line-height: 24px;
+  }
+  /* .carrerData .banner-img img {
+      width: 140px;
+    } */
+  .carrerData .banner-img {
+    margin-top: 22px;
+  }
+  .Career .section-area p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .Career .formArea form.contact-bx {
+    width: 100%;
+    padding: 25px 20px;
+  }
+  .Career .formArea .form-group input {
+    font-size: 14px;
+    height: 40px;
+  }
+  .Career .formArea .get-touch-img img {
+    width: 250px !important;
+  }
+  .Career .abouth1 {
+    font-size: 21px !important;
+  }
+  .Career .about-items p {
+    font-size: 13px;
+  }
+  .Career .section-area .Career-box > .newmg {
+    width: 65px;
+  }
+  .Career .section-area .feature-container {
+    padding: 0 5px;
+    min-height: 300px;
+  }
+  .Career .section-area .icon-content > h5 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .Career .section-area .feature-container a.btn-design {
+    right: 6px;
+    bottom: 12px;
+    padding: 5px 10px;
+    font-size: 13px;
+    width: 91%;
+  }
+
+  .Career .section-area p.set {
+    width: 100%;
+    padding: 0px 0px;
+  }
+  .Career .formArea .touch h2 {
+    font-size: 20px;
+  }
+  .Career .formArea form.contact-bx {
+    width: 100%;
+  }
+  .Career .formArea .setOfform {
+    display: flex;
+  }
+  .Career .formArea .touch p {
+    margin-bottom: 30px;
+  }
+  .Career .formArea textarea.form-control {
+    height: 148px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .carrerModel .form-group {
+    margin-bottom: 10px;
+  }
+  .carrerData {
+    padding: 15px 20px;
+  }
+  .carrerModel .modal-title {
+    font-size: 14px !important;
+  }
+  .carrerModel button.btn-close {
+    right: 13px !important;
+    top: 23px !important;
+    opacity: 1;
+    width: 8px;
+    height: 8px;
+  }
+  .Career .bannerData .carrerData h1 {
+    font-size: 20px;
+  }
+  .bannerData .carrerData h3 {
+    font-size: 14px !important;
+    margin-bottom: 10px !important;
+  }
+  .bannerData .carrerData p {
+    font-size: 12px;
+    line-height: 25px;
+  }
+  .Career .section-area .carthumb.thumb img {
+    width: 155px;
+  }
+  .Career .commanColor {
+    display: none;
+  }
+  .carrerData .banner-img {
+    margin-top: 20px;
+    text-align: center;
+  }
+  /* .carrerData .banner-img img {
+      width: 150px;
+    } */
+  .Career .section-area .feature-container a.btn-design {
+    transform: translate(-50%, 10%);
+  }
+  .Career .section-area .icon-content > h5 {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .Career .about-items p {
+    font-size: 12px !important;
+    line-height: 20px !important;
+  }
+
+  .Career .section-area p {
+    font-size: 13px;
+    line-height: 22px;
+    text-align: justify;
+  }
+  .Career .formArea {
+    padding: 25px 0px;
+    margin: 0;
+  }
+  .Career .formArea form.contact-bx {
+    width: 100%;
+    padding: 30px 15px;
+  }
+  .Career .formArea .get-touch-img {
+    margin: 30px 0px 0;
+    padding: 20px 12px;
+    border: 0;
+    background: none;
+  }
+  .Career .formArea .get-touch-img img {
+    width: 100% !important;
+    border: 1px solid #eee;
+    padding: 10px 60px;
+    border-radius: 10px;
+    background: #fff;
+  }
+  .Career .formArea h2 {
+    margin-bottom: 15px;
+    font-size: 22px;
+  }
+  .Career .formArea .form-group input {
+    height: 44px;
+  }
+  .Career .formArea textarea.form-control {
+    height: 70px;
+  }
+  .Career .section-area .feature-container {
+    min-height: 325px !important;
+  }
+  .Career .sinceSec {
+    padding: 0 15px;
+  }
+  .Career .sinceSec .car {
+    margin: 0px !important;
+  }
+  .Career .section-area .carthumb.thumb {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+  }
+  .carrerModel .modal-content {
+    padding: 4px 2px;
+    margin-top: 10px;
+  }
+  .Career .section-area p.set {
+    width: 100%;
+    padding: 0px 0px;
+  }
+  .Career .formArea .touch h2 {
+    font-size: 20px;
+  }
+  .Career .formArea form.contact-bx {
+    width: 100%;
+  }
+  .Career .formArea .setOfform {
+    display: block;
+  }
+  .Career .formArea .contact-bx .column {
+    width: 100%;
+    padding: 0px 0px;
+  }
+  .Career .formArea .touch p {
+    margin-bottom: 30px;
+  }
+}

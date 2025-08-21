@@ -1,0 +1,1 @@
+<svg width='1200' height='256' viewBox='0 0 1200 256' xmlns='http://www.w3.org/2000/svg'><defs><filter id='noise'><feTurbulence type='fractalNoise' baseFrequency='.4'></feTurbulence></filter></defs><rect height='256' width='1200' filter='url(#noise)' opacity='.3'/></svg>

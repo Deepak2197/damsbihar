@@ -1,0 +1,1071 @@
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+
+    /* Event Page */
+    
+    .event_module ul.nav-pills {
+        flex-wrap: initial;
+        overflow: auto;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar-track {
+        box-shadow: none;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar-thumb {
+        background: #e9e9e9;
+        border-radius: 10px;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar {
+        height: 3px;
+    }
+    .event_module .nav-item a.nav-link .tab-group {
+        padding: 0px 0px;
+        min-height: 78px;
+        width: 78px;
+        height: 78px;
+    }
+    .event_module .nav-item a.nav-link p {
+        font-size: 13px;
+        margin-bottom: 0px;
+        line-height: 20px;
+    }
+    .event_module .show_data_city {
+        margin: 20px 0px 0px;
+    }
+
+
+
+    /* Upcoming Event Page */
+
+    .upcom_event .event_prt span.boucher {
+        padding: 2px 0px;
+        width: 68px;
+        font-size: 13px;
+    }
+    .upcom_event .search-wrapper.active .input-holder {
+        width: 180px;
+    }
+    .upcom_event .event_prt .text_sec h2 {
+        font-size: 12px;
+        margin-bottom: -18px;
+    }
+    .upcom_event .event_prt .text_sec h3 {
+        font-size: 12px;
+        margin-bottom: -10px;
+    }
+    .upcom_event .event_prt .text_sec h4 {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .onwrd p {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .onwrd span .fa-heart-o {
+        font-size: 14px;
+    }
+    .upcom_event .event_prt .ftr_sec span img {
+        width: 14px;
+    }
+    .upcom_event .event_prt .ftr_sec h5 {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .matter h5 {
+        font-size: 12px;
+        font-family: sans-serif;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .upcom_event .event_prt .matter h6 {
+        font-size: 12px;
+        font-family: sans-serif;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .upcom_event .event_prt .event-type h5 {
+        font-size: 13px;
+    }
+    .upcom_event .event_prt .event-type h6 {
+        font-size: 15px;
+    }
+   
+    .upcom_event .text_sec span.seat-text {
+        top: 20px;
+        left: 26px;
+    }
+
+    /* Begin: Mega Revision Course section */
+
+    .revision_course .banner_img1 img {
+        height: 240px;
+    }
+    .revision_course .about h1 {
+        font-size: 16px;
+    }
+    .revision_course .about p {
+        font-size: 12px;
+    }
+    .revision_course .target_part h2 {
+        font-size: 12px;
+    }
+    .revision_course .target_part p {
+        font-size: 14px;
+    }
+    .revision_course .target_part h5 {
+        font-size: 12px;
+    }
+    .revision_course .target_part .btn.buy_btntc {
+        font-size: 10px;
+        padding: 6px 10px;
+    }
+    .revision_course .target_part h3 {
+        font-size: 14px;
+    }
+
+
+
+    /* Begin: Ticket Page */
+
+    .tickets_section .new_ticket {
+        margin: 0px 12% 4%;
+    }
+    .tickets_section .new_ticket .mid_sec h3 {
+        font-size: 26px;
+    }
+    .tickets_section .new_ticket .ryt_sec img {
+        width: 66px;
+    }
+    .tickets_section .new_ticket .ryt_sec .btn.dw_tckt {
+        padding: 6px 4px;
+    }
+
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+
+    .event_module ul.nav-pills {
+        /* flex-wrap: initial; */
+        overflow: auto;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar-track {
+        box-shadow: none;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar-thumb {
+        background: #e9e9e9;
+        border-radius: 10px;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar {
+        height: 3px;
+        width: 6px;
+    }
+    .event_module .nav-item a.nav-link .tab-group {
+        padding: 0px 0px;
+        min-height: 90px;
+        width: 90px;
+    }
+    .event_module .nav-item a.nav-link p {
+        font-size: 13px;
+        margin-bottom: 0px;
+        line-height: 20px;
+    }
+    .event_module .show_data_city {
+        margin: 20px 0px 0px;
+    }
+
+
+
+    /* Upcoming Event Page */
+
+    .upcom_event .event_prt span.boucher {
+        padding: 2px 0px;
+        width: 68px;
+        font-size: 13px;
+    }
+    .upcom_event .search-wrapper.active .input-holder {
+        width: 180px;
+    }
+    .upcom_event .event_prt .matter h5 {
+        font-size: 12px;
+        font-family: sans-serif;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .upcom_event .event_prt .matter h6 {
+        font-size: 12px;
+        font-family: sans-serif;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+ 
+    .upcom_event .text_sec span.seat-text {
+        top: 17px;
+        left: 12px;
+    }
+    .upcom_event .event_prt .text_sec h2 {
+        font-size: 12px;
+        margin-bottom: -18px;
+    }
+    .upcom_event .event_prt .text_sec h3 {
+        font-size: 12px;
+        margin-bottom: -10px;
+    }
+    .upcom_event .event_prt .text_sec h4 {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .onwrd p {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .onwrd span .fa-heart-o {
+        font-size: 14px;
+    }
+    .upcom_event .event_prt .ftr_sec span img {
+        width: 14px;
+    }
+    .upcom_event .event_prt .ftr_sec h5 {
+        font-size: 12px;
+    }
+
+
+    /* Begin: Mega Revision Course section */
+
+    .revision_course .banner_img1 img {
+        height: 260px;
+    }
+    .revision_course .about h1 {
+        font-size: 16px;
+    }
+    .revision_course .about p {
+        font-size: 12px;
+    }
+    .revision_course .target_part h2 {
+        font-size: 12px;
+    }
+    .revision_course .target_part p {
+        font-size: 13px;
+    }
+    .revision_course .target_part h5 {
+        font-size: 12px;
+    }
+    .revision_course .target_part .btn.buy_btntc {
+        font-size: 10px;
+        padding: 6px 10px;
+    }
+    .revision_course .target_part h3 {
+        font-size: 14px;
+    }
+
+
+
+    /* Begin: Ticket Page */
+
+    .tickets_section .new_ticket {
+        margin: 0px 8% 4%;
+    }
+    .tickets_section .new_ticket .mid_sec h3 {
+        font-size: 26px;
+    }
+    .tickets_section .new_ticket .ryt_sec img {
+        width: 66px;
+    }
+    .tickets_section .new_ticket .ryt_sec .btn.dw_tckt {
+        padding: 6px 4px;
+    }
+
+    
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+    /* Event Page */
+    
+    .event_module ul.nav-pills {
+        flex-wrap: initial;
+        overflow: auto;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar-track {
+        box-shadow: none;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar-thumb {
+        background: #e9e9e9;
+        border-radius: 10px;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar {
+        height: 3px;
+    }
+    .event_module .nav-item a.nav-link .tab-group {
+        padding: 0px 0px;
+        min-height: 90px;
+        width: 90px;
+    }
+    .event_module .nav-item a.nav-link p {
+        font-size: 13px;
+        margin-bottom: 0px;
+        line-height: 20px;
+    }
+    .event_module .show_data_city {
+        margin: 20px 0px 0px;
+    }
+
+
+    /* Upcoming Event Page */
+
+    .upcom_event .event_prt span.boucher {
+        padding: 2px 0px;
+        width: 68px;
+        font-size: 13px;
+    }
+    .upcom_event .event_prt .text_sec h2 {
+        font-size: 12px;
+        margin-bottom: -18px;
+    }
+    .upcom_event .text_sec .on-btn {
+        display: inline-grid;
+    }
+    .upcom_event .event_prt .text_sec h3 {
+        font-size: 12px;
+        margin-bottom: -10px;
+    }
+    .upcom_event .event_prt .text_sec h4 {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .onwrd p {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .onwrd span .fa-heart-o {
+        font-size: 14px;
+    }
+    .upcom_event .event_prt .ftr_sec span img {
+        width: 14px;
+    }
+    .upcom_event .event_prt .ftr_sec h5 {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .matter h6 {
+        font-size: 12px;
+        font-family: sans-serif;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .upcom_event .event_prt .matter h5 {
+        font-size: 12px;
+        font-family: sans-serif;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .upcom_event .event_prt .event-type h5 {
+        font-size: 11px;
+    }
+
+    .upcom_event .text_sec .on-btn button.btn {
+        font-size: 12px;
+        padding: 6px 0px;
+        width: 134px;
+        margin-bottom: 6px;
+    }
+    .upcom_event .text_sec span.seat-text {
+        top: 14px;
+        left: 16px;
+    }
+    .upcom_event .search-wrapper.active .input-holder {
+        width: 180px;
+    }
+
+
+    /* Begin: Mega Revision Course section */
+
+    .revision_course .banner_img1 img {
+        height: 200px;
+    }
+    .revision_course .about h1 {
+        font-size: 16px;
+    }
+    .revision_course .about p {
+        font-size: 12px;
+    }
+    .revision_course .target_part h2 {
+        font-size: 12px;
+    }
+    .revision_course .target_part p {
+        font-size: 13px;
+    }
+    .revision_course .target_part h5 {
+        font-size: 12px;
+    }
+    .revision_course .target_part .btn.buy_btntc {
+        font-size: 10px;
+        padding: 6px 10px;
+    }
+    .revision_course .target_part h3 {
+        font-size: 14px;
+    }
+
+
+
+    /* Begin: Ticket Page */
+
+    .tickets_section .new_ticket {
+        margin: 0px 0% 4%;
+    }
+    .tickets_section .new_ticket .mid_sec h3 {
+        font-size: 26px;
+    }
+    .tickets_section .new_ticket .ryt_sec img {
+        width: 66px;
+    }
+    .tickets_section .new_ticket .ryt_sec .btn.dw_tckt {
+        padding: 6px 4px;
+    }
+
+
+    .eventDes {
+        width: 100%;
+    }
+   
+
+   
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    /* Event Page */
+
+    .event_module ul.nav-pills {
+        flex-wrap: initial;
+        overflow: auto;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar-track {
+        box-shadow: none;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar-thumb {
+        background: #e9e9e9;
+        border-radius: 10px;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar {
+        height: 3px;
+    }
+    .event_module .nav-item a.nav-link .tab-group {
+        min-height: 68px;
+        width: 78px;
+        height: 78px;
+    
+    }
+    .event_module .nav-item a.nav-link p {
+        font-size: 13px;
+        margin-bottom: 0px;
+        line-height: 20px;
+    }
+    .event_module .show_data_city {
+        margin: 20px 0px 0px;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.3);
+        border-radius: 10px;
+        background-color: #F5F5F5;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,.3);
+        background-color: #c1c1c1;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar {
+        height: 6px;
+        background-color: #F5F5F5;
+    }
+
+
+    /* Upcoming Event Page */
+
+     .slider_sec #hero {
+        height: 200px;
+    }
+    .slider_sec .hero {
+        height: 100%;
+        padding: 30px 0px;
+    }
+    .upcom_event .upcom_hdng h4 {
+        font-size: 16px;
+        margin: 0px 0px 30px;
+    }
+    .upcom_event ul.nav.nav-pills {
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    .upcom_event .dvt_sec {
+        margin: 20px 0px 0px;
+    }
+    .upcom_event .event_prt .matter h6 {
+        font-size: 12px;
+        font-family: sans-serif;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .upcom_event .event_prt .matter h5 {
+        font-size: 12px;
+        font-family: sans-serif;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .upcom_event .event_prt .event-type h5 {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .event-type h6 {
+        font-size: 14px;
+    }
+    .upcom_event .text_sec .on-btn button.btn {
+        font-size: 12px;
+        padding: 10px 0px;
+        width: 114px;
+    }
+    .upcom_event .text_sec span.seat-text {
+        top: 20px;
+        left: 16px;
+    }
+    .upcom_event .event_prt span.boucher {
+        padding: 2px 0px;
+        width: 68px;
+        font-size: 13px;
+    }
+    .upcom_event .event_prt .text_sec h2 {
+        font-size: 12px;
+        margin-bottom: -18px;
+    }
+    .upcom_event .event_prt .text_sec h3 {
+        font-size: 12px;
+        margin-bottom: -10px;
+    }
+    .upcom_event .event_prt .text_sec h4 {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .onwrd p {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .onwrd span .fa-heart-o {
+        font-size: 14px;
+    }
+    .upcom_event .event_prt .ftr_sec span img {
+        width: 14px;
+    }
+    .upcom_event .event_prt .ftr_sec h5 {
+        font-size: 12px;
+    }
+
+    .upcom_event .event_prt .event-type h6{
+        font-size: 13px;
+    }
+    .upcom_event .event_prt .matter h5{
+        font-size: 13px;
+    }
+    .upcom_event .event_prt{
+        height: 330px;
+    }
+
+
+    /* Begin: Mega Revision Course section */
+
+     .revision_course .banner_img1 img {
+        height: 200px;
+    }
+    .revision_course .about p {
+        font-size: 12px;
+
+    }
+    .revision_course .target_part h2 {
+        font-size: 13px;
+    }
+    .revision_course .target_part p {
+        font-size: 12px;
+    }
+    .revision_course .target_part h5 {
+        font-size: 12px;
+    }
+    .revision_course .target_part .btn.buy_btntc {
+        font-size: 10px;
+        padding: 6px 10px;
+    }
+    .revision_course .target_part h3 {
+        font-size: 14px;
+    }
+    .revision_course .target_part {
+        padding: 6px 20px 34px;
+        margin-bottom: 18px;
+        width: 48%;
+        float: left;
+        margin-right: 13px;
+    }
+    .revision_course .target_part:last-child{
+        margin-right: 0px;
+    }
+    .revision_course .invite {
+        width: 100%;
+        float: left;
+    }
+    .revision_course h4.Class_className__yAM1H {
+        font-size: 16px;
+    }
+    .revision_course .subscription-data .show-center .dams-center .dams-text h3{
+        font-size: 13px;
+    }
+    .revision_course .subscription-data .show-center .dams-center .month-text h5{
+        font-size: 13px; 
+    }
+    .revision_course  .subscription-data .show-center .continuebtn a{
+        font-size: 13px;
+    }
+    .revision_course .subscription-data .slider img {
+        width: 155px;
+    }
+
+
+    /* Begin: Ticket Page */
+
+    .tickets_section .new_ticket {
+        margin: 0px 0% 4%;
+    }
+    .tickets_section .new_ticket .left_sec {
+        padding: 10px 10px;
+    }
+    .tickets_section .new_ticket .mid_sec h3 {
+        font-size: 19px;
+    }
+
+
+
+    .eventDes {
+        width: 100%;
+    }
+    
+    
+
+    
+}
+
+@media only screen and (max-width: 767px) {
+    .event_module {
+        margin: 0px 0 50px;
+    }
+    .event_module .search_btng .form-control {
+        font-size: 13px;
+    }
+   
+    .event_module .fetch_location h4 {
+        font-size: 13px;
+    }
+    .event_module .fetch_location span img {
+        width: 18px;
+    }
+    .event_module .city_hdng h3 {
+        font-size: 13px;
+    }
+    .event_module .nav-item a.nav-link p {
+        font-size: 12px;
+        margin-bottom: 0px;
+        line-height: 20px;
+    }
+    .event_module .nav-item a.nav-link .tab-group {
+        padding: 0px 16px;
+        min-height: 68px;
+        width: 68px;
+        height: 68px;
+    }
+    .event_module .nav-item a.nav-link .tab-group img {
+        width: 26px;
+        height: 26px;
+    }
+    .event_module ul.nav-pills {
+        flex-wrap: initial;
+        overflow: auto;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.3);
+        border-radius: 10px;
+        background-color: #F5F5F5;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,.3);
+        background-color: #c1c1c1;
+    }
+    .event_module ul.nav-pills::-webkit-scrollbar {
+        height: 6px;
+        background-color: #F5F5F5;
+    }
+   
+    .event_module .show_data_city {
+        margin: 20px 0px 0px;
+    }
+    .event_module .show_data_city h2 {
+        font-size: 13px;
+    }
+    .event_module .show_data_city a {
+        padding: 4px 0px;
+        margin: 6px 0px;
+        font-size: 13px;
+    }
+
+
+    /* Begin: Upcoming Event Page */
+
+    .slider_sec #hero {
+        height: 100px;
+    }
+    .slider_sec .hero {
+        height: 100%;
+        padding: 8px 0px;
+    }
+    .upcom_event .upcom_hdng h4 {
+        font-size: 14px;
+        margin: 0px 0px 30px;
+    }
+    .upcom_event ul.nav.nav-pills {
+        margin-top: 8%;
+        margin-bottom: 10%;
+    }
+    .upcom_event .dvt_sec {
+        margin: 20px 0px;
+    }
+    .upcom_event .search-wrapper.active .input-holder {
+        width: 258px;
+    }
+    .upcom_event .event_prt .img_sec img {
+        height: 160px;
+    }
+    .upcom_event .nav-item a.nav-link {
+        width: 100px;
+        font-size: 12px;
+    }
+    .upcom_event .event_prt span.boucher {
+        right: 6px;
+        top: 6px;
+        padding: 0px 0px;
+        width: 50px;
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .text_sec h2 {
+        font-size: 13px;
+    }
+    .upcom_event .event_prt .text_sec h3 {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .text_sec h4 {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .onwrd p {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .onwrd span .fa-heart-o {
+        font-size: 14px;
+    }
+    .upcom_event .event_prt .ftr_sec span img {
+        width: 14px;
+    }
+    .upcom_event .event_prt .ftr_sec h5 {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .event-type h5 {
+        font-size: 12px;
+    }
+    .upcom_event .event_prt .event-type h6 {
+        font-size: 14px;
+    }
+    .upcom_event .event_prt .matter h5 {
+        font-size: 13px;
+        font-family: sans-serif;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .upcom_event .event_prt .matter h6 {
+        font-size: 13px;
+        font-family: sans-serif;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .upcom_event .text_sec .on-btn button.btn {
+        font-size: 12px;
+        padding: 8px 0px;
+        width: 115px;
+    }
+    .upcom_event .text_sec span.seat-text {
+        top: 18px;
+        left: 12px;
+    }
+
+    .upcom_event .event_prt{
+        height: 300px;
+    }
+
+
+    .revision_course .subscription-data {
+        margin: 30px 0px;
+    }
+    .revision_course .banner_img1 img {
+        height: 150px;
+    }
+    .revision_course .about h1 {
+        font-size: 16px;
+        padding-bottom: 8px;
+    }
+    .revision_course .about p {
+        font-size: 12px;
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        line-clamp: 4;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin-bottom: 6px;
+    }
+    .revision_course .target_part h2 {
+        font-size: 13px;
+    }
+    .revision_course .target_part p {
+        font-size: 10px;
+    }
+    .revision_course .target_part h5 {
+        font-size: 12px;
+    }
+    .revision_course .target_part .btn.buy_btntc {
+        font-size: 10px;
+        padding: 6px 10px;
+    }
+    .revision_course .target_part h3 {
+        font-size: 14px;
+    }
+    .revision_course .modal.subscriptionbg{
+        padding: 0px !important;
+    }
+    .revision_course .subscription-data .slider img {
+        width: 140px;
+    }
+    .revision_course .subscription-data .slider{
+        margin-bottom: 20px;
+    }
+    .revision_course .subscriptionbg .modal-dialog {
+        max-width: 100%;
+        margin: 140px 3% 0px;
+    }
+    .revision_course .subscription-data .show-center .dams-center .month-text h5{
+        font-size: 13px;
+    }
+    .revision_course .subscription-data .show-center .dams-center .dams-text h3{
+        font-size: 13px;  
+    }
+    .revision_course .subscription-data .show-center .continuebtn a{
+        font-size: 13px;  
+    }
+    .revision_course h4.Class_className__yAM1H {
+        font-size: 14px;
+    }
+    .revision_course .subscriptionbg .modal-header .close{
+        top: 15px;
+    }
+
+
+    /* Begin: Ticket Page */
+
+    .tickets_section .new_ticket {
+        margin: 0px 0% 4%;
+    }
+    .tickets_section .new_ticket .left_sec {
+        padding: 10px 20px;
+        height: 160px;
+    }
+    .tickets_section .new_ticket .left_sec p {
+        width: 50%;
+        float: left;
+    }
+    .tickets_section .new_ticket .mid_sec {
+        margin: 0px 10px;
+    }
+    .tickets_section .new_ticket .mid_sec h2 {
+        margin: 10px 0px 0px;
+    }
+    .tickets_section .new_ticket .mid_sec h3 {
+        font-size: 18px;
+        margin: 4% 0px 0px;
+    }
+    .tickets_section .new_ticket .mid_sec span.mega {
+        font-size: 16px;
+    }
+    .tickets_section .new_ticket .mid_sec h3::before {
+        top: -8px;
+        left: -8px;
+        width: 40px;
+        height: 40px;
+    }
+    .tickets_section .new_ticket .ryt_sec {
+        height: auto;
+        border-top: 2px dashed #e0e0e0;
+        border-left: 0px;
+        padding: 20px 0px;
+        display: grid;
+        justify-content: center;
+        align-items: center;
+    }
+    .tickets_section .new_ticket .ryt_sec img {
+        width: 60px;
+        margin: 0 auto;
+    }
+    .tickets_section .new_ticket .ryt_sec .btn.dw_tckt {
+        font-size: 12px;
+        padding: 8px 12px;
+        margin: 20px 0px 0px;
+    }
+    
+    
+    .eventDes {
+        width: 100%;
+    }
+    .eventDescription .tarGeting h1 {
+        font-size: 16px;
+    }
+    .eventDescription .tarGeting p {
+        font-size: 14px;
+    }
+    .eventDescription {
+        padding: 20px;
+        margin-top: -26%;
+    }
+    .eventDescription .tarGeting ul li img {
+        width: 34px;
+        height: 34px;
+    }
+    .eventDescription .tarGeting .participant {
+        width: max-content;
+        margin: 20px 90px 0px 0px;
+    }
+    .eventDescription .tarGeting .allOver {
+        width: max-content;
+        margin: 20px 0px;
+    }
+    .eventDescription .aboutEvent {
+        padding: 20px 20px;
+    }
+    .eventDescription .aboutEvent .ratIng .ratIngText {
+        display: inline-block;
+    }
+    .eventDescription .aboutEvent .rateNow button.btn {
+        width: 100px;
+        padding: 8px 0px;
+        margin: 10px 0px 0px;
+        font-size: 16px;
+    }
+    .eventDescription .aboutEvent .ratIng span.review {
+        display: block;
+    }
+    .eventDescription .aboutEvent .ratIng span.review {
+        font-size: 14px;
+    }
+    .eventDescription .aboutEvent .buyTicket button.btn {
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+
+
+
+
+}
+
+@media only screen and (min-width: 740px) and (max-width: 767px) {
+/* Begin: Ticket Page */
+
+.tickets_section .new_ticket .left_sec p {
+    width: 100%;
+    float: left;
+}
+.tickets_section .new_ticket .left_sec {
+    height: 264px;
+}
+.tickets_section .new_ticket .mid_sec h3 {
+    margin: 16% 0px 0px;
+}
+.tickets_section .new_ticket .ryt_sec {
+    height: 280px;
+    border-left: 2px dashed #e0e0e0;
+    border-top: 0px;
+    padding: 20px 0px;
+    display: inline-block;
+}
+.tickets_section .new_ticket .ryt_sec img {
+    width: 36px;
+    margin: 100% 0px 0px;
+}
+.tickets_section .new_ticket .ryt_sec .btn.dw_tckt {
+    font-size: 8px;
+    padding: 5px 2px;
+    margin: 10px 0px 0px;
+}
+
+
+
+
+}
+
+@media only screen and (min-width: 640px) and (max-width: 739px) {
+    /* Begin: Ticket Page */
+
+    .tickets_section .new_ticket .left_sec p {
+        width: 100%;
+        float: left;
+    }
+    .tickets_section .new_ticket .left_sec {
+        height: 264px;
+    }
+    .tickets_section .new_ticket .mid_sec h3 {
+        margin: 16% 0px 0px;
+        font-size: 15px;
+    }
+    .tickets_section .new_ticket .ryt_sec {
+        height: 280px;
+        border-left: 2px dashed #e0e0e0;
+        border-top: 0px;
+        padding: 20px 0px;
+        display: inline-block;
+    }
+    .tickets_section .new_ticket .ryt_sec img {
+        width: 36px;
+        margin: 100% 0px 0px;
+    }
+    .tickets_section .new_ticket .ryt_sec .btn.dw_tckt {
+        font-size: 8px;
+        padding: 5px 2px;
+        margin: 10px 0px 0px;
+    }
+}

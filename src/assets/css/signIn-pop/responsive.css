@@ -1,0 +1,254 @@
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .modal-dialog {
+        max-width: 600px !important;
+    }
+    .login_text h2 {
+        font-size: 13px !important;
+        line-height: 20px;
+    }
+    .login_text p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .modal-body.login_area {
+        padding: 0px 10px 20px;
+    }
+    .login-logo_text h2 {
+        font-size: 14px !important;
+    }
+    .login_img {
+        position: relative;
+        bottom: -10%;
+        left: 0;
+        width: 100%;
+        height: 155px;
+    }
+    .login_img img {
+        width: 130px;
+    }
+
+    .login-input-group {
+        width: 83%;
+        margin: 0 auto 17px;
+    }
+    .login-input-group label {
+        font-size: 14px;
+    }
+    .common-bottom-btn {
+        width: 90%;
+        height: 37px;
+    }
+    .login-google-btn {
+        width: 90%;
+        height: 37px;
+    }
+    .otp-sent-pop .login_img {
+        bottom: -16%;
+    }
+    .otp-sent-pop a.verify-procedd {
+        font-size: 13px;
+        width: 90%;
+    }
+    .login-google-btn .login-google-icon {
+        left: 21px;
+        top: 10px;
+        width: 18px;
+        height: 18px;
+    }
+    .or-continue-text {
+        height: 14px;
+        margin: 14px 0 0;
+    }
+    .modal-header.close_btn .close {
+        margin: -11px -8px;
+    }
+    .course-section {
+        margin: 0px 15px 0 20px;
+        box-shadow: 0 0 0 0px !important;
+    }
+    .course-section .submit_bg {
+        width: 100%!important;
+    }
+    .course-section .input_box .form-group input {
+        min-height: 30px;
+    }
+    .course-section .input_box .form-group {
+        margin-bottom: 15px;
+    }
+    .course-section .edit-text {
+        margin-top: -12px;
+        font-size: 11px
+    }
+    .course-section input::placeholder {
+        font-size: 13px !important;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    a.ntshow-a.marloc.modal_selected {
+        font-size: 12px !important;
+    }
+    .iti-mobile .intl-tel-input .country-list {
+        width: 100% !important;
+        left: 0 !important;
+        top: 50%!important;
+    }
+    .login_img {
+        position: relative;
+        height: 130px;
+        margin: 25px auto !important;
+        width: 180px;
+        border-radius: 10px;
+    }
+    .login_img img {
+        width: auto;
+        height: 80px;
+    }
+    .email-acc > a > span {
+     font-size: 12px;
+    }
+    .login_text h2 {
+        font-size: 13px !important;
+        margin-bottom: 10px;
+        line-height: 23px;
+    }
+    .login_text p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .login-logo_text h2 {
+        font-size: 12px !important;
+        line-height: 19px;
+    }
+    .login-input-group {
+        width: 90%;
+        margin: 0 auto 15px;
+    }
+    .login-permission {
+        font-size: 10px;
+    }
+    .login-permission .login-permisson-icon {
+        top: 1px;
+    }
+    .login-input-group input {
+        font-size: 11px;
+    }
+    .login-input-group label {
+        font-size: 14px;
+    }
+    .common-bottom-btn {
+        width: 90%;
+        height: 32px;
+        line-height: 35px;
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .login-google-btn {
+        height: 34px;
+        line-height: 35px;
+        width: 90%;
+    }
+    .otp-sent-pop {
+        padding-right: 0px !important;
+    }
+    .login-popup .modal-content {
+        width: 95%;
+    }
+    .otp-sent-pop a.verify-procedd {
+        width: 100%;
+        margin: 15px auto 15px;
+        font-size: 14px;
+        padding: 6px 0px;
+    }
+    .otp-sent-pop form input {
+        margin-bottom: 20px;
+        margin-right: 3px;
+        width: 40px;
+        height: 40px;
+        margin-top: 12px;
+    }
+    .login-logo .form-group {
+        margin-bottom: 2px;
+    }
+    .otp-sent-pop .form-group a.resend {
+        font-size: 13px;
+    }
+    .course-section {
+        margin: 0px 0px 0 0px;
+    }
+    .login-logo {
+        border: 0px !important;
+    }
+    .course-section .submit_bg {
+        width: 100%!important;
+        min-height: 35px;
+    }
+    .course-section .edit-text {
+        margin-top: 0;
+    }
+    .course-section .form-group {
+        margin-bottom: 10px;
+    }
+    .modal-body.login_area {
+        border-top: 0px !important;
+        padding: 0px 0 15px;
+        text-align: center;
+    }
+    .login-google-btn .login-google-icon {
+        left: 21px;
+        top: 9px;
+        width: 18px;
+        height: 18px;
+    }
+    .course-section .radio_btn {
+        margin-bottom: -18px;
+    }
+
+    .login-logo img {
+        width: 50px;
+        margin-bottom: 15px;
+    }
+  
+    .otp-sent-pop .modal-content {
+        box-shadow: 0px 3px 6px 0px #cacaca99;
+    }
+
+    .otp_box input {
+        margin-bottom: 10px;
+        width: 40px !important;
+        height: 40px !important;
+        margin-top: 12px !important;
+        margin-right: 9px !important;
+    }
+    .modal-header.close_btn .close {
+        margin: -13px -7px 0;
+    }
+
+}
+
+@media only screen and (min-width: 640px) and (max-width:767px) {
+    .modal-dialog {
+        max-width: 600px;
+    }
+    .login_text h2 {
+        font-size: 12px !important;
+    }
+    .login_text p {
+        font-size: 12px;
+    }
+    .login_img {
+        bottom: -10%;
+    }
+    .or-continue-text {
+        height: 13px;
+        margin: 13px 0 0;
+    }
+    .otp-sent-pop .login_img {
+        bottom: -15%;
+    }
+    .login-logo img {
+        width: 60px;
+    }
+}
+

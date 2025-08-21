@@ -1,0 +1,382 @@
+@media only screen and (min-width:1330px) and (max-width:1400px) {
+    .landing-databg .upimg {
+        margin-top: 100px;
+    }
+    .landing-databg .upimg img {
+        width: 280px;
+    }
+    .news-area .group_text p {
+        line-height: 22px
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1329px) {
+    .landing-databg {
+        width: 100%;
+    }
+    .landing-databg .upimg {
+        margin-top: 90px;
+    }
+    .landing-databg .upimg img {
+        width: 275px;
+    }
+    .course-different .minwidtgbg {
+        width: 100%;
+    }
+    .news-area .group_text p {
+        min-height: 200px;
+    }
+    .news-area .swiper-slide img {
+        width: 170px;
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .landing-databg {
+        width: 100%;
+    }
+    .course-different .minwidtgbg {
+        width: 100%;
+    }
+    .contact .groupmar {
+        width: 100%;
+    }
+    .damsdeserv {
+        width: 100%;
+    }
+    .damsdeserv .booksection {
+        width: 100%;
+    }
+    .landing-databg .upimg img {
+        width: 250px;
+    }
+    .landing-databg .course-group img.cimg {
+        width: 85px;
+        height: 55px;
+    }
+    .landing-databg h2.boost-head {
+        font-size: 20px;
+    }
+    .landing-databg .course-group p {
+        line-height: 18px;
+        font-size: 13px;
+    }
+    .landing-databg .course-group {
+        height: 108px;
+    }
+    .landing-databg .boost-text p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .course-different .minwidtgbg img {
+        width: 260px;
+    }
+    .course-different h2 {
+        font-size: 18px;
+    }
+    .course-different .minwidtgbg .course-list li {
+        font-size: 14px;
+    }
+    .course-different .minwidtgbg .course-list li {
+        margin-bottom: 4px
+    }
+    .counter-sec #prg-counter h3.prg-count {
+        font-size: 17px;
+    }
+    .counter-sec #prg-counter img.counter-img {
+        width: 30px;
+    }
+    .counter-sec #prg-counter h4.prg-count-title {
+        font-size: 13px;
+    }
+    .damsdeserv .mixtext {
+        font-size: 14px;
+    }
+    .damsdeserv .boxbg img {
+        height: 35px;
+    }
+    .damsdeserv .get {
+        font-size: 19px;
+    }
+    .damsdeserv .pattern-img1 {
+        left: 78%;
+    }
+    .contact .whatToExpect_patternGreen__1xa9- {
+        right: -23px;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .landing-databg {
+        width: 100%;
+    }
+    .course-different .minwidtgbg {
+        width: 100%;
+    }
+    .contact .groupmar {
+        width: 100%;
+    }
+    .damsdeserv {
+        width: 100%;
+    }
+    .damsdeserv .booksection {
+        width: 100%;
+        padding: 50px 0 50px;
+        display: block;
+    }
+    .landing-databg .upimg img {
+        width: 210px;
+    }
+    .landing-databg .course-group img.cimg {
+        width: 60px;
+        height: 45px;
+    }
+    .landing-databg h2.boost-head {
+        font-size: 20px;
+    }
+    .landing-databg .course-group p {
+        line-height: 14px;
+        font-size: 10px;
+    }
+    .landing-databg .course-group {
+        height: 100px;
+        margin-bottom: 15px;
+    }
+    .landing-databg .boost-text p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .course-different .minwidtgbg img {
+        width: 225px;
+    }
+    .course-different h2 {
+        font-size: 16px;
+    }
+    .course-different .minwidtgbg .course-list li {
+        font-size: 14px;
+    }
+    .course-different .minwidtgbg .course-list li {
+        margin-bottom: 4px
+    }
+    .counter-sec #prg-counter h3.prg-count {
+        font-size: 17px;
+    }
+    .counter-sec #prg-counter img.counter-img {
+        width: 30px;
+    }
+    .counter-sec #prg-counter h4.prg-count-title {
+        font-size: 13px;
+    }
+    .damsdeserv .mixtext {
+        font-size: 14px;
+    }
+    .damsdeserv .boxbg img {
+        height: 35px;
+    }
+    .damsdeserv .get {
+        font-size: 19px;
+    }
+    .damsdeserv .pattern-img1 {
+        left: 70%;
+    }
+    .contact .whatToExpect_patternGreen__1xa9- {
+        right: -23px;
+    }
+    .damsdeserv .boxbg {
+        width: 19%;
+    }
+    .counter-sec #prg-counter .prg-container {
+        width: 100%
+    }
+    .course-different .minwidtgbg img.setimg {
+        right: 20px;
+    }
+    .news-area .group_text p {
+        min-height: 260px;
+        font-size: 12px;
+        line-height: 21px;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .banner-data {
+        margin-top: 53px;
+    }
+    .landing-databg {
+        width: 100%;
+    }
+    .landing-databg h2.boost-head {
+        font-size: 14px;
+    }
+    .landing-databg .boost-text p {
+        font-size: 13px;
+        line-height: 23px;
+        text-align: justify;
+    }
+    .landing-databg .upimg {
+        margin-top: 40px;
+        text-align: center !important;
+    }
+    .landing-databg .course-group {
+        padding: 5px 5px;
+    }
+    .landing-databg .course-group img.cimg {
+        width: 50px;
+        height: 30px;
+    }
+    .landing-databg .course-group p {
+        line-height: 19px;
+        font-size: 12px;
+    }
+    .landing-databg .course-group {
+        height: 90px;
+        margin-bottom: 15px;
+    }
+    .landing-databg .upimg img {
+        width: 200px;
+        opacity: 1;
+    }
+    .course-different .minwidtgbg img {
+        width: 150px;
+    }
+    .course-different h2 {
+        font-size: 14px;
+    }
+    .course-different .minwidtgbg img.setimg {
+        top: -40px;
+        right: 0;
+    }
+    .course-different .minwidtgbg .course-list {
+        margin-top: 35px;
+    }
+    .course-different .minwidtgbg {
+        width: 100%;
+    }
+    .section-title {
+        padding-bottom: 0px;
+    }
+    .section-title h2 {
+        font-size: 12px;
+        line-height: 18px;
+        letter-spacing: 0;
+    }
+    .section-title p {
+        font-size: 18px;
+    }
+    .contact .info em {
+        font-size: 10px;
+        width: 25px;
+        height: 25px;
+    }
+    .contact button.submit-msg {
+        padding: 8px 0px;
+        font-size: 14px;
+    }
+    .contact .groupmar {
+        width: 100%;
+        padding: 20px 20px;
+    }
+    .damsdeserv {
+        width: 100%;
+        padding-top: 0;
+        padding-bottom: 65px;
+    }
+    .damsdeserv .get {
+        font-size: 14px;
+        margin-bottom: 18px;
+    }
+    .damsdeserv .doubtsolve {
+        display: block;
+    }
+    .damsdeserv .boxbg {
+        width: 44%;
+        border: 1px solid #ddd;
+        float: left;
+        margin: 6px 6px;
+        padding: 10px 0px;
+        border-radius: 6px;
+    }
+    .damsdeserv .mixtext {
+        font-size: 11px;
+        min-width: 100%;
+    }
+    .damsdeserv .bookdemo a {
+        font-size: 14px;
+        padding: 8px 0px
+    }
+    .damsdeserv .boxbg img {
+        height: 25px
+    }
+    .damsdeserv .booksection {
+        width: 100%;
+        padding: 30px 10px 30px;
+        display: block;
+    }
+    .damsdeserv .pattern-img {
+        display: none;
+    }
+    .damsdeserv .pattern-img1 {
+        display: none;
+    }
+    .contact .whatToExpect_patternOrange__fZHto {
+        display: none;
+    }
+    .course-different .minwidtgbg .course-list li {
+        font-size: 13px;
+    }
+    .contact .info p {
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 7px;
+    }
+    .contact .info h4 {
+        font-size: 15px
+    }
+    .contact .form-control {
+        font-size: 12px;
+    }
+    .contact select.selctbg {
+        font-size: 12px;
+    }
+    .contact .info span.mix_text {
+        font-size: 13px;
+        margin-left: 3px;
+    }
+    .contact .whatToExpect_patternGreen__1xa9- {
+        display: none;
+    }
+    .counter-sec #prg-counter .prg-container {
+        width: 100%;
+    }
+    .counter-sec #prg-counter h3.prg-count {
+        font-size: 16px;
+    }
+    .counter-sec #prg-counter h4.prg-count-title {
+        font-size: 11px;
+    }
+    .counter-sec #prg-counter img.counter-img {
+        width: 26px;
+    }
+    .counter-sec #prg-counter .counter-group {
+        margin-bottom: 15px;
+        height: 110px;
+    }
+    .news-area .swiper-backface-hidden .swiper-slide {
+        width: 100% !important;
+    }
+    .news-area .swiper-slide {
+        margin: 0 10px !important;
+    }
+    .news-area .group_text p {
+        font-size: 12px;
+        line-height: 22px;
+        min-height: 180px;
+    }
+    .news-area .news_text h2 {
+        font-size: 21px;
+        margin-bottom: 0;
+    }
+    .news-area .swiper {
+        margin-top: 30px;
+    }
+}

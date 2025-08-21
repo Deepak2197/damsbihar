@@ -1,0 +1,114 @@
+
+  .slider {
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+  }
+  
+  .slider-wrapper {
+    display: flex;
+    width: 100%;
+    animation: scroll 15s linear infinite;
+  }
+  .slider .slider-wrapper .imgbox h3{
+    font-size: 18px;
+    margin-bottom:20px;
+  }
+  
+  .slider-image {
+    flex-shrink: 0;
+    /* padding: 8px; */
+  }
+  
+  /* .slider .slider-wrapper .imgbox {
+      min-width: 195px;
+  } */
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-30%);
+    }
+  }
+
+
+
+  @media only screen and (min-width:1200px) and (max-width:1329px){
+    .slider .slider-wrapper .imgbox h3 {
+      font-size: 15px;
+      margin-bottom: 20px;
+  }
+    .slider .slider-wrapper .imgbox {
+      min-width: 185px;
+  }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .slider .slider-wrapper .imgbox h3 {
+        font-size: 14px;
+    }
+    .slider-image {
+        width: 14vw;
+        height: 16vh;
+        margin-left: 15px;
+    } 
+    .slider .slider-wrapper .imgbox {
+      min-width: 170px;
+  }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px){
+    .slider .slider-wrapper .imgbox h3 {
+      font-size: 15px;
+      margin-bottom: 15px;
+      text-align: center;
+  }
+  .slider-image {
+      height: 16vh !important;
+  }
+}
+
+  @media only screen and (max-width:767px){
+      .slider-image {
+        /* width: 25vw !important; */
+        height: 11vh !important;
+        flex-shrink: 0;
+        margin-left: 0;
+    }
+    .slider .slider-wrapper .imgbox {
+      margin-left: -45px !important;
+      text-align: center;
+      min-width: 100px;
+    }
+    .slider .slider-wrapper .imgbox h3 {
+      font-size: 12px;
+      line-height: 15px;
+      margin-bottom: 10px;
+  }
+   
+}
+
+
+@media print {
+  .invoice-but {
+    display: none; /* Hides the print and download buttons during printing */
+  }
+  .invoice-card{
+    width: 90vw;
+    height: 90vh;
+
+  }
+  .container{
+    width: 100vw;
+    height: 90vh;
+  }
+  .mainbox{
+    max-height: 100vh;
+    box-sizing: border-box;
+    overflow-y: hidden;
+  
+  }
+}
+
+  

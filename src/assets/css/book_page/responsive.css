@@ -1,0 +1,1349 @@
+@media only screen and (min-width:1330px) and (max-width:1440px) {
+    .book-mod-page .search_br button.btn {
+        top: 6px;
+    }
+    .book-mod-page .tabbing_data .nav-pills .nav-link {
+        font-size: 15px;
+    }
+    .book-mod-page .tabbing_data li.nav-item {
+        margin-right: 10px;
+    }
+    .book-mod-page .tabbing_data .buy_now a {
+        width: 100%;
+        margin: 0px;
+    }
+    .book-mod-page .tabbing_data .shop_now a {
+        width: 100%;
+        margin: 8px 0 0;
+    }
+    .book-mod-page .tabbing_data #book_slider .owl-nav,
+    #cateogries_slider .owl-nav,
+    #top_trending_slider .owl-nav,
+    #best_seller_slider .owl-nav {
+        top: 46%;
+    }
+    .book_description {
+        margin: 90px 2%;
+    }
+    .book_description .descrip_slider .share_btn {
+        right: 21%;
+    }
+    .book_description .delvery_tag .rec_cont li {
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .book_description .offRating .off_nu {
+        padding: 3px 0px;
+    }
+    .book_description span.fa {
+        margin: 0 -6px;
+    }
+    .book_description .offRating button.btn.btn-number {
+        padding: 9px 16px;
+    }
+    .top_trending .trending_group .shop_btn li {
+        padding: 3px 5px;
+        margin: 0 8px 0 0;
+    }
+    .top_trending .trending_group .shop_btn li i {
+        font-size: 15px;
+        margin-right: 7px;
+    }
+    .top_trending .trending_group .detail h5 {
+        font-size: 18px;
+        margin-bottom: 3px;
+    }
+    .top_trending .trending_group .detail p {
+        font-size: 16px;
+    }
+    .top_trending .trending_group .detail .mrp del {
+        font-size: 19px;
+        margin-right: 11px
+    }
+    .top_trending .trending_group .detail ins {
+        font-size: 16px;
+    }
+    .Book_cart_page {
+        margin: 60px 7%;
+    }
+    .Book_cart_page .cart_cont .img_mix li img {
+        width: 18px;
+    }
+    .tag-section-list .img-box img {
+        padding: 10px 0;
+        width: 150px;
+    }
+    .tag-section-list h2 {
+        font-size: 20px;
+    }
+    .tag-section-list .wish-icon {
+        width: 30px;
+        height: 30px;
+        padding: 4px;
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1329px) {
+    .book_description .offRating .mrp p {
+        font-size: 14px;
+    }
+    .book_description .circle-bg {
+        right: 43px !important;
+    }
+    .book_description .descrip_slider .share_btn li {
+        margin-right: -24px;
+    }
+    .book-mod-page .tabbing_data #book_slider .owl-nav,
+    #cateogries_slider .owl-nav,
+    #top_trending_slider .owl-nav,
+    #best_seller_slider .owl-nav {
+        top: 45%;
+    }
+    .book-mod-page .tabbing_data .nav-pills .nav-link {
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+    .book-mod-page .tabbing_data li.nav-item {
+        margin-right: 11px;
+    }
+    .book-mod-page .tabbing_data h3 {
+        font-size: 15px;
+        line-height: 19px;
+    }
+    .book-mod-page .tabbing_data .buy_now a {
+        width: 100%;
+        margin: 0;
+        padding: 6px 0px;
+        font-size: 16px;
+    }
+    .book-mod-page .tabbing_data .shop_now a {
+        width: 100%;
+        margin: 15px 0 0;
+    }
+    .book_description {
+        margin: 60px 0%;
+    }
+    .book_description .descrip_slider .carousel-item {
+        margin: 0 auto;
+    }
+    .book_description .offRating .star_ra span {
+        font-size: 16px;
+    }
+    .book_description .offRating .btn_buy li a {
+        padding: 10px 10px;
+        font-size: 13px;
+    }
+    .book_description span.input-group-btn {
+        width: 30px;
+    }
+    .book_description .offRating .btn-success {
+        font-size: 11px;
+        padding: 4px 10px;
+    }
+    .book_description .offRating .btn-danger {
+        font-size: 11px;
+        padding: 4px 10px;
+    }
+    .book_description .offRating input.form-control {
+        min-height: 40px;
+    }
+    .book_description .also_buy_you .item .check_ico {
+        right: -30px;
+    }
+    .book-mod-page .tabbing_data_oth .owl-carousel .owl-item img {
+        min-height: 180px !important;
+    }
+    .book-mod-page .tabbing_data .back_bg img {
+        height: 180px;
+        min-height: 180px;
+    }
+    .book-mod-page .tabbing_data_oth .price-img {
+        padding: 0px 0px;
+        width: 85px;
+    }
+    .top_trending {
+        margin: 60px 2%;
+    }
+    .top_trending .trending_group .shop_btn li {
+        padding: 3px 5px;
+        margin: 0 8px 0 0;
+    }
+    .top_trending .trending_group .shop_btn li i {
+        font-size: 15px;
+        margin-right: 7px;
+    }
+    .top_trending .trending_group .detail h5 {
+        font-size: 18px;
+        margin-bottom: 3px;
+    }
+    .top_trending .trending_group .detail p {
+        font-size: 16px;
+    }
+    .top_trending .trending_group .detail .mrp del {
+        font-size: 19px;
+        margin-right: 11px
+    }
+    .top_trending .trending_group .detail ins {
+        font-size: 16px;
+    }
+    .Book_cart_page {
+        margin: 60px 6%;
+    }
+    .Book_cart_page .cart_cont h4 {
+        font-size: 16px;
+    }
+    .tag-section-list .img-box img {
+        width: 125px;
+    }
+    .tag-section-list .thumb-content h4 {
+        font-size: 12px;
+    }
+    .tag-section-list .item-price {
+        font-size: 12px;
+        padding: 0px 0;
+    }
+    .tag-section-list .thumb-content .btn {
+        padding: 6px 13px;
+        font-size: 10px;
+    }
+    .tag-section-list a.btn.cart_btn {
+        padding: 6px 13px;
+    }
+    .tag-section-list .wish-icon {
+        width: 30px;
+        height: 30px;
+        padding: 5px;
+    }
+    .tag-section-list h2 {
+        font-size: 19px;
+    }
+    .tag-section-list .img-box img {
+        width: 110px;
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .book-mod-page .banner_img img {
+        height: 250px;
+    }
+    .banner-text {
+        padding: 25px 8px 20px;
+    }
+    .search_br .input-group {
+        width: 70%;
+    }
+    .book-mod-page .tabbing_data_oth .nav-pills .nav-link {
+        font-size: 12px;
+        padding: 2px 12px;
+    }
+    .book_description .offRating button.btn.btn-number {
+        padding: 7px 10px;
+    }
+    .book_description .offRating input.form-control {
+        margin-top: -4px;
+    }
+    .book_description .descrip_slider .share_btn li {
+        margin-right: -8px;
+    }
+    .book_description .circle-bg {
+        right: 19px !important;
+    }
+    .book_description .outer-icons {
+        right: 22px;
+    }
+    .book-mod-page .tabbing_data_oth #book_slider .owl-nav button,
+    #cateogries_slider .owl-nav button,
+    #top_trending_slider .owl-nav button,
+    #best_seller_slider .owl-nav button {
+        transform: translateY(-230%);
+    }
+    .book-mod-page .tabbing_data #book_slider .owl-nav button,
+    #cateogries_slider .owl-nav button,
+    #top_trending_slider .owl-nav button,
+    #best_seller_slider .owl-nav button {
+        left: -5%;
+    }
+    .book-mod-page .tabbing_data #book_slider .owl-nav button.owl-next,
+    #cateogries_slider .owl-nav button.owl-next,
+    #top_trending_slider .owl-nav button.owl-next,
+    #best_seller_slider .owl-nav button.owl-next {
+        right: -5%;
+    }
+    .book-mod-page .tabbing_data #book_slider .owl-nav,
+    #cateogries_slider .owl-nav,
+    #top_trending_slider .owl-nav,
+    #best_seller_slider .owl-nav {
+        top: 45%;
+    }
+    .book-mod-page .tabbing_data .nav-pills .nav-link {
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+    .book-mod-page .tabbing_data li.nav-item {
+        margin-right: 11px;
+    }
+    .book-mod-page .tabbing_data h3 {
+        font-size: 15px;
+        line-height: 19px;
+    }
+    .book-mod-page .tabbing_data .buy_now a {
+        width: 100%;
+        margin: 0;
+        padding: 6px 0px;
+        font-size: 16px;
+    }
+    .top_trending {
+        margin: 60px 0;
+    }
+    .top_trending .trending_group .shop_btn li {
+        padding: 3px 5px;
+        margin: 0 8px 0 0;
+    }
+    .top_trending .trending_group .shop_btn li i {
+        font-size: 15px;
+        margin-right: 7px;
+    }
+    .top_trending .trending_group .detail h5 {
+        font-size: 18px;
+        margin-bottom: 3px;
+    }
+    .top_trending .trending_group .detail p {
+        font-size: 16px;
+    }
+    .top_trending .trending_group .detail .mrp del {
+        font-size: 19px;
+        margin-right: 11px
+    }
+    .top_trending .trending_group .detail ins {
+        font-size: 16px;
+    }
+    .Book_cart_page {
+        margin: 60px 15px;
+    }
+    .Book_cart_page .cart_cont h4 {
+        font-size: 16px;
+    }
+    .Book_cart_page .cart_cont p {
+        font-size: 15px;
+    }
+    .Book_cart_page .cart_cont ins {
+        font-size: 17px;
+    }
+    .Book_cart_page .cart_cont del {
+        font-size: 17px;
+    }
+    .Book_cart_page .cart_cont .img_mix li a {
+        font-size: 15px;
+    }
+    .Book_cart_page .cart_cont li {
+        margin: 0 15px 0 0px;
+    }
+    .Book_cart_page .cart_cont .img_mix li img {
+        width: 15px;
+    }
+    .book_description {
+        margin: 90px 2% 60px;
+    }
+    .book_description .descrip_slider .share_btn {
+        right: 10%;
+    }
+    .book_description .offRating .mrp p {
+        font-size: 12px;
+    }
+    .book_description .offRating .off_nu p {
+        font-size: 14px;
+    }
+    .book_description .offRating .off_nu {
+        width: 90px;
+    }
+    .book_description .offRating h4 {
+        font-size: 13px;
+    }
+    .book_description .offRating .star_ra p {
+        font-size: 13px;
+    }
+    .book_description .offRating .quantity h4 {
+        font-size: 14px;
+        margin: 10px 34px 0;
+    }
+    .book_description .offRating .star_ra span {
+        font-size: 14px;
+    }
+    .book_description .offRating .quantity .stock p {
+        font-size: 11px;
+    }
+    .book_description .offRating .btn_buy {
+        margin-top: 40px;
+    }
+    .book_description .delvery_tag .rec_cont li {
+        margin-right: 42px;
+        font-size: 12px;
+        line-height: 24px;
+    }
+    .book_description .delvery_tag .rec_cont li i {
+        top: 16px;
+    }
+    .book_description .offRating .btn_buy li a {
+        font-size: 12px;
+    }
+    .book_description .delvery_tag .img_group h3 {
+        font-size: 13px;
+    }
+    .book_description .delvery_tag .img_group img {
+        height: 31px;
+    }
+    .book_description .delvery_tag .discription h3 {
+        font-size: 19px;
+    }
+    .book_description .delvery_tag .discription p {
+        font-size: 19px;
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .book_description .also_buy_you h2 {
+        font-size: 19px;
+    }
+    .book_description .also_buy_you .item h3 {
+        font-size: 14px;
+    }
+    .tag-section-list .img-box img {
+        width: 130px;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .book-mod-page .banner_img {
+        border: 0px;
+    }
+    .book-mod-page .banner_img img {
+        height: 250px;
+    }
+    .book-mod-page .search_br input.form-control {
+        min-height: 45px !important;
+    }
+    .book-mod-page .search_br button.btn {
+        top: 6px;
+    }
+    .book-mod-page .tag_section h3.tt_x {
+        font-size: 15px;
+    }
+    .book_description .descrip_slider .share_btn li {
+        margin-right: -8px;
+    }
+    .book_description .circle-bg {
+        right: 33px !important;
+        height: 30px !important;
+        width: 30px !important;
+    }
+    .book_description .outer-icons {
+        right: 30px;
+        top: 54px;
+    }
+    .book-mod-page .banner-text {
+        padding: 25px 5px 25px;
+    }
+    .book-mod-page .banner-text img {
+        width: 22px !important;
+        height: 20px !important;
+    }
+    .book-mod-page .banner-text span {
+        margin-left: 6px;
+        font-size: 10px;
+    }
+    .book-mod-page .search_br .input-group {
+        width: 70% !important;
+    }
+    .book-mod-page .tabbing_data {
+        margin: 0px 0;
+    }
+    .book-mod-page .tag_section {
+        margin: 0px 0;
+    }
+    .book-mod-page .tabbing_data_oth {
+        margin: 0px 0;
+    }
+    .book-mod-page .tagoth_section {
+        margin: 0 0 15px;
+    }
+    .book-mod-page .tabbing_data_oth .owl-carousel .owl-item img {
+        height: 175px;
+    }
+    .book-mod-page .tabbing_data .back_bg img {
+        height: 175px;
+    }
+    .book-mod-page .tagoth_section h3.tt_x {
+        font-size: 15px;
+    }
+    .book-mod-page img.hand {
+        width: 20px;
+    }
+    .book-mod-page .tabbing_data #book_slider .owl-nav button,
+    #cateogries_slider .owl-nav button,
+    #top_trending_slider .owl-nav button,
+    #best_seller_slider .owl-nav button {
+        left: -6px;
+    }
+    .book-mod-page .tabbing_data #book_slider .owl-nav button.owl-next,
+    #cateogries_slider .owl-nav button.owl-next,
+    #top_trending_slider .owl-nav button.owl-next,
+    #best_seller_slider .owl-nav button.owl-next {
+        right: -6px;
+    }
+    .book-mod-page .tabbing_data #book_slider .owl-nav,
+    #cateogries_slider .owl-nav,
+    #top_trending_slider .owl-nav,
+    #best_seller_slider .owl-nav {
+        top: 45%;
+    }
+    .book-mod-page .tabbing_data .nav-pills .nav-link {
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+    .book-mod-page .tabbing_data li.nav-item {
+        margin-right: 11px;
+    }
+    .book-mod-page .tabbing_data h3 {
+        font-size: 15px;
+        line-height: 19px;
+    }
+    .book-mod-page .tabbing_data .buy_now a {
+        width: 100%;
+        margin: 0;
+        padding: 6px 0px;
+        font-size: 16px;
+    }
+    .book-mod-page .tabbing_data .shop_now a {
+        width: 100%;
+    }
+    .book-mod-page .tabbing_data .price-img h6 {
+        font-size: 9px;
+    }
+    .book-mod-page .tabbing_data .price-img h4 {
+        font-size: 13px;
+    }
+    .book_description {
+        margin: 90px 0 0px;
+    }
+    .book_description .descrip_slider .carousel-item img {
+        width: 126px !important;
+        height: 205px;
+    }
+    .book_description .descrip_slider {
+        margin: 0 0%;
+        padding: 10px 0px 40px;
+    }
+    .book_description .descrip_slider .share_btn li i {
+        width: 30px;
+        height: 30px;
+        font-size: 15px;
+        padding: 9px 9px;
+    }
+    .book_description .descrip_slider .share_btn {
+        top: -51px;
+        right: 20%;
+    }
+    .book_description .offRating h4 {
+        margin: 15px 0;
+        font-size: 15px;
+    }
+    .book_description .offRating .mrp p {
+        font-size: 15px;
+    }
+    .book_description .offRating .star_ra span {
+        font-size: 14px;
+        color: #fff;
+        margin-right: 9px;
+        padding: 5px 13px;
+    }
+    .book_description .offRating .star_ra p {
+        font-size: 11px;
+    }
+    .book_description .offRating .quantity h4 {
+        font-size: 13px;
+    }
+    .book_description .offRating .quantity .stock p {
+        font-size: 14px;
+    }
+    .book_description .offRating .btn_buy {
+        margin-top: 20px;
+    }
+    .book_description .offRating .quantity .btn {
+        font-size: 12px;
+    }
+    .book_description .offRating input.form-control {
+        font-size: 13px;
+        min-height: 33px;
+        line-height: 20px;
+        height: 28px;
+    }
+    .book_description .offRating .btn_buy li a {
+        font-size: 12px;
+        padding: 7px 10px;
+    }
+    .book_description .offRating li.btn-discription a {
+        padding: 8px 6px !important;
+        font-size: 10px !important;
+        height: 29px;
+    }
+    .book_description .delvery_tag .img_group h3 {
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .book_description .delvery_tag .img_group img {
+        height: 35px;
+    }
+    .book_description .delvery_tag .rec_cont li {
+        margin-left: 25px;
+        font-size: 12px;
+        line-height: 24px;
+        margin-right: 0;
+    }
+    .book_description .delvery_tag .rec_cont li i {
+        top: 18px;
+    }
+    .book_description .delvery_tag .discription h3 {
+        font-size: 18px;
+        margin-bottom: 11px;
+    }
+    .book_description .delvery_tag .discription p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .book_description .delvery_tag .discription a {
+        font-size: 13px;
+    }
+    .book_description .also_buy_you h2 {
+        font-size: 18px;
+    }
+    .book_description .also_buy_you .item h3 {
+        font-size: 14px;
+    }
+    .book_description .also_buy_you .item .check_ico {
+        top: -31px;
+    }
+    .book_description .also_buy_you .item .check_ico img {
+        width: 58px !important;
+    }
+    .book_description .offRating .star_ra {
+        margin-top: 0;
+    }
+    .top_trending {
+        margin: 60px 1%;
+    }
+    .top_trending .trending_group .shop_btn li {
+        padding: 3px 4px;
+        margin: 0 4px 0 0;
+    }
+    .top_trending .trending_group .shop_btn li i {
+        font-size: 15px;
+        margin-right: 7px;
+    }
+    .top_trending .trending_group .detail h5 {
+        font-size: 18px;
+        margin-bottom: 3px;
+    }
+    .top_trending .trending_group .detail p {
+        font-size: 16px;
+    }
+    .top_trending .trending_group .detail .mrp del {
+        font-size: 19px;
+        margin-right: 11px
+    }
+    .top_trending .trending_group .detail ins {
+        font-size: 16px;
+    }
+    .top_trending .trending_group .shop_btn li a {
+        font-size: 11px;
+    }
+    .Book_cart_page {
+        margin: 60px 0%;
+    }
+    .Book_cart_page .banner_img img {
+        height: auto;
+    }
+    .Book_cart_page .cart_cont h4 {
+        font-size: 13px;
+        line-height: 21px;
+        margin: 0;
+    }
+    .Book_cart_page .cart_cont p {
+        font-size: 13px;
+        margin-top: 3px;
+    }
+    .Book_cart_page .cart_cont span i {
+        font-size: 13px;
+    }
+    .Book_cart_page .cart_cont ins {
+        font-size: 16px;
+    }
+    .Book_cart_page .cart_cont del {
+        font-size: 16px;
+    }
+    .Book_cart_page .cart_cont span.off {
+        font-size: 13px;
+        padding: 2px 6px;
+    }
+    .Book_cart_page .cart_cont .img_mix li a {
+        font-size: 12px;
+    }
+    .Book_cart_page .cart_cont li {
+        margin: 0 10px 0 0px;
+    }
+    .Book_cart_page .cart_cont .img_mix li img {
+        width: 13px;
+        margin-top: -3px;
+    }
+    .Book_cart_page .cart_cont ul.img_mix {
+        margin-top: 0px !important;
+    }
+    .Book_cart_page .cart_cont p.rupe {
+        margin-top: 0px !important;
+    }
+    .Book_cart_page .qty .minus,
+    .minus1 {
+        width: 20px;
+        height: 20px;
+        font: 18px/1 Arial, sans-serif;
+    }
+    .Book_cart_page .qty .plus,
+    .plus1 {
+        width: 20px;
+        height: 20px;
+        font: 18px/1 Arial, sans-serif;
+    }
+    .Book_cart_page .qty .count,
+    .count1 {
+        font-size: 14px;
+        line-height: 40px;
+        width: 20px;
+        margin: 0 4px;
+    }
+    .tag-section-list h2 {
+        font-size: 18px;
+    }
+    .tag-section-list .img-box img {
+        width: 115px;
+    }
+    .tag-section-list .item-price {
+        font-size: 12px;
+        padding: 0px;
+    }
+    .tag-section-list .thumb-content .btn {
+        padding: 8px 13px;
+        font-size: 10px;
+    }
+    .tag-section-list .thumb-content h4 {
+        font-size: 11px;
+    }
+    .tag-section-list h2 {
+        margin: 25px 0 40px;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .book-mod-page .banner-text {
+        padding: 5px 5px;
+    }
+    .book-mod-page .search_br .input-group {
+        width: 100%;
+        margin: 12px 0px;
+    }
+    .book_description .circle-bg {
+        height: 30px !important;
+        width: 30px !important;
+        right: 18px !important;
+        top: 6px;
+    }
+    .book_description .outer-icons {
+        top: 47px;
+        right: 16px;
+    }
+    .book-mod-page .banner_img {
+        border: 0px;
+    }
+    .book-mod-page .banner_img img {
+        width: 100%;
+        border: 0px;
+        height: auto;
+    }
+    .book-mod-page img.hand {
+        width: 15px;
+        margin-right: 2px;
+    }
+    .book-mod-page .search_br {
+        margin: 5px 0px 0;
+    }
+    .book-mod-page .search_br input.form-control {
+        min-height: 40px !important;
+    }
+    .book-mod-page .tagoth_section h3.tt_x {
+        font-size: 12px;
+    }
+    .book-mod-page .tabbing_data_oth li.nav-item {
+        margin-right: 16px;
+    }
+    .book-mod-page .tagoth_section .see a {
+        margin: 0;
+        font-size: 12px;
+        padding: 0;
+    }
+    .book-mod-page .tabbing_data_oth h3 {
+        font-size: 12px;
+    }
+    .book-mod-page .tabbing_data_oth .price-img h4 {
+        font-size: 12px;
+    }
+    .book-mod-page .tabbing_data_oth .price-img {
+        width: 100%;
+        padding: 0px;
+    }
+    .book-mod-page .tabbing_data_oth .heart_bg {
+        width: 30px;
+        height: 30px;
+        padding: 5px 7px;
+    }
+    .book-mod-page .search_br button.btn {
+        right: 0;
+        top: 3px;
+    }
+    .book-mod-page .tag_section h3.tt_x {
+        font-size: 12px;
+    }
+    .book-mod-page .tabbing_data_oth .nav-pills .nav-link {
+        font-size: 10px;
+        padding: 0 10px;
+    }
+    .book-mod-page .tag_section .see a {
+        margin: 0px;
+        font-size: 12px;
+    }
+    .book-mod-page .tabbing_data .price-img h3 {
+        font-size: 11px;
+        margin-top: 0;
+    }
+    .book-mod-page .tabbing_data .nav-pills .nav-link {
+        padding: 5px 6px;
+        font-size: 10px;
+    }
+    .book-mod-page .tabbing_data .price-img h4 {
+        font-size: 14px;
+    }
+    .book-mod-page .tabbing_data li.nav-item {
+        margin-right: 10px;
+    }
+    .book-mod-page .tabbing_data .price-img h6 {
+        font-size: 8px;
+    }
+    .book-mod-page .tabbing_data li.nav-item:last-child {
+        margin-right: 0px;
+    }
+    .book-mod-page .tabbing_data {
+        padding: 16px 0px;
+        margin: 0;
+    }
+    .book-mod-page .tagoth_section {
+        margin: 0 0 10px;
+    }
+    .book-mod-page .tabbing_data .back_bg {
+        margin-top: 25px;
+    }
+    .book-mod-page .tabbing_data .back_bg img {
+        width: 120px !important;
+        height: 150px;
+        min-height: 150px;
+    }
+    .book-mod-page .tabbing_data .item {
+        margin: 0 5px;
+    }
+    .book-mod-page .tabbing_data h3 {
+        line-height: 19px;
+        font-size: 13px;
+    }
+    .book-mod-page .tabbing_data .heart_bg {
+        width: 30px;
+        height: 30px;
+        padding: 5px 7px;
+    }
+    .book_description .offRating li.btn-discription a {
+        font-size: 12px !important;
+    }
+    .book-mod-page .banner-text img {
+        width: 20px !important;
+        height: 15px !important;
+    }
+    .book-mod-page .banner-text span {
+        margin-left: 2px;
+        font-size: 8px;
+    }
+    .book-mod-page .tabbing_data #book_slider .owl-nav,
+    #cateogries_slider .owl-nav,
+    #top_trending_slider .owl-nav,
+    #best_seller_slider .owl-nav {
+        top: 41%;
+    }
+    .book-mod-page .tabbing_data_oth #book_slider .owl-nav button,
+    #cateogries_slider .owl-nav button,
+    #top_trending_slider .owl-nav button,
+    #best_seller_slider .owl-nav button {
+        transform: translateY(-245%);
+    }
+    .book-mod-page .tabbing_data .buy_now a {
+        padding: 1px 0;
+        width: 100%;
+        margin: 0;
+        font-size: 12px;
+    }
+    .book-mod-page .tabbing_data .shop_now {
+        margin-top: 14px;
+    }
+    .book-mod-page .tabbing_data .shop_now a {
+        padding: 1px 0;
+        width: 100%;
+        margin: 0;
+        font-size: 12px;
+    }
+    .book-mod-page .tabbing_data_oth {
+        margin: 0;
+    }
+    .book-mod-page .tag_section {
+        margin: 20px 0% 0;
+    }
+    .book-mod-page .tabbing_data_oth .owl-carousel .owl-item img {
+        height: 150px;
+        padding: 0;
+    }
+    .book-mod-page .tabbing_data .buy_now {
+        width: 100%;
+    }
+    .book-mod-page .tabbing_data .shop_now {
+        width: 100%;
+    }
+    .book_description {
+        margin: 60px 0% 20px;
+    }
+    .book_description .descrip_slider .carousel-item {
+        margin: 0 0%;
+    }
+    .book_description .descrip_slider .carousel-item img {
+        max-width: 100%;
+        width: 170px !important;
+        height: 220px;
+    }
+    .book_description .descrip_slider .share_btn {
+        position: absolute;
+        top: -47px;
+        right: 44px;
+    }
+    .book_description .descrip_slider {
+        margin: 0 5%;
+        padding: 10px 0px 35px;
+    }
+    .book_description .descrip_slider .share_btn li i {
+        width: 30px;
+        height: 30px;
+        font-size: 12px;
+        padding: 9px 11px;
+    }
+    .book_description .offRating .off_nu {
+        padding: 1px 0px;
+        width: 85px;
+    }
+    .book_description .offRating .off_nu p {
+        font-size: 15px;
+    }
+    .book_description .offRating .mrp p {
+        font-size: 12px;
+    }
+    .book_description .offRating h4 {
+        font-size: 12px;
+        margin-top: 18px;
+    }
+    .book_description .offRating .star_ra {
+        margin-top: 20px;
+    }
+    .book_description .offRating .star_ra span {
+        font-size: 14px;
+        margin-right: 8px;
+        padding: 5px 8px;
+    }
+    .book_description .offRating .star_ra p {
+        font-size: 13px;
+    }
+    .book_description .offRating button.btn.btn-number {
+        padding: 2px 9px;
+    }
+    .book_description .offRating .btn_buy li {
+        margin-left: 4px;
+    }
+    .book_description .offRating .quantity .stock p {
+        font-size: 12px;
+    }
+    .book_description .offRating li.btn-discription a {
+        font-size: 11px !important;
+        height: 30px;
+        padding: 5px 6px !important;
+    }
+    .book_description .offRating .btn {
+        padding: 0px 7px;
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .book_description .offRating input.form-control {
+        min-height: 25px;
+        font-size: 13px;
+        line-height: 17px;
+        padding: 5px 5px;
+        height: 28px;
+    }
+    .book_description .offRating .quantity .stock {
+        margin-top: 18px;
+    }
+    .book_description .offRating .quantity h4 {
+        margin: 25px 0 0;
+    }
+    .book_description .offRating .btn_buy li a {
+        font-size: 12px;
+        padding: 5px 15px;
+    }
+    .book_description .offRating .btn_buy {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .book_description .offRating {
+        padding: 40px 0px;
+    }
+    .book_description .delvery_tag {
+        padding: 40px 0px;
+        margin-top: 0;
+    }
+    .book_description .delvery_tag .img_group h3 {
+        font-size: 12px;
+        line-height: 17px;
+        margin-top: 5px;
+    }
+    .book_description .also_buy_you img {
+        width: 90%!important;
+    }
+    .book_description .delvery_tag .img_group img {
+        height: 25px;
+    }
+    .book_description .delvery_tag .rec_cont li {
+        margin-right: 0;
+        font-size: 10px;
+        line-height: 18px;
+        margin-left: 11px;
+    }
+    .book_description .delvery_tag .rec_cont li i {
+        top: 15px;
+        left: 3px;
+        font-size: 10px;
+        width: 18px;
+        height: 18px;
+        padding: 3px;
+    }
+    .book_description .delvery_tag .rec_cont {
+        margin: 17px 5px 0px;
+    }
+    .book_description .delvery_tag .discription h3 {
+        font-size: 14px;
+        margin-bottom: 11px;
+    }
+    .book_description .delvery_tag .discription p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .book_description .delvery_tag .discription a {
+        font-size: 15px;
+    }
+    .book_description .also_buy_you {
+        margin-top: 0;
+    }
+    .book_description .also_buy_you h2 {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+    .book_description .also_buy_you .item h3 {
+        font-size: 12px;
+    }
+    .book_description .also_buy_you .item .check_ico img {
+        width: 56px !important;
+    }
+    .book_description .also_buy_you .item .check_ico {
+        top: -29px;
+        right: -25px;
+    }
+    .top_trending {
+        margin: 60px 0;
+    }
+    .top_trending .banner_img {
+        margin-bottom: 25px;
+    }
+    .top_trending .banner_img img {
+        height: auto;
+    }
+    .top_trending .back_bg {
+        padding: 32px 10px;
+        margin: 30px 10px 0;
+    }
+    .top_trending .trending_group .share_btn li {
+        width: 30px;
+        height: 30px;
+    }
+    .top_trending .trending_group .share_btn li i {
+        font-size: 15px;
+        padding: 9px 7px;
+    }
+    .top_trending .trending_group .share_btn {
+        top: -29px;
+        right: 5%;
+    }
+    .top_trending .trending_group .share_btn img.share-ico {
+        width: 27px !important;
+        padding: 10px 0 0 9px;
+    }
+    .top_trending .trending_group .detail h5 {
+        font-size: 12px;
+        margin-bottom: 0px;
+    }
+    .top_trending .trending_group .detail p {
+        font-size: 13px;
+    }
+    .top_trending .trending_group .detail span.rating {
+        padding: 3px 8px;
+        font-size: 12px;
+    }
+    .top_trending .trending_group .detail .mrp del {
+        font-size: 16px;
+        margin-right: 8px;
+    }
+    .top_trending .trending_group .detail ins {
+        font-size: 13px;
+    }
+    .top_trending .trending_group .detail span.off {
+        border-radius: 3px;
+        margin-left: 1px;
+        font-size: 11px;
+        padding: 3px 6px;
+    }
+    .top_trending .trending_group #book_slider .owl-nav button,
+    #cateogries_slider .owl-nav button,
+    #top_trending_slider .owl-nav button,
+    #best_seller_slider .owl-nav button {
+        top: 29%;
+    }
+    .top_trending .trending_group .shop_btn li {
+        padding: 1px 2px;
+        margin: 0 4px 0 0;
+    }
+    .top_trending .trending_group .shop_btn li i {
+        font-size: 10px;
+        margin-right: 5px;
+    }
+    .top_trending .trending_group .shop_btn li a {
+        font-size: 8px;
+    }
+    .top_trending .trending_group .shop_btn {
+        margin: 25px 5px 80px;
+    }
+    .Book_cart_page {
+        margin: 30px 0px;
+    }
+    .Book_cart_page .banner_img img {
+        height: auto;
+    }
+    .Book_cart_page .cart_cont {
+        margin: 45px 0;
+    }
+    .Book_cart_page .cart_cont h4 {
+        font-size: 11px;
+        line-height: 19px;
+    }
+    .Book_cart_page .cart_cont p {
+        font-size: 11px;
+        margin-top: 0;
+    }
+    .Book_cart_page .cart_cont span i {
+        font-size: 11px;
+    }
+    .Book_cart_page .cart_cont ins {
+        font-size: 14px;
+    }
+    .Book_cart_page .cart_cont del {
+        font-size: 13px;
+    }
+    .Book_cart_page .cart_cont p.rupe {
+        margin-top: 0px !important;
+    }
+    .Book_cart_page .qty {
+        margin-top: 23px;
+    }
+    .Book_cart_page .qty .minus,
+    .minus1 {
+        width: 20px;
+        height: 20px;
+        font: 18px/1 Arial, sans-serif;
+    }
+    .Book_cart_page .qty .plus,
+    .plus1 {
+        width: 20px;
+        height: 20px;
+        font: 18px/1 Arial, sans-serif;
+    }
+    .Book_cart_page .qty .count,
+    .count1 {
+        font-size: 14px;
+        line-height: 45px;
+        width: 19px;
+        margin: 0 0;
+        text-align: left;
+    }
+    .Book_cart_page .cart_cont .img_mix li a {
+        font-size: 12px;
+    }
+    .Book_cart_page .cart_cont .img_mix li img {
+        width: 13px;
+        margin-right: 8px;
+    }
+    .Book_cart_page .cart_cont li {
+        margin: 0 11px 0 0px;
+    }
+    .Book_cart_page .cart_cont span.off {
+        font-size: 12px;
+    }
+    .Book_cart_page .cart_cont ul.img_mix {
+        margin: 10px 0px 45px !important;
+    }
+    .tag-section-list h2 {
+        margin: 30px 0 35px;
+        font-size: 17px;
+    }
+    .tag-section-list .thumb-content .btn {
+        padding: 6px 9px;
+        font-size: 8px;
+    }
+    .tag-section-list a.btn.cart_btn {
+        padding: 6px 9px;
+    }
+    .tag-section-list .item-price {
+        font-size: 9px;
+    }
+    .tag-section-list .thumb-content h4 {
+        font-size: 12px;
+    }
+    .tag-section-list .img-box img {
+        width: 105px;
+    }
+    .tag-section-list .wish-icon {
+        width: 30px;
+        height: 30px;
+        padding: 5px;
+    }
+}
+
+@media only screen and (min-width:640px) and (max-width:767px) {
+    .book-mod-page .banner-text {
+        padding: 25px 5px;
+    }
+    .book-mod-page .banner-text span {
+        font-size: 11px;
+    }
+    .book_description .descrip_slider .share_btn {
+        right: 31%;
+    }
+    .book-mod-page .tabbing_data .nav-pills .nav-link {
+        padding: 6px 12px;
+        font-size: 15px;
+    }
+    .book_description .offRating .mrp p {
+        font-size: 12px;
+    }
+    .book-mod-page .tabbing_data .item {
+        margin: 0 15px;
+    }
+    .book-mod-page .tabbing_data .back_bg img {
+        width: 190px !important;
+        margin: -50px auto 0px;
+        height: 200px;
+        min-height: 200px;
+    }
+    .book-mod-page .tabbing_data .heart_bg {
+        right: 0px;
+    }
+    .book-mod-page .tag_section h3.tt_x {
+        font-size: 15px;
+    }
+    .book-mod-page .tabbing_data_oth .owl-carousel .owl-item img {
+        height: 200px;
+        min-height: 200px;
+    }
+    .book-mod-page img.hand {
+        width: 23px;
+        margin-right: 9px;
+    }
+    .book-mod-page .tagoth_section h3.tt_x {
+        font-size: 15px;
+    }
+    .book-mod-page .search_br {
+        margin: 20px 0px;
+    }
+    .book-mod-page .tabbing_data h3 {
+        line-height: 21px;
+        font-size: 15px;
+    }
+    .book_description .offRating h4 {
+        font-size: 13px;
+        margin-top: 0;
+    }
+    .book_description .offRating .star_ra {
+        margin-top: 60px;
+    }
+    .book_description .offRating .quantity h4 {
+        font-size: 16px;
+    }
+    .book_description .delvery_tag .rec_cont li {
+        margin-right: 0;
+        font-size: 14px;
+        line-height: 22px;
+        margin-left: 26px;
+    }
+    .book_description .delvery_tag .rec_cont li i {
+        top: 25px;
+        left: 13px;
+        font-size: 16px;
+        width: 25px;
+        height: 25px;
+        padding: 4px;
+    }
+    .book_description .also_buy_you .item h3 {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .book_description .delvery_tag .rec_cont {
+        padding: 14px 0px;
+    }
+    .book_description .delvery_tag .img_group img {
+        height: 37px;
+    }
+    .top_trending .trending_group .shop_btn li {
+        padding: 1px 6px;
+    }
+    .Book_cart_page .qty {
+        margin-top: 30px;
+    }
+    .Book_cart_page .qty .count,
+    .count1 {
+        width: 15px;
+    }
+    .Book_cart_page .cart_cont span.off {
+        padding: 2px 5px;
+    }
+    .Book_cart_page .qty {
+        margin-top: 13px;
+    }
+}
+
+@media only screen and (min-width:480px) and (max-width:567px) {
+    .book_description .descrip_slider .share_btn {
+        right: 95px;
+    }
+}

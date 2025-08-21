@@ -1,0 +1,25 @@
+
+@media only screen and (max-width: 767px) {
+    .new_couponcode .couponcode_pop .modal-open .modal {
+        padding-right: 0px !important;
+    }   
+    .new_couponcode .box h2 {
+        font-size: 14px;
+    }
+    .new_couponcode .box .multibox h3 {
+        font-size: 11px;
+        width: 92px;
+        padding: 0px 6px;
+        line-height: 26px;
+    }
+    .new_couponcode .box .multibox h4 {
+        margin: 4px 0px 0px;
+    }
+    .new_couponcode .tooltip .tooltiptext {
+        width: 100%;
+    }
+    .new_couponcode .box .multibox h5 {
+        font-size: 12px;
+    }    
+}
+

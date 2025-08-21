@@ -1,0 +1,2482 @@
+@media screen and (min-width: 1330px) and (max-width:1366px) {
+    .news-artcile-area .like-author-area .title-des .time-date li {
+        font-size: 10px !important;
+    }
+    .news-artcile-area .time-date span.textRight {
+        margin-right: 4px !important;
+    }
+    .news-artcile-area .like-author-area .title-des p {
+        margin-bottom: 0px !important;
+    }
+}
+@media screen and (min-width: 1200px) and (max-width:1329px) {
+    .aboutbg {
+        background-size: cover !important;
+    }
+    .search-box{
+        width: 70% !important;
+    }
+    .news-full{
+        width: 100% !important;
+    }
+    .news-artcile-area .nav-pills .nav-link {
+        font-size: 15px;
+    }
+    .news-artcile-area .like-author-area .liked-tab ul li {
+        padding-right: 134px;
+    }
+    .by-author {
+        margin: 2px 0px;
+    }
+    .news-artcile-area .like-author-area .title-des h2 {
+        font-size: 16px;
+        margin-bottom: 0px !important;
+    }
+    .news-artcile-area .like-author-area .title-des {
+        font-size: 11px !important;
+        padding: 20px 20px 0px !important;
+    }
+    .news-artcile-area .like-author-area .title-des p {
+        font-size: 13px !important;
+        line-height: 22px !important;
+        margin: 0px !important;
+    }
+    .news-artcile-area .like-author-area .title-des .publish li {
+        font-size: 11px !important;
+    }
+    .news-artcile-area .like-author-area .title-des .time-date li {
+        font-size: 11px !important;
+    }
+    .bbb_viewed_item {
+        padding: 10px 30px;
+    }
+    .news-artcile-area .like-author-area .latest-tab ul li {
+        width: 140px;
+        padding: 5px 8px;
+    }
+    
+    .topicText h2 {
+        font-weight: 600;
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .topicText {
+        padding: 6px 0 6px;
+    }
+    .searchTextbg input {
+        height: auto;
+    }
+    .searchTextbg .form-control {
+        height: 40px;
+        padding: 0 10px;
+        font-size: 12px;
+    }
+    .live-cources .nav-item {
+        width: 90% !important;
+    }
+    .live-cources li.nav-item a.nav-link {
+        font-size: 10px;
+        padding: 10px 0px;
+        height: 104px;
+        padding: 10px 6px;
+        font-weight: 400;
+        line-height: 14px;
+    }
+    .owl-theme .owl-dots .owl-dot span {
+        width: 7px;
+        height: 7px;
+        margin: 4px 2px;
+        background: #80cbfb;
+        display: block;
+        transition: opacity .2s ease;
+        border-radius: 30px;
+    }
+    .frequently img {
+        max-width: 100%;
+        width: 80px;
+    }
+    .live-cources {
+        padding: 0px 0 20px;
+    }
+    .need-live-courses h3 {
+        font-size: 20px;
+        margin-bottom: 0px;
+        padding: 10px 14px;
+    }
+    .frequently span {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .frequently img {
+        max-width: 100%;
+        width: 100px;
+    }
+    .need-live-courses .mt-4 {
+        margin-top: 10px !important;
+    }
+    .accordianBg #main {
+        margin: 20px 0 0px;
+    }
+    .listingAc .card-body ul li:before {
+        left: 8px;
+        margin-top: -3px;
+    }
+    .card-body li p {
+        margin-bottom: 0px;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width:1199px) {
+    .aboutbg {
+        background-size: cover !important;
+    }
+    .search-box{
+        width: 70% !important;
+    }
+    .news-full{
+        width: 100% !important;
+    }
+    .news-artcile-area .like-author-area .liked-tab ul li {
+        display: inline-block;
+        font-size: 22px;
+        font-weight: 400;
+        padding-right: 50px;
+    }
+    .news-artcile-area .like-author-area .latest-tab li img {
+        width: 36px;
+    }
+    .news-artcile-area .like-author-area .title-des {
+        font-size: 16px;
+    }
+    .news-artcile-area .like-author-area .latest-tab ul li {
+        width: 115px;
+    }
+    .by-author {
+        margin: 2px 0px;
+    }
+    .news-artcile-area .like-author-area .title-des .publish li img {
+        width: 20px;
+    }
+    .news-artcile-area .like-author-area .title-des .time-date li img {
+        width: 20px;
+    }
+    .bbb_viewed_item {
+        padding: 10px 36px;
+    }
+    .by-author .tab-content #date .date-picker .input button {
+        width: 40px;
+        height: 40px;
+        background-color: #2196F3;
+        color: white;
+        line-height: 35px;
+        border: 0;
+        font-size: 16px;
+        padding: 0;
+    }
+    .by-author .tab-content #date .date-picker .input .result {
+        width: calc(100% - 50px);
+        height: 0px;
+        line-height: 19px;
+        font-size: 14px;
+        padding: 0 10px;
+        color: grey;
+        box-sizing: border-box;
+    }
+    .by-author .tab-content #date .date-picker .input {
+        width: 100%;
+        height: 50px;
+        font-size: 0;
+        cursor: pointer;
+        border-right: solid 1px #9E9E9E;
+        max-width: 170px;
+    }
+    .by-author .tab-content #date .date-picker {
+        width: 230px;
+        height: auto;
+        max-height: 50px;
+        background: white;
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s 0s ease-in-out;
+    }
+    .by-author .tab-content #date .date-picker .calendar {
+        position: relative;
+        width: 96%;
+        background: #fff;
+        border-radius: 0px;
+        overflow: hidden;
+    }
+    .by-author .tab-content #date table td {
+        padding: 4px 1px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-header {
+        height: 100%;
+        line-height: 50px;
+        background: #2196F3;
+        color: #fff;
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-prev {
+        float: left;
+        margin-left: 2px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-next {
+        float: right;
+        margin-right: 2px;
+    }
+    .by-author .tab-content #date .date-picker .ui-state-default {
+        display: block;
+        text-decoration: none;
+        color: #fff;
+        line-height: 22px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #date .date-picker .ui-state-active {
+        color: #000;
+        background-color: #fff;
+        border-radius: 50px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-calendar thead tr th span {
+        font-size: 10px;
+    }
+    .by-author .tab-content #date .dt-aplly-btn {
+        margin: 20px auto;
+        float: none;
+    }
+    .by-author .tab-content #my .title-des h2 {
+        font-size: 16px;
+        margin: 0px;
+    }
+    .by-author .tab-content #my .title-des .time-date ul {
+        text-align: left;
+    }
+    .news-artcile-area .like-author-area #my .publish-img a .like-icon {
+        width: 36px;
+        height: 36px;
+        top: 10px;
+        right: 20px;
+        padding: 4px 0px;
+        font-size: 19px;
+        color: #2196F3;
+    }
+    .news-artcile-area .like-author-area #my .publish-img a .love-icon {
+        width: 36px;
+        height: 36px;
+        top: 54px;
+        right: 20px;
+        font-size: 19px;
+        color: #F44336;
+    }
+    .news-artcile-area .like-author-area #my .publish-img {
+        margin: 5px 0px;
+    }
+    .by-author .tab-content #my .title-des .publish ul {
+        padding: 3px;
+    }
+    .by-author .tab-content #my .title-des .time-date li {
+        padding: 5px 6px;
+        font-size: 16px;
+    }
+    /*****-News-full-page******/
+    .newz-full h1 {
+        font-size: 25px;
+    }
+    .newz-full h2 {
+        font-size: 24px;
+    }
+    .newz-full .news-share-group ul li {
+        font-size: 22px;
+    }
+    .newz-full .news-share-group ul li a {
+        padding: 0px 9px;
+    }
+    .views-group {
+        margin: 14px 0px;
+    }
+    .views-group img {
+        width: 50px;
+        height: 50px;
+    }
+    .pehragraph p {
+        font-size: 16px;
+        text-align: justify;
+    }
+    .newz-full .news-share-group ul {
+        float: left;
+    }
+    /*****-artical-full-page******/
+  
+    .article-full h2 {
+        font-size: 18px;
+    }
+   
+    .article-full .article-views-group {
+        margin: 10px 0px;
+    }
+    .article-full .article-views-group img {
+        width: 50px;
+        height: 50px;
+    }
+    .article-full .article-pehragraph p {
+        font-size: 16px;
+        text-align: justify;
+    }
+    .article-full .articles-share-group ul {
+        float: left;
+    }
+    .by-author .tab-content #arti-date .date-picker .input button {
+        width: 35px;
+        height: 35px;
+        background-color: #2196F3;
+        color: white;
+        line-height: 35px;
+        border: 0;
+        font-size: 16px;
+        padding: 0;
+    }
+    .by-author .tab-content #arti-date .date-picker .input .result {
+        width: calc(100% - 50px);
+        height: 0px;
+        line-height: 19px;
+        font-size: 10px;
+        padding: 0 10px;
+        color: grey;
+        box-sizing: border-box;
+    }
+    .by-author .tab-content #arti-date .date-picker .input {
+        width: 100%;
+        height: 50px;
+        font-size: 0;
+        cursor: pointer;
+        border-right: solid 1px #9E9E9E;
+        max-width: 150px;
+    }
+    .by-author .tab-content #arti-date .date-picker {
+        width: 170px;
+        height: auto;
+        max-height: 50px;
+        background: white;
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s 0s ease-in-out;
+    }
+    .by-author .tab-content #arti-date .date-picker .calendar {
+        position: relative;
+        width: 96%;
+        background: #fff;
+        border-radius: 0px;
+        overflow: hidden;
+    }
+    .by-author .tab-content #arti-date table td {
+        padding: 4px 1px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-header {
+        height: 100%;
+        line-height: 50px;
+        background: #2196F3;
+        color: #fff;
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-prev {
+        float: left;
+        margin-left: 2px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-next {
+        float: right;
+        margin-right: 2px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-state-default {
+        display: block;
+        text-decoration: none;
+        color: #fff;
+        line-height: 22px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-state-active {
+        color: #000;
+        background-color: #fff;
+        border-radius: 50px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-calendar thead tr th span {
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .dt-aplly-btn {
+        margin: 0 auto;
+        float: none;
+    }
+    .by-author .tab-content #arti-my .title-des h2 {
+        font-size: 16px;
+        margin: 0px;
+    }
+    .by-author .tab-content #arti-my .title-des .time-date ul {
+        text-align: left;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img a .like-icon {
+        width: 28px;
+        height: 28px;
+        top: 10px;
+        right: 20px;
+        padding: 4px 0px;
+        font-size: 14px;
+        color: #2196F3;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img a .love-icon {
+        width: 28px;
+        height: 28px;
+        top: 42px;
+        right: 20px;
+        font-size: 14px;
+        color: #F44336;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img {
+        margin: 5px 0px;
+    }
+    .by-author .tab-content #arti-my .title-des .publish ul {
+        padding: 9px;
+    }
+    .by-author .tab-content #arti-my .title-des .time-date li {
+        padding: 5px 6px;
+        font-size: 16px;
+    }
+    .news-artcile-area .like-author-area .liked-tab ul li {
+        display: inline-block;
+        font-size: 22px;
+        font-weight: 400;
+        padding-right: 119px;
+    }
+    .news-artcile-area .like-author-area .latest-tab li img {
+        width: 62px;
+    }
+    .news-artcile-area .like-author-area .title-des {
+        font-size: 17px;
+    }
+    .by-author {
+        margin: 2px 0px;
+    }
+    .news-artcile-area .like-author-area .title-des h2 {
+        font-size: 16px!important;
+        margin-bottom: 7px!important;
+    }
+    .news-artcile-area .like-author-area .title-des p {
+        line-height: 21px !important;
+        font-size: 13px!important;
+    }
+    .news-artcile-area .like-author-area .title-des {
+        font-size: 11px;
+    }
+    .news-artcile-area .like-author-area .title-des .time-date li img {
+        width: 12px;
+    }
+    .news-artcile-area .like-author-area .title-des .publish li img {
+        width: 14px;
+    }
+    .news-artcile-area .like-author-area .title-des .time-date ul {
+        margin: 0px 0px !important;
+    }
+    .news-artcile-area .like-author-area .title-des .publish ul {
+        margin: 0px 0px !important;
+    }
+    .news-artcile-area .like-author-area .thumbimg {
+        min-height: 196px !important;
+    }
+   
+    .news-artcile-area .nav-pills .nav-link {
+        padding: 7px 0px;
+        font-size: 15px;
+    }
+    .bbb_viewed_item {
+        padding: 10px 30px;
+    }
+    .by-author .tab-content #date .date-picker .input button {
+        width: 40px;
+        height: 40px;
+        background-color: #2196F3;
+        color: white;
+        line-height: 35px;
+        border: 0;
+        font-size: 16px;
+        padding: 0;
+    }
+    .by-author .tab-content #date .date-picker .input .result {
+        width: calc(100% - 50px);
+        height: 0px;
+        line-height: 19px;
+        font-size: 14px;
+        padding: 0 10px;
+        color: grey;
+        box-sizing: border-box;
+    }
+    .by-author .tab-content #date .date-picker .input {
+        width: 100%;
+        height: 50px;
+        font-size: 0;
+        cursor: pointer;
+        border-right: solid 1px #9E9E9E;
+        max-width: 170px;
+    }
+    .by-author .tab-content #date .date-picker {
+        width: 230px;
+        height: auto;
+        max-height: 50px;
+        background: white;
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s 0s ease-in-out;
+    }
+    .by-author .tab-content #date .date-picker .calendar {
+        position: relative;
+        width: 85%;
+        background: #fff;
+        border-radius: 0px;
+        overflow: hidden;
+    }
+    .by-author .tab-content #date table td {
+        padding: 4px 1px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-header {
+        height: 100%;
+        line-height: 50px;
+        background: #2196F3;
+        color: #fff;
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-prev {
+        float: left;
+        margin-left: 2px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-next {
+        float: right;
+        margin-right: 2px;
+    }
+    .by-author .tab-content #date .date-picker .ui-state-default {
+        display: block;
+        text-decoration: none;
+        color: #fff;
+        line-height: 22px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #date .date-picker .ui-state-active {
+        color: #000;
+        background-color: #fff;
+        border-radius: 50px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-calendar thead tr th span {
+        font-size: 10px;
+    }
+    .by-author .tab-content #date .dt-aplly-btn {
+        float: right;
+    }
+    .by-author .tab-content #my .title-des h2 {
+        font-size: 16px;
+        margin: 0px;
+    }
+    .by-author .tab-content #my .title-des .time-date ul {
+        text-align: left;
+    }
+    .news-artcile-area .like-author-area #my .publish-img a .like-icon {
+        width: 36px;
+        height: 36px;
+        top: 22px;
+        right: 20px;
+        padding: 4px 0px;
+        font-size: 19px;
+        color: #2196F3;
+    }
+    .news-artcile-area .like-author-area #my .publish-img a .love-icon {
+        width: 36px;
+        height: 36px;
+        top: 64px;
+        right: 20px;
+        font-size: 19px;
+        color: #F44336;
+    }
+    .news-artcile-area .like-author-area #my .publish-img {
+        margin: 15px 0px;
+    }
+    .by-author .tab-content #my .title-des .publish ul {
+        padding: 3px;
+    }
+    .by-author .tab-content #my .title-des .time-date li {
+        padding: 5px 6px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #my .title-des {
+        margin: 2px 0px;
+    }
+    .by-author .tab-content #my .title-des .publish li img {
+        width: 14px;
+    }
+    .by-author .tab-content #my .title-des .time-date li img {
+        width: 14px;
+    }
+    .by-author .tab-content #my .title-des .publish li {
+        padding: 4px 0px;
+        font-size: 10px;
+    }
+    /*****-News-full-page******/
+    .newz-full h1 {
+        font-size: 25px;
+    }
+    .newz-full h2 {
+        font-size: 22px;
+    }
+    .newz-full .news-share-group ul li {
+        font-size: 18px;
+    }
+    .newz-full .news-share-group ul li a {
+        padding: 0px 9px;
+    }
+    .views-group {
+        margin: 14px 0px;
+    }
+    .views-group img {
+        width: 50px;
+        height: 50px;
+    }
+    .pehragraph p {
+        font-size: 16px;
+        text-align: justify;
+    }
+    .newz-full .news-share-group ul {
+        float: left;
+    }
+
+    .article-full h1 {
+        font-size: 22px;
+    }
+    .article-full h2 {
+        font-size: 18px;
+    }
+ 
+    .article-full .article-views-group {
+        margin: 10px 0px;
+    }
+    .article-full .article-views-group img {
+        width: 50px;
+        height: 50px;
+    }
+    .article-full .article-pehragraph p {
+        font-size: 16px;
+        text-align: justify;
+    }
+    .article-full .articles-share-group ul {
+        float: left;
+    }
+    .by-author .tab-content #arti-date .date-picker .input button {
+        width: 35px;
+        height: 35px;
+        background-color: #2196F3;
+        color: white;
+        line-height: 35px;
+        border: 0;
+        font-size: 16px;
+        padding: 0;
+    }
+    .by-author .tab-content #arti-date .date-picker .input .result {
+        width: calc(100% - 50px);
+        height: 0px;
+        line-height: 19px;
+        font-size: 10px;
+        padding: 0 10px;
+        color: grey;
+        box-sizing: border-box;
+    }
+    .by-author .tab-content #arti-date .date-picker .input {
+        width: 100%;
+        height: 50px;
+        font-size: 0;
+        cursor: pointer;
+        border-right: solid 1px #9E9E9E;
+        max-width: 150px;
+    }
+    .by-author .tab-content #arti-date .date-picker {
+        width: 170px;
+        height: auto;
+        max-height: 50px;
+        background: white;
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s 0s ease-in-out;
+    }
+    .by-author .tab-content #arti-date .date-picker .calendar {
+        position: relative;
+        width: 96%;
+        background: #fff;
+        border-radius: 0px;
+        overflow: hidden;
+    }
+    .by-author .tab-content #arti-date table td {
+        padding: 4px 1px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-header {
+        height: 100%;
+        line-height: 50px;
+        background: #2196F3;
+        color: #fff;
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-prev {
+        float: left;
+        margin-left: 2px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-next {
+        float: right;
+        margin-right: 2px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-state-default {
+        display: block;
+        text-decoration: none;
+        color: #fff;
+        line-height: 22px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-state-active {
+        color: #000;
+        background-color: #fff;
+        border-radius: 50px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-calendar thead tr th span {
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .dt-aplly-btn {
+        margin: 0 auto;
+        float: none;
+    }
+    .by-author .tab-content #arti-my .title-des h2 {
+        font-size: 16px;
+        margin: 0px;
+    }
+    .by-author .tab-content #arti-my .title-des .time-date ul {
+        text-align: left;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img a .like-icon {
+        width: 28px;
+        height: 28px;
+        top: 10px;
+        right: 20px;
+        padding: 4px 0px;
+        font-size: 14px;
+        color: #2196F3;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img a .love-icon {
+        width: 28px;
+        height: 28px;
+        top: 42px;
+        right: 20px;
+        font-size: 14px;
+        color: #F44336;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img {
+        margin: 5px 0px;
+    }
+    .by-author .tab-content #arti-my .title-des .publish ul {
+        padding: 0px;
+    }
+    .by-author .tab-content #arti-my .title-des .time-date li {
+        padding: 5px 6px;
+        font-size: 11px;
+    }
+    .by-author .tab-content #arti-my .title-des .publish li img {
+        width: 14px;
+    }
+    .by-author .tab-content #arti-my .title-des .publish li {
+        padding: 4px 0px;
+        font-size: 11px;
+    }
+    .by-author .tab-content #arti-my .title-des .time-date li img {
+        width: 14px;
+    }
+
+    .topicText h2 {
+        font-weight: 600;
+        font-size: 20px !important;
+        margin-bottom: 0px !important;
+    }
+    .topicText {
+        padding: 6px 0 6px;
+    }
+    .searchTextbg input {
+        height: auto;
+    }
+    .searchTextbg .form-control {
+        height: 33px;
+        padding: 0 10px;
+        font-size: 12px;
+    }
+    .live-cources .nav-item {
+        width: 90% !important;
+    }
+    .live-cources li.nav-item a.nav-link {
+        font-size: 10px;
+        padding: 10px 0px;
+        height: 104px;
+        padding: 10px 6px;
+        font-weight: 400;
+        line-height: 14px;
+    }
+    .owl-theme .owl-dots .owl-dot span {
+        width: 7px;
+        height: 7px;
+        margin: 4px 2px;
+        background: #80cbfb;
+        display: block;
+        transition: opacity .2s ease;
+        border-radius: 30px;
+    }
+    .frequently img {
+        max-width: 100%;
+        width: 80px;
+    }
+    .live-cources {
+        padding: 0px 0 20px;
+    }
+    .need-live-courses h3 {
+        font-size: 18px;
+        margin-bottom: 0px;
+        padding: 10px 14px;
+    }
+    .frequently span {
+        font-size: 17px;
+        font-weight: 500;
+    }
+    .frequently img {
+        max-width: 100%;
+        width: 100px;
+    }
+    .need-live-courses .mt-4 {
+        margin-top: 10px !important;
+    }
+    .accordianBg #main {
+        margin: 20px 0 0px;
+    }
+    .accordianBg #main #faq .card .card-header .btn-header-link {
+        padding: 19px 14px !important;
+        height: auto !important;
+        font-size: 16px !important;
+    }
+    .accordianBg #main #faq .card .card-header .btn-header-link:after {
+        border-width: 0 3px 3px 0 !important;
+        padding: 3px !important;
+        margin: -12px -10px !important;
+    }
+    .accordianBg #main #faq .card .card-body {
+        padding: 20px 24px !important;
+        font-size: 16px !important;
+    }
+    .listingAc .card-body ul li:before {
+        left: 8px !important;
+        margin-top: -3px !important;
+    }
+    .card-body li p {
+        margin-bottom: 0px !important;
+    }
+  
+}
+
+@media screen and (min-width: 768px) and (max-width:991px) {
+    .aboutbg {
+        background-size: cover !important;
+    }
+    .search-box{
+        width: 70% !important;
+    }
+    .news-full{
+        width: 100% !important;
+    }
+    
+    .news-artcile-area .like-author-area .title-des p {
+        line-height: 21px!important;
+        font-size: 13px!important;
+        margin-bottom: 6px!important;
+    }
+    .news-artcile-area .like-author-area .latest-tab {
+        margin: 0px 0px!important;
+    }
+    .news-artcile-area .like-author-area .latest-tab ul.nav.nav-tabs .active span {
+        font-size: 14px!important;
+        padding: 0px 10px!important;
+    }
+    .news-artcile-area .like-author-area .title-des .publish ul {
+        margin: 0px 0px!important;
+    }
+    .news-artcile-area .nav-pills .nav-link {
+        padding: 12px 0px!important;
+        font-size: 15px!important;
+    }
+    .news-artcile-area .like-author-area .publish {
+        margin-left: -1px!important;
+    }
+    .news-artcile-area .like-author-area .publish-img a .like-icon {
+        width: 28px!important;
+        height: 28px!important;
+        top: 20px!important;
+        right: 19px!important;
+        padding: 0px 0px!important;
+        font-size: 16px!important;
+    }
+    .news-artcile-area .like-author-area .publish-img a .like-icon .fa-thumbs-up,
+    .fa-heart {
+        margin: 7px auto!important;
+    }
+    .news-artcile-area .like-author-area .publish-img a .love-icon {
+        width: 28px!important;
+        height: 28px!important;
+        top: 52px!important;
+        right: 19px!important;
+        padding: 0px 0px!important;
+        font-size: 16px!important;
+    }
+    .news-artcile-area .like-author-area .title-des h2 {
+        font-size: 15px!important;
+        margin-bottom: 5px!important;
+    }
+    .news-artcile-area .like-author-area .title-des .publish li img {
+        width: 13px!important;
+        margin-right: 3px!important;
+    }
+
+    .news-artcile-area .like-author-area .title-des .time-date li img {
+        width: 13px!important;
+        margin-right: 3px!important;
+    }
+    .news-artcile-area .like-author-area .title-des .time-date ul {
+        margin: 0px 0px !important;
+    }
+    .news-artcile-area .like-author-area .title-des .publish li {
+        margin: 0px 0px 0 !important;
+    }
+    .news-artcile-area .owl-stage {
+        gap: 30px !important;
+    }
+    
+    .topicText {
+        padding: 14px 0 6px;
+    }
+    .live-cources li.nav-item a.nav-link {
+        font-size: 16px;
+    }
+    .live-cources .nav-item {
+        width: 22.333%;
+    }
+    .live-cources ul.nav.nav-pills {
+        padding: 0px 0px 0px;
+    }
+    .live-cources {
+        padding: 0px 0 50px;
+    }
+    .need-live-courses {
+        padding: 10px 0px;
+        margin: 15px 0px;
+    }
+    .need-live-courses h3 {
+        font-size: 24px;
+    }
+    .frequently {
+        padding: 0 12px;
+    }
+    .frequently img {
+        max-width: 100%;
+        width: 114px;
+    }
+    .frequently span {
+        font-size: 22px;
+        font-weight: 600;
+    }
+
+    .cntr {
+        margin: 0 auto;
+        text-align: center;
+    }
+   
+    .accordianBg #main #faq .card .card-body {
+        padding: 20px 24px !important;
+        font-size: 14px !important;
+    }
+   
+  
+    .search-box {
+        width: 100% !important;
+        margin: 0 auto;
+        max-width: 100%;
+    }
+ 
+    .search-box .form-control {
+        height: 40px;
+        font-size: 13px;
+        padding-left: 50px !important;
+
+    }
+    .pd-z {
+        padding-right: 0px;
+    }
+   
+    .owl-item .d-block {
+        padding: 0px 5px;
+        font-size: 14px;
+    }
+   
+    .passion-img img {
+        max-width: 100%  !important;;
+        width: 200px  !important;;
+    }
+   
+    .topicText h2 {
+        font-weight: 600;
+        font-size: 18px !important;
+        margin-bottom: 0px !important;
+    }
+    .topicText {
+        padding: 6px 0 6px;
+    }
+    .searchTextbg input {
+        height: auto;
+    }
+    .searchTextbg .form-control {
+        height: 33px;
+        padding: 0 10px;
+        font-size: 12px;
+    }
+    .live-cources .nav-item {
+        width: 90% !important;
+    }
+    .live-cources li.nav-item a.nav-link {
+        font-size: 10px;
+        padding: 10px 0px;
+        height: 104px;
+        padding: 10px 6px;
+        font-weight: 400;
+        line-height: 14px;
+    }
+    .live-cources .help-text-center {
+        padding: 20px 0 0 !important;
+    }
+    .owl-theme .owl-dots .owl-dot span {
+        width: 7px;
+        height: 7px;
+        margin: 4px 2px;
+        background: #80cbfb;
+        display: block;
+        transition: opacity .2s ease;
+        border-radius: 30px;
+    }
+    .frequently img {
+        max-width: 100%;
+        width: 80px;
+    }
+    .live-cources {
+        padding: 0px 0 20px;
+    }
+    .need-live-courses h3 {
+        font-size: 15px;
+        margin-bottom: 0px;
+        padding: 10px 14px;
+    }
+  
+    .frequently img {
+        max-width: 100%;
+        width: 90px;
+    }
+    .need-live-courses .mt-4 {
+        margin-top: 10px !important;
+    }
+    .accordianBg #main {
+        margin: 20px 0 0px;
+    }
+    .accordianBg #main #faq .card .card-header .btn-header-link {
+        padding: 13px 14px !important;
+        height: auto !important;
+        font-size: 14px !important;
+    }
+   
+    .accordianBg #main #faq .card .card-header .btn-header-link:after {
+        border-width: 0 3px 3px 0 !important;
+        padding: 3px !important;
+        margin: 0px 0px !important;
+    }
+  
+   
+    .listingAc .card-body ul li:before {
+        left: 8px;
+        margin-top: -3px;
+    }
+    .card-body li p {
+        margin-bottom: 0px;
+    }
+ 
+    .live-cources .nav-item {
+        width: 65% !important;
+    }
+    .bbb_viewed_nav_container{
+        padding: 2px 0px;
+        width: auto;
+    }
+   
+    
+}
+
+@media screen and (max-width: 767px) {
+
+    .accordianBg .card{
+        margin: 10px 8px !important;
+    }
+    .accordianBg .card .card-header{
+        font-size: 14px !important;
+        padding: 12px 12px !important;
+    }
+    .card-body p{
+        margin:0px!important;
+        font-size: 13px!important;
+    }
+
+    .accordianBg .card svg {
+        right: 5px!important;
+        top: 17px!important;
+        font-size: 10px!important;
+    }
+    .group-set{
+        padding: 10px 0 !important;
+    }
+    .aboutbg {
+        background-size: cover !important;
+    }
+    .search-box{
+        width: 70% !important;
+    }
+    .news-full{
+        width: 100% !important;
+        padding: 35px 0 !important;
+    }
+    .news-artcile-area li.nav-item {
+        width: 140px !important;
+    }
+    .article-full .article-views-group h5 {
+        font-size: 14px !important;
+        margin: 6px 0px !important;
+        line-height: 19px !important;
+    }
+    .article-full .article-views-group h5 span{
+        font-size: 12px!important;
+    }
+    .search-box {
+        width: 100% !important;
+    }
+    .search-box .form-group input {
+        min-height: 0px!important;
+    }
+    .search-box .form-control {
+        height: 30px!important;
+        font-size: 10px!important;
+    }
+    .search-box .has-search .form-control-feedback {
+        line-height: 32px!important;
+        margin-left: 4px!important;
+        font-size: 10px!important;
+    }
+    .search-box .has-search .form-control {
+        padding-left: 42px!important;
+        height: 42px!important;
+        font-size: 13px!important;
+        margin-bottom: 15px!important;
+    }
+    .news-artcile-area .bbb_viewed_nav_container{
+        top: -26px !important;
+        right: 0 !important;
+    }
+
+    .news-artcile-area .like-author-area .latest-tab li img {
+        width: 30px!important;
+        padding: 0!important;
+    }
+    .news-artcile-area .like-author-area .latest-tab li.cat img {
+        width: 30px!important;
+        height: 30px!important;
+        padding: 0px !important;
+    }
+    .news-artcile-area .like-author-area .latest-tab li.tag img {
+        width: 30px!important;
+        height: 30px!important;
+        padding: 0px !important;
+    }
+    .news-artcile-area .like-author-area .latest-tab {
+        margin: 0px 0px!important;
+    }
+
+
+    .news-artcile-area .like-author-area .latest-tab ul.nav.nav-tabs .active span {
+        font-size: 14px!important;
+        padding: 0px 10px!important;
+    }
+    .news-artcile-area .like-author-area .title-des {
+        margin-bottom: 20px !important;
+        padding: 20px 20px 4px !important;
+    }
+    .thumbimg {
+        box-shadow: 0 1px 16px rgb(0 0 0 / 16%);
+        height: auto!important;
+    }
+    .pd-z {
+        padding-right: 0px!important;
+    }
+    .news-artcile-area .nav-pills .nav-link {
+        font-size: 13px!important;
+        padding: 8px 0px!important;
+    }
+    .news-artcile-area .like-author-area .latest-tab ul li a{
+        font-size: 14px !important;
+        line-height: 15px !important
+    }
+    .news-artcile-area .owl-stage::-webkit-scrollbar {
+        height: 0;
+    }
+    .news-artcile-area .owl-stage {
+        margin: 0 !important;
+        gap: 26px !important;
+    }
+ 
+    .latest-tab .col {
+        padding: 0px!important;
+        margin-top: -10px!important;
+        margin-bottom: -35px!important;
+    }
+    .news-artcile-area .like-author-area .publish-img a .like-icon {
+        width: 22px!important;
+        height: 22px!important;
+        top: 10px!important;
+        right: 10px!important;
+        padding: 0px 0px!important;
+        font-size: 12px!important;
+    }
+    .news-artcile-area .like-author-area .publish-img a .love-icon {
+        width: 22px!important;
+        height: 22px!important;
+        top: 40px!important;
+        right: 10px!important;
+        padding: 0px 0px!important;
+        font-size: 12px!important;
+    }
+    .news-artcile-area .like-author-area .title-des p {
+        line-height: 21px !important;
+        margin-bottom: 0px !important;
+        font-size: 12px !important;
+        text-align: left !important;
+    }
+    .news-artcile-area .like-author-area .title-des h2 {
+        font-size: 16px!important;
+        line-height: 21px!important;
+        margin-bottom: 5px!important;
+    }
+    .pagi-area .pagination li a {
+        padding: 4px 10px !important;
+        font-size: 13px;
+    }
+    .news-artcile-area .like-author-area .title-des .publish li img {
+        width: 14px!important;
+        margin-bottom: 2px!important;
+        margin-right: 4px!important;
+    }
+    .news-artcile-area .like-author-area .title-des .time-date li img {
+        width: 14px!important;
+        margin-bottom: 2px!important;
+        margin-right: 4px!important;
+    }
+    .news-artcile-area .like-author-area .latest-tab .time-date>ul>li {
+        font-size: 11px!important;
+    }
+    .news-artcile-area .like-author-area .publish-img {
+        margin: 13px 0px!important;
+    }
+    .news-artcile-area .like-author-area .brdr {
+        border-radius: 8px!important;
+        border: 1px solid #bdbdbd!important;
+        margin: 21px 0px!important;
+        padding: 5px 0px 0!important;
+        flex-direction: column-reverse!important;
+    }
+  
+    .news-artcile-area .like-author-area .liked-tab ul li {
+        display: inline-block!important;
+        font-size: 17px!important;
+        font-weight: 400!important;
+        padding-right: 50px!important;
+    }
+    .by-author {
+        margin: 2px 0px!important;
+    }
+    .news-artcile-area .tab-content {
+        padding: 10px 0px!important;
+        margin-top: 0px !important;
+    }
+    .newz-full h1 {
+        font-size: 25px!important;
+    }
+    .newz-full h2 {
+        font-size: 22px!important;
+    }
+    .newz-full .news-share-group ul li {
+        font-size: 14px!important;
+    }
+    .newz-full .news-share-group ul li a {
+        padding: 0px 9px!important;
+    }
+    .views-group {
+        margin: 14px 0px!important;
+    }
+    .views-group img {
+        width: 50px!important;
+        height: 50px!important;
+    }
+    .pehragraph p {
+        font-size: 16px!important;
+        text-align: justify!important;
+    }
+    .newz-full .news-share-group ul {
+        float: left !important;
+    }
+    .article-full h1 {
+        font-size: 16px !important;
+        line-height: 18px;
+    }
+    .article-full .articles-share-group ul li {
+        font-size: 12px;
+        padding: 0 0px;
+        margin: 0px 1px;
+        width: 94px;
+    }
+    .article-full h2 {
+        font-size: 18px!important; 
+    }
+    .article-full .articles-share-group ul li a {
+        padding: 5px 13px !important;
+    }
+    .article-full .article-views-group {
+        margin: 10px 0px!important;
+    }
+    .article-full .article-views-group img {
+        width: 35px !important;
+        height: 35px !important;
+    }
+    .article-full .article-pehragraph p {
+        font-size: 13px!important;
+    }
+    .article-full .articles-share-group ul {
+        float: left!important;
+        margin: 30px 0px 15px !important;
+    }
+    .by-author .tab-content #arti-date .date-picker .input button {
+        width: 35px!important;
+        height: 35px!important;
+        background-color: #2196F3;
+        color: white!important;
+        line-height: 35px!important;
+        border: 0!important;
+        font-size: 16px!important;
+        padding: 0!important;
+    }
+    .by-author .tab-content #arti-date .date-picker .input .result {
+        width: calc(100% - 50px);
+        height: 0px;
+        line-height: 19px;
+        font-size: 10px;
+        padding: 0 10px;
+        color: grey;
+        box-sizing: border-box;
+    }
+    .by-author .tab-content #arti-date .date-picker .input {
+        width: 100%;
+        height: 50px;
+        font-size: 0;
+        cursor: pointer;
+        border-right: solid 1px #9E9E9E;
+        max-width: 150px;
+    }
+    .by-author .tab-content #arti-date .date-picker {
+        width: 170px;
+        height: auto;
+        max-height: 50px;
+        background: white;
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s 0s ease-in-out;
+    }
+    .by-author .tab-content #arti-date .date-picker .calendar {
+        position: relative;
+        width: 96%;
+        background: #fff;
+        border-radius: 0px;
+        overflow: hidden;
+    }
+    .by-author .tab-content #arti-date table td {
+        padding: 4px 1px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-header {
+        height: 100%;
+        line-height: 50px;
+        background: #2196F3;
+        color: #fff;
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-prev {
+        float: left;
+        margin-left: 2px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-next {
+        float: right;
+        margin-right: 2px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-state-default {
+        display: block;
+        text-decoration: none;
+        color: #fff;
+        line-height: 22px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-state-active {
+        color: #000;
+        background-color: #fff;
+        border-radius: 50px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-calendar thead tr th span {
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .dt-aplly-btn {
+        margin: 0 auto;
+        float: none;
+    }
+    .by-author .tab-content #arti-my .title-des h2 {
+        font-size: 16px;
+        margin: 0px;
+    }
+    .by-author .tab-content #arti-my .title-des .time-date ul {
+        text-align: left;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img a .like-icon {
+        width: 28px;
+        height: 28px;
+        top: 10px;
+        right: 20px;
+        padding: 4px 0px;
+        font-size: 14px;
+        color: #2196F3;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img a .love-icon {
+        width: 28px;
+        height: 28px;
+        top: 42px;
+        right: 20px;
+        font-size: 14px;
+        color: #F44336;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img {
+        margin: 5px 0px;
+    }
+    .by-author .tab-content #arti-my .title-des .publish ul {
+        padding: 9px;
+    }
+    .by-author .tab-content #arti-my .title-des .time-date li {
+        padding: 5px 6px;
+        font-size: 16px;
+    }
+   
+    .news-artcile-area {
+        margin: 20px 0px !important;
+    }
+    .news-artcile-area .searchTextbg .form-control {
+        height: 40px !important;
+        font-size: 13px !important;
+        line-height: 23px !important;
+    
+        margin-top: 0 !important;
+    }
+    .news-artcile-area .searchTextbg .input-group-append {
+        top: 0 !important;
+        right: 1px !important;
+    }
+    .news-artcile-area .searchTextbg{
+        margin: 20px 0px !important;
+    }
+    .news-artcile-area .searchTextbg .input-group-append {
+        top: 0px;
+        left: 10px;
+    }
+    .news-artcile-area .searchTextbg span i {
+        font-size: 13px !important;
+    }
+    .news-artcile-area .frequently {
+        padding: 0 28px !important;
+    }
+   
+    .live-cources .helpcenter {
+        padding: 10px 0px !important;
+        font-size: 11px !important;
+        width: 48% !important;
+        margin-bottom: 10px !important;
+    }
+    .live-cources .helpcenter img{
+        width: 18px !important;
+    }
+    .live-cources .nav-item img {
+        width: 40px;
+        height: 40px;
+        margin-bottom: 2px;
+    }
+    .live-cources .nav-item span.span-con {
+        font-size: 11px;
+    }
+  
+    .passion-img img {
+        max-width: 100%;
+        width: 142px;
+    }
+   
+    .searchTextbg {
+        padding: 4px 0px;
+    }
+    .topicText h2 {
+        font-weight: 600 !important;
+        font-size: 16px !important;
+        margin-bottom: 0px;
+    }
+    .topicText {
+        margin: 20px 0 20px !important;
+    }
+    .need-live-courses {
+        padding: 10px 10px !important;
+        margin: 20px 0px !important;
+    }
+    .searchTextbg input {
+        height: auto;
+    }
+    .searchTextbg .form-control {
+        height: 27px;
+        padding: 0 10px;
+        font-size: 12px;
+    }
+    .live-cources .nav-item {
+        width: 100% !important;
+    }
+    .live-cources li.nav-item a.nav-link {
+        font-size: 10px;
+        padding: 10px 0px;
+        height: 104px;
+        padding: 10px 6px;
+        font-weight: 400;
+        line-height: 14px;
+    }
+    .owl-theme .owl-dots .owl-dot span {
+        width: 7px;
+        height: 7px;
+        margin: 4px 2px;
+        background: #80cbfb;
+        display: block;
+        transition: opacity .2s ease;
+        border-radius: 30px;
+    }
+    .frequently img {
+        max-width: 100%;
+        width: 80px;
+    }
+    .news-artcile-area .live-cources {
+        padding: 0px 0 20px !important;
+    }
+    .need-live-courses h3 {
+        font-size: 15px !important;
+        margin-bottom: 0px!important;
+        padding: 10px 14px!important;
+    }
+    .frequently span {
+        font-size: 13px!important;
+        font-weight: 500!important;
+        margin-left: 10px;
+    }
+   
+    .frequently img {
+        max-width: 100%!important;
+        width: 90px!important;
+    }
+    .need-live-courses .mt-4 {
+        margin-top: 10px !important;
+    }
+    .accordianBg #main {
+        margin: 20px 0 0px!important;
+    }
+    .accordianBg #main #faq .card .card-header .btn-header-link {
+        padding: 10px 5px !important;
+        height: auto !important;
+        font-size: 11px !important;
+        line-height: 22px !important;
+    }
+    .accordianBg #main #faq .card .card-header .btn-header-link:after {
+        border-width: 0 2px 2px 0 !important;
+        padding: 3px !important;
+        right: 7px !important;
+        top: 21px !important;
+    }
+    .accordianBg #main #faq .card{
+        margin: 0px 8px 10px !important;
+    }
+    .news-artcile-area .live-cources .help-text-center{
+        padding: 0 !important;
+        margin: 0px !important;
+    }
+    .accordianBg #main #faq .card .card-body {
+        padding: 10px 10px !important;
+        font-size: 12px !important;
+    }
+  
+    .cntr {
+        margin: 0 auto;
+        text-align: center;
+    }
+   
+    .listingAc .card-body ul li:before {
+        left: 8px;
+        margin-top: -3px;
+    }
+    .card-body li p {
+        margin-bottom: 0px;
+    }
+}
+
+@media screen and (min-width: 640px) and (max-width:666px) {}
+
+@media screen and (min-width: 568px) and (max-width: 639px) {
+    .news-artcile-area.time-date {
+        margin-top: -70px;
+    }
+    .arround-border h1 {
+        font-size: 24px;
+        font-weight: 600;
+        color: #2196F3;
+        padding: 0px 0px;
+    }
+    .news-artcile-area .tab-content {
+        padding: 2px 0px;
+    }
+    .news-artcile-area .like-author-area .liked-tab ul li {
+        font-size: 12px;
+        font-weight: 500;
+        padding-right: 9px;
+    }
+    .news-artcile-area .like-author-area .liked-tab ul li a {
+        padding: 10px 8px;
+    }
+    .news-artcile-area .like-author-area .liked-tab ul li:last-child {
+        padding-right: 0px;
+    }
+    .news-artcile-area .like-author-area .liked-tab .nav-tabs {
+        padding: 8px 0px;
+    }
+    .news-artcile-area .like-author-area .publish-img {
+        margin: 10px 0px;
+    }
+    .by-author {
+        margin: 2px 0px;
+    }
+    .article-full h1 {
+        font-size: 22px;
+    }
+    .article-full h2 {
+        font-size: 18px;
+    }
+    .article-full .articles-share-group ul li a {
+        padding: 0px 13px;
+    }
+    .article-full .article-views-group {
+        margin: 10px 0px;
+    }
+    .article-full .article-views-group img {
+        width: 50px;
+        height: 50px;
+    }
+    .article-full .article-pehragraph p {
+        font-size: 16px;
+        text-align: justify;
+    }
+    .article-full .articles-share-group ul {
+        float: left;
+    }
+    .by-author .tab-content #arti-date .date-picker .input button {
+        width: 35px;
+        height: 35px;
+        background-color: #2196F3;
+        color: white;
+        line-height: 35px;
+        border: 0;
+        font-size: 16px;
+        padding: 0;
+    }
+    .by-author .tab-content #arti-date .date-picker .input .result {
+        width: calc(100% - 50px);
+        height: 0px;
+        line-height: 19px;
+        font-size: 10px;
+        padding: 0 10px;
+        color: grey;
+        box-sizing: border-box;
+    }
+    .by-author .tab-content #arti-date .date-picker .input {
+        width: 100%;
+        height: 50px;
+        font-size: 0;
+        cursor: pointer;
+        border-right: solid 1px #9E9E9E;
+        max-width: 150px;
+    }
+    .by-author .tab-content #arti-date .date-picker {
+        width: 170px;
+        height: auto;
+        max-height: 50px;
+        background: white;
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s 0s ease-in-out;
+    }
+    .by-author .tab-content #arti-date .date-picker .calendar {
+        position: relative;
+        width: 96%;
+        background: #fff;
+        border-radius: 0px;
+        overflow: hidden;
+    }
+    .by-author .tab-content #arti-date table td {
+        padding: 4px 1px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-header {
+        height: 100%;
+        line-height: 50px;
+        background: #2196F3;
+        color: #fff;
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-prev {
+        float: left;
+        margin-left: 2px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-next {
+        float: right;
+        margin-right: 2px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-state-default {
+        display: block;
+        text-decoration: none;
+        color: #fff;
+        line-height: 22px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-state-active {
+        color: #000;
+        background-color: #fff;
+        border-radius: 50px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-calendar thead tr th span {
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .dt-aplly-btn {
+        margin: 0 auto;
+        float: none;
+    }
+    .by-author .tab-content #arti-my .title-des h2 {
+        font-size: 16px;
+        margin: 0px;
+    }
+    .by-author .tab-content #arti-my .title-des .time-date ul {
+        text-align: left;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img a .like-icon {
+        width: 28px;
+        height: 28px;
+        top: 10px;
+        right: 20px;
+        padding: 4px 0px;
+        font-size: 14px;
+        color: #2196F3;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img a .love-icon {
+        width: 28px;
+        height: 28px;
+        top: 42px;
+        right: 20px;
+        font-size: 14px;
+        color: #F44336;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img {
+        margin: 5px 0px;
+    }
+    .by-author .tab-content #arti-my .title-des .publish ul {
+        padding: 9px;
+    }
+    .by-author .tab-content #arti-my .title-des .time-date li {
+        padding: 5px 6px;
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width:567px) {
+    .search-box .has-search .form-control-feedback {
+        line-height: 32px;
+        margin-left: 4px;
+        font-size: 10px;
+    }
+    .pd-z {
+        padding-right: 0px;
+    }
+    .latest-tab .col {
+        padding: 0px;
+        margin-top: -10px;
+        margin-bottom: -35px;
+    }
+    .news-artcile-area .like-author-area .publish-img {
+        margin: 13px 0px;
+    }
+    .news-full {
+        margin: 0px 0%;
+    }
+    .arround-border h1 {
+        font-size: 24px;
+        font-weight: 600;
+        color: #2196F3;
+        padding: 0px 0px;
+    }
+    .news-artcile-area .tab-content {
+        padding: 2px 0px;
+    }
+    .news-artcile-area .like-author-area .liked-tab ul li {
+        font-size: 12px;
+        font-weight: 500;
+        padding-right: 9px;
+    }
+    .news-artcile-area .like-author-area .liked-tab ul li a {
+        padding: 10px 8px;
+    }
+    .news-artcile-area .like-author-area .liked-tab ul li:last-child {
+        padding-right: 0px;
+    }
+    .news-artcile-area .like-author-area .liked-tab .nav-tabs {
+        padding: 8px 0px;
+    }
+    .news-artcile-area .like-author-area .publish-img {
+        margin: 10px 0px;
+    }
+    .by-author {
+        margin: 2px 0px;
+    }
+    .bbb_viewed_item {
+        padding: 10px 20px;
+    }
+    .by-author .tab-content #date .date-picker .input button {
+        width: 35px;
+        height: 35px;
+        background-color: #2196F3;
+        color: white;
+        line-height: 35px;
+        border: 0;
+        font-size: 16px;
+        padding: 0;
+    }
+    .by-author .tab-content #date .date-picker .input .result {
+        width: calc(100% - 50px);
+        height: 0px;
+        line-height: 19px;
+        font-size: 10px;
+        padding: 0 10px;
+        color: grey;
+        box-sizing: border-box;
+    }
+    .by-author .tab-content #date .date-picker .input {
+        width: 100%;
+        height: 50px;
+        font-size: 0;
+        cursor: pointer;
+        border-right: solid 1px #9E9E9E;
+        max-width: 150px;
+    }
+    .by-author .tab-content #date .date-picker {
+        width: 170px;
+        height: auto;
+        max-height: 50px;
+        background: white;
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s 0s ease-in-out;
+    }
+    .by-author .tab-content #date .date-picker .calendar {
+        position: relative;
+        width: 96%;
+        background: #fff;
+        border-radius: 0px;
+        overflow: hidden;
+    }
+    .by-author .tab-content #date table td {
+        padding: 4px 1px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-header {
+        height: 100%;
+        line-height: 50px;
+        background: #2196F3;
+        color: #fff;
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-prev {
+        float: left;
+        margin-left: 2px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-next {
+        float: right;
+        margin-right: 2px;
+    }
+    .by-author .tab-content #date .date-picker .ui-state-default {
+        display: block;
+        text-decoration: none;
+        color: #fff;
+        line-height: 22px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #date .date-picker .ui-state-active {
+        color: #000;
+        background-color: #fff;
+        border-radius: 50px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-calendar thead tr th span {
+        font-size: 10px;
+    }
+    .by-author .tab-content #date .dt-aplly-btn {
+        margin: 0 auto;
+        float: none;
+    }
+    .by-author .tab-content #my .title-des h2 {
+        font-size: 16px;
+        margin: 0px;
+    }
+    .by-author .tab-content #my .title-des .time-date ul {
+        text-align: left;
+    }
+    .news-artcile-area .like-author-area #my .publish-img a .like-icon {
+        width: 28px;
+        height: 28px;
+        top: 10px;
+        right: 20px;
+        padding: 4px 0px;
+        font-size: 14px;
+        color: #2196F3;
+    }
+    .news-artcile-area .like-author-area #my .publish-img a .love-icon {
+        width: 28px;
+        height: 28px;
+        top: 42px;
+        right: 20px;
+        font-size: 14px;
+        color: #F44336;
+    }
+    .news-artcile-area .like-author-area #my .publish-img {
+        margin: 5px 0px;
+    }
+    .by-author .tab-content #my .title-des .publish ul {
+        padding: 9px;
+    }
+    .by-author .tab-content #my .title-des .time-date li {
+        padding: 5px 6px;
+        font-size: 16px;
+    }
+    .newz-full h1 {
+        font-size: 25px;
+    }
+    .newz-full h2 {
+        font-size: 18px;
+    }
+    .newz-full .news-share-group ul li {
+        font-size: 18px;
+    }
+    .newz-full .news-share-group ul li a {
+        padding: 0px 9px;
+    }
+    .views-group {
+        margin: 14px 0px;
+    }
+    .views-group img {
+        width: 50px;
+        height: 50px;
+    }
+    .pehragraph p {
+        font-size: 16px;
+        text-align: justify;
+    }
+    .newz-full .news-share-group ul {
+        float: left;
+    }
+    .article-full h1 {
+        font-size: 22px;
+    }
+    .article-full h2 {
+        font-size: 18px;
+    }
+    .article-full .articles-share-group ul li a {
+        padding: 0px 13px;
+    }
+    .article-full .article-views-group {
+        margin: 10px 0px;
+    }
+    .article-full .article-views-group img {
+        width: 50px;
+        height: 50px;
+    }
+    .article-full .article-pehragraph p {
+        font-size: 16px;
+        text-align: justify;
+    }
+    .article-full .articles-share-group ul {
+        float: left;
+    }
+    .by-author .tab-content #arti-date .date-picker .input button {
+        width: 35px;
+        height: 35px;
+        background-color: #2196F3;
+        color: white;
+        line-height: 35px;
+        border: 0;
+        font-size: 16px;
+        padding: 0;
+    }
+    .by-author .tab-content #arti-date .date-picker .input .result {
+        width: calc(100% - 50px);
+        height: 0px;
+        line-height: 19px;
+        font-size: 10px;
+        padding: 0 10px;
+        color: grey;
+        box-sizing: border-box;
+    }
+    .by-author .tab-content #arti-date .date-picker .input {
+        width: 100%;
+        height: 50px;
+        font-size: 0;
+        cursor: pointer;
+        border-right: solid 1px #9E9E9E;
+        max-width: 150px;
+    }
+    .by-author .tab-content #arti-date .date-picker {
+        width: 170px;
+        height: auto;
+        max-height: 50px;
+        background: white;
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s 0s ease-in-out;
+    }
+    .by-author .tab-content #arti-date .date-picker .calendar {
+        position: relative;
+        width: 96%;
+        background: #fff;
+        border-radius: 0px;
+        overflow: hidden;
+    }
+    .by-author .tab-content #arti-date table td {
+        padding: 4px 1px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-header {
+        height: 100%;
+        line-height: 50px;
+        background: #2196F3;
+        color: #fff;
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-prev {
+        float: left;
+        margin-left: 2px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-next {
+        float: right;
+        margin-right: 2px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-state-default {
+        display: block;
+        text-decoration: none;
+        color: #fff;
+        line-height: 22px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-state-active {
+        color: #000;
+        background-color: #fff;
+        border-radius: 50px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-calendar thead tr th span {
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .dt-aplly-btn {
+        margin: 0 auto;
+        float: none;
+    }
+    .by-author .tab-content #arti-my .title-des h2 {
+        font-size: 16px;
+        margin: 0px;
+    }
+    .by-author .tab-content #arti-my .title-des .time-date ul {
+        text-align: left;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img a .like-icon {
+        width: 28px;
+        height: 28px;
+        top: 10px;
+        right: 20px;
+        padding: 4px 0px;
+        font-size: 14px;
+        color: #2196F3;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img a .love-icon {
+        width: 28px;
+        height: 28px;
+        top: 42px;
+        right: 20px;
+        font-size: 14px;
+        color: #F44336;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img {
+        margin: 5px 0px;
+    }
+    .by-author .tab-content #arti-my .title-des .publish ul {
+        padding: 9px;
+    }
+    .by-author .tab-content #arti-my .title-des .time-date li {
+        padding: 5px 6px;
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width: 414px) and (max-width:479px) {
+}
+
+@media screen and (max-width: 320px) {
+    .search-box .has-search .form-control-feedback {
+        line-height: 32px;
+        margin-left: 4px;
+        font-size: 10px;
+    }
+    .pd-z {
+        padding-right: 0px;
+    }
+    .latest-tab .col {
+        padding: 0px;
+        margin-top: -10px;
+        margin-bottom: -35px;
+    }
+    .news-artcile-area .like-author-area .title-des .time-date li img {
+        width: 10px;
+        margin-bottom: 4px;
+        margin-right: 4px;
+    }
+    .news-artcile-area .like-author-area .publish-img {
+        margin: 13px 0px;
+    }
+    .news-full {
+        margin: 0px 0%;
+    }
+    .arround-border h1 {
+        font-size: 24px;
+        font-weight: 600;
+        color: #2196F3;
+        padding: 0px 0px;
+    }
+    .news-artcile-area .tab-content {
+        padding: 2px 0px;
+    }
+    .news-artcile-area .like-author-area .liked-tab ul li {
+        font-size: 10px;
+        font-weight: 500;
+        padding-right: 14px;
+    }
+    .news-artcile-area .like-author-area .liked-tab ul li a {
+        padding: 6px;
+    }
+    .news-artcile-area .like-author-area .liked-tab ul li:last-child {
+        padding-right: 0px;
+    }
+    .news-artcile-area .like-author-area .liked-tab .nav-tabs {
+        padding: 8px 0px;
+    }
+    .news-artcile-area .like-author-area .publish-img {
+        margin: 10px 0px;
+    }
+    .by-author {
+        margin: 2px 0px;
+    }
+    .bbb_viewed_item {
+        padding: 10px 9px;
+    }
+    .by-author .tab-content #date .date-picker .input button {
+        width: 35px;
+        height: 35px;
+        background-color: #2196F3;
+        color: white;
+        line-height: 35px;
+        border: 0;
+        font-size: 16px;
+        padding: 0;
+    }
+    .by-author .tab-content #date .date-picker .input .result {
+        width: calc(100% - 50px);
+        height: 0px;
+        line-height: 19px;
+        font-size: 10px;
+        padding: 0 10px;
+        color: grey;
+        box-sizing: border-box;
+    }
+    .by-author .tab-content #date .date-picker .input {
+        width: 100%;
+        height: 50px;
+        font-size: 0;
+        cursor: pointer;
+        border-right: solid 1px #9E9E9E;
+        max-width: 124px;
+    }
+    .by-author .tab-content #date .date-picker {
+        width: 135px;
+        height: auto;
+        max-height: 50px;
+        background: white;
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s 0s ease-in-out;
+    }
+    .by-author .tab-content #date .date-picker .calendar {
+        position: relative;
+        width: 96%;
+        background: #fff;
+        border-radius: 0px;
+        overflow: hidden;
+    }
+    .by-author .tab-content #date table td {
+        padding: 0px 1px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-header {
+        height: 100%;
+        line-height: 50px;
+        background: #2196F3;
+        color: #fff;
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-prev {
+        float: left;
+        margin-left: 2px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-next {
+        float: right;
+        margin-right: 2px;
+    }
+    .by-author .tab-content #date .date-picker .ui-state-default {
+        display: block;
+        text-decoration: none;
+        color: #fff;
+        line-height: 22px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #date .date-picker .ui-state-active {
+        color: #000;
+        background-color: #fff;
+        border-radius: 50px;
+    }
+    .by-author .tab-content #date .date-picker .ui-datepicker-calendar thead tr th span {
+        font-size: 10px;
+    }
+    .by-author .tab-content #date .dt-aplly-btn {
+        margin: 0 auto;
+        float: none;
+    }
+    .by-author .tab-content #my .title-des h2 {
+        font-size: 16px;
+        margin: 0px;
+    }
+    .by-author .tab-content #my .title-des .time-date ul {
+        text-align: left;
+    }
+    .news-artcile-area .like-author-area #my .publish-img a .like-icon {
+        width: 28px;
+        height: 28px;
+        top: 10px;
+        right: 20px;
+        padding: 4px 0px;
+        font-size: 14px;
+        color: #2196F3;
+    }
+    .news-artcile-area .like-author-area #my .publish-img a .love-icon {
+        width: 28px;
+        height: 28px;
+        top: 42px;
+        right: 20px;
+        font-size: 14px;
+        color: #F44336;
+    }
+    .news-artcile-area .like-author-area #my .publish-img {
+        margin: 5px 0px;
+    }
+    /*****-artical-button-date-picker-page******/
+    .by-author .tab-content #arti-date .date-picker .input button {
+        width: 35px;
+        height: 35px;
+        background-color: #2196F3;
+        color: white;
+        line-height: 35px;
+        border: 0;
+        font-size: 16px;
+        padding: 0;
+    }
+    .by-author .tab-content #arti-date .date-picker .input .result {
+        width: calc(100% - 50px);
+        height: 0px;
+        line-height: 19px;
+        font-size: 10px;
+        padding: 0 10px;
+        color: grey;
+        box-sizing: border-box;
+    }
+    .by-author .tab-content #arti-date .date-picker .input {
+        width: 100%;
+        height: 50px;
+        font-size: 0;
+        cursor: pointer;
+        border-right: solid 1px #9E9E9E;
+        max-width: 124px;
+    }
+    .by-author .tab-content #arti-date .date-picker {
+        width: 135px;
+        height: auto;
+        max-height: 50px;
+        background: white;
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s 0s ease-in-out;
+    }
+    .by-author .tab-content #arti-date .date-picker .calendar {
+        position: relative;
+        width: 96%;
+        background: #fff;
+        border-radius: 0px;
+        overflow: hidden;
+    }
+    .by-author .tab-content #arti-date table td {
+        padding: 0px 1px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-header {
+        height: 100%;
+        line-height: 50px;
+        background: #2196F3;
+        color: #fff;
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-prev {
+        float: left;
+        margin-left: 2px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-next {
+        float: right;
+        margin-right: 2px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-state-default {
+        display: block;
+        text-decoration: none;
+        color: #fff;
+        line-height: 22px;
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-state-active {
+        color: #000;
+        background-color: #fff;
+        border-radius: 50px;
+    }
+    .by-author .tab-content #arti-date .date-picker .ui-datepicker-calendar thead tr th span {
+        font-size: 10px;
+    }
+    .by-author .tab-content #arti-date .dt-aplly-btn {
+        margin: 0 auto;
+        float: none;
+    }
+    .by-author .tab-content #arti-my .title-des h2 {
+        font-size: 16px;
+        margin: 0px;
+    }
+    .by-author .tab-content #arti-my .title-des .time-date ul {
+        text-align: left;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img a .like-icon {
+        width: 28px;
+        height: 28px;
+        top: 10px;
+        right: 20px;
+        padding: 4px 0px;
+        font-size: 14px;
+        color: #2196F3;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img a .love-icon {
+        width: 28px;
+        height: 28px;
+        top: 42px;
+        right: 20px;
+        font-size: 14px;
+        color: #F44336;
+    }
+    .news-artcile-area .like-author-area #arti-my .publish-img {
+        margin: 5px 0px;
+    }
+    .by-author .tab-content #arti-my .title-des .publish li {
+        padding: 4px 0px;
+        font-size: 13px;
+    }
+    .by-author .tab-content #arti-my .title-des .time-date li {
+        padding: 5px 6px;
+        font-size: 13px;
+    }
+    .newz-full h1 {
+        font-size: 25px;
+    }
+    .newz-full h2 {
+        font-size: 18px;
+    }
+    .newz-full .news-share-group ul li {
+        font-size: 18px;
+    }
+    .newz-full .news-share-group ul li a {
+        padding: 0px 9px;
+    }
+    .views-group {
+        margin: 14px 0px;
+    }
+    .views-group img {
+        width: 50px;
+        height: 50px;
+    }
+    .pehragraph p {
+        font-size: 16px;
+        text-align: justify;
+    }
+    /*****-artical-full-page******/
+    .article-full h1 {
+        font-size: 22px;
+    }
+    .article-full h2 {
+        font-size: 18px;
+    }
+    .article-full .articles-share-group ul li a {
+        padding: 0px 13px;
+    }
+    .article-full .article-views-group {
+        margin: 14px 0px;
+    }
+    .article-full .article-views-group img {
+        width: 50px;
+        height: 50px;
+    }
+    .article-full .article-pehragraph p {
+        font-size: 16px;
+        text-align: justify;
+    }
+}

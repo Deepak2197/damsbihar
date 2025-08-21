@@ -1,0 +1,999 @@
+/* Join Affiliate screen one */
+
+footer .widget ul {
+    padding: 0px !important;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+a:focus,
+a:hover {
+    text-decoration: none !important;
+}
+
+.container {
+    max-width: 1400px !important;
+    width: 92% !important;
+}
+.highlight{
+    box-shadow: 0 0 18px rgb(0 0 0 / 10%);
+border-radius: 8px;
+border: 1px solid #61a2f7 !important;
+color: #fff;
+}
+p.lable_text {
+text-align: left;
+color: #000;
+font-weight: 400;
+margin-bottom: 5px;
+}
+.loginbtnSignupbtn {
+    width: auto;
+}
+
+.menu-links .nav i {
+    font-size: 24px;
+}
+
+.join-afliate-banner {
+    background-image: linear-gradient(to right, #0060d6 0%, #0089fd 100%);
+    padding: 10px 30px;
+    border-radius: 8px;
+    margin: 30px 0px 0px;
+}
+
+.join-afliate-banner img {
+    width: 100px;
+    margin-top: 20px;
+}
+
+.join-afliate-banner .join-text {
+    margin: 8% 0px;
+}
+
+.join-afliate-banner .join-text h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    position: relative;
+    margin: 0;
+}
+
+.join-afliate-banner .join-text h1:after {
+    content: '';
+    width: 253px;
+    height: 2px;
+    background-color: #ffffff;
+    opacity: 0.42;
+    top: 40px;
+    left: 0px;
+    position: absolute;
+}
+
+.circleprocess {
+    padding: 40px 0px;
+    border: 1px solid #d8e5f3;
+    margin-top: 26px;
+    border-radius: 8px;
+    background: #eff2f5;
+}
+
+.circleprocess ul {
+    list-style: none;
+    padding: 0px;
+    text-align: center;
+}
+
+.circleprocess li {
+    list-style: none;
+    border-radius: 100px;
+    font-size: 13px;
+    color: #0074e9;
+    padding: 28px 0px !important;
+    display: inline-block;
+    width: 95px;
+    height: 95px;
+    text-align: center;
+    margin: 0 56px 0 0;
+    border: 1px solid #0074e9;
+    position: relative;
+    font-weight: 500;
+}
+
+.circleprocess li.active {
+    background: #0074e9;
+    color: #fff;
+}
+
+.circleprocess li:last-child {
+    margin: 0 0px 0px 0px;
+}
+
+.circleprocess li:after {
+    content: '';
+    width: 61px;
+    height: 2px;
+    position: absolute;
+    bottom: 45px;
+    left: 93px;
+    background: #007cf0;
+}
+
+.circleprocess li:last-child:after {
+    content: '';
+    width: 0px;
+    height: 0px;
+}
+
+.circleprocess li:hover {
+    background: #0074e9;
+    color: #fff;
+}
+
+.join-program {
+    text-align: center;
+    padding: 50px 0px 0px;
+}
+
+.join-program h3 {
+    font-weight: 700;
+    font-size: 18px;
+    color: #383838;
+    margin-bottom: 15px;
+}
+
+.join-program p {
+    color: #838181;
+    font-weight: 500;
+    font-size: 16px;
+    margin: 0px;
+}
+
+.detailBg {
+    padding: 40px 0px;
+    margin: 0 3%;
+}
+
+.detailBg .groupstudent {
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid #e4e4e4;
+    background-color: #ffffff;
+    padding: 20px 0px;
+    margin-bottom: 20px;
+}
+.detailBg .groupstudent span{
+    color: #000;
+    font-weight: 600;
+    font-size:16px;
+}
+.detailBg .groupstudent:hover {
+    box-shadow: 0 0 18px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    border: 1px solid #61a2f7;
+    color: #000;
+    font-weight: 600;
+}
+
+.detailBg h4 {
+    margin: 57% 0px 0px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #5b5b5b;
+    text-align: left;
+}
+
+.detailBg .groupstudent img {
+    max-width: 100%;
+    width: 70px;
+}
+
+.detailBg .groupstudent a {
+    text-decoration: none;
+}
+
+.detailBg .groupstudent a span {
+    color: #101010;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+.prenext-area {
+    padding: 54px 0px;
+    margin: 0 0%;
+    text-align: center;
+}
+
+.prenext-area .prenext-btn {
+    text-align: center;
+}
+
+.prenext-area .prenext-btn a {
+    color: #4992f1 !important;
+    font-size: 17px;
+    font-weight: 500;
+    text-decoration: none;
+    display: inline-block;
+    width: 145px;
+    padding: 6px 0px;
+    border-radius: 100px;
+    border: 1px solid #3986ea;
+}
+
+.prenext-area .prenext-btn a:hover {
+    color: #fff !important;
+    background-color: #3986ea;
+}
+
+.prenext-area .prenext-btn a.active {
+    color: #fff !important;
+    background-color: #3986ea;
+}
+
+.prenext-area .prenext-btn a i.fa.fa-angle-left {
+    margin-right: 20px;
+}
+
+.prenext-area .prenext-btn a i.fa.fa-angle-right {
+    margin-left: 20px;
+}
+
+
+/* ...................Join Affiliate screen Two.................................*/
+
+.form-detail {
+    margin: 30px 10%;
+}
+
+.form-detail .form-outline .form-control {
+    min-height: 50px !important;
+}
+
+.form-detail .form-outline .form-control~.form-label {
+    top: 5px;
+    font-size: 15px;
+    color: #8e8e8e;
+}
+
+.form-detail .form-outline .form-control.active~.form-label,
+.form-outline .form-control:focus~.form-label {
+    top: 0px;
+}
+
+.form-detail .form-outline .form-control:focus~.form-label {
+    color: #4f95f1;
+}
+
+.form-detail em {
+    position: absolute;
+    top: 17px;
+    right: 34px;
+    font-size: 18px;
+    color: #8e8e8e;
+}
+
+.form-detail .form-outline .form-control:focus~.form-notch .form-notch-leading {
+    border-top: 0.125rem solid #4992f1;
+    border-bottom: 0.125rem solid #4992f1;
+    border-left: 0.125rem solid #4992f1;
+}
+
+.form-detail .form-outline .form-control:focus~.form-notch .form-notch-middle {
+    border-color: #4992f1;
+}
+
+.form-detail .form-outline .form-control:focus~.form-notch .form-notch-trailing {
+    border-top: 0.125rem solid #4992f1;
+    border-bottom: 0.125rem solid #4992f1;
+    border-right: 0.125rem solid #4992f1;
+}
+
+
+/* ----------Join Affliate Adhar Card upload page........................*/
+
+.upload-Img {
+    /* width: 550px; */
+    margin: 0 auto;
+    text-align: center;
+    border: 1px dashed #c5c5c5;
+    padding: 35px 35px!important;
+    border-radius: 20px;
+}
+
+.upload-Img img {
+    max-width: 100%;
+    width: 40px;
+}
+
+.upload-Img .btn-primary {
+    color: #fff;
+    width: 100%;
+    margin-top: 10px;
+    background-color: #61a2f7;
+    border-radius: 8px;
+    padding: 16px 0px;
+    font-size: 20px;
+}
+
+.upload-Img .imagePreview {
+    text-align: center;
+}
+
+.upload-Img .imagePreview p a {
+    border-radius: 6px;
+    background-color: #d8e9ff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    color: #4f95f0;
+    padding: 16px;
+    display: inline-block;
+    margin-top: 40px;
+}
+
+.upload-Img .rounded-pill {
+    border-radius: 50rem!important;
+    border: 1px solid #c5c5c5;
+    background: #fff !important;
+    width: 430px;
+    margin: 0 auto;
+    padding: 5px 25px !important;
+}
+
+.input-group>.form-control {
+    min-height: 30px !important;
+    height: 30px !important;
+}
+
+.upload-Img .form-control:focus {
+    box-shadow: 0 0 0 0px !important;
+}
+
+.upload-Img #upload {
+    opacity: 1;
+}
+
+.upload-Img .image-area::before {
+    content: '';
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 0.8rem;
+    z-index: 1;
+}
+
+.upload-Img .image-area img#imageResult {
+    width: 300px;
+}
+
+.upload-Img .image-area img {
+    z-index: 2;
+    position: relative;
+}
+
+.upload-Img .image-area img#adhar-card {
+    width: 300px;
+}
+
+.uploadtext-btn {
+    padding: 30px 0px 30px;
+}
+
+.uploadtext-btn .upbtn a {
+    border-radius: 100px;
+    border: 1px solid #61a2f7;
+    background: #61a2f7 !important;
+    padding: 7px 0px;
+    width: 180px;
+    display: inline-block;
+    color: #fff;
+    font-size: 15px;
+    margin-top: 40px;
+}
+
+
+/* ...........................Fetch from Google page............................*/
+
+.fetch-google-text {
+    text-align: center;
+    padding: 15px 0px 0px;
+}
+
+.fetch-google-text h2 {
+    color: #575757;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.fetch-google-text a {
+    width: 235px;
+    padding: 7px 0px;
+    border-radius: 100px;
+    background-color: #61a2f7;
+    color: #fff;
+    font-size: 17px;
+    display: inline-block;
+    margin-bottom: 35px;
+}
+
+.fetch-google-text a:hover {
+    color: #fff;
+}
+
+.fetch-area {
+    padding: 35px 0px 0;
+    margin: 0 4%;
+}
+
+.fetch-area .form-outline .form-control {
+    min-height: 50px !important;
+    width: 345px;
+}
+
+.fetch-area .form-outline .form-control~.form-label {
+    top: 10px;
+    font-size: 15px;
+    color: #757575;
+}
+
+.fetch-area .form-outline .form-control.active~.form-label,
+.form-outline .form-control:focus~.form-label {
+    top: 0px;
+}
+
+.fetch-area .form-outline .form-control:focus~.form-label {
+    color: #4f95f1;
+}
+
+.fetch-area select.form-control:not([size]):not([multiple]) {
+    min-height: 50px !important;
+    font-size: 15px;
+    color: #757575;
+    background: none;
+}
+
+.fetch-area .form-outline img {
+    vertical-align: middle;
+    position: absolute;
+    top: 17px;
+    right: 17px;
+    width: 13px;
+}
+
+.fetch-area .form-group img {
+    vertical-align: middle;
+    position: absolute;
+    top: 19px;
+    right: 28px;
+    width: 15px;
+}
+
+.fetch-area .form-outline .form-control:focus~.form-notch .form-notch-leading {
+    border-top: 0.125rem solid #4992f1;
+    border-bottom: 0.125rem solid #4992f1;
+    border-left: 0.125rem solid #4992f1;
+}
+
+.fetch-area .form-outline .form-control:focus~.form-notch .form-notch-middle {
+    border-color: #4992f1;
+}
+
+.fetch-area .form-outline .form-control:focus~.form-notch .form-notch-trailing {
+    border-top: 0.125rem solid #4992f1;
+    border-bottom: 0.125rem solid #4992f1;
+    border-right: 0.125rem solid #4992f1;
+}
+
+.fetch-area .form-control:focus {
+    color: #353535;
+}
+
+.fetch-area .form-control:focus {
+    border-color: #4992f1;
+    box-shadow: inset 0 0 0 1px #4992f1;
+}
+
+
+/* ...........................Join Bank details page............................*/
+
+.bank-detail {
+    padding: 30px 0px;
+}
+
+.bank-detail h3 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 19px;
+    margin-bottom: 0px;
+}
+
+.bank-detail-area {
+    padding: 40px 0px;
+    margin: 0 5%;
+    padding: 0px 0px 0;
+}
+
+.bank-detail-area .form-outline .form-control {
+    min-height: 50px !important;
+    width: 100%;
+}
+
+.bank-detail-area .form-outline .form-control~.form-label {
+    top: 13px;
+    font-size: 15px;
+    color: #757575;
+    padding: 0 40px 14px;
+}
+
+.bank-detail-area .form-outline .form-control.active~.form-label,
+.form-outline .form-control:focus~.form-label {
+    top: 0px;
+}
+
+.bank-detail-area .form-outline .form-control:focus~.form-label {
+    color: #757575;
+}
+
+.bank-detail-area select.form-control:not([size]):not([multiple]) {
+    min-height: 57px !important;
+    font-size: 17px;
+    color: #757575;
+    font-weight: 600;
+    background: none;
+}
+
+.bank-detail-area .form-outline img {
+    vertical-align: middle;
+    position: absolute;
+    top: 2px;
+    left: 7px;
+    width: 17px;
+}
+
+.bank-detail-area .form-group img {
+    vertical-align: middle;
+    position: absolute;
+    top: 17px;
+    left: 7px;
+    width: 15px;
+}
+
+.bank-detail-area .form-outline .form-control:focus~.form-notch .form-notch-leading {
+    border-top: 0.125rem solid #4992f1;
+    border-bottom: 0.125rem solid #4992f1;
+    border-left: 0.125rem solid #4992f1;
+}
+
+.bank-detail-area .form-outline .form-control:focus~.form-notch .form-notch-middle {
+    border-color: #4992f1;
+}
+
+.bank-detail-area .form-outline .form-control:focus~.form-notch .form-notch-trailing {
+    border-top: 0.125rem solid #4992f1;
+    border-bottom: 0.125rem solid #4992f1;
+    border-right: 0.125rem solid #4992f1;
+}
+
+.bank-detail-area .form-control:focus {
+    color: #353535;
+}
+
+.bank-detail-area .form-control:focus {
+    border-color: #4992f1;
+    box-shadow: inset 0 0 0 1px #4992f1;
+}
+
+
+/* ..........................Upload Cancel check page............................. */
+
+.upload-check-img {
+    margin: 35px 15%;
+}
+
+.upload-check-img .upload-check {
+    padding: 30px 15px;
+    border: 1px dashed #ccc;
+    border-radius: 15px;
+}
+
+.upload-check-img h3 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.upload-check .input-group {
+    padding: 6px 20px;
+    border: 1px solid #cccccca3;
+}
+
+.upload-check .input-group .form-control[type=file]:not(:disabled):not([readonly]) {
+    cursor: pointer;
+    border: 1px solid #fff !important;
+}
+
+.upload-check-img .IMGthumbnail img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.upload-check-img .imgThumbContainer>.imgName {
+    font-size: 13px;
+    overflow: hidden;
+    display: none;
+}
+
+.upload-check-img .imgThumbContainer>.imgRemoveBtn {
+    position: absolute;
+    color: #e91e63ba;
+    right: 2px;
+    top: 2px;
+    cursor: pointer;
+    display: none;
+}
+
+.upload-check-img .RearangeBox:hover>.imgRemoveBtn {
+    display: none;
+}
+
+.upload-check-img #sortableImgThumbnailPreview {
+    text-align: center
+}
+
+.upload-check img.camera.mb-4 {
+    width: 40px;
+}
+
+.upload-btn {
+    padding: 0px 0px 30px;
+}
+
+.upload-btn .upbtn a {
+    border-radius: 100px;
+    border: 1px solid #61a2f7;
+    background: #61a2f7 !important;
+    padding: 8px 0px;
+    width: 150px;
+    display: inline-block;
+    color: #fff;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.image-area img {
+    max-width: 100%;
+}
+
+
+/* ....................Join Verify Deatil page........................*/
+
+.form-detail-section img.address-icon {
+    width: 13px !important;
+}
+
+.form-detail-section .upload-section {
+    margin: 35px 0;
+    text-align: center;
+}
+
+.form-detail-section .upload-section h2.titlebg {
+    margin-bottom: 25px;
+    font-size: 17px;
+}
+
+.form-detail-section .upload-section .upload-imga h3 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 23px;
+    color: #383838;
+}
+
+.form-detail-section .upload-section .upload-imga img {
+    max-width: 100%;
+    min-height: 225px;
+}
+
+.form-detail-section .upload-section p.document-text {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    border: 1px solid #cccccc80;
+    padding: 8px 20px;
+    text-align: left;
+    border-radius: 4px;
+}
+
+.form-detail-section .upload-section img.documentimg {
+    max-width: 100%;
+    height: 200px;
+}
+
+.form-detail-section .bank-detail-area h3 {
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #61a2f7;
+    text-align: left;
+}
+
+.form-detail-section .upload-section .upload__btn {
+    display: inline-block;
+    font-weight: 600;
+    text-align: left;
+    width: 100%;
+    padding: 8px 8px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    border: 1px solid #ced4da;
+    border-radius: 100px;
+    font-size: 17px;
+}
+
+.form-detail-section .upload-section .upload__btn-box {
+    padding: 15px 0px 0;
+}
+
+.form-detail-section .upload-section .upload__inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+.form-detail-section .upload-section .upload__img-box {
+    width: auto;
+    padding: 0;
+    margin-bottom: 0;
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.form-detail-section .upload-section .upload__img-close {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color: rgb(154 6 6);
+    position: absolute;
+    top: 0px;
+    right: 0;
+    text-align: center;
+    line-height: 24px;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.form-detail-section .upload-section .upload__img-close:after {
+    content: '\2716';
+    font-size: 12px;
+    color: #fff;
+    padding: 4px;
+}
+
+.form-detail-section .upload-section .img-bg {
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100% 100%;
+    position: relative;
+    padding-bottom: 55%;
+}
+
+.form-detail-section .upload-section .upload__btn p {
+    font-weight: 500;
+    font-size: 15px;
+    padding: 0 20px;
+}
+
+.form-detail-section .upload-section .upload__btn em {
+    margin-top: 7px;
+    color: #858585;
+}
+
+
+/* Join Affiliate Multistep form Css */
+
+.multiform-step-page #msform {
+    text-align: center;
+    position: relative;
+    margin-top: 50px;
+}
+
+.multiform-step-page #msform fieldset {
+    background: white;
+    border: 0 none;
+    border-radius: 8px;
+    padding: 35px 0;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative !important;
+    margin: 40px 0px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+
+.multiform-step-page #msform fieldset:not(:first-of-type) {
+    display: none;
+}
+
+.multiform-step-page #msform input,
+#msform textarea {
+    border: 1px solid #fff !important;
+    background: none;
+    padding: 0px 15px 0px 15px;
+}
+
+#msform input,
+#msform textarea {
+    margin-bottom: 0;
+}
+
+.multiform-step-page #msform input:focus,
+#msform textarea:focus {
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border: 1px solid #2098ce;
+    outline-width: 0;
+    transition: All 0.5s ease-in;
+    -webkit-transition: All 0.5s ease-in;
+    -moz-transition: All 0.5s ease-in;
+    -o-transition: All 0.5s ease-in;
+}
+
+.multiform-step-page #msform .action-button {
+    width: 160px;
+    background: #1976D2;
+    font-weight: 700;
+    color: #fff;
+    border: 0 none;
+    border-radius: 25px;
+    cursor: pointer;
+    padding: 8px 30px;
+    font-size: 15px;
+    margin: 60px 0px 30px;
+    font-family: sans-serif;
+}
+
+.multiform-step-page #msform .action-button:hover,
+#msform .action-button:focus {
+    box-shadow: 0 0 0 2px white, 0 0 0 3px #2098ce;
+}
+
+.multiform-step-page #msform .action-button-previous {
+    width: 160px;
+    background: #575757;
+    font-weight: 700;
+    color: #fff;
+    border: 0 none;
+    border-radius: 25px;
+    cursor: pointer;
+    padding: 8px 30px;
+    margin: 60px 0px 30px;
+    font-size: 15px;
+}
+
+.multiform-step-page #msform .action-button-previous:hover,
+#msform .action-button-previous:focus {
+    box-shadow: 0 0 0 2px white, 0 0 0 3px #aCbEd0;
+}
+
+.multiform-step-page legend {
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #666;
+    letter-spacing: 0px;
+    font-weight: 700;
+    margin-bottom: 28px;
+}
+
+.multiform-step-page .fs-subtitle {
+    font-weight: normal;
+    font-size: 13px;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.multiform-step-page #progressbar {
+    overflow: hidden;
+    counter-reset: step;
+    padding: 0;
+    display: none;
+}
+
+.multiform-step-page #progressbar li {
+    list-style-type: none;
+    color: #666;
+    text-transform: capitalize;
+    font-size: 14px;
+    width: 12%;
+    float: left;
+    position: relative;
+    letter-spacing: 0px;
+    font-weight: 600;
+}
+
+.multiform-step-page #progressbar li:before {
+    content: counter(step);
+    counter-increment: step;
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    display: block;
+    font-size: 14px;
+    color: #6b6767;
+    background: #5755553b;
+    border-radius: 25px;
+    margin: 0 auto 10px auto;
+}
+
+.multiform-step-page #progressbar li:after {
+    content: '';
+    width: 80%;
+    height: 2px;
+    background: #cdc8c891;
+    position: absolute;
+    left: -40%;
+    top: 15px;
+    z-index: -1;
+}
+
+.multiform-step-page #progressbar li:first-child:after {
+    content: none;
+}
+
+.multiform-step-page #progressbar li.active:before,
+#progressbar li.active:after {
+    background: #2098ce;
+    color: white;
+}
+
+.multiform-step-page #progressbar li.active1:before,
+#progressbar li.active1:after {
+    background: #2098ce;
+    color: white;
+}
+.form-detail-section .upload-section .img-bg{
+    width: auto;
+height: 215px;
+}
+.form-detail-section .cancel-check {
+margin: 35px auto;
+text-align: center;
+width: 600px;
+}
+h2.fs-title {
+font-size: 25px;
+}
+
+img#blah2 { 
+    width: 315px;
+    height: auto;
+    display: none;
+}
+
+img#blah { 
+    width: 315px;
+    height: auto;
+    display: none;
+}
+img#blah3 { 
+    width: 315px;
+    height: auto;
+    display: none; 
+}

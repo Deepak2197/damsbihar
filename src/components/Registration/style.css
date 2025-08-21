@@ -1,0 +1,1433 @@
+.newRegistration {
+  padding: 4% 0px 4%;
+  display: flex;
+  background: #fafafa;
+}
+.regisSecTion {
+  width: 768px;
+  margin: 10% auto 0px;
+  background: #fff;
+  border-radius: 30px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.regisSecTion .logoPart {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(90deg, #ffffff, #ffd8ce);
+  float: left;
+  border-radius: 30px 60px 60px 30px;
+  padding: 20px 20px;
+  text-align: center;
+}
+.regisSecTion .logoPart img {
+  margin: 0 auto;
+  width: 90px;
+}
+.regisSecTion .logoPart h1 {
+  font-size: 18px;
+  color: #424242;
+  font-weight: 400;
+  padding: 20px 0px 0px;
+}
+.regisSecTion .logoPart p {
+  font-size: 20px;
+  color: #212121;
+  font-weight: 500;
+  margin: 0px;
+}
+.regisSecTion .loginPart {
+  width: 50%;
+  float: left;
+  padding: 20px 40px;
+  text-align: center;
+}
+.regisSecTion .loginPart .form-group label {
+  color: #757575;
+  float: left;
+  font-size: 16px;
+  font-weight: 500;
+}
+.regisSecTion .loginPart .form-group input {
+  background: #eeeeee;
+  border: solid 1px #eeeeee;
+}
+.regisSecTion .loginPart button.btn.btn-primary {
+  background: #007aff;
+  font-size: 16px;
+  width: 200px;
+  text-align: center;
+  margin: 50px auto 0px;
+  display: block;
+}
+.regisSecTion .loginPart p {
+  font-size: 14px;
+  color: #424242;
+  font-weight: 500;
+  margin: 0px;
+  padding: 10px 0px;
+}
+.regisSecTion .loginPart p .fa-angle-right {
+  font-size: 18px;
+  margin-left: 10px;
+}
+.regisSecTion .loginPart h2 {
+  font-size: 14px;
+  color: #757575;
+  font-weight: 500;
+  margin: 40px 0px 0px;
+}
+.regisSecTion .loginPart span.term a {
+  color: #ed633d;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/** PESONAL DETAIL Page **/
+.personalDetail {
+  padding: 40px;
+  background: #fafafa;
+  width: 568px;
+  margin: 20px auto;
+  border-radius: 30px;
+}
+
+.reqDetails .fieldPart {
+  margin: 8% 0px 0px;
+}
+.personalDetail .reqDetails h1 {
+  font-size: 22px;
+  color: #007aff;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+.personalDetail .reqDetails p {
+  font-size: 16px;
+  color: #424242;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+.personalDetail .reqDetails .progress {
+  height: 6px;
+  border-radius: 4px;
+  background: #c8e0fb;
+}
+.personalDetail .reqDetails .progress-bar {
+  height: 12px;
+}
+.personalDetail .reqDetails .fullLine {
+  background: #f2ad9a;
+  border-radius: 10px;
+}
+.personalDetail .reqDetails .fullLine .halfLine {
+  width: 20%;
+  height: 4px;
+  background: #ed633d;
+  border-radius: 10px;
+}
+.reqDetails .fieldPart .form-group label {
+  color: #757575;
+  font-size: 16px;
+  font-weight: 500;
+}
+.reqDetails .fieldPart .form-group label.clgname {
+  display: block;
+}
+.reqDetails .fieldPart .form-group input.clginp {
+  padding: 10px 20px;
+  width: 100%;
+}
+.reqDetails .fieldPart .form-group input::placeholder {
+  color: #e0e0e0;
+  opacity: 1;
+}
+.reqDetails .fieldPart .form-group.otp_box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+}
+.reqDetails .fieldPart .form-group input {
+  background: #ffffff;
+  /* border: solid 1px #eeeeee !important; */
+  border-radius: 16px;
+  padding: 24px 20px;
+}
+.personalDetail .reqDetails button.btn.btn-primary {
+  background: #b8b8b8;
+  background: linear-gradient(
+    90deg,
+    rgba(184, 184, 184, 1) 0%,
+    rgba(33, 33, 33, 1) 100%
+  );
+  width: 200px;
+  padding: 10px 0px;
+  margin: 14% auto 0px;
+  display: block;
+  border-radius: 16px;
+}
+.personalDetail .reqDetails button.btn.btn-primary:hover {
+  color: #fff;
+}
+.personalDetail .reqDetails .react-tel-input .flag-dropdown {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  padding: 0;
+  background: #eeeeee;
+  border: 1px solid #cacaca;
+  border-radius: 16px 0 0 16px;
+}
+.personalDetail .reqDetails .react-tel-input .selected-flag {
+  outline: none !important;
+  position: relative !important;
+  width: 50px !important;
+  height: 100% !important;
+  padding: 0 0 0 8px !important;
+  border-radius: 3px 0 0 3px !important;
+}
+.personalDetail .reqDetails input.setinputBox {
+  width: 100% !important;
+  border-radius: 16px;
+  /* margin-left: 84px !important; */
+  height: 50px;
+  font-size: 14px;
+  color: #424242;
+}
+.personalDetail .reqDetails .my-custom-class {
+  width: 14% !important;
+  overflow: hidden !important;
+  margin-left: 40px !important;
+}
+.reqDetails .fieldPart .form-group .selected {
+  position: absolute;
+  bottom: 14px;
+  right: 14px;
+}
+
+/** REGISTRATION SUCCESS Page **/
+.regisSeuccess .conGraute {
+  text-align: center;
+}
+.regisSeuccess .conGraute img {
+  width: 60%;
+}
+.regisSeuccess .conGraute h1 {
+  font-size: 22px;
+  color: #0ed409;
+  font-weight: 500;
+}
+.regisSeuccess .conGraute h2 {
+  font-size: 16px;
+  color: #212121;
+  font-weight: 500;
+  margin: 14px 0px 30px;
+}
+.regisSeuccess .conGraute p {
+  font-size: 16px;
+  color: #007aff;
+  font-weight: 500;
+}
+.regisSeuccess .conGraute button.btn.btn-primary {
+  background: #b8b8b8;
+  background: linear-gradient(
+    90deg,
+    rgba(184, 184, 184, 1) 0%,
+    rgba(33, 33, 33, 1) 100%
+  );
+  width: 200px;
+  padding: 10px 0px;
+  margin: 14% auto 0px;
+  display: block;
+  border-radius: 16px;
+}
+
+/** CHOOSE YOUR STREAM & SELECT STREAM Page **/
+.selectStream .reqDetails .fullLine {
+  background: #f2ad9a;
+  border-radius: 10px;
+}
+.selectStream .reqDetails .fullLine .halfLine {
+  width: 40%;
+  height: 4px;
+  background: #ed633d;
+  border-radius: 10px;
+}
+.selectStream .streamPart {
+  margin: 30px 0px 0px;
+}
+.streamPart li button.nav-link {
+  background: #eeeeee;
+  color: #212121;
+  width: 100%;
+  text-align: left;
+  padding: 14px 20px;
+  margin: 26px 0px 0px;
+}
+.streamPart .nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background: #007aff;
+}
+
+/** EDUCATION DETAILS Page **/
+.educationDetails.coUrse .reqDetails h2 {
+  font-size: 24px;
+  color: #007aff;
+  font-weight: 500;
+}
+.educationDetails.coUrse .reqDetails h3 {
+  font-size: 14px;
+  color: #212121;
+  font-weight: 500;
+  margin-bottom: 6%;
+}
+.educationDetails .inputSection p.setOfp {
+  padding: 4px 0px 0px !important;
+}
+.educationDetails.coUrse .yourCourse {
+  background: #fafafa;
+  border-radius: 36px;
+  border: solid 1px #eeeeee;
+  padding: 20px;
+}
+.courseModal .ant-modal-content button.ant-modal-close {
+  display: none;
+}
+.educationDetails .yourCourse .courseUnderline {
+  border-bottom: solid 1px #eeeeee;
+  width: 100%;
+  display: flex;
+  gap: 10px;
+  padding-bottom: 14px;
+  font-size: 14px;
+  font-weight: 500;
+}
+.educationDetails .reqDetails .fullLine {
+  background: #f2ad9a;
+  border-radius: 10px;
+}
+.educationDetails .reqDetails .fullLine .halfLine {
+  width: 60%;
+  height: 4px;
+  background: #ed633d;
+  border-radius: 10px;
+}
+.educationDetails .reqDetails .detailText p {
+  font-size: 14px;
+  color: #212121;
+  font-weight: 400;
+  margin: 30px 0px 0px;
+}
+.educationDetails .inputSection {
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  margin: 30px 0px 0px;
+}
+.educationDetails .inputSection [type="radio"]:checked,
+.educationDetails .inputSection [type="radio"]:not(:checked) {
+  position: absolute;
+  left: -9999px;
+}
+.educationDetails .inputSection [type="radio"]:checked + label,
+.educationDetails .inputSection [type="radio"]:not(:checked) + label {
+  position: relative;
+  margin-right: 34px;
+  cursor: pointer;
+  line-height: 22px;
+  display: inline-block;
+  color: #666;
+}
+
+.educationDetails .inputSection [type="radio"]:checked + label:before,
+.educationDetails .inputSection [type="radio"]:not(:checked) + label:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 22px;
+  height: 22px;
+  border: 1px solid #007aff;
+  border-radius: 100%;
+  background: #fff;
+}
+.educationDetails .inputSection [type="radio"]:checked + label:after,
+.educationDetails .inputSection [type="radio"]:not(:checked) + label:after {
+  content: "";
+  width: 22px;
+  height: 22px;
+  border: solid 5px #007aff;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 100%;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+.educationDetails .inputSection [type="radio"]:not(:checked) + label:after {
+  opacity: 0;
+  -webkit-transform: scale(0);
+  transform: scale(0);
+}
+.educationDetails .inputSection [type="radio"]:checked + label:after {
+  opacity: 1;
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+.educationDetails .inputSection p {
+  margin: 0px;
+}
+.educationDetails .fieldPart .form-group select {
+  color: #616161;
+  background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png)
+    no-repeat right #eeeeee !important;
+  background-position-x: 96% !important;
+  background-size: 10px !important;
+  height: 50px;
+  border-radius: 16px;
+  border: solid 1px #eeeeee;
+  font-size: 16px !important;
+}
+.educationDetails .fieldPart span.ant-select-selection-item {
+  color: #757575;
+  font-size: 14px;
+}
+
+/** EXAM PREPARATION Page **/
+.exampreParation .reqDetails .fullLine {
+  background: #f2ad9a;
+  border-radius: 10px;
+}
+.exampreParation .reqDetails .fullLine .halfLine {
+  width: 80%;
+  height: 4px;
+  background: #ed633d;
+  border-radius: 10px;
+}
+
+/** COURSE Page **/
+.coUrse .reqDetails .fullLine {
+  background: #f2ad9a;
+  border-radius: 10px;
+}
+.coUrse .reqDetails .fullLine .halfLine {
+  width: 90%;
+  height: 4px;
+  background: #ed633d;
+  border-radius: 10px;
+}
+/* .coUrse .yourCourse{
+    background: #F7F7F7;
+    border: solid 1px #EEEEEE;
+    margin: 10% 0px 0px;
+    border-radius: 20px;
+    padding: 30px 30px;
+} */
+.coUrse .yourCourse .inputSection .popular {
+  color: #fff;
+  background: #ff9d23;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 157, 35, 1) 0%,
+    rgba(249, 76, 16, 1) 100%
+  );
+  border-radius: 5px;
+  padding: 0px 10px;
+  font-weight: 400;
+  font-size: 12px;
+}
+.coUrse .yourCourse .inputSection .recomend {
+  color: #fff;
+  background: #af47d2;
+  background: linear-gradient(
+    90deg,
+    rgba(175, 71, 210, 1) 0%,
+    rgba(255, 0, 128, 1) 100%
+  );
+  border-radius: 5px;
+  padding: 0px 10px;
+  font-weight: 400;
+  font-size: 12px;
+}
+.coUrse .yourCourse .inputSection {
+  display: inline;
+  margin: 0px 0px 0px;
+}
+.coUrse .yourCourse .inputSection [type="radio"]:checked + label,
+.coUrse .yourCourse .inputSection [type="radio"]:not(:checked) + label {
+  color: #212121 !important;
+  display: flex;
+  gap: 10px;
+}
+.coUrse .yourCourse .inputSection p {
+  border-bottom: solid 1px #e0e0e0;
+  padding: 12px 0px 8px;
+}
+.coUrse .yourCourse .inputSection p:last-child {
+  border-bottom: solid 0px;
+}
+
+/** NEET PG NEXT > Page **/
+.neetPGnext .bannerSec .leftSide p span {
+  color: #ed633d;
+}
+.neetPGnext .testSec .tabpart p {
+  font-size: 18px;
+  color: #212121;
+  font-weight: 400;
+  text-align: center;
+  margin: 10px 0px 0px;
+}
+.neetPGnext .testSec .tabpart .tab img {
+  width: 30px;
+  height: 30px;
+}
+.neetPGnext .qUizofDay {
+  background: #fafafa;
+  border-radius: 32px;
+  padding: 40px 40px;
+}
+.neetPGnext .qUizofDay .quiZpart {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.neetPGnext .qUizofDay .quiZpart h1 {
+  font-size: 18px;
+  color: #212121;
+  font-weight: 500;
+}
+.neetPGnext .qUizofDay .quiZpart h2 {
+  font-size: 18px;
+  color: #ed633d;
+  font-weight: 500;
+}
+.neetPGnext .qUizofDay .textPart p {
+  font-size: 16px;
+  color: #212121;
+  margin: 20px 0px 30px;
+}
+.neetPGnext .mediMart h4 {
+  font-size: 20px;
+  margin-bottom: 24px;
+  color: #212121;
+  font-weight: 500;
+}
+.neetPGnext .mediMart {
+  background: rgb(251, 245, 244);
+  background: linear-gradient(
+    184deg,
+    rgba(251, 245, 244, 1) 32%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  margin: 60px 0px;
+  border-radius: 32px;
+  padding: 40px 40px;
+}
+.neetPGnext .mediMart .mediSec {
+  width: 100%;
+  display: inline-block;
+}
+.neetPGnext .mediMart .mediPart:nth-child(7n) {
+  margin-right: 0px;
+}
+
+.neetPGnext .mediMart .mediPart .tab img {
+  width: 26px;
+  height: 26px;
+}
+.neetPGnext .mediMart .read-more-target,
+.neetPGnext .mediMart .read-more-trigger_opened {
+  display: none;
+}
+.neetPGnext
+  .mediMart
+  .read-more-state:checked
+  ~ .read-more-wrap
+  .read-more-target,
+.neetPGnext .mediMart .read-more-state:checked ~ .read-more-trigger_opened {
+  display: block;
+}
+.neetPGnext .mediMart .read-more-state:checked ~ .read-more-trigger_closed {
+  display: none;
+}
+.neetPGnext .mediMart label.read-more-trigger_closed,
+.read-more-trigger_opened {
+  background: #b8b8b8;
+  background: linear-gradient(
+    90deg,
+    rgba(184, 184, 184, 1) 0%,
+    rgba(33, 33, 33, 1) 100%
+  );
+  color: #ffffff;
+  border-radius: 12px;
+  width: 100px;
+  padding: 6px 10px;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
+.neetPGnext .mediMart input:checked ~ label,
+.mediMart label:hover,
+.mediMart label:hover ~ label {
+  background: linear-gradient(to right, #007aff, #007aff);
+  -webkit-background-clip: text;
+  background-clip: initial;
+  -webkit-text-fill-color: #ffffff;
+}
+.doctorLounge h5 {
+  font-size: 20px;
+  margin-bottom: 24px;
+  color: #212121;
+  font-weight: 500;
+}
+.doctorLounge .image-gallery-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.doctorLounge .image-gallery {
+  display: flex;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+}
+.doctorLounge .image-gallery::-webkit-scrollbar {
+  display: none;
+}
+.doctorLounge .gallery-image {
+  flex: 0 0 auto;
+  width: 280px;
+  height: 470px;
+  margin-right: 20px;
+  border-radius: 30px;
+  transition: transform 0.3s ease;
+}
+/* .doctorLounge .gallery-image:hover {
+    transform: scale(1.05);
+} */
+.doctorLounge .scroll-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  font-size: 24px;
+  font-weight: 500;
+  cursor: pointer;
+  z-index: 10;
+  padding: 0px 10px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+.doctorLounge .scroll-btn.left {
+  left: 10px;
+}
+.doctorLounge .scroll-btn.right {
+  right: 10px;
+}
+.doctorLounge .scroll-btn:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.doctorLounge .gallery-image .slideText {
+  position: absolute;
+  bottom: 60px;
+  left: 10px;
+}
+.textnewPart {
+  display: flex;
+}
+.doctorLounge .gallery-image .slideText .imgSec img {
+  width: 40px;
+  margin-right: 10px;
+}
+.doctorLounge .gallery-image .slideText .textSec h4 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+  margin: 0px;
+}
+.doctorLounge .gallery-image .slideText .textSec p {
+  font-size: 12px;
+  font-weight: 400;
+  color: #ffffff;
+  margin: 0px;
+}
+.doctorLounge .gallery-image .slideText .likeSec {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.doctorLounge .gallery-image .slideText .likeSec .partLike {
+  display: flex;
+}
+.doctorLounge .gallery-image .slideText .likeSec .partLike p {
+  margin: 0px;
+  color: #ffffff;
+  font-size: 14px;
+  margin-left: 8px;
+}
+.doctorLounge .gallery-image .slideText .likeSec .partLike img {
+  width: 18px;
+}
+.doctorLounge .gallery-image .slideText .likeSec .date p {
+  margin: 0px;
+  font-size: 14px;
+  color: #ffffff;
+}
+.neetPGnext .podCastSec {
+  /* background: rgb(251, 245, 244);
+  background: linear-gradient(
+    184deg,
+    rgba(251, 245, 244, 1) 32%,
+    rgba(255, 255, 255, 1) 100%
+  ); */
+  background: #eeeeee99;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  margin: 60px 0px;
+  border-radius: 32px;
+  padding: 40px 40px;
+  display: inline-grid;
+}
+.neetPGnext .podCastSec .gallery-image {
+  height: 200px;
+}
+.neetPGnext .newsArtical h5 {
+  font-size: 20px;
+  margin-bottom: 24px;
+  color: #212121;
+  font-weight: 500;
+}
+.neetPGnext .newsArtical .gallery-image {
+  flex: 0 0 auto;
+  border-radius: 20px;
+  width: 280px;
+  height: 224px;
+}
+.neetPGnext .newsArtical .nobelPrize {
+  background: #fafafa;
+  padding: 10px;
+  border-radius: 20px;
+  position: absolute;
+  top: 94px;
+}
+.neetPGnext .newsArtical .nobelPrize h2 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #212121;
+  margin: 0px;
+}
+.neetPGnext .newsArtical .nobelPrize p {
+  font-size: 12px;
+  line-height: 22px;
+  font-weight: 500;
+  color: #424242;
+  margin: 0px;
+}
+.neetPGnext .newsArtical .nobelPrize .datePart {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.neetPGnext .newsArtical .nobelPrize .datePart .dateSec p {
+  font-size: 12px;
+  color: #757575;
+  font-weight: 500;
+  margin: 0px;
+}
+.neetPGnext .newsArtical .nobelPrize .datePart .imgSec ul li {
+  display: inline-block;
+  margin: 0px 4px;
+}
+
+.neetPGnext .earnFree .imgSec img {
+  width: 100%;
+}
+
+.neetPGnext .earnFree .textSec button.btn {
+  /* background: #007aff; */
+  background: #b8b8b8;
+  background: linear-gradient(
+    90deg,
+    rgba(184, 184, 184, 1) 0%,
+    rgba(33, 33, 33, 1) 100%
+  );
+  color: #ffffff;
+  width: 120px;
+  margin: 24px 0px 0px;
+}
+.neetPGnext .technicalSupport img {
+  width: 30px;
+  margin-right: 16px;
+}
+.neetPGnext .technicalSupport p {
+  font-size: 22px;
+  color: #ffffff;
+  font-weight: 400;
+  margin: 0px;
+}
+.neetPGnext .technicalSupport p span {
+  display: block;
+  font-size: 15px;
+}
+
+/** NEET PG > TEST **/
+.neetTest {
+  margin: 0px auto 50px;
+  width: 1024px;
+}
+.neetTest .pillSec .nav-item .nav-link {
+  color: #424242;
+  font-size: 16px;
+  font-weight: 500;
+}
+.neetTest .pillSec .nav-pills .nav-link.active {
+  color: #007aff;
+  background: none !important;
+  border-bottom: solid 2px #007aff !important;
+  border-radius: 0px;
+}
+.neetTest .setSection {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 40px;
+  margin-top: 4%;
+}
+.neetTest .setSection .setPart {
+  width: 48%;
+  display: flex;
+  align-items: center;
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.neetTest .setSection .picSec {
+  width: 70px;
+  height: 70px;
+  margin-right: 20px;
+  background: rgb(229, 234, 249);
+  background: linear-gradient(
+    184deg,
+    rgba(229, 234, 249, 1) 15%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.neetTest .setSection .picSec img {
+  width: 28%;
+}
+.neetTest .setSection .textSec {
+  width: 80%;
+}
+.neetTest .setSection .textSec h2 {
+  font-size: 18px;
+  color: #212121;
+  font-weight: 500;
+}
+.neetTest .setSection .textSec h3 {
+  font-size: 18px;
+  color: #212121;
+  font-weight: 500;
+}
+.neetTest .setSection .textSec h3 span {
+  background: #e0e0e0;
+  padding: 4px 10px;
+  border-radius: 4px;
+  float: right;
+  font-size: 14px;
+  color: #616161;
+  display: flex;
+  align-items: center;
+}
+.neetTest .setSection .textSec h3 span img {
+  width: 8px;
+  margin-right: 10px;
+}
+.neetTest .setSection .textSec p {
+  font-size: 14px;
+  color: #757575;
+  margin: 0px;
+}
+
+/** NEET PG > Anatomy **/
+.neetAnatomy {
+  width: 100%;
+}
+.neetAnatomy .subTopic h3 {
+  font-size: 20px;
+  color: #212121;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.neetAnatomy .subTopic ul {
+  margin: 20px 0px 30px;
+  padding: 0px;
+}
+.neetAnatomy .subTopic ul li {
+  display: inline-block;
+  color: #757575;
+  font-size: 16px;
+}
+.neetAnatomy .subTopic ul > li:before {
+  content: " ";
+  width: 5px;
+  height: 5px;
+  display: inline-block;
+  background-color: #757575;
+  border-radius: 100%;
+  position: relative;
+  top: -2px;
+  margin-right: 8px;
+  margin-left: 8px;
+}
+.neetAnatomy .subTopic ul > li:first-child:before {
+  display: none;
+}
+.neetAnatomy .SetOfBgColor {
+  background: #eeeeee;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+.neetAnatomy .setSectionNew {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 40px;
+  margin-top: 4%;
+  /* background: rgb(229, 234, 249);
+  background: linear-gradient(
+    184deg,
+    rgb(243 246 255) 15%,
+    rgba(255, 255, 255, 1) 100%
+  ); */
+  padding: 40px;
+  border-radius: 30px;
+}
+.neetAnatomy .setSectionNew .generalHeading {
+  width: 100%;
+}
+.neetAnatomy .setSectionNew .generalHeading h4 {
+  font-size: 20px;
+  color: #007aff;
+  font-weight: 500;
+}
+.neetAnatomy .setSectionNew .setPartNew {
+  width: 31%;
+  display: flex;
+}
+.neetAnatomy .setSectionNew .picSecNew {
+  margin-right: 20px;
+}
+.neetAnatomy .setSectionNew .picSecNew img {
+  width: 100%;
+}
+.neetAnatomy .setSectionNew .textSecNew {
+  width: 80%;
+  border-bottom: solid 1px #eeeeee;
+  padding-bottom: 20px;
+}
+.neetAnatomy .setSectionNew .textSecNew h2 {
+  font-size: 16px;
+  color: #212121;
+  font-weight: 400;
+  margin-bottom: 14px;
+}
+.neetAnatomy .setSectionNew .textSecNew h3 {
+  font-size: 14px;
+  color: #757575;
+  font-weight: 400;
+}
+.neetAnatomy .setSectionNew .textSecNew h3 span {
+  background: #e0e0e0;
+  padding: 4px 10px;
+  border-radius: 4px;
+  float: right;
+  font-size: 14px;
+  color: #616161;
+  display: flex;
+  align-items: center;
+}
+.neetAnatomy .setSectionNew .textSecNew h3 em {
+  color: #ffc107;
+  margin-right: 6px;
+}
+.neetAnatomy .setSectionNew .textSecNew h3 span img {
+  width: 8px;
+  margin-right: 10px;
+}
+
+/** NEET PG > Subject **/
+.neetSubject {
+  margin: 4% 0px;
+  background: rgb(229, 234, 249);
+  background: linear-gradient(
+    184deg,
+    rgb(243 246 255) 15%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  padding: 40px;
+  border-radius: 30px;
+}
+.neetSubject .mainHeading h1 {
+  font-size: 20px;
+  color: #212121;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+.neetSubject .BoxSection {
+  width: 100%;
+}
+.neetSubject .BoxSection a {
+  background: #ffffff;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 20px;
+  width: 22%;
+  display: inline-block;
+  text-align: center;
+  padding: 20px 0px;
+  margin-right: 38px;
+  margin-bottom: 4%;
+}
+.neetSubject .BoxSection a:nth-child(n + 4) {
+  margin-right: 0px;
+}
+.neetSubject .BoxSection .boxPart img {
+  width: 24%;
+  height: 60px;
+  margin-bottom: 20px;
+}
+.neetSubject .BoxSection .boxPart p {
+  margin: 0px;
+  color: #424242;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+/** NEET PG > PYT **/
+.neetPyt .setSectionNew .generalHeading h4 {
+  font-size: 20px;
+  color: #212121;
+  font-weight: 500;
+}
+.neetPyt .setSectionNew .textSecNew h2 {
+  margin-bottom: 6px;
+}
+.neetPyt .setSectionNew .textSecNew h2 span {
+  font-size: 12px;
+}
+.neetPyt .setSectionNew .textSecNew h4 {
+  font-size: 12px;
+  color: #424242;
+  font-weight: 400;
+  margin-bottom: 14px;
+}
+
+/** NEET PG > Buy Plan **/
+.PlanSectionBGAdd {
+  background: #fafafa;
+}
+.neetBuyPlan .planSection {
+  padding: 40px 0px;
+  /* margin: 4% 0px;
+  background: rgb(229, 234, 249);
+  background: linear-gradient(
+    184deg,
+    rgb(243 246 255) 15%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 30px; */
+}
+.neetBuyPlan .planSection h3.heading {
+  font-size: 18px;
+  margin-bottom: 24px;
+  font-weight: 500;
+}
+.neetBuyPlan .planSection .imgsetText p {
+  font-size: 18px;
+  margin: 14px 0px 40px;
+  font-weight: 500;
+  color: #424242;
+}
+.neetBuyPlan .selectPlan {
+  padding-bottom: 40px;
+  flex-wrap: wrap;
+  display: flex;
+  gap: 40px;
+}
+.neetBuyPlan .selectPlan .BoxUi {
+  width: 48%;
+  height: max-content;
+  background: #ffffff;
+  border: solid 1px #eeeeee;
+  border-radius: 20px;
+  padding: 20px 20px;
+}
+.neetBuyPlan .selectPlan .BoxUi .regularLive {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.neetBuyPlan .selectPlan .BoxUi .regularLive h2 {
+  font-size: 18px;
+  color: #212121;
+}
+.neetBuyPlan .selectPlan .BoxUi .regularLive h3 {
+  font-size: 22px;
+  color: #ed633d;
+}
+.neetBuyPlan .selectPlan .BoxUi .regularLive h4 {
+  font-size: 16px;
+  color: #007aff;
+}
+.neetBuyPlan .selectPlan .BoxUi .regularLive h5 {
+  font-size: 18px;
+  color: #007aff;
+}
+.neetBuyPlan .selectPlan .BoxUi .coursePart ul li {
+  font-size: 14px;
+  color: #757575;
+  padding: 6px 0px;
+}
+.neetBuyPlan .selectPlan .BoxUi .coursePart ul li em {
+  padding-right: 10px;
+  color: #06d001;
+  font-size: 16px;
+}
+
+/* Add these styles to your CSS file */
+.newPlan {
+  flex-wrap: wrap;
+  display: flex;
+  gap: 25px;
+}
+.newPlan.topHead h6 {
+  display: block;
+  width: 100%;
+  font-size: 18px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  font-weight: 500;
+}
+.newPlan .BoxUi {
+  border: 1px solid #eeeeee;
+  border-radius: 32px;
+  /* padding: 20px; */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  width: 32%;
+  height: max-content;
+  background: #ffffff;
+}
+.neetBuyPlan .BoxUi.recoomndclr {
+  background: #e1bee7;
+}
+.newPlan .plan-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  /* margin-bottom: 15px; */
+}
+.newPlan .plan-title {
+  display: flex;
+  flex-direction: column;
+  padding: 12px 20px;
+}
+.newPlan .plan-title h2 {
+  padding: 6px 0px 34px;
+  margin: 0px;
+  font-size: 14px;
+  color: #212121;
+  font-weight: 500;
+  text-transform: uppercase;
+  display: flex;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  height: 36px;
+}
+.newPlan .view-inclusion-btn {
+  cursor: pointer;
+  color: #007aff;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 16px;
+  font-weight: 500;
+}
+.newPlan .plan-actions {
+  display: grid;
+  align-items: center;
+  gap: 4px;
+  margin-top: 0px;
+  background: #b8b8b8;
+  background: linear-gradient(123deg, #eeeeee 0%, #212121 100%) 0% 0% no-repeat
+    padding-box;
+  border-radius: 0px 32px 32px 0px;
+  padding: 28px 0px;
+  min-width: 120px;
+  height: auto;
+  text-align: center;
+}
+.newPlan .plan-actions h3 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 500;
+  color: #ffffff;
+}
+.newPlan .plan-title p {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 500;
+  color: #212121;
+  padding: 6px 0px 0px;
+}
+.newPlan .plan-title p span {
+  color: #059211;
+}
+.BoxUi .plan-title .tags {
+  color: #fff;
+  background: #af47d2;
+  background: linear-gradient(
+    90deg,
+    rgba(175, 71, 210, 1) 0%,
+    rgba(255, 0, 128, 1) 100%
+  );
+  border-radius: 5px;
+  padding: 4px 10px;
+  font-weight: 400;
+  font-size: 12px;
+  margin-left: 10px;
+  text-transform: capitalize;
+  height: 22px;
+}
+.BoxUi .plan-title .tags2 {
+  background: #ff9d23;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 157, 35, 1) 0%,
+    rgba(249, 76, 16, 1) 100%
+  );
+}
+.BoxUi .plan-title .tags3 {
+  background: #00d1ff;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 209, 255, 1) 0%,
+    rgba(0, 121, 255, 1) 100%
+  );
+}
+.BoxUi .plan-title .tags4 {
+  background: #4ccd99;
+  background: linear-gradient(
+    90deg,
+    rgba(76, 205, 153, 1) 0%,
+    rgba(0, 127, 115, 1) 100%
+  );
+  height: 34px;
+}
+.BoxUi .plan-title .tags5 {
+  background: #fa1e0e;
+  background: linear-gradient(
+    90deg,
+    rgba(250, 30, 14, 1) 0%,
+    rgba(197, 23, 46, 1) 100%
+  );
+  height: 34px;
+}
+.BoxUi .plan-title .timer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+
+.newPlan .buy-now-btn {
+  margin: 0;
+  /* background: #fe572d; */
+  color: white;
+  padding: 8px 0px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  border: none;
+  transition: background 0.3s;
+}
+.newPlan .buy-now-btn:hover {
+  background: none;
+}
+.newPlan .coursePart {
+  padding: 10px 20px;
+}
+.newPlan .coursePart ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.newPlan .coursePart li {
+  padding: 8px 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #757575;
+  font-size: 14px;
+  font-weight: 500;
+}
+.newPlan .coursePart li em.fa-check {
+  color: #06d001;
+}
+.newPlan .plan-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 14px;
+  background: #b8b8b8;
+  background: linear-gradient(123deg, #bdbdbd 0%, #212121 100%) 0% 0% no-repeat
+    padding-box;
+  border-radius: 16px;
+  padding: 6px 20px;
+  margin: 10px 20px 20px;
+}
+.newPlan .plan-footer h3 {
+  margin: 0px;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.upgradePLantask {
+  width: 768px;
+  margin: 0 auto;
+}
+.upgradePLantask h1 {
+  font-size: 22px;
+  color: #212121;
+  font-weight: 500;
+  text-align: center;
+  margin: 20px 0px 30px;
+}
+.upgradePLantask .planTask {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  padding: 30px 30px;
+  border-radius: 16px;
+  margin-bottom: 14px;
+}
+.upgradePLantask .planTask .head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.upgradePLantask .planTask .head h2 {
+  font-size: 20px;
+  color: #212121;
+  font-weight: 500;
+  margin: 0px;
+}
+.upgradePLantask .planTask .head button {
+  background: #ff9d23;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 157, 35, 1) 0%,
+    rgba(249, 76, 16, 1) 100%
+  );
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 10px 10px;
+}
+.upgradePLantask .planTask .head button.upgrade {
+  background: #06d001;
+  background: linear-gradient(
+    90deg,
+    rgba(6, 208, 1, 1) 0%,
+    rgba(5, 146, 18, 1) 100%
+  );
+}
+.upgradePLantask .planTask .head button:hover {
+  background: #ff9d23;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 157, 35, 1) 0%,
+    rgba(249, 76, 16, 1) 100%
+  );
+  color: #ffffff;
+}
+.upgradePLantask .planTask p {
+  font-size: 18px;
+  color: #007aff;
+  font-weight: 500;
+  margin: 0px;
+}
+.upgradePLantask .planTask ul {
+  padding: 0px;
+  margin: 14px 0px 0px;
+  list-style: none;
+}
+.upgradePLantask .planTask ul li {
+  font-size: 16px;
+  color: #757575;
+  padding: 4px 0px;
+  list-style-type: none;
+  padding: 6px 0px 12px 30px;
+  position: relative;
+}
+.upgradePLantask .planTask ul.checkmark li:after {
+  content: " ";
+  display: block;
+  width: 8px;
+  height: 16px;
+  border: solid #06d001;
+  border-width: 0 0.2em 0.2em 0;
+  position: absolute;
+  left: 6px;
+  top: 34%;
+  margin-top: -0.2em;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.upgradePLantask .planTask .enrolbtn {
+  text-align: center;
+}
+.upgradePLantask .planTask .enrolbtn button.enroll {
+  background: #ff3ea5;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 62, 165, 1) 0%,
+    rgba(100, 32, 170, 1) 100%
+  );
+  color: #ffffff;
+  font-size: 18px;
+  padding: 20px 0px;
+  width: 160px;
+  margin-top: 20px;
+}

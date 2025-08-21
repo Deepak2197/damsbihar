@@ -1,0 +1,78 @@
+.AIstudioSection {
+  width: 768px;
+  margin: 0 auto;
+}
+
+.AIstudioSection video {
+  width: 100%;
+  max-width: 100% !important;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  background: #212121;
+}
+.AIstudioSection #chatBox {
+  height: 150px;
+  /* overflow: scroll; */
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background: #fafafa;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  border: solid 1px #f5f5f5;
+}
+.AIstudioSection #chatBox .rounded-lg.text-white {
+  color: #757575 !important;
+}
+
+.AIstudioSection .setOfDIvs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  position: fixed;
+  bottom: 0px;
+  /* width: 100%; */
+}
+.AIstudioSection button.sendBtn {
+  /* padding: 10px 10px; */
+  color: #fff;
+  border: none;
+  border-radius: 50px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.textAreaPart {
+  width: 684px;
+  /* height: 50px; */
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  border-radius: 50px;
+  border: solid 1px #ccc;
+  resize: vertical;
+}
+
+@media only screen and (max-width: 767px) {
+  .AIstudioSection {
+    width: 100%;
+  }
+  .AIstudioSection video {
+    margin-top: 10%;
+  }
+}
+
+@media only screen and (min-width: 391px) and (max-width: 480px) {
+  .textAreaPart {
+    width: 320px;
+  }
+}
+
+@media only screen and (min-width: 360px) and (max-width: 390px) {
+  .textAreaPart {
+    width: 280px;
+  }
+}

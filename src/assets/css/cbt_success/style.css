@@ -1,0 +1,56 @@
+.student-detailPage .table {
+    padding: 20px 30px;
+    width: 600px;
+    margin: 30px auto 0px;
+    background: #2e90cf2e;
+    border-radius: 10px;
+}
+
+.student-detailPage .table th {
+    font-weight: 600;
+    font-size: 18px;
+    color: #000;
+    background: #2e90cf2e !important;
+}
+
+.student-detailPage .sucess-register h5 {
+    color: #212121;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.student-detailPage .go-home-btn {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.student-detailPage .go-home-btn a {
+    font-size: 16px;
+    display: inline-block;
+    color: #fff;
+    background: #4595e7;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0px;
+    margin: 15px auto 0px;
+    font-weight: 600;
+    border-radius: 5px;
+    text-transform: uppercase;
+
+}
+
+.notedbg {
+    margin-top: 30px;
+}
+
+.notedbg h4 {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.notedbg p {
+    font-size: 15px;
+    color: #000;
+    margin-bottom: 4px;
+}

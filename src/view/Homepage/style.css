@@ -1,0 +1,23 @@
+.leadPopup{
+    text-align: center;
+}
+.leadPopup img{
+    width: 40%;
+}
+.leadPopup h3{
+    margin: 40px 0px 10px;
+    font-size: 24px;
+    color: #071952;
+}
+.leadPopup p{
+    font-size: 16px;
+    color: #757575;
+    margin: 0px;
+    padding: 0px;
+    line-height: 22px;
+}
+.leadPopup h4{
+    font-size: 14px;
+    color: #757575;
+    font-weight: 400;
+}

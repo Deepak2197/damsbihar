@@ -1,0 +1,310 @@
+/*****************Course Section Page Start *************/
+
+
+/****filter****/
+
+#orange,
+select,
+.btn {
+    color: #1976d2;
+    margin-bottom: -3px;
+    margin-top: -14px;
+}
+
+.btnn {
+    border: 1px solid #1976d2;
+    border-radius: 10px;
+    background-color: #fff
+}
+
+.btnn:hover {
+    color: #fff;
+    background-color: #1976d2
+}
+
+.value-rupees ul {
+    display: inline-block;
+    margin-bottom: 0px;
+}
+
+.value-rupees ul li {
+    list-style: none;
+    float: left;
+    padding-right: 20px;
+    margin: 8px 0px;
+}
+
+.value-rupees ul li a {
+    text-decoration: none;
+    color: #9e9e9e;
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 12px;
+    color: #1976d2;
+    box-shadow: 2px 2px 14px rgba(0, 0, 0, 0.16);
+}
+
+.value-rupees .min-box {
+    max-width: 100%;
+    width: 82px;
+    height: 28px;
+    border: solid 1px #9e9e9e;
+    color: #9e9e9e;
+    border-radius: 6px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.course-section h4 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    margin-top: 8px;
+}
+
+.checked {
+    color: orange;
+}
+
+.unchecked {
+    color: #9e9e9e;
+}
+
+.flt-pd {
+    padding: 0px 10px;
+}
+
+
+/**************filter**************/
+
+body {
+    background: #fff;
+}
+
+.course-page {
+    padding: 50px 0px;
+}
+
+
+/*************Sliders*************/
+
+.v-slider {
+    margin-top: 30px;
+}
+
+.v-slider .carousel-inner {
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    padding: 10% 5%;
+    border-radius: 15px;
+    display: block;
+    content: "";
+    border: 1px solid #c9c8c8;
+    box-shadow: 2px 2px 6px rgb(0 0 0 / 10%);
+}
+
+.v-slider .carousel-item {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: skyblue;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.v-slider .caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 60%;
+    z-index: 9;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.v-slider .caption h1,
+h3 {
+    color: #1976d2;
+    font-size: 52px;
+    font-weight: 700;
+    margin-bottom: 23px;
+}
+
+.v-slider .caption h2 {
+    color: #1976d2;
+    font-size: 26px;
+    font-weight: 300;
+}
+
+.v-slider a.view-demo:hover {
+    text-decoration: none;
+    color: #333;
+}
+
+.v-slider .carousel-indicators .active {
+    background-color: #61a2f7;
+    width: 20px;
+    height: 8px;
+}
+
+.v-slider .carousel-indicators li {
+    background-color: #b9daef;
+    width: 8px;
+    height: 8px;
+}
+
+.v-slider .carousel-control-prev-icon {
+    background: none;
+}
+
+.v-slider .carousel-control-next-icon {
+    background: none;
+}
+
+.v-slider .carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: -10px;
+    left: 0;
+    z-index: 15;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 15%;
+    list-style: none;
+}
+
+
+/*************Filter Sections*************/
+
+.course-section {
+    padding: 10px 0px;
+}
+
+.course-section .filter-section {
+    padding: 0px 0px;
+}
+
+
+/*************Entrance Section*************/
+
+div {
+    display: block;
+    position: relative;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+.item_marks {
+    position: absolute;
+    top: 8px;
+    right: 5px
+}
+
+.item_mark {
+    display: none;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    color: #bdbdbd;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 38px;
+    text-align: center;
+}
+
+.item_discount {
+    margin-right: 5px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.14);
+    background-color: #ffffff;
+}
+
+.item_new {
+    background: #0e8ce4
+}
+
+.bbb_viewed_item.discount .item_discount {
+    display: inline-block
+}
+
+.bbb_viewed_item.is_new .item_new {
+    display: inline-block
+}
+
+
+/*****************Course Section Page End *************/
+
+
+/**************************Course Section Page One Start *******************/
+
+
+/***************** Preview Next Start *************/
+
+
+.cours-star li.active {
+    color: #ffc700;
+}
+
+
+/* Begin: tooltip code */
+
+.section-area.section-sp1 .tooltip {
+    position: relative;
+    display: inline;
+    z-index: 0;
+}
+
+.section-area.section-sp1 .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 94px;
+    background-color: #9cd1f3;
+    color: #1a1515;
+    text-align: center;
+    border-radius: 3px;
+    padding: 3px 0px;
+    position: absolute;
+    z-index: 1;
+    top: 39px;
+    right: 8px;
+    font-weight: 700;
+    font-size: 11px;
+}
+
+.section-area.section-sp1 .tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.section-area.section-sp1 .tooltip-bottom::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -6px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent #2e90cf transparent;
+}
+
+
+/* End tooltip code */
+
+.section-sp1 .coursebtn {
+    margin-top: -35px;
+}
+
+
+/**************************Course Section Page One End *******************/

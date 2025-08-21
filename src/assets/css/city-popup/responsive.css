@@ -1,0 +1,485 @@
+@media(max-width:1400px) {
+.fullwidth-popup .popular-city ul li {
+    display: inline-block;
+    margin: 10px 10px;
+}
+.fullwidth-popup .popular-city h1 {
+    font-size: 14px;
+    margin-bottom: 0px;
+    margin-left: 110px;
+    margin-top: 10px;
+}
+.fullwidth-popup .city-boxes ul li.sid-mrg {
+    margin-right: 6px !important;
+}
+.fullwidth-popup .city-boxes ul li {
+    width: 240.9px;
+    margin: 10px 5px;
+}
+
+}
+
+@media(max-width:1200px) {
+.fullwidth-popup .popular-city ul li {
+    display: inline-block;
+    margin: 10px 10px;
+}
+.fullwidth-popup .popular-city h1 {
+    font-size: 14px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.fullwidth-popup .city-boxes ul li.sid-mrg {
+    margin-right: 6px !important;
+}
+.fullwidth-popup .city-boxes ul li {
+    width: 212px;
+}
+    
+}
+
+@media(max-width:1024px) {
+    .fullwidth-popup .popular-city ul li {
+        display: inline-block;
+        margin: 10px 10px;
+    }
+    .fullwidth-popup .popular-city h1 {
+        font-size: 14px;
+        margin-bottom: 0px;
+        margin-left: 116px;
+        margin-top: 10px;
+    }
+    .fullwidth-popup .city-boxes ul li.sid-mrg {
+        margin-right: 6px !important;
+    }
+    .fullwidth-popup .city-boxes ul li {
+        width: 172px;
+    }
+    .fullwidth-popup .popular-city ul li a img {
+        width: 46px;
+        height: 46px;
+        border-radius: 50px;
+        margin: 0 auto;
+    }
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 10px;
+        padding: 10px 20px;
+    }
+        
+}
+@media(max-width:992px) {
+
+.fullwidth-popup .city-boxes ul li {
+    width: 165px;
+}
+        
+}
+
+@media(max-width:768px) {
+.fullwidth-popup .popular-city ul li {
+    display: inline-block;
+    margin: 10px 10px;
+}
+.fullwidth-popup .popular-city h1 {
+    font-size: 14px;
+    margin-bottom: 0px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.fullwidth-popup .city-boxes ul li.sid-mrg {
+    margin-right: 6px !important;
+}
+.fullwidth-popup .city-boxes ul li {
+    width: 240px;
+}
+.fullwidth-popup .popular-city ul li a {
+    font-size: 12px;
+    padding: 16px 50px;
+}
+
+}
+@media(max-width:767px) {
+.fullwidth-popup #myModal {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.fullwidth-popup .modal.show .modal-dialog {
+    max-width: 100%;
+}
+.fullwidth-popup .fetch-location a {
+    padding: 10px 60px;
+    font-size: 12px;
+}
+.fullwidth-popup .fetch-location img {
+    width: 16px;
+}
+.fullwidth-popup .popular-city h1 {
+    font-size: 12px;
+    margin-bottom: 6px;
+    margin-left: 64px;
+    margin-top: 10px;
+}
+.fullwidth-popup .popular-city ul li {
+    margin: 12px 12px;
+}
+.fullwidth-popup .popular-city ul li a {
+    font-size: 14px;
+    padding: 18px 60px;
+}
+.fullwidth-popup .popular-city ul li a img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+}
+.fullwidth-popup .popular-city ul li span.city-txt {
+    margin-top: 4px;
+}
+.fullwidth-popup .popular-city ul li .check-icon {
+    position: absolute;
+    top: -6px;
+    right: -6px;
+    background-color: #1976d2;
+    border-radius: 50px;
+    width: 20px;
+    height: 20px;
+}
+.fullwidth-popup .popular-city ul li .check-icon > p {
+    line-height: 22px;
+    color: #fff;
+    font-size: 14px;
+}
+.fullwidth-popup .popular-city ul li .check-icon > p i.fa.fa-check {
+    text-align: center;
+    margin: 0px 3px;
+}
+.fullwidth-popup .popular-city ul {
+    text-align: center;
+}
+.fullwidth-popup .srch-bar {
+    padding: 0px 2px;
+}
+.fullwidth-popup .srch-bar h2 {
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+.fullwidth-popup .srch-bar .input-group {
+    height: 38px;
+    padding: 0px 0px;
+}
+.fullwidth-popup .srch-bar .form-control {
+    height: 34px;
+}
+.fullwidth-popup .srch-bar .search_icon {
+    height: 34px;
+}
+.fullwidth-popup .srch-bar span.input-group-text i {
+    font-size: 12px!important;
+}
+.fullwidth-popup .city-boxes {
+    padding: 10px 2px;
+}
+.fullwidth-popup .city-boxes ul li {
+    border: none;
+    border-bottom: 1px solid #bdbdbd;
+    width: 100%;
+}
+}
+
+@media(max-width:600px) {
+    .fullwidth-popup .fetch-location a {
+        padding: 10px 40px;
+        font-size: 12px;
+    }
+    .fullwidth-popup .popular-city ul li {
+        margin: 6px 8px;
+    }
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 14px;
+        padding: 20px 54px;
+    }
+    .fullwidth-popup .popular-city ul li span.city-txt {
+        margin-top: 18px;
+    }
+    .fullwidth-popup .popular-city ul li a img {
+        width: 60px;
+        height: 60px;
+        border-radius: 50px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon {
+        top: -6px;
+        right: -6px;
+        width: 20px;
+        height: 20px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon > p {
+        line-height: 22px;
+        font-size: 14px;
+    }
+    .fullwidth-popup .popular-city h1 {
+        margin-left: 10px;
+    }
+
+}
+
+
+@media(max-width:575px) {
+    .fullwidth-popup .fetch-location a {
+        padding: 10px 40px;
+        font-size: 12px;
+    }
+    .fullwidth-popup .popular-city ul li {
+        margin: 6px 5px;
+    }
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 14px;
+        padding: 20px 50px;
+    }
+    .fullwidth-popup .popular-city ul li span.city-txt {
+        margin-top: 18px;
+    }
+    .fullwidth-popup .popular-city ul li a img {
+        width: 60px;
+        height: 60px;
+        border-radius: 50px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon {
+        top: -6px;
+        right: -6px;
+        width: 20px;
+        height: 20px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon > p {
+        line-height: 22px;
+        font-size: 14px;
+    }
+}
+
+@media(max-width:480px) {
+    .fullwidth-popup .fetch-location a {
+        padding: 10px 40px;
+        font-size: 12px;
+    }
+    .fullwidth-popup .popular-city ul li {
+        margin: 6px 6px;
+    }
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 12px;
+        padding: 20px 38px;
+    }
+    .fullwidth-popup .popular-city ul li span.city-txt {
+        margin-top: 8px;
+    }
+    .fullwidth-popup .popular-city ul li a img {
+        width: 50px;
+        height: 50px;
+        border-radius: 50px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon {
+        top: -6px;
+        right: -6px;
+        width: 20px;
+        height: 20px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon > p {
+        line-height: 22px;
+        font-size: 14px;
+    }
+}
+
+@media(max-width:425px) {
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 12px;
+        padding: 8px 26px;
+    }
+    .fullwidth-popup .popular-city ul li a img {
+        width: 44px;
+        height: 44px;
+        border-radius: 50px;
+    }
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 10px;
+        padding: 12px 32px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon {
+        top: -6px;
+        right: -6px;
+        width: 16px;
+        height: 16px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon > p {
+        line-height: 18px;
+        font-size: 12px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon > p i.fa.fa-check {
+        text-align: center;
+        margin: 0px 2px;
+    }
+}
+
+
+@media(max-width:414px) {
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 12px;
+        padding: 8px 26px;
+    }
+    .fullwidth-popup .popular-city ul li a img {
+        width: 44px;
+        height: 44px;
+        border-radius: 50px;
+    }
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 10px;
+        padding: 10px 25px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon {
+        top: -6px;
+        right: -6px;
+        width: 16px;
+        height: 16px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon > p {
+        line-height: 18px;
+        font-size: 12px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon > p i.fa.fa-check {
+        text-align: center;
+        margin: 0px 2px;
+    }
+}
+
+@media(max-width:390px) {
+    .fullwidth-popup .popular-city ul li {
+        margin: 6px 4px;
+    }
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 12px;
+        padding: 8px 26px;
+    }
+    .fullwidth-popup .popular-city ul li a img {
+        width: 44px;
+        height: 44px;
+        border-radius: 50px;
+    }
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 10px;
+        padding: 10px 28px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon {
+        top: -6px;
+        right: -6px;
+        width: 16px;
+        height: 16px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon > p {
+        line-height: 16px;
+        font-size: 12px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon > p i.fa.fa-check {
+        text-align: center;
+        margin: 0px 2px;
+    }
+}
+
+@media(max-width:375px) {
+    .fullwidth-popup .popular-city ul li {
+        margin: 6px 5px;
+    }
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 12px;
+        padding: 8px 23px;
+    }
+    .fullwidth-popup .popular-city ul li a img {
+        width: 44px;
+        height: 44px;
+        border-radius: 50px;
+    }
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 10px;
+        padding: 10px 24px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon {
+        top: -6px;
+        right: -6px;
+        width: 16px;
+        height: 16px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon > p {
+        line-height: 16px;
+        font-size: 12px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon > p i.fa.fa-check {
+        text-align: center;
+        margin: 0px 2px;
+    }
+}
+
+@media(max-width:360px) {
+    .fullwidth-popup .popular-city ul li {
+        margin: 6px 5px;
+    }
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 12px;
+        padding: 8px 23px;
+    }
+    .fullwidth-popup .popular-city ul li a img {
+        width: 44px;
+        height: 44px;
+        border-radius: 50px;
+    }
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 10px;
+        padding: 10px 22px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon {
+        top: -6px;
+        right: -6px;
+        width: 16px;
+        height: 16px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon > p {
+        line-height: 16px;
+        font-size: 12px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon > p i.fa.fa-check {
+        text-align: center;
+        margin: 0px 2px;
+    }
+}
+
+@media(max-width:320px) {
+    .fullwidth-popup .fetch-location a {
+        padding: 10px 18px;
+        font-size: 12px;
+    }
+    .fullwidth-popup .popular-city ul li {
+        margin: 6px 4px;
+    }
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 12px;
+        padding: 8px 23px;
+    }
+    .fullwidth-popup .popular-city ul li a img {
+        width: 42px;
+        height: 42px;
+        border-radius: 50px;
+    }
+    .fullwidth-popup .popular-city ul li a {
+        font-size: 10px;
+        padding: 10px 17.6px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon {
+        top: -6px;
+        right: -6px;
+        width: 14px;
+        height: 14px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon > p {
+        line-height: 16px;
+        font-size: 10px;
+    }
+    .fullwidth-popup .popular-city ul li .check-icon > p i.fa.fa-check {
+        text-align: center;
+        margin: 0px 2px;
+    }
+}

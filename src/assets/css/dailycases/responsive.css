@@ -1,0 +1,217 @@
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  /*** View Daily Case ***/
+  .ViewDailyCase .boxPart .casesBox {
+    padding: 10px;
+  }
+  .ViewDailyCase .boxPart .casesBox .bottomPart .likesPart {
+    gap: 10px;
+  }
+  .ViewDailyCase .boxPart .casesBox .bottomPart .likesPart p {
+    font-size: 13px;
+  }
+  .ViewDailyCase .boxPart .casesBox .bottomPart .likesPart p span img {
+    margin-right: 6px;
+  }
+  .ViewDailyCase .boxPart .casesBox .bottomPart .buttonPart a.readBtn {
+    width: 90px;
+    font-size: 12px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  /*** Home Daily Case ***/
+  .dailyCasesSection .dailycAsePart {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+    padding-inline: 10px;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    justify-content: flex-start;
+  }
+  .dailyCasesSection .dailycAsePart .BoxSection {
+    flex: 0 0 100%;
+    max-width: 20rem;
+    scroll-snap-align: start;
+  }
+  .ReadDailyCase {
+    width: 100%;
+  }
+  .ReadDailyCase .FullBox {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /*** Home Daily Case ***/
+  .dailyCasesSection .HeadingTop h2 {
+    font-size: 18px;
+    margin: 0px;
+  }
+  .dailyCAses .dailyCasesSection {
+    padding: 20px 20px;
+  }
+  .dailyCasesSection .dailycAsePart .BoxSection {
+    padding: 10px;
+  }
+  .dailyCasesSection .dailycAsePart .BoxSection h2 {
+    font-size: 16px;
+    margin: 0px;
+  }
+  .dailyCasesSection .dailycAsePart .videoIcon {
+    width: 40px;
+    height: 40px;
+  }
+  .dailyCasesSection .dailycAsePart .readMore a.readBtn {
+    width: 100px;
+    padding: 6px 0px;
+  }
+  .videoModal .ant-modal-content {
+    padding: 46px 20px;
+  }
+  .dailyCasesSection .dailycAsePart {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding-inline: 10px;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    justify-content: flex-start;
+  }
+  .dailyCasesSection .dailycAsePart .BoxSection {
+    flex: 0 0 100%;
+    max-width: 20rem;
+    scroll-snap-align: start;
+  }
+
+  /*** View Daily Case ***/
+  .ViewDailyCase .boxPart .casesBox {
+    padding: 10px;
+  }
+  .ViewDailyCase .boxPart .casesBox .bottomPart .likesPart {
+    gap: 10px;
+  }
+  .ViewDailyCase .boxPart .casesBox .bottomPart .likesPart p {
+    font-size: 13px;
+  }
+  .ViewDailyCase .boxPart .casesBox .bottomPart .likesPart p span img {
+    margin-right: 6px;
+  }
+  .ViewDailyCase .boxPart .casesBox .bottomPart .buttonPart a.readBtn {
+    width: 90px;
+    font-size: 12px;
+  }
+
+  .ReadDailyCase {
+    width: 100%;
+  }
+  .ReadDailyCase .FullBox {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  /*** Home Daily Case ***/
+  .dailyCasesSection .HeadingTop h2 {
+    font-size: 18px;
+    margin: 0px;
+  }
+  .dailyCAses .dailyCasesSection {
+    padding: 20px 20px;
+    margin: 40px 0px 0px;
+  }
+  .dailyCasesSection .dailycAsePart .BoxSection {
+    padding: 10px;
+  }
+  .dailyCasesSection .dailycAsePart .BoxSection h2 {
+    font-size: 16px;
+    margin: 0px;
+  }
+  .dailyCasesSection .dailycAsePart .videoIcon {
+    width: 40px;
+    height: 40px;
+  }
+  .dailyCasesSection .dailycAsePart .readMore a.readBtn {
+    width: 100px;
+    padding: 6px 0px;
+  }
+  .videoModal .ant-modal-content {
+    padding: 46px 20px;
+  }
+  .dailyCasesSection .dailycAsePart {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding-inline: 0px;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    justify-content: flex-start;
+  }
+  .dailyCasesSection .dailycAsePart .BoxSection {
+    flex: 0 0 92%;
+    max-width: 20rem;
+    scroll-snap-align: start;
+  }
+
+  /*** View Daily Case ***/
+  .ViewDailyCase .boxPart .casesBox {
+    padding: 10px;
+  }
+  .ViewDailyCase .boxPart .casesBox .bottomPart .likesPart {
+    gap: 10px;
+  }
+  .ViewDailyCase .boxPart .casesBox .bottomPart .likesPart p {
+    font-size: 13px;
+  }
+  .ViewDailyCase .boxPart .casesBox .bottomPart .likesPart p span img {
+    margin-right: 6px;
+  }
+  .ViewDailyCase .boxPart .casesBox .bottomPart .buttonPart a.readBtn {
+    width: 90px;
+    font-size: 12px;
+  }
+
+  /*** View Daily Case read More ***/
+  .ReadDailyCase {
+    width: 100%;
+  }
+  .FullBox .readCaseBox h2 {
+    font-size: 16px;
+  }
+  .CommentSection .CommentPart ul li {
+    font-size: 14px;
+  }
+  .CommentSection .CommentPartborder ul li {
+    font-size: 14px;
+  }
+  .commentModal .allComment h2 {
+    font-size: 16px;
+  }
+
+  .commentModal .ant-modal .ant-modal-content {
+    position: relative;
+    background-color: #ffffff;
+    background-clip: padding-box;
+    border: 0;
+    border-radius: 8px;
+    box-shadow: 0 6px 16px 0 rgba(0, 0, 0, 0.08),
+      0 3px 6px -4px rgba(0, 0, 0, 0.12), 0 9px 28px 8px rgba(0, 0, 0, 0.05);
+    pointer-events: auto;
+    padding: 10px 10px;
+  }
+  .FullBox .readCaseBox {
+    padding: 20px 20px;
+  }
+  .dailyCasesSection .HeadingTop a {
+    font-size: 14px;
+  }
+  .ReadDailyCase .FullBox {
+    width: 100%;
+  }
+}

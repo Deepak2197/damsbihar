@@ -1,0 +1,113 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+a {
+    text-decoration: none !important;
+}
+a:focus,
+a:hover {
+    text-decoration: none !important;
+    color: none;
+}
+.container {
+    max-width: 1400px !important;
+    width: 90% !important;
+    font-family: Roboto;
+}
+
+/* PROFILE NEW MODULE */
+.profileNew{
+    width: 1366px;
+    margin: 0px auto 0px;
+}
+.profileNew .avatar-upload {
+    position: relative;
+    max-width: 205px;
+    margin: 50px auto;
+}
+.profileNew .avatar-upload .avatar-edit {
+    position: absolute;
+    right: 12px;
+    z-index: 1;
+    top: 10px;
+}
+.profileNew .avatar-upload .avatar-edit input {
+    display: none;
+}
+.profileNew .avatar-upload .avatar-edit input + label {
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    margin-bottom: 0;
+    border-radius: 100%;
+    background: #FFFFFF;
+    border: 1px solid transparent;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+    font-weight: normal;
+    transition: all 0.2s ease-in-out;
+}
+.profileNew .avatar-upload .avatar-edit input + label:hover {
+    background: #f1f1f1;
+    border-color: #d6d6d6;
+}
+.profileNew .avatar-upload .avatar-edit input + label:after {
+    content: "\f040";
+    font-family: 'FontAwesome';
+    color: #757575;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin: auto;
+}
+.profileNew .avatar-upload .avatar-preview {
+    width: 192px;
+    height: 192px;
+    position: relative;
+    border-radius: 100%;
+    border: 6px solid #F8F8F8;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.1);
+}
+.profileNew .avatar-upload .avatar-preview > div {
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: solid 1px #e0e0e0;
+}
+.profileNew .form-group {
+    margin-bottom: 30px;
+}
+.profileNew .form-group label {
+    font-size: 14px;
+    font-weight: 400;
+}
+.profileNew .form-group .form-control {
+    font-size: 12px !important;
+    color: #757575;
+}
+.profileNew textarea.form-control {
+    height: 40px;
+}
+.profileNew .form-group input[type=checkbox], input[type=radio] {
+    position: absolute;
+    top: 4px;
+    left: 0px;
+}
+.profileNew .form-group label.sidelable {
+   padding-left: 24px;
+}
+.profileNew .subbutton{
+    text-align: center;
+    margin: 30px 0px 30px;
+}
+.profileNew .subbutton .btn{
+    background: #0096ff;
+    width: 200px;
+    padding: 10px 10px;
+}

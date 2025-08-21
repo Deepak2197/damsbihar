@@ -1,0 +1,2691 @@
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+  .test-studytabbibg .mix-tab-data li.nav-item {
+    width: 12%;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .calimg
+    p {
+    font-size: 11px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .startbtn
+    button
+    img {
+    width: 10px;
+  }
+  .test-studytabbibg .all-test-page .grouptest ul.nav.nav-pills.NewSet {
+    gap: 30px;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    h3
+    span
+    img {
+    width: 23px;
+    top: -8px;
+    left: 15px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .startbtn
+    button
+    img {
+    width: 10px;
+  }
+  .Ophtha-center {
+    width: 100%;
+  }
+  .test-studytabbibg .all-test-page .tab-content.path .pathlogy-group {
+    min-height: auto;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .setOftext
+    h2 {
+    font-size: 11px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .calimg
+    p {
+    font-size: 9px;
+  }
+  .test-studytabbibg .mix-tab-data li.nav-item {
+    width: 13%;
+  }
+  .question-answerdata .queans .daybtn a {
+    margin: 0 19px 0 0px;
+  }
+  .question-answerdata .queans {
+    padding: 15px 0px;
+  }
+  .test-studytabbibg .tab-content h3 {
+    font-size: 14px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .question-answerdata .queans h3 {
+    margin-bottom: 15px;
+    font-size: 16px;
+  }
+  .question-answerdata .queans h2 {
+    font-size: 15px;
+    margin-bottom: 6px;
+  }
+  .question-answerdata .queans p {
+    font-size: 13px;
+    margin-bottom: 0;
+  }
+  .question-answerdata .queans .daybtn {
+    margin-top: 6%;
+  }
+  .custom-module-tab {
+    margin: 10px 20% 60px;
+  }
+  .ppe-question-page {
+    margin: 50px 10%;
+  }
+  .past-ppr-exam {
+    padding: 50px 6%;
+  }
+  .test-studytabbibg .rightcont .alltest-group h4 {
+    font-size: 14px;
+  }
+  .test-studytabbibg .mix-tab-data li.nav-item a.nav-link {
+    font-size: 14px;
+  }
+  .test-studytabbibg .mix-tab-data li.nav-item a.nav-link.active {
+    font-size: 14px;
+  }
+  .test-studytabbibg .all-test-page .filter-search ul.nav.nav-pills {
+    gap: 20px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .test-studytabbibg {
+    margin: 40px 0;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .startbtn
+    button
+    img {
+    width: 10px;
+  }
+  .test-studytabbibg .rightcont .tab-content .nav-item img {
+    margin-right: 0;
+  }
+  .test-studytabbibg .all-test-page li.nav-item img.active-white {
+    margin-right: 9px;
+  }
+  .test-studytabbibg .all-test-page li.nav-item {
+    margin: 0px 12px 0 0 !important;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .setOftext
+    h2 {
+    font-size: 11px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .setOftext
+    h3 {
+    width: 76%;
+  }
+  .test-studytabbibg .leftcont .mybookmarked .boxbg li a {
+    font-size: 10px;
+  }
+  .test-studytabbibg .leftcont img.imgtab {
+    margin-right: 7px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .calimg
+    p {
+    font-size: 11px;
+    line-height: 24px;
+  }
+  .test-studytabbibg .all-test-page .nav-pills .nav-link,
+  .nav-pills .show > .nav-link {
+    padding: 0 5px;
+  }
+  .test-studytabbibg .all-test-page .filter-search li.nav-item a.nav-link img {
+    width: 25px;
+    margin-right: 6px;
+  }
+  .test-studytabbibg .all-test-page .filter-search li.nav-item a.nav-link {
+    font-size: 11px;
+    padding: 10px 16px;
+  }
+  .test-studytabbibg .all-test-page .quetionbanktab .border-box h4 {
+    font-size: 13px;
+  }
+  .test-studytabbibg .all-test-page .quetionbanktab .border-box .numeric h3 {
+    font-size: 13px;
+  }
+  .all-test-page .filtersearch-box a {
+    font-size: 13px;
+  }
+  .test-studytabbibg .leftcont .nav-pills-custom .nav-link {
+    font-size: 13px;
+  }
+  .test-studytabbibg .popbox .boxtext h3 {
+    font-size: 12px;
+  }
+  .question-answerdata {
+    margin: 25px 15%;
+  }
+  .question-answerdata .queans .daybtn a {
+    margin: 0 19px 0 0px;
+  }
+  .question-answerdata .queans {
+    padding: 15px 0px;
+  }
+  .question-answerdata .queans h3 {
+    margin-bottom: 15px;
+    font-size: 16px;
+  }
+  .question-answerdata .queans h2 {
+    font-size: 15px;
+    margin-bottom: 6px;
+  }
+  .question-answerdata .queans p {
+    font-size: 13px;
+    margin-bottom: 0;
+  }
+  .question-answerdata .queans .daybtn {
+    margin-top: 6%;
+  }
+  .test-studytabbibg .rightcont .flash-card-data .card-btn p {
+    font-size: 14px;
+  }
+  .test-studytabbibg .rightcont .flash-card-data .card-btn {
+    padding: 20px 0px;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .right-text a {
+    font-size: 13px;
+    padding: 8px 20px;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .left-text img {
+    width: 54px;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .left-text h4 {
+    font-size: 15px;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .left-text p {
+    font-size: 14px;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .right-text h4 {
+    font-size: 13px;
+  }
+  .custom-module-tab {
+    margin: 10px 15% 60px;
+  }
+  .custom-module-tab .subject-tabbing .checkuncheckbtn {
+    margin-bottom: 25px;
+  }
+  .custom-module-tab .subject-tabbing label {
+    font-size: 15px;
+  }
+  .custom-module-tab .subject-tabbing input[type="checkbox"] {
+    width: 15px;
+    height: 15px;
+  }
+  .custom-module-tab .subject-tabbing a.next-btn {
+    font-size: 16px;
+    padding: 8px 0px;
+    margin: 10% 0px 0px;
+  }
+  .exam-mode {
+    margin: 10px 15% 60px;
+  }
+  .module-qbank-page {
+    margin: 10px 12% 60px;
+  }
+  .module-qbank-page .banner-img img {
+    margin: 10px 0 15px;
+    height: 200px;
+  }
+  .module-qbank-page .subject-mode table.table td {
+    font-size: 15px;
+  }
+  .module-qbank-page .module-para h2 {
+    margin: 0px 0px 10px;
+    font-size: 19px;
+  }
+  .module-qbank-page .module-para {
+    padding: 10px 0px 20px;
+  }
+  .module-qbank-page .subject-mode {
+    padding: 30px 0px 5px;
+  }
+  .module-qbank-page .start-quetion {
+    padding: 20px 15px;
+  }
+  .module-qbank-page .start-quetion .stbtn {
+    margin: 20px 0px 0;
+  }
+  .module-qbank-page .start-quetion .stbtn a {
+    font-size: 13px;
+    font-weight: 700;
+    padding: 11px 0;
+    width: 40%;
+  }
+  .module-qbank-page .start-quetion li {
+    font-size: 18px;
+  }
+  .module-qbank-page .start-quetion h3 {
+    font-size: 16px;
+  }
+  .module-qbank-page .start-quetion li img {
+    width: 40px;
+  }
+  .ppe-question-page {
+    margin: 50px 10%;
+  }
+  .test-studytabbibg .all-test-page .filter-search ul.nav.nav-pills {
+    gap: 8px;
+  }
+}
+
+@media only screen and (min-width: 812px) and (max-width: 991px) {
+  .test-studytabbibg .leftcont .nav-pills-custom .nav-link {
+    font-size: 11px;
+    padding: 10px 4px;
+  }
+  .test-studytabbibg .all-test-page li.nav-item a.nav-link {
+    font-size: 11px;
+  }
+  .test-studytabbibg .all-test-page li.nav-item {
+    margin: 0px 13px 0 0;
+    width: 12% !important;
+  }
+  .test-studytabbibg .all-test-page li.nav-item img.active-white {
+    width: 18px;
+  }
+  .test-studytabbibg .all-test-page .tab-content.path .pathlogy-group p {
+    font-size: 9px;
+  }
+  .test-studytabbibg .all-test-page .tab-content.path .pathlogy-group p a {
+    font-size: 10px;
+    padding: 3px 10px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .calimg
+    p {
+    font-size: 11px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .startbtn
+    a {
+    font-size: 10px;
+    display: grid;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .pausebtn
+    img {
+    width: 25px;
+  }
+  .test-studytabbibg .leftcont .mybookmarked h3 {
+    font-size: 13px;
+    margin-bottom: 20px;
+  }
+  .test-studytabbibg .leftcont .mybookmarked .col-md-6 {
+    padding: 5px;
+  }
+  .test-studytabbibg .leftcont .mybookmarked .boxbg li a {
+    font-size: 9px;
+  }
+  .test-studytabbibg .leftcont img.imgtab {
+    margin-right: 7px;
+  }
+  .question-answerdata {
+    margin: 22px 0;
+    border: none;
+  }
+  .question-answerdata .queans .daybtn a {
+    margin: 0 19px 0 0px;
+  }
+  .question-answerdata .backbtn a {
+    font-size: 15px;
+  }
+  .question-answerdata .queans {
+    padding: 15px 0px;
+  }
+  .question-answerdata .queans h3 {
+    margin-bottom: 15px;
+    font-size: 16px;
+  }
+  .question-answerdata .queans h2 {
+    font-size: 15px;
+    margin-bottom: 6px;
+  }
+  .question-answerdata .queans p {
+    font-size: 13px;
+    margin-bottom: 0;
+  }
+  .question-answerdata .queans .daybtn {
+    margin-top: 6%;
+  }
+  .custom-module-tab {
+    margin: 10px 15% 60px;
+  }
+  .custom-module-tab .subject-tabbing h3 {
+    margin-bottom: 18px;
+    font-size: 18px;
+  }
+  .custom-module-tab .subject-tabbing .checkuncheckbtn button.checkbtn {
+    font-size: 15px;
+  }
+  .custom-module-tab .subject-tabbing .checkuncheckbtn {
+    margin-bottom: 30px;
+  }
+  .custom-module-tab .subject-tabbing label {
+    font-size: 13px;
+  }
+  .custom-module-tab .subject-tabbing input[type="checkbox"] {
+    width: 14px;
+    height: 14px;
+  }
+  .custom-module-tab .subject-tabbing .checkbox {
+    padding: 16px 0px;
+  }
+  .custom-module-tab .subject-tabbing a.next-btn {
+    font-size: 16px;
+    padding: 6px 0px;
+    margin: 10% 0px 0px;
+  }
+  .ppe-question-page {
+    margin: 50px 5%;
+  }
+  .ppe-question-page .ppeque h2 {
+    font-size: 22px;
+    margin-bottom: 12px;
+  }
+  .ppe-question-page .ppeque p {
+    font-size: 13px;
+  }
+  .ppe-question-page .ppeque h5 {
+    font-size: 17px;
+  }
+  .ppe-question-page .ppeque .question-select h4 {
+    font-size: 14px;
+    padding: 12px 16px !important;
+  }
+  .ppe-question-page .ppeque .emailid a {
+    font-size: 14px;
+  }
+  .ppe-question-page .btngroup {
+    padding: 30px 0px 0;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .test-studytabbibg {
+    margin: 30px 0px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .startbtn
+    button
+    img {
+    width: 10px;
+  }
+  .test-studytabbibg .rightcont .tab-content .nav-item img {
+    margin-right: 0px !important;
+  }
+  .test-studytabbibg .mix-tab-data li.nav-item {
+    width: 16% !important;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .setOftext
+    h2 {
+    font-size: 11px !important;
+    margin: 10px 0px 0px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .startbtn {
+    display: grid;
+    gap: 2px;
+  }
+  .test-studytabbibg .mix-tab-data li.nav-item a.nav-link.active {
+    font-size: 12px;
+  }
+  .test-studytabbibg .all-test-page li.nav-item img.missed-img {
+    width: 36px !important;
+  }
+  .spinepage .spineque .question-select h4 {
+    font-size: 14px;
+    padding: 11px 20px;
+  }
+  .spinepage .spineque .question-select h4 span {
+    padding-top: 7px;
+  }
+  .spinepage .reviewquetion .subbtn {
+    font-size: 14px;
+    padding: 11px 0px;
+  }
+  .spinepage .reviewquetion ul.pagination.other-device {
+    min-height: 400px;
+  }
+  .spinepage .spineque .emailid a {
+    font-size: 13px;
+  }
+  .spinepage .btngroup {
+    padding: 15px 0px;
+  }
+  .spinepage .spineque .question-select {
+    padding: 0px 0px 15px;
+  }
+  .spinepage .reviewquetion ul.pagination li.page-item {
+    width: 21%;
+  }
+  .spinepage .reviewquetion .pagination > li > a,
+  .pagination > li > span {
+    font-size: 11px;
+  }
+  .spinepage .reviewquetion h4 {
+    font-size: 13px;
+  }
+  .spinepage .reviewquetion .attempt li a {
+    font-size: 13px;
+  }
+  .spinepage .spineque {
+    background: none;
+  }
+  .spinepage .spineque h2 {
+    margin-bottom: 17px;
+    font-size: 24px;
+  }
+  .spinepage .spineque .qtext h3 {
+    font-size: 18px;
+  }
+  .spinepage .spineque .qtext {
+    margin: 16px 0px;
+  }
+  .spinepage .spineque .qtext li img {
+    width: 20px;
+  }
+  .spinepage .spineque p {
+    font-size: 11px;
+    line-height: 20px;
+  }
+  .spinepage .correct-wrongans {
+    padding: 12px 15px;
+  }
+  .spinepage .green-wrongans {
+    padding: 12px 15px;
+  }
+  .spinepage .simple-wrongans {
+    padding: 12px 15px;
+  }
+  .test-studytabbibg .leftcont .nav-pills-custom .nav-link {
+    font-size: 10px;
+    padding: 3px 8px;
+  }
+  .test-studytabbibg .leftcont img.imgtab {
+    margin-right: 6px;
+  }
+  .test-studytabbibg .rightcont .alltest-group h4 {
+    font-size: 16px;
+  }
+  .test-studytabbibg .mix-tab-data {
+    margin-top: 16px;
+  }
+  .test-studytabbibg .allTestSetBox .boxSet {
+    width: 44px;
+    height: 44px;
+  }
+  .test-studytabbibg .all-test-page li.nav-item a.nav-link {
+    font-size: 14px;
+  }
+  .test-studytabbibg .all-test-page li.nav-item img.active-white {
+    width: 30px;
+  }
+  .test-studytabbibg .leftcont .mybookmarked h3 {
+    font-size: 12px;
+    margin-bottom: 19px;
+  }
+  .test-studytabbibg .leftcont .mybookmarked .boxbg {
+    padding: 6px 0px;
+    margin-bottom: 10px;
+  }
+  .test-studytabbibg .leftcont .mybookmarked .pr-1,
+  .px-1 {
+    padding-right: 15px !important;
+  }
+  .test-studytabbibg .leftcont .mybookmarked .pl-1,
+  .px-1 {
+    padding-left: 15px !important;
+  }
+  .test-studytabbibg .leftcont .mybookmarked .boxbg img.iconimg {
+    margin-right: 4px;
+    margin-top: -8px;
+    width: 10px;
+  }
+  .test-studytabbibg .leftcont .mybookmarked img.ximg {
+    margin-bottom: 0;
+    width: 25px;
+  }
+  .test-studytabbibg .leftcont .mybookmarked .col-md-6 {
+    padding: 7px;
+  }
+  .test-studytabbibg .leftcont .mybookmarked .boxbg li a {
+    font-size: 13px;
+    font-weight: 600;
+    color: #212121;
+    line-height: 18px;
+    display: -webkit-inline-box;
+    -webkit-line-clamp: 1;
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .test-studytabbibg .all-test-page li.nav-item img.active-white {
+    margin-right: 7px;
+    width: 15px;
+  }
+  .test-studytabbibg .all-test-page .tab-content.path .pathlogy-group h3 {
+    font-size: 14px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .test-studytabbibg .all-test-page .tab-content.path .pathlogy-group p {
+    font-size: 10px;
+    margin: 3px 0px;
+  }
+  .test-studytabbibg .all-test-page .tab-content.path .pathlogy-group p a {
+    padding: 0px 7px;
+    font-size: 12px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .startbtn
+    a {
+    font-size: 11px;
+    display: inherit;
+    padding: 2px 0px 0px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .pausebtn
+    img {
+    width: 23px;
+  }
+
+  .test-studytabbibg .all-test-page .crs-area .crs-group {
+    padding: 10px 10px 0;
+  }
+  .test-studytabbibg .all-test-page .crs-area .crs-group h4 {
+    font-size: 10px;
+    width: auto;
+  }
+  .test-studytabbibg .all-test-page .crs-area .crs-group span i {
+    right: 6px;
+    top: 66px;
+    font-size: 14px;
+  }
+  .test-studytabbibg .all-test-page .crs-area .crs-group .crs-opht {
+    width: 45px;
+    height: 45px;
+    margin: 0 auto 7px;
+  }
+  .test-studytabbibg .all-test-page .filter-search li.nav-item a.nav-link {
+    font-size: 12px;
+    padding: 8px 12px;
+    display: flex;
+    align-items: center;
+    width: 152px;
+    justify-content: center;
+  }
+  .test-studytabbibg .all-test-page .filter-search li.nav-item a.nav-link img {
+    width: 20px;
+    margin-right: 10px !important;
+  }
+  .all-test-page .filtersearch-box a {
+    font-size: 10px;
+  }
+  .all-test-page .filtersearch-box .dropdown-menu {
+    left: 47% !important;
+    width: 53%;
+  }
+  .test-studytabbibg .all-test-page .quetionbanktab .border-box h4 {
+    font-size: 11px;
+  }
+  .test-studytabbibg .all-test-page .quetionbanktab .border-box .numeric {
+    padding: 2px 10px;
+  }
+  .test-studytabbibg .all-test-page .quetionbanktab .border-box .numeric h3 {
+    font-size: 13px;
+  }
+  .test-studytabbibg .all-test-page .quetionbanktab .border-box .imgbox img {
+    width: 22px;
+  }
+  .test-studytabbibg .all-test-page .quetionbanktab .border-box .imgbox {
+    width: 50px;
+    height: 50px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .quetionbanktab
+    .border-box
+    .imgbox
+    img.vimg {
+    margin: 18px 0px;
+  }
+  .all-test-page .filtersearch-box .dropdown-menu button.dropdown-item {
+    margin: 4px 10px;
+  }
+  .test-studytabbibg .grand-page .grandbox img {
+    width: 25px;
+  }
+  .test-studytabbibg .grand-page .grandbox .min-height {
+    min-height: 30px;
+  }
+  .test-studytabbibg .grand-page .grandbox h3 {
+    font-size: 16px;
+  }
+  .test-studytabbibg .grand-page .grandbox h4 {
+    font-size: 11px;
+  }
+  .test-studytabbibg .popbox .boxtext h3 {
+    font-size: 11px;
+    line-height: 18px;
+  }
+  .test-studytabbibg .popbox .boxtext {
+    padding: 35px 0px 0px;
+    text-align: center;
+    margin-bottom: 13px;
+    min-height: 100px;
+  }
+  .test-studytabbibg .grand-page .grandbox {
+    width: 125px;
+  }
+  .test-studytabbibg .rightcont .flash-card-data {
+    padding: 20px 20px;
+    margin-bottom: 30px;
+  }
+  .test-studytabbibg .rightcont .flash-card-data .card-btn {
+    padding: 10px 0px;
+  }
+  .test-studytabbibg .rightcont .flash-card-data .card-btn img {
+    margin-bottom: 5px;
+  }
+  .test-studytabbibg .rightcont .flash-card-data .card-btn p {
+    font-size: 12px;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .left-text .pl-0,
+  .px-0 {
+    padding-left: 15px !important;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .right-text a {
+    font-size: 13px;
+    padding: 10px 10px;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .right-text h4 {
+    font-size: 12px;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .left-text h4 {
+    font-size: 13px;
+  }
+  .test-studytabbibg
+    .rightcont
+    .flashcard-group
+    .preclinical
+    .toggledrop-down
+    .card-header:first-child {
+    font-size: 12px;
+  }
+  .test-studytabbibg
+    .rightcont
+    .flashcard-group
+    .preclinical
+    .toggledrop-down
+    .accordion
+    .card-header.collapsed:before {
+    font-size: 14px;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .left-text p {
+    font-size: 14px;
+  }
+  .test-studytabbibg
+    .rightcont
+    .flashcard-group
+    .preclinical
+    .toggledrop-down
+    .togglegroup
+    .start-review
+    a {
+    font-size: 12px;
+    padding: 8px 12px;
+  }
+  .test-studytabbibg
+    .rightcont
+    .flashcard-group
+    .preclinical
+    .toggledrop-down
+    .togglegroup
+    .start-review
+    h4 {
+    font-size: 12px;
+  }
+  .test-studytabbibg
+    .rightcont
+    .flashcard-group
+    .preclinical
+    .toggledrop-down
+    .togglegroup
+    .anatomy-text
+    h4 {
+    font-size: 15px;
+  }
+  .test-studytabbibg
+    .rightcont
+    .flashcard-group
+    .preclinical
+    .toggledrop-down
+    .togglegroup
+    .anatomy-text
+    p {
+    font-size: 12px;
+    margin: 0px 0;
+  }
+  .question-answerdata {
+    margin: 25px 20px;
+  }
+  .question-answerdata .queans .daybtn a {
+    margin: 0 19px 0 0px;
+  }
+  .question-answerdata .backbtn a {
+    font-size: 15px;
+  }
+  .question-answerdata .queans {
+    padding: 15px 0px;
+  }
+  .question-answerdata .queans h3 {
+    margin-bottom: 15px;
+    font-size: 16px;
+  }
+  .question-answerdata .queans h2 {
+    font-size: 15px;
+    margin-bottom: 6px;
+  }
+  .question-answerdata .queans p {
+    font-size: 13px;
+    margin-bottom: 0;
+  }
+  .question-answerdata .queans .daybtn {
+    margin-top: 6%;
+  }
+  .test-studytabbibg .custom-module .difficult-level-tab li.nav-item {
+    width: 40%;
+  }
+  .test-studytabbibg .custom-module .difficult-level-tab .nav-pills .nav-link {
+    font-size: 16px;
+  }
+  .test-studytabbibg .custom-module .dropdown-list .selectdiv select {
+    font-size: 15px;
+  }
+  .test-studytabbibg .custom-module .difficult-level-tab h3 {
+    font-size: 17px;
+    margin: 20px 0px;
+  }
+  .test-studytabbibg .custom-module .difficult-level-tab .que-form h4 {
+    font-size: 18px;
+    padding: 21px 0px 10px;
+  }
+  .test-studytabbibg
+    .custom-module
+    .difficult-level-tab
+    .que-form
+    .text-group-field {
+    font-size: 12px;
+    padding: 10px 0px;
+  }
+  .test-studytabbibg
+    .custom-module
+    .difficult-level-tab
+    .que-form
+    .radio-list
+    input {
+    width: 14px;
+    height: 18px;
+  }
+  .test-studytabbibg .custom-module .difficult-level-tab .que-form a.next-btn {
+    font-size: 15px;
+    padding: 6px 0px;
+    margin: 25px 0px 0px;
+  }
+  .test-studytabbibg .custom-module .difficult-level-tab .btn-tabs li {
+    padding: 6px 30px;
+    width: 152px;
+  }
+  .test-studytabbibg .all-test-page .system-wise-q h3 {
+    margin-bottom: 7px;
+    font-size: 17px;
+    padding-bottom: 18px;
+  }
+  .test-studytabbibg .all-test-page .system-wise-q .qbank-group .plybtn {
+    text-align: right;
+  }
+  .test-studytabbibg .all-test-page .system-wise-q .qbank-group .tick-btn {
+    text-align: right;
+  }
+  .custom-module-tab {
+    margin: 10px 5% 60px;
+  }
+  .custom-module-tab .banner-img img {
+    width: 100%;
+  }
+  .custom-module-tab .subject-tabbing h3 {
+    font-size: 20px;
+  }
+  .custom-module-tab .subject-tabbing label {
+    font-size: 15px;
+  }
+  .custom-module-tab .subject-tabbing input[type="checkbox"] {
+    width: 15px;
+    height: 15px;
+  }
+  .custom-module-tab .subject-tabbing .checkuncheckbtn button.checkbtn {
+    width: 250px;
+  }
+  .custom-module-tab .subject-tabbing .checkuncheckbtn {
+    margin-bottom: 35px;
+  }
+  .custom-module-tab .subject-tabbing a.next-btn {
+    font-size: 15px;
+    padding: 8px 0px;
+    margin: 8% 0px 0px;
+  }
+  .exam-mode {
+    margin: 10px 13% 60px;
+  }
+  .exam-mode .banner-img img {
+    height: 170px;
+    margin: 10px 0 10px;
+  }
+  .exam-mode .Choose-preference {
+    width: 270px;
+    margin: 12px 0px 0 0;
+  }
+  .exam-mode .preference-text h2 {
+    margin: 10px 0px;
+    font-size: 16px;
+  }
+  .exam-mode .Choose-preference p {
+    font-size: 12px;
+  }
+  .exam-mode .Choose-preference h3 {
+    margin-bottom: 13px;
+    font-size: 17px;
+  }
+  .exam-mode a.next-btn {
+    font-size: 15px;
+    margin-top: 10%;
+  }
+  .module-qbank-page {
+    margin: 10px 12% 60px;
+  }
+  .module-qbank-page .banner-img img {
+    margin: 10px 0 15px;
+    height: 150px;
+  }
+  .module-qbank-page .subject-mode table.table td {
+    font-size: 15px;
+  }
+  .module-qbank-page .module-para h2 {
+    margin: 0px 0px 10px;
+    font-size: 19px;
+  }
+  .module-qbank-page .module-para {
+    padding: 10px 0px 20px;
+  }
+  .module-qbank-page .subject-mode {
+    padding: 30px 0px 5px;
+  }
+  .module-qbank-page .start-quetion {
+    padding: 20px 15px;
+  }
+  .module-qbank-page .start-quetion .stbtn {
+    margin: 20px 0px 0;
+  }
+  .module-qbank-page .start-quetion .stbtn a {
+    font-size: 13px;
+    font-weight: 700;
+    padding: 11px 0;
+    width: 40%;
+  }
+  .module-qbank-page .start-quetion li {
+    font-size: 18px;
+  }
+  .module-qbank-page .start-quetion h3 {
+    font-size: 16px;
+  }
+  .module-qbank-page .start-quetion li img {
+    width: 40px;
+  }
+  /* PPE KIT */
+  .past-ppr-exam .past-ppr-rightside .rank-section h1 {
+    font-size: 15px;
+    margin-bottom: 0;
+  }
+  .past-ppr-exam .past-ppr-rightside .rank-section ul {
+    margin: 8px 0px;
+  }
+  .past-ppr-exam .past-ppr-rightside .course-description h2 {
+    font-size: 18px;
+  }
+  .past-ppr-exam .past-ppr-rightside .course-description p {
+    font-size: 14px;
+  }
+  .past-ppr-exam .past-ppr-rightside .rank-section ul li span.for-rating {
+    padding: 5px 17px;
+    font-size: 14px;
+  }
+  .past-ppr-exam .past-ppr-rightside .rank-section ul li.lrn-btn {
+    font-size: 13px;
+    padding: 7px 15px;
+  }
+  .past-ppr-exam .past-ppr-leftside li {
+    width: 175px;
+    padding: 18px 0px;
+  }
+  .past-ppr-exam .past-ppr-leftside li img {
+    width: 40px;
+    height: 40px;
+  }
+  .past-ppr-exam .past-ppr-leftside li span {
+    font-size: 17px;
+    margin-top: 15px;
+  }
+  .past-ppr-exam .past-ppr-rightside .course-buy-now {
+    margin: 145px 0px 0px;
+  }
+  .past-ppr-exam .past-ppr-rightside .course-buy-now a {
+    padding: 10px 20px;
+  }
+  .past-ppr-exam .past-ppr-rightside .course-buy-now span.rupees {
+    font-size: 16px;
+  }
+  .past-ppr-exam .subjct-wise-area .subjct-wise-area-group {
+    padding: 6px 10px;
+  }
+  .past-ppr-exam .course-buy-now {
+    width: 100%;
+  }
+  .past-ppr-exam .subjct-wise-area h1 {
+    font-size: 20px;
+  }
+  .past-ppr-exam .subjct-wise-area .subjct-wise-area-group h4 {
+    font-size: 13px;
+    line-height: normal;
+  }
+  .past-ppr-exam {
+    padding: 45px 5px;
+  }
+  .past-ppr-exam .course-buy-now a {
+    padding: 10px 20px;
+  }
+  .past-ppr-exam .past-ppr-rightside h3 {
+    margin-bottom: 15px;
+    font-size: 20px;
+  }
+  .past-ppr-exam .past-ppr-rightside select {
+    padding: 10px 10px;
+    font-size: 15px;
+  }
+  .anaesthesia-section-year .qus-base h3 {
+    font-size: 12px;
+    margin: 5px 0px 0 15px;
+  }
+  .anaesthesia-section-year .qus-base a.buton {
+    font-size: 15px;
+    padding: 4px 10px;
+    background-color: #071952;
+  }
+  .past-ppr-exam
+    .past-ppr-rightside
+    .anaesthesia-section-year
+    .video-kit-tab
+    .qus-base {
+    padding: 0px 0px;
+    margin: 0;
+  }
+  .past-ppr-exam .past-ppr-rightside .anaesthesia-section-year {
+    padding: 30px 10px 20px;
+  }
+  .past-ppr-exam .past-ppr-rightside .anaesthesia-part img {
+    width: 32px;
+    margin: 0px 15px 0px 0px;
+  }
+  .past-ppr-exam .past-ppr-rightside .anaesthesia-part span {
+    font-size: 17px;
+  }
+  .past-ppr-exam
+    .past-ppr-rightside
+    .anaesthesia-section-year
+    .nav-pills
+    .nav-link
+    h4 {
+    font-size: 15px;
+  }
+  .past-ppr-exam
+    .past-ppr-rightside
+    .anaesthesia-section-year
+    .nav-pills
+    .nav-link {
+    font-size: 13px;
+    margin: 0 22px;
+    padding: 17px 0;
+    margin-top: 35px;
+  }
+  .past-ppr-exam
+    .past-ppr-rightside
+    .anaesthesia-section-year
+    .video-kit-tab
+    img.anaesthesia-img {
+    width: 35px;
+    margin-bottom: 12px;
+  }
+  .past-ppr-exam
+    .past-ppr-rightside
+    .anaesthesia-section-year
+    .video-kit-tab
+    li:after {
+    top: 38px;
+    border-right: 2px solid #ccc;
+    height: 109px;
+  }
+  .anaesthesia-section-year .qus-base .video-icon i {
+    font-size: 23px;
+  }
+  .anaesthesia-section-year .qus-base .download-icon img {
+    width: 30px;
+  }
+  .ppe-question-page {
+    margin: 50px 4%;
+  }
+  .ppe-question-page .ppeque h2 {
+    font-size: 22px;
+    margin-bottom: 12px;
+  }
+  .ppe-question-page .ppeque .qtext h3 {
+    font-size: 18px;
+  }
+  .ppe-question-page .ppeque p {
+    font-size: 13px;
+  }
+  .ppe-question-page .ppeque h5 {
+    font-size: 17px;
+  }
+  .ppe-question-page .ppeque .question-select h4 {
+    font-size: 14px;
+    padding: 12px 16px !important;
+  }
+  .ppe-question-page .ppeque .emailid a {
+    font-size: 14px;
+  }
+  .ppe-question-page .btngroup {
+    padding: 30px 0px 0;
+  }
+  .ppe-question-page .ppeque .round-progress {
+    padding: 30px 0px;
+  }
+  .ppe-question-page .ppeque .round-progress .text h5 {
+    font-size: 15px;
+  }
+  .ppe-question-page .ppeque .round-progress canvas {
+    width: 40px;
+  }
+  .test-studytabbibg .all-test-page ul.nav.nav-pills {
+    padding: 15px 0 8px 0 !important;
+    white-space: nowrap;
+    flex-wrap: initial;
+    overflow: auto;
+    scrollbar-width: none;
+  }
+  .test-studytabbibg .all-test-page .filter-search ul.nav.nav-pills {
+    gap: 16px;
+  }
+  .test-studytabbibg .all-test-page .tabdatashow .commanGroup {
+    width: 160px;
+    margin: 12px auto;
+  }
+  .test-studytabbibg .all-test-page .tabdatashow {
+    justify-content: space-between;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .setOfimgPart
+    img {
+    width: 16px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .setOfimgPart {
+    width: 44px;
+    height: 44px;
+  }
+  .test-studytabbibg .all-test-page .tab-content.path .pathlogy-group {
+    padding: 12px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .tab_datagg p {
+    font-size: 11px;
+    margin-top: -8px;
+    margin-bottom: 5px;
+  }
+  .tab_datagg button.refresh {
+    padding: 4px 8px;
+    border-radius: 6px;
+    top: -30px;
+    font-size: 13px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .startbtn
+    button
+    img {
+    width: 10px;
+  }
+  .test-studytabbibg {
+    margin: 0px 0;
+    padding: 20px 0;
+  }
+  .test-studytabbibg .shifuProfileIcon {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+  }
+  .test-studytabbibg .all-test-page .tabdatashow .commanGroup1 img {
+    width: 30px;
+    transform: scale(1.9);
+    height: 60px;
+  }
+  .test-studytabbibg .all-test-page .filter-search li.nav-item {
+    background: none;
+  }
+  .test-studytabbibg .shifuProfileIcon img {
+    width: 24px;
+    border-radius: 6px;
+    transform: scale(1.8);
+    height: 50px;
+  }
+
+  .test-studytabbibg .leftcont .mybookmarked .boxbg {
+    padding: 5px 0px;
+    min-height: 100px;
+  }
+  .test-studytabbibg .leftcont .mybookmarked .boxbg li a {
+    font-size: 11px;
+  }
+  .test-studytabbibg .other-test-page .other-box h3 {
+    font-size: 9px;
+  }
+  .test-studytabbibg .other-test-page .other-box .view-detail-btn {
+    width: 100%;
+    padding: 0 0px;
+  }
+  .test-studytabbibg .other-test-page .other-box .view-detail-btn a {
+    font-size: 11px;
+  }
+  .test-studytabbibg .mix-tab-data ul.nav.nav-pills {
+    white-space: normal !important;
+    flex-wrap: initial !important;
+    overflow: hidden !important;
+    margin-bottom: 14px !important;
+    scrollbar-width: none;
+  }
+  .test-studytabbibg .mix-tab-data li.nav-item img {
+    width: 18px !important;
+  }
+  .test-studytabbibg .rightcont .alltest-group img {
+    width: 25px !important;
+  }
+  .test-studytabbibg .all-test-page li.nav-item img.missed-img {
+    width: 28px !important;
+  }
+
+  .test-studytabbibg .mix-tab-data li.nav-item a.nav-link.active {
+    font-size: 12px !important;
+    font-weight: 400 !important;
+    letter-spacing: 0 !important;
+  }
+  .test-studytabbibg .all-test-page .nav-pills .nav-link,
+  .nav-pills .show > .nav-link {
+    display: block;
+  }
+  .test-studytabbibg .all-test-page li.nav-item img.active-white {
+    margin-right: 5px;
+    width: 20px;
+  }
+  .test-studytabbibg .all-test-page ul.nav.nav-pills {
+    padding: 0px 0px 0px 0px !important;
+    white-space: nowrap;
+    flex-wrap: initial;
+    overflow: auto;
+    scrollbar-width: none;
+    gap: 14px !important;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .setOfimgPart
+    img {
+    width: 16px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .setOfimgPart {
+    width: 44px;
+    height: 44px;
+  }
+  .test-studytabbibg .rightcont .alltest-group img {
+    width: 25px;
+  }
+  .test-studytabbibg .all-test-page ul.nav.nav-pills.grand-test {
+    padding: 15px 0 0px 0;
+  }
+  .test-studytabbibg .all-test-page .grand-test li.nav-item {
+    width: 44%;
+    margin: 10px 7px 0 8px;
+  }
+  .test-studytabbibg .all-test-page .grand-test li.nav-item a.nav-link {
+    min-height: 40px;
+  }
+  .test-studytabbibg .all-test-page .grand-test li.nav-item img {
+    width: 25px;
+    margin-right: 20px;
+  }
+  .test-studytabbibg .all-test-page .grand-test li.nav-item a.nav-link {
+    font-size: 12px;
+    padding: 9px 0px;
+  }
+  .test-studytabbibg .rightcont .tab-content .nav-item img {
+    width: 25px;
+    margin-right: 0px;
+  }
+  .test-studytabbibg .all-test-page .pdleft {
+    padding: 0px;
+  }
+  .test-studytabbibg .all-test-page .pdright {
+    padding: 0px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    h3
+    span
+    img {
+    width: 21px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .startbtn
+    a {
+    font-size: 12px;
+  }
+  .test-studytabbibg .all-test-page .tab-content.path .pathlogy-group {
+    display: block;
+    padding: 12px;
+  }
+  .test-studytabbibg .all-test-page .tab-content.path .pathlogy-group p a {
+    font-size: 10px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .setOftext
+    h2 {
+    font-size: 12px !important;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .setOftext
+    h3 {
+    width: 76%;
+  }
+  .test-studytabbibg .tab-content h3 {
+    font-size: 14px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .test-studytabbibg .allTestSetBox .boxSet {
+    width: 44px;
+    height: 44px;
+  }
+
+  .test-studytabbibg .all-test-page .tab-content.path .pathlogy-group p {
+    font-size: 11px !important;
+    margin-bottom: 0px !important;
+  }
+
+  .test-studytabbibg
+    .all-test-page
+    .tab-content.path
+    .pathlogy-group
+    .pausebtn
+    img {
+    width: 25px;
+  }
+
+  .test-studytabbibg .all-test-page .crs-area {
+    margin-top: 30px;
+    padding: 0 15px;
+  }
+  .test-studytabbibg .all-test-page .crs-area .crs-group {
+    padding: 7px 0 0px;
+    margin-bottom: 23px;
+  }
+  .test-studytabbibg .all-test-page .crs-area .crs-group h4 {
+    width: 90px;
+    font-size: 10px;
+  }
+  .Ophthalmology-area .ophthagroup .setg {
+    text-align: center;
+  }
+  .offlinevideo-model .modal-dialog {
+    max-width: 100%;
+  }
+  .Ophthalmology-area .ophthagroup h4 {
+    margin: 0 0px;
+    font-size: 11px;
+  }
+  .Ophthalmology-area .ophthagroup p {
+    font-size: 11px;
+  }
+  .Ophthalmology-area .ophthagroup {
+    min-height: 175px;
+  }
+  .Ophthalmology-area h2 {
+    font-size: 20px;
+    padding-bottom: 20px;
+    margin-top: 18px;
+  }
+  .Ophthalmology-area .ophthagroup img {
+    width: 25px;
+  }
+  .offlinevideo-model .modal-dialog {
+    margin-top: 0;
+  }
+  .test-studytabbibg .leftcont .nav-pills-custom .nav-link {
+    font-size: 10px;
+    padding: 4px 15px;
+    margin-bottom: 7px;
+    width: 135px;
+  }
+  .test-studytabbibg .allTestSetBox .boxSet img {
+    width: 20px;
+  }
+  .test-studytabbibg .all-test-page .filter-search li.nav-item a.nav-link {
+    font-size: 11px !important;
+    margin-bottom: 8px;
+    display: flex;
+    min-height: 35px;
+    width: 130px !important;
+  }
+
+  .test-studytabbibg .all-test-page .filter-search .nav-pills .nav-link.active,
+  .nav-pills .show > .nav-link {
+    margin-bottom: 8px;
+  }
+  .test-studytabbibg .all-test-page .quetionbanktab .border-box h4 {
+    font-size: 12px;
+    /* padding: 0 5px; */
+  }
+  /* .test-studytabbibg .all-test-page .quetionbanktab .border-box .imgbox {
+        width: 40px;
+        height: 40px;
+        margin: 6px auto 0;
+    } */
+  .test-studytabbibg .all-test-page .quetionbanktab .border-box .imgbox img {
+    width: 20px;
+    margin: 10px 0px;
+  }
+  .test-studytabbibg .all-test-page .quetionbanktab .border-box .numeric h3 {
+    font-size: 13px;
+  }
+  /* .test-studytabbibg .all-test-page .quetionbanktab .border-box h4 {
+        margin-bottom: 0;
+    } */
+  .test-studytabbibg .all-test-page .quetionbanktab .border-box .numeric {
+    padding: 3px 10px;
+  }
+  .test-studytabbibg .all-test-page .syswise-qbank {
+    margin-top: 28px;
+  }
+  .test-studytabbibg .all-test-page .syswise-qbank .qbankgroup {
+    padding: 10px 10px;
+    margin: 10px 0px 0;
+  }
+  .test-studytabbibg .all-test-page .syswise-qbank .qbankgroup img {
+    max-width: 25px;
+  }
+  .test-studytabbibg .all-test-page .syswise-qbank .qbankgroup .textg li {
+    font-size: 9px;
+  }
+  .test-studytabbibg .all-test-page .syswise-qbank .qbankgroup .textg {
+    margin-top: -8px;
+  }
+  .test-studytabbibg .all-test-page .syswise-qbank .qbankgroup .textg .reatt a {
+    font-size: 12px;
+    display: inherit;
+  }
+  .test-studytabbibg .leftcont .mybookmarked h3 {
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+  .test-studytabbibg .leftcont .mybookmarked {
+    padding: 17px 0px 0px;
+  }
+  .test-studytabbibg .all-test-page .crs-area .crs-group .crs-opht {
+    padding: 0px 10px;
+    width: 40px;
+    height: 40px;
+    margin: 0 auto 5px;
+  }
+  .test-studytabbibg .all-test-page .syswise-qbank .qbankgroup .textg ul {
+    margin-top: -6px;
+  }
+  .test-studytabbibg .all-test-page .crs-area .crs-group span i {
+    top: 58px;
+  }
+  .test-studytabbibg .all-test-page .syswise-qbank h3 {
+    font-size: 14px;
+    padding-bottom: 10px;
+  }
+  .test-studytabbibg .all-test-page .syswise-qbank .qbankgroup .textg h4 {
+    margin-bottom: 0px;
+    font-size: 10px;
+  }
+  .test-studytabbibg .all-test-page .syswise-qbank .qbankgroup .textg li.q30 {
+    font-size: 11px;
+  }
+  .test-studytabbibg .all-test-page .syswise-qbank .qbankgroup .textg li.newf {
+    font-size: 9px;
+    padding: 0 2px;
+  }
+  .test-studytabbibg .all-test-page .syswise-qbank .qbankgroup .startb {
+    margin: 6px 0px;
+  }
+  .test-studytabbibg .all-test-page .syswise-qbank .qbankgroup .startb a {
+    font-size: 10px;
+    display: inherit;
+    padding: 3px 0px;
+  }
+  .test-studytabbibg .leftcont .mybookmarked img.ximg {
+    margin-bottom: 0;
+    width: 25px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .syswise-qbank
+    .qbankgroup
+    .progress-img
+    img {
+    width: 20px;
+    float: right;
+  }
+  .test-studytabbibg .leftcont img.imgtab {
+    width: 20px;
+    margin-right: 6px;
+  }
+  .test-studytabbibg .all-test-page .syswise-qbank .qbankgroup .textg li span {
+    font-size: 11px;
+  }
+  .test-studytabbibg .all-test-page .system-wise-q {
+    margin-top: 25px;
+  }
+  .test-studytabbibg .all-test-page .system-wise-q h3 {
+    margin-bottom: 4px;
+    font-size: 17px;
+    padding-bottom: 15px;
+  }
+  .test-studytabbibg .all-test-page .system-wise-q .qbank-group .listtext h4 {
+    font-size: 11px;
+  }
+  .test-studytabbibg .all-test-page .system-wise-q .qbank-group .listtext li {
+    font-size: 9px !important;
+  }
+  .test-studytabbibg .all-test-page .system-wise-q .qbank-group .stbtn {
+    margin-left: 13px;
+  }
+  .test-studytabbibg .all-test-page .system-wise-q .qbank-group .plybtn img {
+    width: 23px;
+  }
+  .test-studytabbibg .all-test-page .system-wise-q .qbank-group .plybtn {
+    position: absolute;
+    top: -38px;
+    right: 7px;
+  }
+  .spinepage .spineque {
+    background: none;
+  }
+  .spinepage .spineque h2 {
+    font-size: 18px;
+    margin-bottom: 9px;
+  }
+  .spinepage .spineque .qtext h3 {
+    font-size: 13px;
+  }
+  .spinepage .spineque .qtext {
+    margin: 15px 0px;
+  }
+  .spinepage .spineque .qtext li img {
+    width: 18px;
+    margin-top: -13px;
+  }
+  .spinepage .spineque p {
+    font-size: 11px;
+    line-height: 18px;
+    text-align: justify;
+  }
+  .spinepage .spineque h5 {
+    margin-bottom: 12px;
+    font-size: 15px;
+  }
+  .spinepage .correct-wrongans .oneside {
+    font-size: 9px;
+  }
+  .spinepage .correct-wrongans .twoside {
+    font-size: 12px;
+  }
+  .spinepage .correct-wrongans .twoside span i {
+    width: 14px;
+    height: 13px;
+    font-size: 12px;
+  }
+  .spinepage .correct-wrongans .oneside span {
+    width: 16px;
+    height: 16px;
+    margin-right: 7px;
+    font-size: 11px;
+  }
+  .spinepage .simple-wrongans .oneside {
+    font-size: 10px;
+  }
+  .spinepage .simple-wrongans .oneside span {
+    width: 16px;
+    height: 16px;
+    margin-right: 7px;
+    font-size: 11px;
+  }
+  .spinepage .green-wrongans .oneside span {
+    width: 16px;
+    height: 16px;
+    margin-right: 7px;
+    font-size: 11px;
+  }
+  .spinepage .green-wrongans .twoside span {
+    width: 16px;
+    height: 16px;
+    margin-right: 7px;
+    font-size: 11px;
+  }
+  .spinepage .green-wrongans .oneside {
+    font-size: 9px;
+  }
+  .spinepage .green-wrongans .twoside {
+    font-size: 12px;
+  }
+  .spinepage .green-wrongans .twoside span {
+    border-radius: 100px;
+    padding: 2px 3px;
+  }
+  .spinepage .green-wrongans .twoside span i {
+    width: 14px;
+    height: 13px;
+    font-size: 12px;
+  }
+  .spinepage .explanation .text p {
+    font-size: 11px;
+  }
+  .spinepage .spineque .emailid a {
+    font-size: 12px;
+  }
+  .spinepage .spineque .emailid {
+    padding-top: 6px;
+  }
+  .spinepage .btngroup {
+    padding: 10px 0px;
+  }
+  .spinepage .btngroup .backbtn {
+    width: 100px;
+  }
+  .spinepage .btngroup .backbtn {
+    font-size: 12px;
+    padding: 4px 0px;
+    height: auto;
+  }
+  .spinepage .reviewquetion {
+    margin-top: 25px;
+  }
+  .spinepage .reviewquetion h4 {
+    font-size: 14px;
+    padding: 10px 0px;
+  }
+  .spinepage .reviewquetion ul.pagination li.page-item {
+    width: 30px;
+    margin: 0 0px 3px 0px;
+  }
+  .spinepage .reviewquetion .pagination > li > a,
+  .pagination > li > span {
+    font-size: 10px;
+    padding: 4px 0px;
+  }
+  .spinepage .reviewquetion ul.pagination {
+    margin: 0 0 0 9px;
+    min-height: 200px;
+  }
+  .spinepage .reviewquetion .attempt li {
+    padding-right: 14px;
+  }
+  .spinepage .reviewquetion .attempt li:last-child {
+    padding-right: 0px;
+  }
+  .spinepage .reviewquetion .subbtn {
+    font-size: 12px;
+    padding: 8px 0px;
+  }
+  .spinepage .spineque .question-select h4 span {
+    margin-right: 7px;
+  }
+  .reviewquetion ul.pagination.other-device {
+    min-height: 200px !important;
+  }
+  .spinepage .spineque .question-select h4 {
+    font-size: 12px;
+    padding: 11px 11px;
+  }
+
+  .test-studytabbibg .all-test-page .filter-search li.nav-item {
+    padding: 0 2px;
+  }
+
+  .test-studytabbibg .all-test-page .filter-search li.nav-item a.nav-link img {
+    width: 20px;
+    margin-right: 4px;
+  }
+  .all-test-page .filtersearch-box .dropdown-menu {
+    left: 0% !important;
+    width: 100%;
+  }
+  .all-test-page .filtersearch-box a {
+    font-size: 11px;
+  }
+  .all-test-page .filtersearch-box .dropdown p {
+    font-size: 13px;
+  }
+  .all-test-page .filtersearch-box button#dropdownMenu2 {
+    font-size: 13px;
+  }
+  .test-studytabbibg
+    .all-test-page
+    .quetionbanktab
+    .border-box
+    .imgbox
+    img.vimg {
+    margin: 14px 0px;
+  }
+  .test-studytabbibg .popbox .modal-dialog {
+    top: 32%;
+    left: 35px;
+  }
+  .test-studytabbibg .grand-page .grandbox img {
+    width: 22px;
+  }
+  .test-studytabbibg .grand-page .grandbox h3 {
+    margin: 0px;
+    font-size: 17px;
+  }
+  .test-studytabbibg .grand-page .grandbox h4 {
+    font-size: 11px;
+    margin: 4px 0px 0px;
+  }
+  .test-studytabbibg .grand-page {
+    padding: 25px 0px;
+  }
+  .test-studytabbibg .popbox .boxtext h3 {
+    line-height: 18px;
+    font-size: 10px;
+  }
+  .test-studytabbibg .popbox .boxtext p {
+    margin: 0;
+    width: 20px;
+    height: 20px;
+    padding: 0 0px;
+    right: 22px;
+    top: 6px;
+  }
+  .test-studytabbibg .popbox .boxtext i {
+    padding: 5px 5px;
+    font-size: 10px;
+  }
+  .test-studytabbibg .popbox .boxtext {
+    padding: 30px 0px 0;
+    margin-bottom: 15px;
+    min-height: 95px;
+  }
+  .test-studytabbibg .popbox .boxtext i.fa.fa-pause {
+    font-size: 9px;
+    padding: 4px 0px;
+  }
+  .test-studytabbibg .popbox .boxtext i.fa.fa-close {
+    font-size: 13px;
+    padding: 2px 0px;
+  }
+  .test-studytabbibg .leftcont .wrapper {
+    max-height: 60px;
+    display: flex;
+    overflow-x: auto;
+  }
+  .test-studytabbibg .leftcont .wrapper::webkit-srollbar {
+    width: 0px;
+  }
+  .test-studytabbibg .leftcont .wrapper .item {
+    width: 124px;
+    height: 48px;
+    line-height: 35px;
+    margin-right: 12px;
+    font-size: 11px;
+    padding: 3px 5px;
+  }
+  .test-studytabbibg .leftcont div#v-pills-tab {
+    border-bottom: 0px;
+  }
+  .test-studytabbibg .grand-page .grandbox {
+    width: auto;
+  }
+  .all-test-page .filtersearch-box label.wrap:after {
+    right: 25px;
+    top: 9px;
+  }
+  .all-test-page .filtersearch-box select.selectbg {
+    font-size: 13px;
+  }
+  .all-test-page .filtersearch-box select.selectbg option {
+    font-size: 12px;
+  }
+  /* Flash card Question and page */
+  .test-studytabbibg .rightcont .flashcard-group {
+    margin-top: 35px;
+  }
+  .test-studytabbibg .rightcont .flash-card-data {
+    padding: 10px 10px;
+  }
+  .test-studytabbibg .rightcont .flash-card-data .card-btn {
+    padding: 14px 0px;
+  }
+  .test-studytabbibg .rightcont .flash-card-data .card-btn img {
+    margin-bottom: 7px;
+  }
+  .test-studytabbibg .rightcont .flash-card-data .card-btn p {
+    font-size: 11px;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .left-text img {
+    margin: 0 0px 0 0;
+    width: 40px;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical {
+    padding: 10px 10px 0px;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .left-text h4 {
+    font-size: 12px;
+    margin-bottom: 2px;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .left-text p {
+    font-size: 12px;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .left-text .pl-0,
+  .px-0 {
+    padding-left: 0px !important;
+  }
+  .test-studytabbibg
+    .rightcont
+    .flashcard-group
+    .preclinical
+    .toggledrop-down
+    .card-header:first-child {
+    font-size: 13px;
+  }
+  .test-studytabbibg
+    .rightcont
+    .flashcard-group
+    .preclinical
+    .toggledrop-down
+    .accordion
+    .card-header.collapsed:before {
+    font-size: 15px;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .right-text a {
+    padding: 4px 5px;
+    font-size: 10px;
+    margin-bottom: 6px;
+    width: auto;
+  }
+  .test-studytabbibg .rightcont .flashcard-group .preclinical .right-text h4 {
+    font-size: 10px;
+  }
+  .test-studytabbibg
+    .rightcont
+    .flashcard-group
+    .preclinical
+    .toggledrop-down
+    .togglegroup {
+    padding: 10px 0px;
+  }
+  .test-studytabbibg
+    .rightcont
+    .flashcard-group
+    .preclinical
+    .toggledrop-down
+    .collapse.show {
+    padding: 10px 10px 20px;
+  }
+  .test-studytabbibg
+    .rightcont
+    .flashcard-group
+    .preclinical
+    .toggledrop-down
+    .togglegroup
+    .anatomy-text
+    h4 {
+    font-size: 13px;
+    margin-bottom: 5px;
+  }
+  .test-studytabbibg
+    .rightcont
+    .flashcard-group
+    .preclinical
+    .toggledrop-down
+    .togglegroup
+    .anatomy-text
+    p {
+    font-size: 10px;
+    margin: -7px 0px;
+  }
+  .test-studytabbibg
+    .rightcont
+    .flashcard-group
+    .preclinical
+    .toggledrop-down
+    .togglegroup
+    .start-review
+    a {
+    font-size: 9px;
+    padding: 4px 5px;
+  }
+  .test-studytabbibg
+    .rightcont
+    .flashcard-group
+    .preclinical
+    .toggledrop-down
+    .togglegroup
+    .anatomy-text
+    .start-review
+    h4 {
+    font-size: 9px;
+  }
+  .test-studytabbibg
+    .rightcont
+    .flashcard-group
+    .preclinical
+    .toggledrop-down
+    .togglegroup
+    .anatomy-text
+    img {
+    width: 40px;
+    height: 40px;
+  }
+  /* .test-studytabbibg .rightcont .alltest-group {
+        padding: 7px 0 10px;
+        min-height: 70px;
+        margin-bottom: 0px;
+        border-radius: 6px;
+    } */
+  .test-studytabbibg .rightcont .alltest-group h4 {
+    font-size: 14px;
+    margin-top: 13px;
+  }
+  .test-studytabbibg .mix-tab-data {
+    margin-top: 20px !important;
+  }
+  .test-studytabbibg .mix-tab-data li.nav-item {
+    width: 23% !important;
+    margin: 0px 0px 0 0;
+    /* border: 1px solid #ccc; */
+    border-radius: 12px;
+  }
+  .test-studytabbibg .mix-tab-data li.nav-item a.nav-link {
+    font-size: 12px !important;
+    padding: 5px 0px !important;
+    letter-spacing: 0 !important;
+    width: auto;
+    font-weight: 400;
+  }
+  .question-answerdata .backbtn a {
+    font-size: 14px;
+  }
+  .question-answerdata .backbtn i {
+    font-size: 15px;
+  }
+  .question-answerdata .card313 p {
+    font-size: 9px;
+  }
+  .question-answerdata img {
+    width: 15px;
+    height: 15px;
+  }
+  .question-answerdata .queans h3 {
+    font-size: 15px;
+    margin-bottom: 13px;
+  }
+  .question-answerdata .queans h2 {
+    font-size: 15px;
+  }
+  .question-answerdata .queans p {
+    font-size: 13px;
+    margin-bottom: 0;
+  }
+  .question-answerdata .queans button.nav-toggle {
+    padding: 6px 0;
+    font-size: 15px;
+  }
+  .question-answerdata .queans .daybtn a {
+    width: 30%;
+    padding: 5px 0;
+    font-size: 12px;
+    margin: 0 8px 0 0px;
+  }
+  .question-answerdata .queans .daybtn a:last-child {
+    margin-right: 0px;
+  }
+  .question-answerdata .queans .daybtn {
+    margin-bottom: -62px;
+  }
+  .question-answerdata {
+    border: none;
+    box-shadow: none;
+  }
+  .test-studytabbibg .custom-module .dropdown-list {
+    padding: 40px 0px 30px;
+  }
+  .test-studytabbibg .custom-module .dropdown-list h3.noque {
+    font-size: 16px;
+  }
+  .test-studytabbibg .custom-module .dropdown-list .selectdiv {
+    min-width: 85px;
+  }
+  .test-studytabbibg .custom-module .dropdown-list .selectdiv select {
+    padding: 0px 12px;
+  }
+  .test-studytabbibg .custom-module .dropdown-list .selectdiv:after {
+    right: 9px;
+    top: 9px;
+    font-size: 15px;
+  }
+  .test-studytabbibg .custom-module .dropdown-list .selectdiv select {
+    height: 33px;
+    font-size: 14px;
+  }
+  .test-studytabbibg .custom-module .dropdown-list {
+    padding: 40px 0px 20px;
+  }
+  .test-studytabbibg .custom-module .difficult-level-tab h3 {
+    font-size: 15px;
+    margin: 19px 0px;
+  }
+  .test-studytabbibg .custom-module .difficult-level-tab .nav-pills .nav-link {
+    font-size: 14px;
+    min-height: 30px;
+  }
+  .test-studytabbibg .rightcont .nav-pills .nav-link {
+    margin: 0 0px 0 0px;
+    padding: 10px 6px;
+  }
+  .test-studytabbibg .custom-module .difficult-level-tab ul.nav.nav-pills {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .test-studytabbibg .custom-module .difficult-level-tab li.nav-item {
+    width: 45%;
+    margin: 0px 29px 0 0px;
+  }
+  .test-studytabbibg
+    .custom-module
+    .difficult-level-tab
+    li.nav-item:last-child {
+    margin-right: 0px;
+  }
+  .test-studytabbibg .custom-module .difficult-level-tab .que-form h4 {
+    padding: 20px 0px 10px;
+    font-size: 16px;
+  }
+  .test-studytabbibg
+    .custom-module
+    .difficult-level-tab
+    .que-form
+    .text-group-field {
+    font-size: 12px;
+    padding: 15px 0px;
+  }
+  .test-studytabbibg
+    .custom-module
+    .difficult-level-tab
+    .que-form
+    .radio-list
+    input {
+    width: 15px;
+    height: 15px;
+  }
+  .test-studytabbibg .custom-module .difficult-level-tab .que-form a.next-btn {
+    font-size: 14px;
+    padding: 7px 0px;
+    margin: 50px 0px 0px;
+  }
+  .test-studytabbibg .custom-module .difficult-level-tab .btn-tabs li {
+    margin: 0 5px 0 0px;
+    width: 90px;
+    padding: 5px 0px;
+  }
+  .test-studytabbibg .custom-module .difficult-level-tab .btn-tabs li a {
+    font-size: 12px;
+  }
+  .test-studytabbibg
+    .custom-module
+    .difficult-level-tab
+    .btn-tabs
+    li:last-child {
+    margin-right: 0px;
+  }
+  .custom-module-tab {
+    margin: 10px 4% 60px;
+  }
+  .custom-module-tab .subject-tabbing .checkuncheckbtn button.checkbtn {
+    padding: 7px 0;
+    font-size: 13px;
+    width: 135px;
+  }
+  .custom-module-tab .subject-tabbing label {
+    font-size: 12px;
+  }
+  .custom-module-tab .subject-tabbing input[type="checkbox"] {
+    width: 14px;
+    height: 14px;
+  }
+  .custom-module-tab .subject-tabbing a.next-btn {
+    font-size: 15px;
+    padding: 8px 0px;
+    margin: 15% 0px 0px;
+    border-radius: 2px;
+  }
+  .custom-module-tab .subject-tabbing .checkuncheckbtn {
+    margin-bottom: 30px;
+  }
+  .custom-module-tab .subject-tabbing .checkbox {
+    padding: 15px 0px;
+  }
+  .custom-module-tab .subject-tabbing h3 {
+    font-size: 17px;
+    margin-bottom: 18px;
+  }
+  .exam-mode {
+    margin: 10px 4% 60px;
+  }
+  .exam-mode .banner-img img {
+    height: auto;
+  }
+  .exam-mode .preference-text h2 {
+    margin: 10px 0px;
+    font-size: 15px;
+  }
+  .exam-mode .Choose-preference {
+    padding: 20px 8px;
+    width: 145px;
+  }
+  .exam-mode .Choose-preference h3 {
+    font-size: 17px;
+    margin-bottom: 15px;
+  }
+  .exam-mode .Choose-preference p {
+    font-size: 8px;
+    line-height: 18px;
+  }
+  .exam-mode a.next-btn {
+    margin-top: 50%;
+    font-size: 15px;
+    padding: 6px 0px;
+  }
+  .module-qbank-page {
+    margin: 10px 4% 20px;
+  }
+  .module-qbank-page .banner-img img {
+    margin: 10px 0 10px;
+    height: auto;
+  }
+  .module-qbank-page .module-para h2 {
+    margin: 0px 0px 15px;
+    font-size: 14px;
+  }
+  .module-qbank-page .module-para p {
+    font-size: 14px;
+  }
+  .module-qbank-page .module-para {
+    padding: 10px 0px 20px;
+  }
+  .module-qbank-page .subject-mode {
+    padding: 22px 0px 0;
+  }
+  .module-qbank-page .subject-mode table.table td {
+    font-size: 14px;
+  }
+  .module-qbank-page .start-quetion {
+    padding: 15px 15px;
+  }
+  .module-qbank-page .start-quetion li {
+    font-size: 13px;
+  }
+  .module-qbank-page .start-quetion li img {
+    width: 30px;
+    margin-right: 15px;
+  }
+  .module-qbank-page .start-quetion h3 {
+    font-size: 12px;
+    margin: 11px 0px 0px;
+  }
+  .module-qbank-page .start-quetion .stbtn a {
+    padding: 6px 0;
+    font-size: 12px;
+  }
+  .module-qbank-page .start-quetion .stbtn {
+    margin: 15px 0px 0;
+  }
+  .module-qbank-page a.delcm {
+    font-size: 13px;
+  }
+  .module-qbank-page .mt-4 {
+    margin-top: 0.5rem !important;
+  }
+  /* PPE KIT */
+  .past-ppr-exam {
+    padding: 20px 0px 20px;
+  }
+  .past-ppr-exam .past-ppr-rightside .rank-section h1 {
+    font-size: 14px;
+    margin-bottom: 9px;
+  }
+  .past-ppr-exam .past-ppr-rightside .rank-section ul li span.for-rating {
+    padding: 4px 12px;
+    font-size: 14px;
+  }
+  .past-ppr-exam
+    .past-ppr-rightside
+    .rank-section
+    ul
+    li
+    span.star-rating
+    i.star-spc.fa.fa-star {
+    padding: 0px 6px 0 0px;
+    font-size: 12px;
+  }
+  .past-ppr-exam .past-ppr-rightside .rank-section ul {
+    margin: 21px 0px;
+  }
+  .past-ppr-exam .past-ppr-rightside .rank-section ul li.lrn-btn {
+    font-size: 12px;
+    padding: 7px 9px;
+    margin: 12px 0px;
+  }
+  .past-ppr-exam .past-ppr-rightside .rank-section ul li {
+    padding: 15px 0px;
+  }
+  .past-ppr-exam .past-ppr-rightside .course-description h2 {
+    font-size: 15px;
+  }
+  .past-ppr-exam .past-ppr-rightside .course-description {
+    margin: 20px 0px 0;
+  }
+  .past-ppr-exam .past-ppr-rightside .course-description p {
+    font-size: 9px;
+  }
+  .past-ppr-exam .past-ppr-leftside li img {
+    width: 30px;
+    height: 30px;
+  }
+  .past-ppr-exam .past-ppr-leftside li span {
+    font-size: 15px;
+    margin-top: 10px;
+  }
+  .past-ppr-exam .past-ppr-leftside li {
+    padding: 17px 0px;
+  }
+  .past-ppr-exam .past-ppr-rightside .course-buy-now a {
+    padding: 8px 8px;
+    font-size: 14px;
+  }
+  .past-ppr-exam .past-ppr-rightside .course-buy-now span.rupees {
+    font-size: 14px;
+  }
+  .past-ppr-exam .past-ppr-leftside li:last-child {
+    margin-right: 0px;
+  }
+  .past-ppr-exam .past-ppr-leftside li {
+    margin-right: 14px;
+    width: 135px;
+  }
+  .past-ppr-exam .subjct-wise-area {
+    padding: 30px 0px;
+  }
+  .past-ppr-exam .subjct-wise-area h1 {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  .past-ppr-exam .subjct-wise-area .subjct-wise-area-group {
+    padding: 10px 10px;
+    margin: 0px 0px 24px;
+  }
+  .past-ppr-exam .subjct-wise-area .subjct-wise-area-group .ewbg {
+    margin: 0 auto 11px;
+  }
+  .past-ppr-exam .subjct-wise-area .subjct-wise-area-group h4 {
+    font-size: 14px;
+    line-height: 15px;
+  }
+  .past-ppr-exam .past-ppr-rightside {
+    margin: 10px 0px;
+  }
+  .past-ppr-exam .past-ppr-rightside select {
+    padding: 8px 20px;
+    font-size: 14px;
+  }
+  .past-ppr-exam .past-ppr-rightside h3 {
+    margin-bottom: 15px;
+    font-size: 18px;
+  }
+  .past-ppr-exam .past-ppr-rightside .anaesthesia-section-year {
+    padding: 15px 10px;
+    margin: 30px 0px;
+  }
+  .past-ppr-exam .past-ppr-rightside .anaesthesia-part img {
+    width: 30px;
+  }
+  .past-ppr-exam .past-ppr-rightside .anaesthesia-part span {
+    font-size: 15px;
+  }
+  .past-ppr-exam .past-ppr-rightside .anaesthesia-part {
+    padding: 0px 0px 15px;
+  }
+  .past-ppr-exam
+    .past-ppr-rightside
+    .anaesthesia-section-year
+    .nav-pills
+    .nav-link {
+    font-size: 14px;
+    margin: 48px 0px 0px;
+    padding: 18px 0;
+  }
+  .past-ppr-exam
+    .past-ppr-rightside
+    .anaesthesia-section-year
+    .nav-pills
+    .nav-link
+    h4 {
+    top: 12px;
+    left: 20%;
+    font-size: 15px;
+  }
+  .past-ppr-exam .past-ppr-rightside .anaesthesia-section-year .video-kit-tab {
+    padding: 15px 0px 0;
+  }
+  .past-ppr-exam
+    .past-ppr-rightside
+    .anaesthesia-section-year
+    .video-kit-tab
+    li {
+    width: 44%;
+    margin-right: 30px;
+  }
+  .past-ppr-exam
+    .past-ppr-rightside
+    .anaesthesia-section-year
+    .video-kit-tab
+    li:last-child {
+    margin-right: 0px;
+  }
+  .past-ppr-exam
+    .past-ppr-rightside
+    .anaesthesia-section-year
+    .video-kit-tab
+    li:after {
+    top: 47px;
+    right: -17px;
+    border-right: 2px solid #ccc;
+    height: 110px;
+  }
+  .anaesthesia-section-year .qus-base img {
+    margin: 0;
+  }
+  .past-ppr-exam
+    .past-ppr-rightside
+    .anaesthesia-section-year
+    .video-kit-tab
+    .tab-content {
+    margin: 40px 0 0;
+  }
+  .past-ppr-exam
+    .past-ppr-rightside
+    .anaesthesia-section-year
+    .video-kit-tab
+    img.anaesthesia-img {
+    width: 35px;
+    margin-bottom: 8px;
+  }
+  .past-ppr-exam .past-ppr-rightside .anaesthesia-section-year button {
+    font-size: 12px;
+  }
+  .past-ppr-exam .past-ppr-rightside .video-kit-tab .qus-base h3 {
+    margin: 0;
+    font-size: 10px;
+    line-height: 27px;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 1;
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+    width: 100%;
+  }
+  .anaesthesia-section-year .qus-base a.buton {
+    font-size: 9px;
+    padding: 4px 6px;
+    background-color: #071952;
+  }
+  .past-ppr-exam
+    .past-ppr-rightside
+    .anaesthesia-section-year
+    .video-kit-tab
+    .qus-base {
+    padding: 0px 0px;
+  }
+  .past-ppr-exam
+    .past-ppr-rightside
+    .anaesthesia-section-year
+    .video-kit-tab
+    i#arrow-anae {
+    margin-left: 0px;
+  }
+  .anaesthesia-section-year .qus-base .btn-sec {
+    margin: 0px -5px;
+  }
+  .anaesthesia-section-year .qus-base .video-icon i {
+    font-size: 30px;
+    color: #1976d2;
+    margin: 0px 0px 0px;
+  }
+  .ppe-question-page {
+    margin: 25px 0px;
+  }
+  .ppe-question-page .ppeque h2 {
+    font-size: 17px;
+    margin-bottom: 13px;
+  }
+  .ppe-question-page .ppeque .qtext h3 {
+    font-size: 15px;
+    margin-top: 6px;
+  }
+  .ppe-question-page .ppeque .qtext li img {
+    width: 20px;
+  }
+  .ppe-question-page .ppeque p {
+    font-size: 12px;
+    line-height: 22px;
+    text-align: justify;
+  }
+  .ppe-question-page .ppeque h5 {
+    font-size: 15px;
+    margin: 25px 0px;
+  }
+  .ppe-question-page .ppeque .question-select h4 {
+    font-size: 12px;
+    padding: 12px 7px !important;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 1;
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+  }
+  .ppe-question-page .ppeque .question-select h4 span {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+    padding-top: 7px;
+  }
+  .ppe-question-page .ppeque .emailid a {
+    font-size: 12px;
+  }
+  .ppe-question-page .btngroup .backbtn {
+    width: 125px;
+    height: 33px;
+    font-size: 14px;
+  }
+  .ppe-question-page .ppeque .qtext {
+    margin: 15px 0px;
+  }
+  .ppe-question-page .correct-wrongans .oneside span {
+    width: 20px;
+    height: 20px;
+    padding: 0 0px;
+    font-size: 12px;
+    margin-right: 9px;
+  }
+  .ppe-question-page .correct-wrongans {
+    font-size: 12px;
+    padding: 10px 10px !important;
+  }
+  .ppe-question-page .green-wrongans {
+    font-size: 12px;
+    padding: 10px 10px !important;
+  }
+  .ppe-question-page .green-wrongans .oneside span {
+    width: 20px;
+    height: 20px;
+    padding: 0 0px;
+    font-size: 12px;
+    margin-right: 9px;
+  }
+  .ppe-question-page .simple-wrongans .oneside span {
+    width: 20px;
+    height: 20px;
+    padding: 0 0px;
+    font-size: 12px;
+    margin-right: 9px;
+  }
+  .ppe-question-page .simple-wrongans {
+    font-size: 12px;
+    padding: 10px 10px !important;
+  }
+  .ppe-question-page .correct-wrongans .twoside span {
+    padding: 2px 0;
+  }
+  .ppe-question-page .green-wrongans .twoside span {
+    padding: 2px 0px;
+  }
+  .ppe-question-page .ppeque .round-progress {
+    padding: 25px 0px;
+  }
+  .ppe-question-page .ppeque .round-progress .text h5 {
+    font-size: 16px;
+    margin-top: -8px !important;
+  }
+  .ppe-question-page .ppeque .round-progress canvas {
+    width: 35px;
+  }
+  .ppe-question-page .explanation .text p {
+    font-size: 12px;
+    padding: 6px 15px;
+    line-height: 20px;
+  }
+  .ppe-question-page .ppeque .emailid {
+    padding-top: 18px;
+  }
+
+  hr {
+    padding: 0 !important;
+  }
+  .test-studytabbibg .all-test-page .tabdatashow .commanGroup {
+    width: 60px !important;
+    height: 60px;
+    padding: 10px 5px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px auto 12px;
+  }
+  .test-studytabbibg .all-test-page .tabdatashow h6 {
+    font-size: 14px;
+  }
+  .test-studytabbibg .all-test-page .tabdatashow .commanGroup h6 {
+    font-size: 13px !important;
+  }
+  .test-studytabbibg .all-test-page .tabdatashow .commanGroup svg {
+    margin-bottom: 12px;
+    width: 16px;
+  }
+  .test-studytabbibg .all-test-page .tabdatashow .commanGroup:last-child {
+    margin-right: 15px !important;
+  }
+  .test-studytabbibg .all-test-page .tabdatashow {
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .test-studytabbibg .all-test-page .filter-search select.form-select {
+    min-height: 40px;
+    margin-bottom: 30px;
+  }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+  .test-studytabbibg .all-test-page .system-wise-q .qbank-group .plybtn {
+    position: initial;
+    top: 0;
+    right: 0;
+    text-align: right;
+  }
+  .test-studytabbibg .all-test-page .system-wise-q .qbank-group .tick-btn {
+    text-align: right;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .exam-mode .Choose-preference p {
+    font-size: 12px;
+    line-height: 26px;
+  }
+  .exam-mode .Choose-preference {
+    width: 212px;
+  }
+}
+
+@media only screen and (min-width: 360px) and (max-width: 767px) {
+  .test-studytabbibg .all-test-page li.nav-item a.nav-link {
+    min-height: auto;
+  }
+  .test-studytabbibg .all-test-page li.nav-item img.active-white {
+    display: block;
+    margin: 0 20px;
+  }
+  .past-ppr-exam .past-ppr-leftside li {
+    width: 154px;
+  }
+}
+
+@media only screen and (min-width: 414px) and (max-width: 567px) {
+  .past-ppr-exam .past-ppr-leftside li {
+    width: 182px;
+  }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 413px) {
+  .past-ppr-exam .past-ppr-leftside li {
+    width: 163px;
+  }
+}

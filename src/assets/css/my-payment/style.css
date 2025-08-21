@@ -1,0 +1,265 @@
+/* Begin: My Payment Page Css */
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+a:focus,
+a:hover {
+    text-decoration: none !important;
+}
+
+.my-payment .foundation-live {
+    margin: 40px 0px 40px;
+    padding: 0px 40px;
+}
+
+.my-payment .foundation-live img {
+    width: 86px;
+}
+
+.my-payment .foundation-live h2 {
+    font-size: 16px;
+    color: #212121;
+    line-height: 10px;
+    font-weight: 600;
+}
+
+.my-payment .foundation-live h3 {
+    font-size: 16px;
+    color: #212121;
+    font-weight: 400;
+    margin-bottom: 6px;
+}
+
+.my-payment .foundation-live h4 {
+    font-size: 16px;
+    color: #212121;
+    font-weight: 400;
+    margin-bottom: 6px;
+}
+
+.my-payment .foundation-live h5 {
+    font-size: 16px;
+    color: #0096FF;
+    font-weight: 400;
+}
+
+.my-payment .foundation-live span.side-text {
+    color: #212121;
+    font-weight: 600;
+    margin-left: 6px;
+}
+
+.my-payment .foundation-live span.side-text2 {
+    color: #0096FF;
+    font-weight: 600;
+    margin-left: 6px;
+}
+
+.my-payment .foundation-live .found-table {
+    margin: 30px 0px 0px;
+}
+
+.my-payment .foundation-live .found-table .table td {
+    color: #212121;
+    padding: 6px 10px;
+    border-top: 0px;
+}
+
+.my-payment .foundation-live .found-table .table th.right-text,
+td.right-text {
+    text-align: right;
+}
+
+.my-payment .foundation-live .found-table .table td span.text-weight {
+    font-weight: 500;
+}
+
+.my-payment .foundation-live .found-table .table th span.text-weight {
+    font-weight: 500;
+}
+
+.my-payment .foundation-live .found-table .table td span.text-weight2 {
+    font-weight: 500;
+    color: #D32F2F;
+}
+
+.my-payment .foundation-live button.btn.pay-btn {
+    color: #fff;
+    background: #0096ff;
+    display: block;
+    width: 100%;
+    border-radius: 4px;
+}
+
+
+/* Begin: Foundation popup Css */
+
+.foundation-popup .popup-bg {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(188, 240, 249, 1) 100%);
+}
+
+.foundation-popup .popup-bg ul {
+    display: flex;
+    align-items: center;
+    margin: 0px;
+}
+
+.foundation-popup .popup-bg ul li img {
+    width: 70px;
+}
+
+.foundation-popup .popup-bg ul li {
+    display: inline-block;
+    font-size: 13px;
+    margin-right: 28px;
+}
+
+.foundation-popup .popup-bg ul li:last-child {
+    margin-right: 0px;
+}
+
+.foundation-popup .popup-bg ul li a.paynw-btn {
+    background: #0096FF;
+    color: #fff;
+    font-size: 13px;
+    padding: 2px 10px;
+    border-radius: 4px;
+}
+
+.foundation-popup .popup-bg li span.btm-fnt {
+    display: block;
+}
+
+/* Begin: Partner Web Request Payment Page Css */
+
+.req-payment {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.req-payment .pay-section ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.req-payment .pay-section ul li {
+    display: inline-block;
+    text-align: center;
+    font-size: 16px;
+    color: #212121;
+    padding: 30px 0px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    width: 240px;
+}
+
+.req-payment .pay-section ul li:hover {
+    box-shadow: rgba(0, 150, 255, 0.16) 0px 1px 4px;
+}
+
+.req-payment .pay-section ul li img {
+    width: 26px;
+}
+
+.req-payment .pay-section span.block-text {
+    display: block;
+    margin: 10px 0px;
+}
+
+.req-payment .pay-section button.btn.req-payment {
+    background: none;
+    border: solid 1px #0096FF !important;
+    color: #0096FF !important;
+    font-size: 14px;
+    padding: 10px 0px;
+    width: 100%;
+    margin: 30px 0px 0px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px !important;
+}
+
+.req-payment .pay-section button.btn.continues {
+    background: #0096FF !important;
+    color: #fff !important;
+    font-size: 14px;
+    padding: 10px 0px;
+    width: 100%;
+    margin: 50% 0px 30px;
+}
+
+
+/* Begin: Partner Web Request Payment Modal Css */
+
+.success_modal .pop-sec {
+    text-align: center;
+}
+
+.success_modal .pop-sec img {
+    width: 100px;
+}
+
+.success_modal .pop-sec h3 {
+    font-size: 16px;
+    margin: 30px 0px;
+    color: #212121;
+}
+
+.success_modal .pop-sec p {
+    font-size: 16px;
+    color: #212121;
+    text-align: justify;
+}
+
+.success_modal .pop-sec span.text-blue {
+    color: #0096ff !important;
+    font-weight: 500;
+}
+
+.success_modal .pop-sec span.text-black {
+    color: #212121 !important;
+    font-weight: 500;
+}
+
+.logoset {
+    padding: 11px 0;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 8px;
+}
+
+.logoset img {
+    max-width: 100%;
+    width: 50px !important;
+}
+
+.my-payment .foundation-live {
+    margin: 40px 0px 40px;
+    padding: 20px 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.my-payment .foundation-live button.btn.pay-btn {
+    color: #fff;
+    background: #0096ff;
+    display: block;
+    border-radius: 10px;
+    padding: 15px 0px;
+    margin: 20px 0 0;
+}
+
+.my-payment .foundation-live .found-table {
+    margin: 30px 0px 0px;
+}
+
+.my-payment .foundation-live h2 {
+    font-size: 15px;
+    line-height: 24px;
+}

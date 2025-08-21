@@ -1,0 +1,930 @@
+.helpsupportBanner {
+  background: #eeeeee99;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  padding: 0px 60px;
+
+  border-radius: 20px;
+  margin: 20px 0px 0px;
+}
+.helpsupportBanner .helpImg {
+  text-align: right;
+  border-radius: 6px;
+}
+.helpsupportBanner .helpImg img {
+  max-width: 100%;
+  width: 300px;
+}
+.helpsupportBanner .helpText {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+.helpText h1 {
+  font-size: 30px;
+  margin: 0px;
+  color: #424242;
+  font-weight: 600;
+}
+.Helpsupport {
+  position: relative;
+  background: #fafafa;
+}
+.supportbtn {
+  padding: 13px 0px;
+  font-size: 18px;
+  width: 100%;
+  text-align: center;
+  border-radius: 6px;
+  margin: auto;
+  background: #eeeeee;
+  float: left;
+  margin-bottom: 10px;
+}
+.supportbtn a {
+  color: #212121;
+  font-size: 16px;
+  font-weight: 400;
+}
+.raisequery {
+  border: 1px solid #3f5395;
+  background: #dee5fd;
+}
+.raisequery a {
+  color: #3f5395;
+  font-weight: 600;
+}
+a.homebg {
+  width: 130px;
+  font-size: 16px !important;
+  padding: 10px 0px !important;
+  margin-bottom: 20px;
+  display: inline-block;
+  font-weight: 700;
+  border: 2px solid;
+  background: transparent;
+  background-color: #3f5395;
+  border-radius: 12px !important;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.QueryForm button {
+  padding: 10px 10px;
+  background: green;
+  color: white;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+/* Begin: Raise Query Css */
+.RaiseQuery {
+  margin: 50px 0px;
+  width: 100%;
+  float: left;
+}
+.ticketPage {
+  margin: 60px 0px 0;
+}
+.RaiseQuery .page-content {
+  margin-top: 95px !important;
+}
+.RaiseQuery a {
+  padding: 4px 2px;
+  border-radius: 100px;
+  color: #3f5395;
+  font-size: 15px;
+  font-weight: 400;
+  display: inline-block;
+  text-align: center;
+}
+.RaiseQuery .tableDateshow tr th {
+  background: #ed633d;
+  color: #fff;
+  font-weight: 400;
+  padding: 12px 10px;
+}
+.RaiseQuery .tableDateshow tr:nth-child(even) {
+  background: #ffac951a;
+}
+.RaiseQuery .tableDateshow tr td {
+  font-size: 14px;
+  color: #424242;
+  border: solid 1px #f5f5f5;
+}
+.bannerPart {
+  border-radius: 10px;
+  padding: 50px 30px;
+  background: rgb(229, 234, 249);
+  background: linear-gradient(
+    184deg,
+    rgba(229, 234, 249, 1) 15%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+}
+
+.bannerPart h1 {
+  font-weight: 600;
+  font-size: 22px;
+  color: #3f5395;
+  margin: 0;
+}
+
+.QueryForm {
+  margin: 35px auto 0;
+}
+.QueryForm .mixData {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.QueryForm p.queryText {
+  color: red;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 15px;
+}
+
+.QueryForm h3 {
+  font-size: 22px;
+  font-weight: 500;
+  margin-bottom: 0px;
+  color: #212121;
+}
+
+.formData {
+  margin: 40px 0px;
+}
+.formData input[type="text"],
+select,
+textarea {
+  padding: 8px 8px 8px 8px;
+  margin: 2px 0px 0px;
+  border-radius: 4px;
+  display: block;
+  border: 1px solid rgb(207, 215, 223);
+  width: 100%;
+  box-shadow: rgba(18, 52, 77, 0.05) 0px 1px 2px 0px inset;
+  font-size: 0.875rem;
+  font-weight: 500;
+  height: 40px;
+}
+.formData input[type="email"],
+select,
+textarea {
+  padding: 8px 8px 8px 8px;
+  margin: 2px 0px 0px;
+  border-radius: 4px;
+  display: block;
+  border: 1px solid rgb(207, 215, 223);
+  width: 100%;
+  box-shadow: rgba(18, 52, 77, 0.05) 0px 1px 2px 0px inset;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.formData input[type="number"] {
+  padding: 8px 8px 8px 8px;
+  margin: 2px 0px 0px;
+  border-radius: 4px;
+  display: block;
+  border: 1px solid rgb(207, 215, 223);
+  width: 100%;
+  box-shadow: rgba(18, 52, 77, 0.05) 0px 1px 2px 0px inset;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.formData input.subbtn {
+  cursor: pointer;
+  width: 125px;
+  font-size: 16px;
+  font-weight: 600;
+  background: #3f5395;
+  border: 0;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  border-radius: 8px;
+  padding: 9px 18px 12px;
+}
+.formData .uploadGroup {
+  border: 1px solid #eee;
+  padding: 10px 15px;
+  border-radius: 10px;
+  margin-bottom: 0px !important;
+}
+.formData .uploadGroup .upload-area h5 {
+  font-size: 15px;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+.formData .preview-images {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.formData .preview-image img {
+  max-width: 100%;
+  width: 105px;
+  height: 105px;
+  border-radius: 5px;
+  border: 1px solid #eee;
+  padding: 3px;
+}
+
+.formData label {
+  display: inline-block;
+  margin-bottom: 5px;
+  font-weight: 500;
+  color: #212121 !important;
+  font-size: 13px;
+}
+.formData .form-group {
+  position: relative;
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.QueryForm .jFcTqa {
+  position: relative;
+  margin-bottom: 0px;
+}
+.QueryForm .vWkMY {
+  border-radius: 4px;
+  background-color: rgb(247, 249, 250);
+  border: 1px dashed rgb(172, 182, 190);
+  text-align: center;
+  padding: 10px 10px;
+  cursor: pointer;
+}
+.QueryForm .fdNbsI {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 5px 40px;
+  opacity: 1;
+  visibility: visible;
+  animation: 0.3s ease 0s 1 normal none running cjBQci;
+  position: absolute;
+  background-color: rgb(245, 247, 249);
+  inset: 0px;
+  overflow: hidden;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: rgb(18, 52, 71);
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+.QueryForm .hGleSM {
+  margin: 0px;
+  font-size: 0.83em;
+}
+.QueryForm .guFFjc {
+  margin: 0.5em 0px;
+  font-size: 0.75rem;
+}
+
+.jFcTqa .kdxgKq img {
+  width: 200px;
+  height: 110px;
+}
+.ticketBoxFull {
+  width: 768px;
+  margin: 0 auto;
+}
+.ticketBox {
+  background: #fafafa;
+  padding: 40px 40px;
+  border-radius: 12px;
+}
+.ticketPage p {
+  font-size: 18px;
+  color: #212121;
+  font-weight: 500;
+}
+.ticketPage h4 {
+  font-size: 16px;
+  color: #616161;
+  font-weight: 400;
+  line-height: 24px;
+  padding: 10px 0px;
+}
+.ticketPage .reciept-id h2 {
+  font-size: 28px;
+  color: #212121;
+  font-weight: 500;
+  margin: 20px 0px;
+}
+.ticketPage .reciept-id h2 span {
+  color: #54b434;
+  font-weight: 700;
+}
+.ticketPage .reciept-id button {
+  background: #3f5395 !important;
+  padding: 10px 16px;
+  color: #fff;
+  height: auto;
+  font-size: 16px;
+  margin-top: 20px !important;
+  font-weight: 500;
+}
+.ticketPage .reciept-id button:hover {
+  color: #fff !important;
+}
+.RaiseQuery table {
+  margin-top: 20px;
+}
+
+.tableDateshow button {
+  background: #54b434;
+  color: #fff;
+  padding: 2px 12px;
+  text-align: center;
+  margin-left: 10px;
+  border-radius: 7px;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: sans-serif !important;
+}
+.pagination {
+  justify-content: center;
+}
+.pagination button {
+  margin: 4px;
+  padding: 3px 8px;
+  border-radius: 5px;
+  background: #757575;
+  color: white;
+  font-weight: 500;
+}
+.pagination button:disabled {
+  background-color: #bdbdbd;
+  cursor: not-allowed;
+}
+.pagination button.active {
+  background: #3f5395;
+}
+.ViewModel .modal-dialog {
+  margin-top: 0% !important;
+  max-width: 768px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ViewModel .modal-content {
+  margin-top: 30px;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin-bottom: 0px;
+  border: 1px solid #cccccc59;
+  font-size: 15px;
+  line-height: 25px;
+  background: #fff;
+}
+.ViewModel .modal-header {
+  border-bottom: 0px;
+  padding: 10px 0px;
+}
+.ViewModel .modal-dialog button.btn-close {
+  float: right;
+  padding: 0px !important;
+  margin: -7px 0px 0px !important;
+  opacity: 1;
+}
+.ViewModel .modal-content .content {
+  margin: 30px 0px 30px;
+  padding: 0;
+}
+
+.ViewModel .msger {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-between;
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 0 15px 15px -5px rgba(0, 0, 0, 0.2);
+}
+
+.ViewModel .msger-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: var(--border);
+  background: #eee;
+  color: #666;
+}
+
+.ViewModel .msger-chat {
+  overflow-y: scroll;
+  padding: 10px;
+  height: 400px;
+}
+.ViewModel .msger-chat::-webkit-scrollbar {
+  width: 6px;
+}
+.ViewModel .msger-chat::-webkit-scrollbar-track {
+  background: #ddd;
+}
+.ViewModel .msger-chat::-webkit-scrollbar-thumb {
+  background: #bdbdbd;
+}
+.ViewModel .msg {
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 35px;
+}
+.ViewModel .fileUploadData1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.staticdata {
+  float: right;
+}
+.ViewModel .msg:last-of-type {
+  margin: 0;
+}
+.ViewModel .msg-img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 45px;
+  background-image: url(https://d2enu63wt1sf3u.cloudfront.net/react_emed_web/login_logo.png);
+}
+.ViewModel .msg-bubble {
+  padding: 10px 10px;
+  border-radius: 15px;
+  background: #f5f5f5;
+  border: 1px solid #cccccc57;
+  width: 46%;
+}
+.ViewModel .msg-text {
+  font-size: 14px;
+}
+.ViewModel .msg-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px;
+}
+.ViewModel .msg-info-name {
+  margin-right: 10px;
+  font-weight: bold;
+}
+.ViewModel .msg-info-time {
+  font-size: 0.85em;
+}
+
+.ViewModel .left-msg .msg-bubble {
+  border-bottom-left-radius: 0;
+}
+
+.ViewModel .right-msg {
+  flex-direction: row-reverse;
+}
+
+.ViewModel .right-msg .msg-img {
+  margin: 0 0 0 10px;
+}
+
+.ViewModel .msger-inputarea {
+  display: flex;
+  padding: 20px 10px;
+  background: #f5f5f5;
+  margin-top: 20px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.browseData1 {
+  border: 1px solid #ccc;
+  padding: 4px 7px;
+  border-radius: 5px;
+  background: #fff;
+  margin-right: 2px;
+}
+.fileUploadData1 input {
+  border: 1px solid #ccc;
+  padding: 7px 10px;
+  border-radius: 5px;
+  background: #fff !important;
+}
+.msger-inputarea button {
+  background: #3f5395;
+  padding: 6px 0px;
+  color: #fff;
+  font-size: 14px;
+  border-radius: 5px;
+  margin-left: 10px;
+  width: 60px;
+}
+.ViewModel .msger-input {
+  flex: 1;
+  background: #fafafa;
+}
+.ViewModel .msger-send-btn {
+  margin-left: 25px;
+  background: rgb(0, 196, 65);
+  color: #fff;
+  font-weight: 500;
+  cursor: pointer;
+  height: 45px;
+  width: 100px;
+  text-align: center;
+  font-size: 16px;
+}
+.ViewModel .msger-send-btn:hover {
+  background: rgb(0, 180, 50);
+}
+
+.ViewModel .msger-chat {
+  background-color: #fcfcfe;
+  background-image: url("");
+}
+.ViewModel .description {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.msg-bubble img {
+  margin-right: 28px !important;
+  border: 1px solid #eee;
+  border-radius: 6px;
+}
+.modal-dialog .modal-header {
+  border: 0 !important;
+}
+p.whatsAppData {
+  padding: 4px 0;
+  background-color: #3f5395;
+  border-radius: 5px;
+  width: 70%;
+  margin-right: 5px;
+  text-align: center;
+  color: #fff;
+  margin-top: 4px;
+  font-size: 15px;
+  margin-bottom: 0;
+}
+
+/* End: Raise Query Css */
+
+/* Media Query */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .helpsupportBanner .helpImg img {
+    width: 200px;
+  }
+  .helpText h1 {
+    font-size: 25px;
+  }
+  .ViewModel .modal-dialog {
+    max-width: 930px !important;
+  }
+  .imageZoombg .modal-dialog {
+    max-width: 800px !important;
+    margin-top: 0px !important;
+  }
+  p.whatsAppData {
+    font-size: 12px;
+  }
+  a.homebg {
+    display: none !important;
+  }
+  .bannerPart {
+    display: none;
+  }
+  .RaiseQuery {
+    margin: 18px 0px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .RaiseQuery {
+    margin: 25px 0px;
+  }
+  .bannerPart {
+    display: none;
+  }
+  .helpsupportBanner .helpImg img {
+    width: 140px;
+  }
+  .helpText h1 {
+    font-size: 23px;
+  }
+
+  .accordion.listingAc .collapse.show {
+    background: none;
+  }
+  .helpsupportBanner {
+    padding: 25px 40px;
+  }
+  .group-set .groupset-child {
+    font-size: 12px;
+  }
+  a.homebg {
+    display: none !important;
+  }
+  .ViewModel .modal-dialog {
+    max-width: 700px !important;
+    margin-top: 0px !important;
+  }
+  .RaiseQuery table {
+    width: 100% !important;
+    overflow-x: scroll;
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 0px;
+  }
+  .RaiseQuery table th {
+    font-size: 13px;
+    padding: 10px 10px !important;
+    min-width: 100px;
+  }
+  .RaiseQuery table td {
+    font-size: 13px;
+    padding: 10px 10px !important;
+    min-width: 100px;
+  }
+  .QueryForm h3 {
+    font-size: 20px;
+  }
+  .QueryForm button {
+    padding: 5px 5px !important;
+    border-radius: 5px;
+    font-size: 11px;
+  }
+  .ViewModel .msger-chat {
+    height: 295px;
+  }
+  .imageZoombg .modal-dialog {
+    max-width: 700px !important;
+    margin-top: 0px !important;
+  }
+  .formData .uploadGroup {
+    font-size: 14px;
+  }
+  p.whatsAppData {
+    font-size: 12px;
+  }
+  .QueryForm p.queryText {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .QueryForm {
+    margin: 15px auto 0;
+  }
+  .preview-image {
+    width: 110px !important;
+    margin-right: 7px !important;
+  }
+  .formData .preview-image img {
+    width: 90px;
+    height: 65px;
+  }
+  .RaiseQuery {
+    margin: 20px 0 0;
+  }
+  .bannerPart {
+    display: none;
+  }
+  a.homebg {
+    display: none !important;
+  }
+  .formData {
+    margin: 40px 0px 20px;
+  }
+  .QueryForm h3 {
+    font-size: 15px;
+  }
+  .QueryForm button {
+    padding: 5px 5px !important;
+    font-size: 11px;
+    border-radius: 5px;
+  }
+  .formData input.subbtn {
+    padding: 6px 0px 6px;
+    margin: 15px 0px 0;
+    width: 75px;
+    font-size: 13px;
+    border-radius: 5px;
+  }
+  .formData input[type="number"] {
+    font-size: 12px;
+  }
+  .group-set {
+    scrollbar-width: none !important;
+  }
+  .helpsupportBanner {
+    padding: 10px 10px;
+  }
+  .helpsupportBanner .helpImg {
+    background: none;
+  }
+  .helpsupportBanner .helpImg img {
+    width: 100px;
+  }
+  .helpText h1 {
+    font-size: 18px;
+  }
+  .Helpsupport .commanColor {
+    display: none !important;
+  }
+
+  .group-set .groupset-child {
+    font-size: 12px !important;
+  }
+  .RaiseQuery table {
+    width: 100% !important;
+    overflow-x: scroll;
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 0px;
+  }
+  .RaiseQuery table td,
+  th {
+    border: 1px solid #dddddd;
+    text-align: center !important;
+    padding: 6px 6px !important;
+    font-size: 12px !important;
+    min-width: 110px;
+  }
+  .supportbtn {
+    padding: 10px 0px;
+    font-size: 15px;
+    width: 70%;
+    border-radius: 6px;
+    margin: auto;
+    float: none;
+    margin-bottom: 10px;
+  }
+  .supportbtn a {
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .formData .form-group {
+    margin-bottom: 8px;
+  }
+  .jFcTqa .kdxgKq img {
+    width: 150px;
+    height: 85px;
+  }
+  .tableDateshow button {
+    padding: 3px 5px;
+    font-size: 12px;
+  }
+  .modal-dialog .modal-header {
+    font-size: 11px;
+  }
+  .ViewModel .description {
+    font-size: 12px;
+    line-height: 19px;
+    text-transform: capitalize;
+  }
+  .msg-bubble img {
+    margin-right: 18px !important;
+    height: auto;
+  }
+  .ViewModel .msger-chat {
+    width: 100%;
+    height: 250px;
+    padding: 15px 10px;
+  }
+  .ViewModel .msg {
+    align-items: flex-start;
+    margin-bottom: 10px;
+  }
+  .ViewModel .msger-inputarea {
+    display: block;
+    width: 100%;
+  }
+  .msger-inputarea button {
+    padding: 2px 0px;
+    font-size: 11px;
+  }
+  .browseData1 {
+    margin-bottom: 12px;
+    width: 100%;
+  }
+  .browseData1 input {
+    padding: 2px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+  }
+  .fileUploadData1 input {
+    padding: 2px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+  }
+  .ViewModel .modal-dialog {
+    max-width: 100%;
+    margin-top: 0px !important;
+  }
+  .ViewModel .msg-text {
+    font-size: 11px;
+  }
+  .ViewModel .msg-bubble {
+    padding: 3px 10px;
+    border-radius: 10px;
+    width: 85%;
+  }
+  .ViewModel .msg-info {
+    margin-bottom: 0;
+    font-size: 11px;
+  }
+  .ViewModel .msg-img {
+    width: 14%;
+    height: 32px;
+    background-size: 30px;
+  }
+  .formData .uploadGroup input#fileInput {
+    width: 100% !important;
+    font-size: 13px;
+  }
+  .fileUploadData1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .ViewModel .msg:last-of-type {
+    width: 100%;
+  }
+  .ViewModel .left-msg .msg-bubble {
+    width: 100%;
+  }
+  .formData input[type="email"],
+  select,
+  textarea {
+    font-size: 12px;
+  }
+  p.whatsAppData {
+    font-size: 12px;
+  }
+  .QueryForm .mixData {
+    display: block;
+    position: relative;
+  }
+  .QueryForm .mixData button {
+    position: absolute;
+    right: 0px;
+    top: 60px;
+  }
+  .QueryForm p.queryText {
+    font-size: 13px;
+    line-height: 21px;
+    text-align: justify;
+    margin-bottom: 10px;
+  }
+  input.deviceInfo {
+    height: 60px;
+  }
+  .ticketBoxFull {
+    width: 100%;
+    margin: 10% 0px;
+  }
+  .ticketBox {
+    padding: 20px 20px;
+  }
+  .ticketPage h4 {
+    padding: 0px 0px;
+    font-size: 14px;
+  }
+  .ticketPage .reciept-id h2 {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 359px) {
+  .publish-receiptid .need-help li {
+    width: 130px !important;
+  }
+  .publish-receiptid .need-help li a {
+    font-size: 9px !important;
+  }
+  .ticketPage .reciept-id button {
+    font-size: 12px;
+  }
+  .QueryForm h3 {
+    font-size: 12px;
+  }
+  .QueryForm button {
+    font-size: 10px;
+  }
+  .tableDateshow button {
+    padding: 3px 5px;
+    font-size: 11px;
+  }
+
+  .ViewModel .description {
+    font-size: 12px;
+  }
+}

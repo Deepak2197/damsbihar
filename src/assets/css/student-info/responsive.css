@@ -1,0 +1,304 @@
+@media only screen and (min-width: 1300px) and (max-width: 1400px) {
+  .Csr .banner-part img {
+    height: 260px;
+    padding: 6px;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  .csrBanner {
+    padding: 35px 35px;
+  }
+  .Csr .banner-part img {
+    height: 220px;
+    padding: 0;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .Student-info .imgSec img {
+    width: 50%;
+  }
+  .Student-info .imgSec {
+    padding: 20px 20px;
+  }
+  .generatedRecipt img {
+    width: 50%;
+  }
+  .csrBanner {
+    padding: 35px 35px;
+  }
+  .Csr .banner-part img {
+    height: 220px;
+    padding: 0;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .Student-info .imgSec img {
+    width: 50%;
+  }
+  .Student-info .imgSec {
+    padding: 20px 20px;
+  }
+  .generatedRecipt img {
+    width: 50%;
+  }
+  .Student-info .info-text h1 {
+    font-size: 17px !important;
+  }
+  .Student-info .info-text h4 {
+    font-size: 18px !important;
+    margin-bottom: 12px !important;
+  }
+
+  .Student-info .info-text p {
+    font-size: 14px !important;
+  }
+  .dams-img .left-erp-generated h2 {
+    font-size: 19px !important;
+  }
+  .Student-info .dams-img p {
+    width: 100% !important;
+    line-height: 27px !important;
+    text-align: justify !important;
+    font-size: 14px !important;
+  }
+  .outer-heading-part .left-heading h1 {
+    font-size: 20px !important;
+  }
+  .tban-img {
+    background: none !important;
+  }
+  .banner-part img {
+    height: 190px !important;
+  }
+  .right-cont {
+    padding: 10px 20px !important;
+  }
+  .banner-part h4 {
+    font-size: 16px !important;
+    margin-bottom: 6px !important;
+  }
+  .outer-heading-part {
+    padding: 35px 0 0px !important;
+  }
+  .center-wrapper .conten-csr {
+    padding: 0 10px !important;
+  }
+  .center-wrapper .conten-csr h3 {
+    font-size: 18px !important;
+    margin-bottom: 6px !important;
+  }
+  .contact-us-page-data .conten-csr p {
+    text-align: justify !important;
+    font-size: 13px !important;
+    line-height: 23px !important;
+  }
+  img.csr-policy {
+    margin-top: 34px !important;
+  }
+  span.errorpage {
+    font-size: 14px !important;
+    line-height: 24px !important;
+  }
+  .table-section .table {
+    width: 100% !important;
+  }
+
+  .table-section th {
+    font-size: 15px !important;
+  }
+  .table-section a.linknbg {
+    font-size: 13px !important;
+    width: 135px !important;
+    padding: 5px 0 !important;
+  }
+  .get-touch img {
+    width: 125px !important;
+  }
+  .csrBanner {
+    padding: 35px 20px;
+  }
+  .Csr .banner-part img {
+    height: 135px !important;
+    padding: 0;
+  }
+  .csrBanner .textdefine {
+    margin-top: 0;
+  }
+  .Csr .banner-part p {
+    font-size: 13px;
+    line-height: 24px;
+    text-align: justify;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .Student-info .imgSec img {
+    width: 50%;
+  }
+  .Student-info .imgSec h3 {
+    font-size: 16px;
+  }
+  .Student-info .imgSec {
+    padding: 20px 10px;
+  }
+  .generatedRecipt img {
+    width: 100%;
+  }
+  .Student-info .info-text h1 {
+    font-size: 16px;
+  }
+  .Student-info .dams-img .left-erp-generated h2 {
+    margin-bottom: 0 !important;
+  }
+  .Student-info .info-text p {
+    font-size: 13px !important;
+    line-height: 24px !important;
+  }
+  .Student-info .info-text h4 {
+    font-size: 14px !important;
+    margin-bottom: 12px !important;
+  }
+  .left-erp-generated h2 {
+    font-size: 16px !important;
+  }
+  .Student-info .dams-img {
+    padding: 22px 15px 50px !important;
+  }
+  .Student-info .dams-img p {
+    width: 100% !important;
+    line-height: 25px !important;
+    text-align: justify !important;
+    font-size: 13px !important;
+  }
+  .Student-info .dams-img .carousel-indicators li {
+    width: 10px !important;
+    height: 10px !important;
+  }
+  .Student-info .dams-img .carousel-indicators .active {
+    width: 10px !important;
+    height: 10px !important;
+  }
+  .Student-info .dams-img .left-erp-generated {
+    height: 152px !important;
+  }
+  .banner-part img {
+    height: 140px !important;
+  }
+  .tban-img {
+    padding: 0px !important;
+  }
+  .banner-part h4 {
+    font-size: 15px !important;
+    margin-bottom: 7px !important;
+  }
+  .banner-part p {
+    font-size: 13px !important;
+    text-align: justify !important;
+    line-height: 25px !important;
+  }
+  .outer-heading-part {
+    padding: 35px 0 0px !important;
+  }
+  .outer-heading-part .left-heading h1 {
+    font-size: 18px !important;
+  }
+  .center-wrapper .conten-csr {
+    padding: 0px 0px !important;
+  }
+  .center-wrapper .conten-csr h3 {
+    font-size: 14px !important;
+  }
+  .contact-us-page-data .conten-csr p {
+    font-size: 12px !important;
+    line-height: 22px !important;
+  }
+  .Csr .contact-us-page-data .conten-csr h3 {
+    font-size: 14px !important;
+  }
+  .contact-us-page-data .conten-csr span {
+    font-size: 12px !important;
+  }
+  .Csr .center-wrapper .st {
+    text-align: center;
+  }
+  img.csr-policy {
+    width: 170px !important;
+  }
+  .contact-us-page-data {
+    margin-bottom: 50px !important;
+  }
+  .csr-policy img {
+    margin-bottom: 20px !important;
+  }
+  span.errorpage {
+    font-size: 12px !important;
+    line-height: 28px;
+  }
+
+  .table-section th {
+    min-width: 65px !important;
+    font-size: 12px !important;
+  }
+  .table-section a.linknbg {
+    padding: 7px 0 !important;
+    width: 130px !important;
+    font-size: 12px !important;
+  }
+  .get-touch img {
+    width: 115px !important;
+  }
+  .table-section .table {
+    width: 100% !important;
+  }
+
+  .csrBanner {
+    padding: 5px 10px;
+  }
+  .csrBanner .textdefine {
+    margin-top: 10px;
+  }
+  .Csr .csrBg {
+    background: #ffffff47;
+    text-align: center;
+    border-radius: 0;
+    margin-top: 15px;
+  }
+  .Csr .banner-part img {
+    max-width: 100%;
+    height: 180px !important;
+    padding: 0;
+  }
+}
+.Csr .center-wrapperNew {
+  padding: 24px 12px;
+}
+
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+  .center-wrapper .st {
+    text-align: center !important;
+  }
+  img.csr-policy {
+    max-width: 100% !important;
+    width: 340px !important;
+  }
+  .right-cont {
+    padding: 12px 20px;
+  }
+}
+
+@media only screen and (min-width: 568px) and (max-width: 639px) {
+  .banner-part img {
+    height: 182px !important;
+  }
+  .center-wrapper .st {
+    text-align: center !important;
+  }
+  img.csr-policy {
+    max-width: 100% !important;
+    width: 340px !important;
+  }
+  .right-cont {
+    padding: 12px 20px !important;
+  }
+}

@@ -1,0 +1,738 @@
+@media only screen and (max-width: 1330px) and (max-width: 1440px) {
+    .breadcrumb-row ul {
+        margin: 15px 0 8px;
+    }
+    .circleprocess li {
+        margin: 0 48px 0 0;
+    }
+    .circleprocess li:after {
+        width: 53px;
+    }
+    .multiform-step-page #progressbar li:after {
+        width: 78%;
+        left: -39%;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width:1329px) {
+    .circleprocess li {
+        margin: 0 32px 0 0;
+    }
+    .circleprocess li:after {
+        width: 37px;
+    }
+    .detailBg .groupstudent {
+        padding: 12px 0px;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width:1199px) {
+    .join-afliate-banner img {
+        width: 100px;
+        margin-top: 8px;
+    }
+    .circleprocess li {
+        margin: 0 28px 0 0;
+        width: 80px;
+        height: 80px;
+        font-size: 10px;
+    }
+    .circleprocess li:after {
+        width: 33px;
+        bottom: 37px;
+        left: 78px;
+    }
+    .prenext-area {
+        padding: 32px 0px;
+    }
+    .detailBg .groupstudent img {
+        width: 60px;
+    }
+    .form-detail {
+        margin: 30px 5%;
+    }
+    .bank-detail-area .form-outline .form-control {
+        min-height: 45px !important;
+    }
+    .bank-detail-area .form-outline .form-control~.form-label {
+        font-size: 12px;
+    }
+    .bank-detail-area .form-outline img {
+        width: 18px;
+    }
+    .bank-detail-area {
+        padding: 15px 0px;
+        margin: 0 0%;
+    }
+    .form-detail-section {
+        border: 0px;
+    }
+    .upload-check-img {
+        margin: 35px 10%;
+    }
+    .form-detail-section .upload-section .upload__btn p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .multiform-step-page #progressbar li:after {
+        left: -35%;
+        width: 70%;
+    }
+    .multiform-step-page .fs-title {
+        font-size: 16px;
+    }
+    .upload-check-img .upload-check {
+        padding: 20px 15px;
+        border: 1px dashed #ccc;
+        border-radius: 4px;
+    }
+    #msform input,
+    #msform textarea {
+        font-size: 12px;
+    }
+    .input-group>.form-control {
+        min-height: 25px !important;
+        height: 25px !important;
+    }
+    .upload-check-img h3 {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .multiform-step-page #progressbar li {
+        font-size: 11px;
+    }
+    .upload-Img {
+        width: 450px;
+    }
+    .multiform-step-page #msform fieldset {
+        padding: 35px 25px;
+    }
+    .form-detail-section .upload-section h2.titlebg {
+        margin-bottom: 19px;
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 812px) {
+    .circleprocess li {
+        margin: 0 13px 0 0;
+        width: 70px;
+        height: 70px;
+        font-size: 10px;
+        padding: 21px 0px;
+    }
+    .circleprocess li:after {
+        width: 19px;
+        bottom: 31px;
+        left: 68px;
+    }
+    .detailBg .groupstudent img {
+        width: 75px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width:991px) {
+    .join-afliate-banner {
+        padding: 25px 23px;
+        margin: 30px 0px 0px;
+    }
+    .circleprocess li {
+        margin: 0 16px 0 0;
+        width: 60px;
+        height: 60px;
+        font-size: 9px;
+        padding: 15px 0px !important;
+    }
+    .circleprocess li:after {
+        width: 20px;
+        bottom: 26px;
+        left: 59px;
+    }
+    .detailBg .groupstudent img {
+        width: 60px;
+    }
+    .prenext-area .prenext-btn a {
+        width: 125px;
+        font-size: 15px;
+    }
+    .detailBg .groupstudent a span {
+        font-size: 11px;
+    }
+    .join-afliate-banner .join-text h1 {
+        font-size: 17px;
+    }
+    .join-afliate-banner img {
+        width: 77px;
+        margin-top: 8px;
+    }
+    .join-afliate-banner .join-text h1:after {
+        width: 216px;
+        top: 35px;
+    }
+    .join-afliate-banner {
+        padding: 15px 23px;
+    }
+    .fetch-area .form-outline .form-control {
+        width: 100%;
+    }
+    .fetch-area select.form-control:not([size]):not([multiple]) {
+        font-size: 13px;
+        min-height: 50px !important
+    }
+    .fetch-area .form-outline .form-control~.form-label {
+        font-size: 13px;
+    }
+    .fetch-area .form-outline .form-control {
+        min-height: 50px !important;
+    }
+    .fetch-area .form-outline img {
+        width: 12px;
+    }
+    .fetch-area .form-group img {
+        top: 15px;
+        right: 27px;
+        width: 14px;
+    }
+    .join-program {
+        text-align: center;
+        padding: 27px 0px;
+    }
+    .detailBg {
+        padding: 21px 0px;
+        margin: 0 13%;
+    }
+    .form-detail {
+        margin: 30px 0%;
+    }
+    .bank-detail-area {
+        padding: 15px 0px;
+        margin: 0 0%;
+    }
+    .form-detail-section {
+        border: 0px;
+    }
+    .form-detail-section .upload-section .upload__btn p {
+        font-size: 13px;
+    }
+    .multiform-step-page #progressbar li:after {
+        width: 61%;
+        left: -31%;
+    }
+    .multiform-step-page #progressbar li {
+        font-size: 9px;
+    }
+    .multiform-step-page #msform fieldset {
+        padding: 30px 15px;
+    }
+    .upload-check-img {
+        margin: 50px 5%;
+    }
+    .upload-check-img h3 {
+        font-size: 15px;
+        margin-bottom: 18px;
+    }
+    #msform input,
+    #msform textarea {
+        font-size: 13px;
+    }
+    .input-group>.form-control {
+        min-height: 25px !important;
+        height: 25px !important;
+    }
+    .multiform-step-page .fs-title {
+        font-size: 14px;
+    }
+    .upload-check-img .upload-check {
+        padding: 20px 10px;
+    }
+    .bank-detail-area .form-outline .form-control {
+        min-height: 45px !important;
+    }
+    .bank-detail-area .form-outline .form-control~.form-label {
+        top: 12px;
+        font-size: 14px;
+    }
+    .detailBg h4 {
+        margin: 62px 0px 0px;
+    }
+    .form-detail .form-outline .form-control {
+        min-height: 45px !important;
+    }
+    .form-detail-section .upload-section h2.titlebg {
+        margin-bottom: 17px;
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .breadcrumb-row {
+        padding: 50px 0px 0px;
+    }
+    .join-afliate-banner .join-text h1 {
+        font-size: 14px;
+    }
+    .join-afliate-banner .join-text h1:after {
+        width: 170px;
+    }
+    .join-afliate-banner img {
+        width: 35px;
+        margin-top: 0;
+    }
+    .circleprocess {
+        display: none;
+    }
+    .detailBg {
+        padding: 0 0px 0px;
+        margin: 0px;
+        margin-top: 25px !important;
+    }
+    .detailBg h4 {
+        font-size: 14px;
+        text-align: center;
+        margin: 38px 0px 0px;
+    }
+    .detailBg .groupstudent {
+        padding: 10px 0px;
+        margin: 0 0 20px;
+    }
+    .detailBg .groupstudent img {
+        width: 35px;
+    }
+    .prenext-area {
+        margin: 0px;
+        border: 0px;
+    }
+    .upload-Img {
+        width: 100%;
+        border-radius: 5px;
+        padding: 0px 8px;
+    }
+    .upload-Img .rounded-pill {
+        width: 100%;
+    }
+    .uploadtext-btn .upbtn a {
+        font-size: 13px;
+        padding: 6px 0px;
+        width: 125px;
+    }
+    .form-section {
+        border: 0px;
+    }
+    .fetch-area {
+        padding: 30px 0px;
+        margin: 0;
+    }
+    .fetch-area .form-outline .form-control {
+        min-height: 45px !important;
+        width: 230px;
+    }
+    .fetch-area .form-outline .form-control~.form-label {
+        font-size: 13px;
+    }
+    .fetch-area .form-outline img {
+        top: 16px;
+        width: 11px;
+    }
+    .fetch-area select.form-control:not([size]):not([multiple]) {
+        min-height: 45px !important;
+        font-size: 13px;
+    }
+    .fetch-area .form-outline.mb-4 {
+        margin-bottom: 14px !important;
+    }
+    .fetch-google-text a {
+        width: 180px;
+        font-size: 15px;
+    }
+    .fetch-google-text {
+        padding: 35px 0px 0px;
+    }
+    .upload-check-img {
+        margin: 20px 0%;
+    }
+    .upload-check-img h3 {
+        margin-bottom: 25px;
+        margin-top: 20px;
+        font-size: 15px;
+    }
+    .upload-btn .upbtn a {
+        padding: 5px 0px;
+        width: 100%;
+        font-size: 17px;
+        margin: 0 auto;
+    }
+    .join-afliate-banner .join-text h1:after {
+        width: 162px;
+        top: 25px;
+    }
+    .join-program h3 {
+        font-size: 17px;
+        margin-bottom: 8px;
+    }
+    .join-program p {
+        font-size: 12px;
+    }
+    .join-program {
+        text-align: center;
+        padding: 25px 0px 25px;
+    }
+    .detailBg .groupstudent a span {
+        font-size: 9px;
+        margin-top: 10px;
+    }
+    .form-detail .form-outline .form-control {
+        min-height: 35px !important;
+    }
+    .form-detail .form-outline .form-control~.form-label {
+        font-size: 12px;
+    }
+    .form-detail i {
+        top: 13px;
+        right: 28px;
+        font-size: 15px;
+    }
+    .prenext-area {
+        padding: 5px 0px 50px;
+    }
+    .form-detail-section {
+        border: 0px;
+    }
+    .prenext-area .prenext-btn a {
+        width: 125px;
+        font-size: 15px;
+    }
+    .upload-check .input-group {
+        width: 100%;
+        padding: 5px 12px;
+    }
+    .upload-btn {
+        padding: 0 0px 15px;
+    }
+    .form-detail-section .upload-section .upload__btn {
+        padding: 5px 5px;
+    }
+    .form-detail-section .upload-section .upload__btn p {
+        font-size: 13px;
+    }
+    .join-afliate-banner {
+        padding: 20px 8px;
+    }
+    form-detail-section .bank-detail-area h3 {
+        margin-bottom: 20px;
+        font-size: 16px;
+    }
+    .form-detail-section .upload-section .upload__btn-box {
+        margin-bottom: 0;
+    }
+    .multiform-step-page #progressbar li {
+        width: 23%;
+        font-size: 10px;
+        margin-bottom: 23px;
+    }
+    .multiform-step-page #progressbar li:after {
+        width: 58%;
+        left: -28%;
+    }
+    .multiform-step-page #msform fieldset {
+        margin: 30px 0px;
+        padding: 20px 0;
+        box-shadow: 0 0 0 0px;
+    }
+    .multiform-step-page .fs-title {
+        font-size: 13px;
+        margin-bottom: 0px;
+    }
+    .multiform-step-page #msform .action-button {
+        margin: 50px 0px 30px;
+        width: 48%;
+        font-size: 13px;
+    }
+    .detailBg input {
+        min-height: 38px !important;
+    }
+    .multiform-step-page #msform .action-button-previous {
+        margin: 50px 0px 30px;
+        width: 48%;
+        font-size: 13px;
+    }
+    #msform input,
+    #msform textarea {
+        font-size: 12px;
+    }
+    .upload-Img .rounded-pill {
+        margin: 0px !important;
+    }
+    .upload-Img .input-group>.form-control {
+        min-height: 25px !important;
+        height: 25px !important;
+    }
+    .upload-Img {
+        padding: 15px 15px!important;
+    }
+    .form-detail-section .upload-section h2.titlebg {
+        margin-bottom: 17px;
+        font-size: 13px;
+    }
+    .form-detail-section .bank-detail-area h3 {
+        margin-bottom: 15px;
+        font-size: 15px;
+    }
+    .form-detail-section .upload-section .upload__btn-box {
+        padding: 0px 0px 0;
+    }
+    .upload-btn .upbtn a {
+        width: 50%;
+        font-size: 15px;
+    }
+}
+
+@media only screen and (min-width: 640px) and (max-width:767px) {
+    .form-detail {
+        margin: 30px 0;
+    }
+    .bank-detail-area {
+        padding: 15px 0px;
+        margin: 0 0;
+    }
+    .bank-detail-area .form-outline .form-control {
+        min-height: 45px !important;
+    }
+    .bank-detail-area .form-outline .form-control~.form-label {
+        font-size: 13px;
+    }
+    .bank-detail-area .form-outline img {
+        width: 18px;
+    }
+    .join-afliate-banner img {
+        width: 55px;
+    }
+    .multiform-step-page #progressbar li {
+        width: 12%;
+        font-size: 10px;
+        margin-bottom: 22px;
+    }
+    .detailBg h4 {
+        font-size: 18px;
+        text-align: center;
+        margin: 24% 0px 0px;
+    }
+    .upload-check-img .upload-check {
+        padding: 20px 7px;
+        border-radius: 15px;
+    }
+    .input-group>.form-control {
+        min-height: 25px !important;
+        height: 25px !important;
+    }
+    .multiform-step-page #progressbar li:after {
+        width: 52%;
+        left: -26%;
+    }
+    .upload-btn .upbtn a {
+        width: 50%;
+    }
+    .form-detail-section .upload-section .upload__btn-box {
+        padding: 0px 0px 0;
+    }
+    .multiform-step-page #msform .action-button-previous {
+        width: 35%;
+    }
+    .multiform-step-page #msform .action-button {
+        width: 35%;
+    }
+    .form-detail-section .upload-section .img-bg {
+        background-size: 50%;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .upload-check-img .upload-check {
+        padding: 20px 6px;
+    }
+    .bank-detail-area {
+        padding: 15px 0px;
+        margin: 0;
+    }
+    .bank-detail-area .form-outline .form-control {
+        min-height: 35px !important;
+    }
+    .bank-detail-area .form-outline .form-control~.form-label {
+        top: 9px;
+        font-size: 13px;
+        color: #757575;
+        padding: 0 40px 10px;
+    }
+    .bank-detail-area .form-outline img {
+        width: 17px;
+    }
+}
+
+@media only screen and (max-width: 414px) {
+    .prenext-area .prenext-btn {
+        width: 100%;
+    }
+    .prenext-area .prenext-btn a {
+        width: 160px;
+    }
+    .form-detail {
+        margin: 30px 0px;
+    }
+    .fetch-area .form-outline.mb-4 {
+        margin-bottom: 14px !important;
+    }
+    .upload-check-img .upload-check {
+        padding: 20px 6px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .join-afliate-banner {
+        padding: 15px 7px;
+    }
+    .join-afliate-banner .join-text h1 {
+        font-size: 14px;
+    }
+    .prenext-area .prenext-btn {
+        width: 100%;
+    }
+    .prenext-area .prenext-btn a {
+        width: 115px;
+        font-size: 15px;
+        text-align: center;
+    }
+    .form-detail {
+        margin: 30px 0px;
+    }
+    .fetch-area .form-outline.mb-4 {
+        margin-bottom: 14px !important;
+    }
+    .upload-check-img .upload-check {
+        padding: 20px 6px;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .join-afliate-banner {
+        padding: 15px 3px;
+    }
+    .join-afliate-banner .join-text h1 {
+        font-size: 13px;
+    }
+    .join-program {
+        text-align: left;
+        padding: 28px 0px;
+    }
+    .prenext-area {
+        text-align: center;
+    }
+    .prenext-area .prenext-btn {
+        width: 100%;
+    }
+    .prenext-area .prenext-btn a {
+        width: 129px;
+        font-size: 17px;
+        text-align: center;
+    }
+    .form-detail {
+        margin: 30px 0px;
+    }
+    .fetch-area .form-outline .form-control {
+        min-height: 45px !important;
+        width: 220px;
+    }
+    .fetch-area .form-outline.mb-4 {
+        margin-bottom: 14px !important;
+    }
+    .upload-check .input-group {
+        width: 100%;
+        padding: 0px 12px;
+    }
+    .upload-check-img .upload-check {
+        padding: 20px 6px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .join-afliate-banner {
+        padding: 15px 3px;
+    }
+    .join-afliate-banner .join-text h1 {
+        font-size: 12px;
+    }
+    .join-afliate-banner .join-text h1:after {
+        width: 140px;
+        top: 40px;
+    }
+    .join-program {
+        text-align: left;
+        padding: 28px 0px;
+    }
+    .prenext-area {
+        text-align: center;
+        box-shadow: 0 0 0 0px;
+    }
+    .prenext-area .prenext-btn {
+        width: 100%;
+    }
+    .prenext-area .prenext-btn a {
+        width: 129px;
+        font-size: 17px;
+        text-align: center;
+    }
+    .form-detail {
+        margin: 30px 0px;
+    }
+    .upload-Img {
+        width: 100%;
+    }
+    .upload-Img .rounded-pill {
+        width: 100%;
+    }
+    .uploadtext-btn .upbtn a {
+        padding: 8px 0px;
+        font-size: 18px;
+    }
+    .fetch-area .form-outline .form-control {
+        min-height: 45px !important;
+        width: 220px;
+    }
+    .fetch-area .form-outline.mb-4 {
+        margin-bottom: 14px !important;
+    }
+    .upload-check-img .upload-check {
+        padding: 20px 6px;
+    }
+    .upload-btn .upbtn a {
+        padding: 8px 0px;
+        width: 100%;
+        font-size: 17px;
+        margin: 0 auto;
+    }
+    .bank-detail-area {
+        margin: 0px;
+    }
+    .bank-detail {
+        padding: 30px 0px 0;
+    }
+    .bank-detail h3 {
+        font-size: 22px;
+        text-align: left;
+    }
+    .upload-section {
+        margin: 5px 0 20px;
+        text-align: left;
+    }
+    .upload-section .upload-imga img {
+        min-height: auto;
+    }
+    .upload-section .upload-imga {
+        margin-top: 22px;
+    }
+    .upload-section .upload-imga h3 {
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    .upload-btn {
+        padding: 0px 0px 60px;
+    }
+}

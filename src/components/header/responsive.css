@@ -1,0 +1,667 @@
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+  .neetPGnext .earnFree {
+    float: left;
+    width: 100%;
+  }
+  .mrginsetDiv {
+    margin-top: 4% !important;
+  }
+  .homeletestNews .article-img h4 {
+    font-size: 14px !important;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  /** NEET PG NEXT Page **/
+  .neetPGnext {
+    width: 100%;
+  }
+  .neetPGnext .earnFree {
+    float: left;
+    width: 100%;
+  }
+  .mrginsetDiv {
+    margin-top: 4% !important;
+  }
+  .doctorLodge .videHeightbg {
+    height: 340px !important;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  /** NEET PG NEXT Page **/
+  .neetPGnext {
+    width: 100%;
+  }
+  .neetPGnext .mediMart .mediPart:nth-child(6n) {
+    margin-right: 0px;
+  }
+
+  /** NEET PG TEST **/
+  .neetTest {
+    width: 100%;
+  }
+  .neetTest .setSection .setPart {
+    width: 48%;
+    padding: 16px;
+  }
+
+  .neetPGnext .bannerSec .rytSide button.btn {
+    width: 340px !important;
+  }
+
+  .neetPGnext .earnFree {
+    float: left;
+    width: 100%;
+  }
+  .mrginsetDiv {
+    margin-top: 6% !important;
+  }
+  .video_area .slideText .textSec h4 {
+    font-size: 14px !important;
+  }
+  .video_area .slideText {
+    padding: 10px 10px !important;
+  }
+  .neetPGnext .earnFree .textSec h2 {
+    font-size: 20px !important;
+    text-align: center;
+  }
+  .neetPGnext .earnFree .setSideSec .butnNewsec button.btn {
+    width: 130px !important;
+  }
+
+  .video-row-scroll {
+    flex-wrap: nowrap !important;
+    overflow-x: auto;
+    white-space: nowrap;
+    display: flex;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none; /* Firefox */
+  }
+  .video-row-scroll::-webkit-scrollbar {
+    display: none; /* Safari & Chrome */
+  }
+  .video-col-scroll {
+    flex: 0 0 auto;
+    min-width: 36%;
+    max-width: 36%;
+  }
+
+  .News-row-scroll {
+    flex-wrap: nowrap !important;
+    overflow-x: auto;
+    white-space: nowrap;
+    display: flex;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none; /* Firefox */
+  }
+  .News-row-scroll::-webkit-scrollbar {
+    display: none; /* Safari & Chrome */
+  }
+  .News-col-scroll {
+    flex: 0 0 auto;
+    min-width: 42%;
+    max-width: 42%;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /** NEET PG NEXT Page **/
+  .neetPGnext {
+    width: 100%;
+  }
+  .earnFree .textSec {
+    padding: 0px 20px;
+  }
+  .neetPGnext .mediMart .mediPart:nth-child(5n) {
+    margin-right: 0px;
+  }
+  .neetPGnext .technicalSupport {
+    width: 100%;
+  }
+  /** NEET PG TEST **/
+  .neetTest {
+    width: 100%;
+  }
+  .neetTest .setSection .setPart {
+    width: 48%;
+    padding: 16px;
+  }
+  .neetTest .setSection .textSec h2 {
+    font-size: 16px;
+  }
+  .neetTest .setSection .textSec h3 {
+    font-size: 16px;
+  }
+  .neetTest .setSection .picSec {
+    width: 50px;
+    height: 50px;
+    margin-right: 16px;
+  }
+  .neetTest .setSection .textSec p {
+    font-size: 12px;
+  }
+
+  .setFlextHeding h2 {
+    font-size: 18px !important;
+  }
+  .staticcontainer h2.newcolrHeading {
+    font-size: 18px !important;
+  }
+  .neetPGnext .earnFree {
+    float: left;
+  }
+  .mrginsetDiv {
+    margin-top: 10% !important;
+  }
+  .neetPGnext .bannerSec .rytSide {
+    text-align: right !important;
+    border-radius: 0px 24px 24px 0px !important;
+  }
+  .neetPGnext .bannerSec {
+    border-radius: 24px !important;
+  }
+  .neetPGnext .bannerSec .rytSide button.btn {
+    width: 300px !important;
+    padding: 10px 0px;
+    border-radius: 24px !important;
+  }
+  .neetPGnext .testSec {
+    gap: 60px 40px !important;
+  }
+  .neetPGnext .mediMart .setDivReadMore {
+    gap: 30px 24px !important;
+  }
+  .video_area .slideText {
+    padding: 10px 4px !important;
+  }
+  .video_area .slideText .textSec h4 {
+    font-size: 12px !important;
+  }
+  .doctorLodge .videHeightbg {
+    height: 230px !important;
+  }
+  .neetPGnext .earnFree .setSideSec .butnNewsec button.btn {
+    width: 120px !important;
+  }
+  .neetPGnext .earnFree .textSec h2 {
+    font-size: 20px !important;
+  }
+  .video-row-scroll {
+    flex-wrap: nowrap !important;
+    overflow-x: auto;
+    white-space: nowrap;
+    display: flex;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none; /* Firefox */
+  }
+  .video-row-scroll::-webkit-scrollbar {
+    display: none; /* Safari & Chrome */
+  }
+  .video-col-scroll {
+    flex: 0 0 auto;
+    min-width: 40%;
+    max-width: 40%;
+  }
+  .News-row-scroll {
+    flex-wrap: nowrap !important;
+    overflow-x: auto;
+    white-space: nowrap;
+    display: flex;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none; /* Firefox */
+  }
+  .News-row-scroll::-webkit-scrollbar {
+    display: none; /* Safari & Chrome */
+  }
+  .News-col-scroll {
+    flex: 0 0 auto;
+    min-width: 46%;
+    max-width: 46%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  /** PESONAL DETAIL Page **/
+  .personalDetail {
+    width: 100%;
+  }
+  .personalDetail .reqDetails h1 {
+    font-size: 18px;
+  }
+  .reqDetails .fieldPart .form-group label {
+    font-size: 14px;
+  }
+  .personalDetail .reqDetails button.btn.btn-primary {
+    width: 130px;
+    font-size: 14px;
+  }
+  .reqDetails .fieldPart {
+    margin: 10% 0px 0px;
+  }
+
+  /** REGISTRATION SUCCESS Page **/
+  .regisSeuccess .conGraute h1 {
+    font-size: 18px;
+    text-align: center;
+  }
+  .regisSeuccess .conGraute h2 {
+    font-size: 14px;
+  }
+  .regisSeuccess .conGraute button.btn.btn-primary {
+    width: 130px;
+    font-size: 14px;
+  }
+
+  /** COURSE Page **/
+  .coUrse .yourCourse {
+    padding: 0px 10px;
+  }
+  .coUrse .yourCourse .inputSection [type="radio"]:checked + label,
+  .coUrse .yourCourse .inputSection [type="radio"]:not(:checked) + label {
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  /** NEET PG NEXT Page **/
+  .neetPGnext {
+    width: 100%;
+  }
+  /* .neetPGnext .bannerSec {
+    padding: 12px 12px !important;
+  } */
+  .neetPGnext .bannerSec .leftSide p {
+    font-size: 13px !important;
+  }
+  .neetPGnext .bannerSec .rytSide button.btn {
+    /* width: 130px !important;
+    margin-left: 0px !important;
+    border-radius: 12px !important; */
+    font-size: 11px !important;
+  }
+  .neetPGnext .bannerSec .rytSide button.btn span {
+    font-size: 11px !important;
+  }
+  .neetPGnext .bannerSec .rytSide p {
+    font-size: 13px !important;
+    text-align: center;
+  }
+  .neetPGnext .bannerSec .rytSide span button.btn {
+    margin: 4px auto 0px;
+    width: 100px;
+  }
+  .neetPGnext .testSec .tabpart .tab {
+    width: 64px !important;
+    height: 64px !important;
+  }
+  .neetPGnext .testSec .tabpart .tab img {
+    width: 26px;
+    height: 26px;
+  }
+  .neetPGnext .testSec .tabpart p {
+    font-size: 15px;
+  }
+  .neetPGnext .qUizofDay {
+    padding: 20px 20px !important;
+  }
+  .neetPGnext .qUizofDay .quiZpart h1 {
+    font-size: 16px;
+  }
+  .neetPGnext .qUizofDay .quiZpart h2 {
+    font-size: 16px;
+  }
+  .neetPGnext .qUizofDay .textPart p {
+    font-size: 14px !important;
+    text-align: center;
+    margin: 20px 0px 20px !important;
+  }
+  .neetPGnext .mediMart {
+    padding: 20px 20px !important;
+    margin: 40px 0px !important;
+  }
+  .neetPGnext .testSec {
+    margin: 40px 0px !important;
+    gap: 30px 16px !important;
+  }
+  .setFlextHeding h2 {
+    font-size: 18px !important;
+  }
+  .staticcontainer h2.newcolrHeading {
+    font-size: 18px !important;
+  }
+  .setFlextHeding a {
+    font-size: 16px;
+  }
+  .neetPGnext .mediMart h4 {
+    font-size: 16px;
+  }
+  .neetPGnext .mediMart .mediPart .tab img {
+    width: 26px;
+    height: 26px;
+  }
+  .neetPGnext .mediMart .mediPart .tab {
+    width: 80px !important;
+    height: 80px !important;
+  }
+  .neetPGnext .mediMart .mediPart {
+    width: 80px !important;
+  }
+  .neetPGnext .mediMart .mediPart p {
+    font-size: 14px !important;
+    line-height: 24px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .setFlextHedingNew h2 {
+    font-size: 18px !important;
+  }
+  .neetPGnext .mediMart .setDivReadMore {
+    justify-content: space-between !important;
+    gap: 30px 12px !important;
+  }
+  .doctorLounge h5 {
+    font-size: 16px;
+  }
+  .neetPGnext .podCastSec {
+    margin: 40px 0px !important;
+    padding: 20px 20px !important;
+  }
+  .neetPGnext .earnFree .setSideSec {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 16px 0px !important;
+  }
+  .neetPGnext .earnFree .textSec h2 {
+    font-size: 18px;
+  }
+  .neetPGnext .earnFree .setSideSec .butnNewsec button.btn {
+    margin: 20px 0px 0px;
+  }
+  .neetPGnext .earnFree .setSideSec .textSec {
+    padding-right: 0px !important;
+  }
+  .neetPGnext .newsArtical h5 {
+    font-size: 16px;
+  }
+  .neetPGnext .newsArtical .nobelPrize h2 {
+    font-size: 14px;
+  }
+  .neetPGnext .earnFree {
+    margin: 0px 0px 40px;
+    padding: 20px 20px;
+    /* float: left; */
+    width: 100%;
+    display: inline-block;
+  }
+  .mrginsetDiv {
+    margin-top: 14% !important;
+  }
+  .neetPGnext .technicalSupport p {
+    font-size: 14px !important;
+  }
+  .neetPGnext .technicalSupport img {
+    width: 26px;
+  }
+  .neetPGnext .earnFree .imgSec img {
+    padding: 0px 10px;
+    width: 250px !important;
+    margin: 0 auto;
+    display: block;
+  }
+  .neetPGnext .technicalSupport {
+    width: 100%;
+    padding: 10px 20px !important;
+  }
+  .homeletestNews .newsBoxSet .newsPics img {
+    width: 100%;
+  }
+
+  /** NEET PG TEST **/
+  .neetTest {
+    width: 100%;
+  }
+  .pillSec ul.nav-pills {
+    flex-wrap: initial !important;
+    overflow: auto;
+    white-space: nowrap;
+    padding-bottom: 4px;
+    margin-bottom: 20px;
+  }
+  .pillSec ul.nav-pills::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    background-color: #f5f5f5;
+  }
+  .pillSec ul.nav-pills::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+    background-color: #c1c1c1;
+  }
+  .pillSec ul.nav-pills::-webkit-scrollbar {
+    height: 6px;
+    background-color: #f5f5f5;
+  }
+  .neetTest .setSection .setPart {
+    width: 100%;
+    padding: 16px;
+  }
+  .neetTest .setSection .textSec h2 {
+    font-size: 16px;
+  }
+  .neetTest .setSection .textSec h3 {
+    font-size: 16px;
+  }
+  .neetTest .setSection .picSec {
+    width: 50px;
+    height: 50px;
+    margin-right: 16px;
+  }
+  .neetTest .setSection .textSec p {
+    font-size: 12px;
+  }
+  input.setinputBox {
+    width: 52%;
+    margin-left: 130px;
+  }
+  .numberShow input.form-control {
+    margin-left: 60px;
+  }
+  .setinput .form-control {
+    width: 24% !important;
+  }
+  .validity-info h2 {
+    text-align: start;
+    font-size: 12px !important;
+  }
+
+  .video-row-scroll {
+    flex-wrap: nowrap !important;
+    overflow-x: auto;
+    white-space: nowrap;
+    display: flex;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none; /* Firefox */
+  }
+  .video-row-scroll::-webkit-scrollbar {
+    display: none; /* Safari & Chrome */
+  }
+  .video-col-scroll {
+    flex: 0 0 auto;
+    min-width: 90%;
+    max-width: 90%;
+  }
+
+  .News-row-scroll {
+    flex-wrap: nowrap !important;
+    overflow-x: auto;
+    white-space: nowrap;
+    display: flex;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none; /* Firefox */
+  }
+  .News-row-scroll::-webkit-scrollbar {
+    display: none; /* Safari & Chrome */
+  }
+  .News-col-scroll {
+    flex: 0 0 auto;
+    min-width: 90%;
+    max-width: 90%;
+  }
+}
+
+@media only screen and (min-width: 740px) and (max-width: 767px) {
+  /** NEET PG TEST **/
+  .neetTest .setSection .setPart {
+    width: 48%;
+    padding: 16px;
+  }
+  .neetPGnext .bannerSec .rytSide button.btn {
+    width: 260px !important;
+    font-size: 14px !important;
+  }
+  .neetPGnext .testSec .tabpart .tab {
+    width: 100px !important;
+    height: 80px !important;
+  }
+  .neetPGnext .testSec {
+    gap: 30px 40px !important;
+  }
+  .neetPGnext .mediMart .setDivReadMore {
+    justify-content: flex-start !important;
+    gap: 30px 26px !important;
+  }
+
+  .video-col-scroll {
+    min-width: 44%;
+    max-width: 44%;
+  }
+  .News-col-scroll {
+    min-width: 44%;
+    max-width: 44%;
+  }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 739px) {
+  .neetPGnext .bannerSec .rytSide button.btn {
+    width: 260px !important;
+    font-size: 14px !important;
+  }
+  .neetPGnext .testSec .tabpart .tab {
+    width: 100px !important;
+    height: 80px !important;
+  }
+  .neetPGnext .testSec {
+    gap: 30px 40px !important;
+  }
+  .neetPGnext .mediMart .setDivReadMore {
+    justify-content: flex-start !important;
+    gap: 30px 26px !important;
+  }
+  .video-col-scroll {
+    min-width: 54%;
+    max-width: 54%;
+  }
+  .News-col-scroll {
+    min-width: 54%;
+    max-width: 54%;
+  }
+}
+
+@media only screen and (min-width: 568px) and (max-width: 639px) {
+  .neetPGnext .bannerSec .rytSide button.btn {
+    width: 200px !important;
+    font-size: 14px !important;
+  }
+  .neetPGnext .testSec .tabpart .tab {
+    width: 100px !important;
+    height: 80px !important;
+  }
+  .neetPGnext .testSec {
+    gap: 30px 32px !important;
+  }
+  .neetPGnext .mediMart .setDivReadMore {
+    justify-content: flex-start !important;
+    gap: 30px 14px !important;
+  }
+  .video-col-scroll {
+    min-width: 64%;
+    max-width: 64%;
+  }
+  .News-col-scroll {
+    min-width: 64%;
+    max-width: 64%;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 567px) {
+  .neetPGnext .testSec .tabpart .tab {
+    width: 80px !important;
+    height: 80px !important;
+  }
+  .neetPGnext .bannerSec .rytSide button.btn {
+    width: 180px !important;
+    font-size: 12px !important;
+  }
+  .neetPGnext .testSec {
+    gap: 30px 32px !important;
+  }
+  .neetPGnext .mediMart .setDivReadMore {
+    justify-content: flex-start !important;
+    gap: 30px 18px !important;
+  }
+  .video-col-scroll {
+    min-width: 74%;
+    max-width: 74%;
+  }
+  .News-col-scroll {
+    min-width: 74%;
+    max-width: 74%;
+  }
+}
+
+@media only screen and (min-width: 411px) and (max-width: 479px) {
+  .neetPGnext .bannerSec .rytSide button.btn {
+    width: 160px !important;
+    font-size: 10px !important;
+  }
+
+  .neetPGnext .testSec .tabpart .tab {
+    width: 68px !important;
+    height: 68px !important;
+  }
+  .neetPGnext .testSec {
+    gap: 30px 27px !important;
+  }
+  .neetPGnext .mediMart .setDivReadMore {
+    justify-content: flex-start !important;
+    gap: 30px 37px !important;
+  }
+}
+
+@media only screen and (min-width: 390px) and (max-width: 410px) {
+  .neetPGnext .mediMart .mediPart:nth-child(4n) {
+    margin-right: 0px;
+  }
+
+  .doctorLodge .videHeightbg {
+    height: 480px !important;
+  }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 389px) {
+  .neetPGnext .mediMart .mediPart:nth-child(3n) {
+    margin-right: 0px;
+  }
+}
+
+@media only screen and (min-width: 360px) and (max-width: 374px) {
+  .neetPGnext .mediMart .mediPart:nth-child(3n) {
+    margin-right: 0px;
+  }
+}

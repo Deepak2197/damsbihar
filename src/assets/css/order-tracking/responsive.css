@@ -1,0 +1,223 @@
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+  .order-tracking {
+    margin: 50px 10%;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  .order-tracking {
+    margin: 50px 8%;
+  }
+  ol.progtrckr li.progtrckr-done span {
+    font-size: 14px;
+  }
+  ol.progtrckr li.progtrckr-todo span {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .order-tracking {
+    margin: 50px 2%;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .order-tracking {
+    margin: 50px 2%;
+  }
+  .order-tracking .order-text h3 {
+    font-size: 16px;
+  }
+  .order-tracking .order-text span.price {
+    font-size: 18px;
+  }
+  .order-tracking .order-text span.offer {
+    font-size: 16px;
+  }
+  .order-tracking ol.progtrckr li.progtrckr-done span {
+    font-size: 13px;
+  }
+  .order-tracking ol.progtrckr li.progtrckr-todo span {
+    font-size: 13px;
+  }
+  .order-tracking .track-status h3 {
+    font-size: 16px;
+  }
+  .order-tracking .track-status td.bold {
+    font-size: 15px !important;
+  }
+  .order-tracking .track-status td.size {
+    font-size: 15px;
+  }
+  .order-tracking .track-status td {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .order-tracking {
+    margin: 14px 10px;
+    padding: 0px 0px;
+  }
+  .order-tracking .order-text h3 {
+    font-size: 16px;
+    margin-bottom: 6px;
+  }
+  .order-tracking .order-text p {
+    font-size: 14px;
+    margin-bottom: 6px;
+  }
+  .order-tracking .order-text span.price {
+    font-size: 14px;
+  }
+  .order-tracking .order-text span.offer {
+    font-size: 14px;
+    margin-left: 6px;
+  }
+  .order-tracking .order-text .StatusSet {
+    width: 100%;
+    margin: 6px 16px 0px;
+  }
+  .order-tracking .order-text span.rating {
+    font-size: 14px;
+    margin-left: 6px;
+    margin-top: 7px;
+  }
+  .order-tracking .order-text {
+    margin-left: 0;
+    margin-top: -17px;
+  }
+  .order-tracking .order-book {
+    margin-bottom: 35px;
+  }
+  .order-tracking .order-book img {
+    width: 65px;
+    margin-top: -12px;
+  }
+  .order-tracking .tracking {
+    margin-top: 0px;
+  }
+  .order-tracking .track-status {
+    padding: 20px 20px;
+    margin: 4% 0px;
+  }
+  .order-tracking ol.progtrckr {
+    margin: 0px 0px 50px 20px;
+  }
+  .order-tracking ol.progtrckr li.progtrckr-done:before {
+    height: 12px;
+    width: 12px;
+    top: -5px;
+  }
+  .order-tracking ol.progtrckr li.progtrckr-todo:before {
+    height: 12px;
+    width: 12px;
+    top: -5px;
+  }
+  .order-tracking ol.progtrckr[data-progtrckr-steps="5"] li {
+    width: 15%;
+  }
+  .order-tracking .track-status h3 {
+    font-size: 16px;
+  }
+  .order-tracking .track-status td {
+    font-size: 14px;
+  }
+  .order-tracking .track-status td.size {
+    width: auto;
+    font-size: 14px;
+  }
+  .order-tracking .track-status td.bold {
+    font-size: 14px !important;
+  }
+  .order-tracking .track-status td img {
+    margin-right: 7px;
+    width: 15px;
+  }
+  .order-tracking ol.progtrckr li.progtrckr-done span {
+    left: -19px;
+    top: 25px;
+    line-height: 13px;
+    font-size: 10px;
+  }
+  .order-tracking ol.progtrckr li.progtrckr-todo span {
+    left: -14px;
+    top: 25px;
+    line-height: 14px;
+    font-size: 10px;
+  }
+
+  .order-tracking .orderTrak .timeline .status:before {
+    content: "";
+    width: 20px;
+    height: 20px;
+    background-color: #bdbdbd;
+    border-radius: 25px;
+    border: 1px solid #bdbdbd;
+    position: absolute;
+    top: 0%;
+    left: -11px;
+  }
+  .order-tracking .orderTrak .timeline .status label {
+    font-weight: 400;
+    text-align: center;
+    color: #757575;
+    font-size: 14px;
+    margin: 0px 0px 30px;
+  }
+  .order-tracking .orderTrak .timeline .status {
+    padding: 0px 26px;
+    display: flex;
+    justify-content: flex-start;
+    border-top: none;
+    border-left: 2px solid #bdbdbd;
+    position: relative;
+    transition: all 200ms ease-in;
+  }
+  .order-tracking .orderTrak .timeline li.complete .status {
+    border-top: none;
+    border-left: 2px solid #66dc71;
+  }
+  /* Hide border for the last step in mobile view */
+  .order-tracking .orderTrak .timeline li:last-child .status {
+    border-left: none !important;
+  }
+  .order-tracking .orderTrak .timeline {
+    list-style-type: none;
+    display: block;
+    justify-content: center;
+    padding: 40px 0px 0px;
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+  .order-tracking .order-text {
+    margin-top: 0;
+  }
+  .order-tracking .order-book {
+    margin-bottom: 0;
+  }
+  .order-tracking .order-text p {
+    font-size: 13px;
+  }
+  .order-tracking .order-book img {
+    width: 80px;
+    margin-top: -10px;
+  }
+  .order-tracking .track-status td.size {
+    width: 170px;
+  }
+  .order-tracking ol.progtrckr {
+    margin: 0px 0px 60px 20px;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 390px) {
+  .order-tracking .order-text .StatusSet {
+    width: 100%;
+    margin: 6px 0px 0px;
+    display: block;
+  }
+}

@@ -1,0 +1,648 @@
+@media only screen and (max-width: 1300px) {
+	
+}
+@media only screen and (max-width: 1220px) {
+	
+}
+@media only screen and (max-width: 1200px) {
+
+ /* Final: Result Lost page */
+ .host-banner{
+	height: 259px;
+	}	
+
+}
+@media only screen and (max-width: 1100px) {
+	/* Final: Result Lost page */
+	.lost-area .imgmix-text{
+		margin:0px;
+	}
+	
+}
+@media only screen and (max-width: 1024px) {
+
+	/* Final: Result Lost page */
+	.lost-area .imgmix-text{
+		margin:0px;
+	}
+
+	/* play-challenge-page */
+
+	.play-btn a::after{
+	    left: 81px;
+		top: 76px;
+	}
+
+	/* Live Quiz Quetion Page */
+	.breadcrumb{
+		padding: 10px 20px 0!important;
+	}
+	.progessBar {
+		padding: 0px 0px 30px;
+	}
+	p.descp {
+		font-size: 23px;
+	}
+	section.ranktime {
+    padding: 20px 0px 0 16px;
+	}
+
+	/*----- Begin: Accept Challenge page --------*/
+
+	.quiz_section .time-startedg {
+		margin: 0 45px 0 50px;
+	}
+	
+	
+}
+
+@media only screen and (max-width: 812px) {
+
+	/* Final Result Lost Page */
+	.lost-area .imgmix-text{
+		margin:0px;
+		width: 154px;
+	}
+	.lost-area .imgmix-text p{
+		font-size:17px;
+	}
+	/* play-challenge-page */
+
+	.host-banner {
+		height: 191px;
+	}
+	.host-banner .host-text h1{
+		font-size: 30px;
+	}
+	.host-banner .host-text a.host-btn{
+		    margin: 8px 0px;
+	}
+	.host-banner .host-text{
+		padding:42px 45px;
+	}
+
+	/* Live Quiz Quetion Page */
+	.progress-bar{
+		width:590px !important;
+	}
+	.progress{
+		margin-top:40px
+	}
+
+
+	/*----- Begin: Accept Challenge page --------*/
+
+}
+@media only screen and (max-width: 768px) {
+	/* play-challenge-page */
+
+	.host-banner {
+		height: 191px;
+	}
+	.host-banner .host-text{
+		padding: 32px 45px;
+	}
+	.left-imgBg{
+	width:54%;
+	}
+	.left-imgBg li{
+	font-size:20px;
+	}
+	.left-imgBg li span{
+	font-size: 23px;
+	}
+	.left-imgBg li img {
+		margin-top: -41px;
+		width: 60px;
+	}
+	.rigt-imgBg li img{
+	width: 60px;
+	}
+	.rigt-imgBg li{
+		padding: 0 8px 0 0px;
+		font-size: 20px;
+	}
+	.rigt-imgBg li span{
+	    font-size: 24px;
+	}
+	.starting-timebg h4{
+	font-size:19px;
+	}
+	.starting-timebg h3{
+	    font-size: 23px;
+	}
+	.starting-timebg a{
+		font-size: 16px;
+		padding: 10px 30px;
+	}
+	.left-imgBg li{
+	padding: 0 26px 0 0px;
+	}
+	h2.game-text{
+	    font-size: 28px;
+	}
+	a.expired-timebg{
+		width: 175px;
+		margin: 57px 6% 0px;
+	}
+	
+	.play-btn a{
+	font-size: 20px;
+	}
+	.play-btn a::after {
+		left: 30px;
+		top: 55px;
+		height: 50px;
+		width: 150px;
+	}
+	.ft-prize-img img {
+	    width: 120px;
+	}
+
+	/* Live Quiz Quetion Page */
+	.progessBar {
+		padding: 0 0px 40px;
+	}
+	.progress{
+		margin-top:40px
+	}
+	p.descp {
+		font-size: 19px;
+	}
+	.submitbtn li a{
+		padding: 16px 0px;
+		width: 250px;
+		font-size:20px;
+	}
+
+	/*----- Begin: Accept Challenge page --------*/
+	.quiz_section h2{
+		font-size: 25px;
+		width: 635px;
+	}
+	.quiz_section .time-startedg {
+		margin: 0 215px 0 28px;
+	}
+	.quetionmin-group .total-quetion h3{
+		font-size: 22px;
+	}
+	.quetionmin-group .total-quetion p{
+		font-size: 16px;
+	}
+	.quetionmin-group .play-nowb{
+		width: 170px;
+	}
+	.quetionmin-group .play-nowb a{
+		font-size: 19px;
+	}
+	
+	
+	
+}
+@media only screen and (max-width: 767px) {
+	/* play-challenge-page */
+
+	.host-banner {
+		height: 143px;
+	}
+	.host-banner .host-text{
+		padding: 15px 45px;
+	}
+	.host-banner .host-text h1{
+		font-size:27px;
+	}
+	.rigt-imgBg{
+	float:none;
+	}
+		.left-imgBg {
+		width: 60%;
+	}
+	h2.game-text {
+		font-size: 21px;
+		padding: 20px 0px;
+	}
+	.play-btn a{
+	    padding: 10px 11px;
+	}
+	.play-btn a::after {
+		left: 9px;
+		top: 41px;
+		height: 50px;
+		width: 130px;
+	}
+	.starting-timebg a {
+		font-size: 11px;
+		padding: 0 30px;
+	}
+	a.expired-timebg {
+		width: 128px;
+		margin: 81px 6% 0px;
+	}
+	.right-cont h3{
+	font-size:22px;
+	}
+
+	/* Live Quiz Quetion Page */
+	.player-group .player-center {
+		margin: 40px 0 50px;
+	}
+	.progress-bar {
+		width: 250px!important;
+		height: auto;
+		font-size: 17px;
+	}
+	.quebtn label{
+		font-size:20px;
+	}
+	.optionredio{
+	margin:12px 0px;
+	}
+
+	/*----- Begin: Accept Challenge page --------*/
+	.quiz_section h2{
+		font-size: 19px;
+		width: 463px;
+	}
+	.quiz_section .time-startedg {
+		margin: 0 392px 0 28px;
+	}
+	.quetionmin-group .total-quetion h3{
+		font-size: 22px;
+	}
+	.quetionmin-group .total-quetion p{
+		font-size: 16px;
+	}
+	.quetionmin-group .play-nowb{
+		width: 170px;
+	}
+	.quetionmin-group .play-nowb a{
+		font-size: 19px;
+	}
+	.quiz_section .quetionmin-group {
+		margin: 30px 4% 0px 33px;
+	} 
+
+}
+
+@media only screen and (max-width: 736px) {
+
+	/* Final Result lost paage */
+	.lost-area .imgmix-text{
+		width:115px;
+	}
+	.lost-area .imgmix-text p {
+		font-size: 14px;
+	}
+}
+
+@media only screen and (max-width: 667px) {
+	/* Final Result lost paage */
+	.lost-area .imgmix-text{
+		width:115px;
+	}
+	.lost-area .imgmix-text p {
+		font-size: 14px;
+	}
+}
+@media only screen and (max-width: 414px) {
+
+	/* Final Result loast page*/
+
+	.lost-area .imgmix-text{
+		width: 90px;
+		min-height:133px;
+		margin: 0 10px 0 -9px;
+	}
+	
+	.lost-area h3{
+		font-size:25px;
+		padding:22px 0px;
+	}
+	.imgmix-text img {
+		width:30px;
+	}
+
+	.lost-area .imgmix-text p {
+		font-size: 11px;
+	}
+	.lost-area .imgmix-text h4{
+		padding: 12px 0px 0px;
+		font-size: 20px;
+	}
+	.hurry-area h3{
+		font-size: 22px;
+	}
+	.ranks-area .rp-text {
+		padding: 10px 15px 0px 27px;
+	}
+	.ranks-area .rp-text h4{
+		font-size:18px;
+	}
+	.hurry-area img{
+		width:220px;
+	}
+	.ranks-area .student-rank{
+		padding: 11px 0px 9px;
+		margin:0px;
+	}
+	.ranks-area .student-rank p{
+		padding: 0 4px 0;
+		font-size: 20px;
+	}
+	.ranks-area .student-rank li{
+		font-size: 20px;
+	}
+	.student-rank .withBg li img{
+		margin: -10px 0 0px 4px;
+	}
+	.student-rank .withBg li.cbr{
+		width: 50px;
+		height: 50px;
+	}
+	.ranks-area .number {
+		margin: 10px 0px;
+	}
+
+	/* play-challenge-page */
+
+	.headerBg li{
+		font-size: 20px;
+	}
+	.host-banner {
+		height: 107px;
+	}
+	.host-banner .host-text h1 {
+		font-size: 18px;
+	}
+	.host-banner .host-text a.host-btn{
+		margin: 10px 0px;
+		padding: 10px 20px;
+		font-size: 12px;
+	}
+
+	/* Live Quiz Quetion Page */
+
+
+	/*----- Begin: Accept Challenge page --------*/
+
+}
+@media only screen and (max-width: 375px) {
+
+	/* final result lost page */
+
+	.lost-area .imgmix-text{
+		width: 76px;
+	}
+	
+	.lost-area h3{
+		font-size:25px;
+		padding:22px 0px;
+	}
+	.imgmix-text img {
+		width:30px;
+	}
+	.lost-area .imgmix-text{
+		min-height:150px;
+	}
+	.lost-area .imgmix-text p {
+		font-size: 13px;
+	}
+	.lost-area .imgmix-text h4{
+		padding: 12px 0px 0px;
+		font-size: 20px;
+	}
+	.hurry-area h3{
+		font-size: 22px;
+	}
+	.ranks-area .rp-text {
+		padding: 10px 15px 0px 27px;
+	}
+	.ranks-area .rp-text h4{
+		font-size:17px;
+	}
+	.hurry-area img{
+		width:200px;
+	}
+	.ranks-area .student-rank{
+		padding: 11px 0px 9px;
+		margin:0px;
+	}
+	.ranks-area .student-rank p{
+		padding: 0 4px 0;
+		font-size: 20px;
+	}
+	.ranks-area .student-rank li{
+		font-size: 20px;
+	}
+	.student-rank .withBg li img{
+		margin: -10px 0 0px 4px;
+	}
+	.student-rank .withBg li.cbr{
+		width: 50px;
+		height: 50px;
+	}
+	.ranks-area .number {
+		margin: 10px 0px;
+	}
+
+	/* play-challenge-page */
+
+	.host-banner {
+		height: 93px;
+		}
+	.headerBg{
+		padding: 17px 45px;
+	}
+	.headerBg li{
+		font-size:18px;
+	}
+	.headerBg li img{
+		width:15px;
+	}
+	.host-banner .host-text{
+		padding: 15px 45px;
+	}
+	.host-banner .host-text h1{
+		font-size:15px;
+	}
+	.host-banner .host-text a.host-btn{
+		padding: 10px 20px;
+		font-size: 10px;
+		margin:5px 0px;
+	}
+	.challenge-text{
+		padding:40px 45px;
+	}
+	.challenge-text h2{
+		font-size: 24px;
+	}
+
+	/* Live Quiz Quetion Page */
+	.progessBar p{
+		font-size: 17px;
+	}
+
+	/*----- Begin: Accept Challenge page --------*/
+
+}
+@media only screen and (max-width: 360px) {
+
+	/* play-challenge-page */
+	
+	.upcoming-challenge h2{
+		font-size:15px
+		}
+	.left-imgBg {
+		width: 100%;
+		text-align: center;
+	}
+	.left-cont{
+	    width: 43%;
+	}
+	.left-cont h4{
+	font-size:16px;
+	}
+	.right-cont h3{
+	font-size:18px;
+	}
+	.rigt-imgBg {
+		text-align: center;
+	}
+	.left-borderBg{
+		width:100%;
+	}
+
+	/* Live Quiz Quetion Page */
+	.player-group .player-center {
+		margin: 40px 0 50px;
+	}
+	.quebtn{
+		padding: 10px 20px;
+	}
+	a.rightbtn{
+		font-size:16px;
+		margin: 80px 20px 0px;
+	}
+	.progessBar p{
+		font-size: 14px;
+	}
+
+
+	/*----- Begin: Accept Challenge page --------*/
+
+}
+@media only screen and (max-width: 320px) {
+
+	/* Final Result lost page*/
+
+	.final-result-header{
+		padding: 5px 0px;
+	}
+	
+	.lost-area h3{
+		padding: 30px 0px;
+		font-size:23px;
+	}
+	
+	.lost-area .imgmix-text{
+		width: 72px;
+		min-height:142px;
+		margin: 0px -10px;
+	}
+	.lost-area .imgmix-text h4{
+		padding: 12px 0px 0px;
+		font-size: 19px;
+	}
+	.lost-area .imgmix-text p{
+		font-size:11px;
+	}
+	.imgmix-text img {
+		width:25px;
+	}
+	.hurry-area h3{
+		font-size: 22px;
+		margin-bottom: 35px;
+	}
+	.hurry-area img{
+		width:150px;
+	}
+	.ranks-area h3{
+		font-size:23px;
+		padding:8px 0px;
+	}
+	.ranks-area .rp-text{
+		padding:10px 13px;
+	}
+	.ranks-area .rp-text h4{
+		font-size:15px;
+		font-weight: 500;
+	}
+	.ranks-area .student-rank{
+		padding: 11px 0px 9px;
+		margin:0px;
+	}
+	.ranks-area .student-rank p{
+		padding: 0 4px 0;
+		font-size: 20px;
+	}
+	.ranks-area .student-rank li{
+		font-size: 20px;
+	}
+	.student-rank .withBg li img{
+		margin: -10px 0 0px 4px;
+	}
+	.student-rank .withBg li.cbr{
+		width: 50px;
+		height: 50px;
+	}
+	.ranks-area .number {
+		margin: 10px 0px;
+	}
+
+	/* play-challenge-page */
+
+	.headerBg{
+		padding: 17px 45px;
+	}
+	.headerBg li{
+		font-size:13px;
+	}
+	.headerBg li img{
+		width:13px;
+	}
+	.host-banner {
+		height:81px;
+	}
+	.host-banner .host-text{
+		padding: 15px 45px;
+	}
+	.host-banner .host-text h1{
+		font-size:13px;
+	}
+	.host-banner .host-text a.host-btn{
+		padding: 5px 13px;
+	}
+	.challenge-text{
+		padding:40px 45px;
+	}
+	.challenge-text h2{
+		font-size: 18px;
+	}
+	.challenge-text .challenge-portion p{
+		font-size:21px;
+	}
+
+	/* Live Quiz Quetion Page */
+
+	.quebtn label{
+		font-size:17px;
+	}
+	.progessBar p{
+		font-size:16px;
+	}
+
+
+	/*----- Begin: Accept Challenge page --------*/
+
+}
+

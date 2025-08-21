@@ -1,0 +1,232 @@
+@media only screen and (min-width:1200px) and (max-width:1330px) {
+    .recorded-session {
+       width: 100%;
+    }
+    .recorded-video-course {
+       width: 100%;
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .recorded-session {
+        width: 100%;
+     }
+     .recorded-session .subject .sub-ico img {
+        height: 90px;
+    }
+    .recorded-video-teg .choose-language .inner-text a {
+        padding: 6px 0px;
+        width: 160px;
+        font-size: 13px;
+    }
+    .recorded-video-teg .choose-language .inner-text p {
+        font-size: 14px;
+    }
+
+    .recorded-video-course {
+        width: 100%;
+     }
+    .recorded-video-teg .choose-language {
+        padding: 10px 10px;
+        min-height: 225px;
+    }
+    .recorded-video-teg .choose-language h3 {
+        margin: 0px 0 15px;
+        font-size: 15px;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .recorded-session {
+        width: 100%;
+     }
+     .sub-ico p {
+        font-size: 13px;
+    }
+    .recorded-video-teg {
+        margin: 0;
+        padding: 40px 0px;
+    }
+    .recorded-video-teg .choose-language .inner-text a {
+        padding: 6px 0px;
+        width: 100%;
+        font-size: 12px;
+    }
+    .recorded-video-teg h2.session {
+        font-size: 20px;
+        font-weight: 700;
+        margin-bottom: 20px;
+    }
+    .recorded-video-teg .choose-language h3 {
+        font-size: 14px;
+        margin: 0px 0 15px;
+    }
+    .recorded-video-teg .choose-language {
+        padding: 10px 5px 20px;
+        min-height: 205px;
+        margin-bottom: 20px;
+    }
+    .recorded-video-teg .choose-language .inner-text p {
+        font-size: 11px;
+    }
+
+    .recorded-session .subject h2 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .recorded-video-course {
+        width: 100%;
+     }
+    .recorded-video-course .banner_back h1 {
+        font-size: 18px;
+        margin: 0;
+    }
+    .recorded-video-course .accrodiab_btn .video-text h4 {
+        font-size: 16px;
+    }
+    .recorded-video-course .accrodiab_btn .video-text p {
+        font-size: 13px !important;
+    }
+    .recorded-video-course .accrodiab_btn .icons em {
+        font-size: 12px;
+        width: 28px;
+        height: 28px;
+        padding: 6px;
+    }
+
+    .recorded-session .subject .sub-ico {
+        padding: 10px 10px;
+        margin-bottom: 25px;
+        min-height: 100px;
+    }
+    .recorded-session .subject .sub-ico em {
+        margin-top: 7px;
+        font-size: 16px;
+    }
+    .recorded-video-teg .choose-language .inner-text img {
+        height: 55px;
+    }
+    .recorded-session .subject .sub-ico img {
+        height: 70px;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .recorded-session .banner_back {
+        margin-bottom: 25px;
+    }
+    .recorded-session {
+        width: 100%;
+     }
+    .recorded-video-teg {
+        padding: 40px 0px;
+    }
+    .recorded-video-teg .choose-language {
+        margin-bottom: 20px;
+    }
+    .recorded-video-teg h2.session {
+        font-size: 20px;
+    }
+
+    .recorded-video-course {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .recorded-video-course h2{
+        font-size: 18px;
+    }
+    .recorded-video-course .accordion .card .card-header img {
+        height: 40px;
+        width: 45px;
+        margin-right: 10px;
+    }
+    .recorded-video-course .accordion .card .card-header .card-title {
+        font-size: 11px;
+    }
+    .recorded-video-course .accordion .card .arow em{
+        margin-top: 12px !important;
+    }
+    .recorded-video-course .accordion .card .boxSubmenu img {
+        width: 26px !important;
+        height: 26px !important;
+        margin-right: 9px;
+    }
+    .recorded-video-course .accordion .card .boxSubmenu p{
+        font-size: 11px !important;
+    }
+    .recorded-session .subject .buy_btn a {
+        font-size: 14px;
+        margin-left: 22px;
+    }
+    .recorded-session .subject .sub-ico {
+        padding: 10px 5px;
+        min-height: 90px;
+        font-size: 12px;
+        margin-bottom: 15px;
+    }
+
+    .recorded-session .banner_back img {
+        width: 100%;
+        height: auto;
+    }
+    .recorded-session .banner_back h1 {
+        font-size: 17px;
+        margin-top: 0;
+    }
+    .recorded-session .subject h2 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .recorded-session .subject .sub-ico img {
+        margin-bottom: 10px;
+        height: 60px;
+    }
+    .recorded-session .subject .sub-ico em {
+        font-size: 15px;
+    }
+    .recorded-video-course .banner_back h1 {
+        font-size: 17px;
+    }
+
+    .recorded-video-course .banner_back img {
+        width: 100%;
+        height: 100px;
+        border-radius: 10px;
+    }
+    .recorded-video-course .banner_back h1 {
+        font-size: 13px;
+        margin-top: 0;
+    }
+    .recorded-video-course .topic h3 {
+        font-size: 20px;
+    }
+    .recorded-video-course #main #faq .card p {
+        font-size: 12px;
+    }
+    .recorded-video-course #main #faq .card .card-header .btn-header-link:after {
+        font-size: 15px;
+        margin: -14px -5px;
+    }
+    .recorded-video-course #main #faq .card .card-header .btn-header-link {
+        padding: 10px 7px 10px 0;
+        font-size: 13px;
+    }
+    .recorded-video-course .accrodiab_btn .video-text h4 {
+        font-size: 16px;
+        line-height: 15px;
+    }
+    .recorded-video-course .accrodiab_btn .video-text p {
+        font-size: 12px !important;
+    }
+    .recorded-video-course .accrodiab_btn .record-img {
+        display: block;
+    }
+    .recorded-video-course .accrodiab_btn .record-img img {
+        width: 25px;
+    }
+    .recorded-video-course .accrodiab_btn .icons em {
+        width: 25px;
+        height: 25px;
+        font-size: 11px;
+    }
+}

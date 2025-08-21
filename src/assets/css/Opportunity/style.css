@@ -1,0 +1,489 @@
+.OppOrtunity .opportunityPart .topSecHead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 26px;
+}
+.OppOrtunity .opportunityPart .topSecHead h2 {
+  font-size: 24px;
+  color: #212121;
+  font-weight: 600;
+}
+.OppOrtunity .opportunityPart .topSecHead a {
+  font-size: 16px;
+  color: #ed633d;
+  font-weight: 400;
+}
+.OppOrtunity {
+  margin: 6% 0px 40px;
+}
+.OppOrtunity .Located {
+  margin-bottom: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+.OppOrtunity .Located a {
+  color: #212121;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.OppOrtunity .createBtn button.btn {
+  background: #3f5395;
+  color: #ffffff;
+  margin: 20px 0px;
+  font-size: 16px;
+  width: 120px;
+}
+.OppOrtunity .Located a svg {
+  margin-right: 6px;
+  color: #ed633d;
+}
+.OppOrtunity .opportunityPart {
+  border-radius: 32px;
+  padding: 40px 40px;
+  background: #fafafa;
+}
+.opportunityPart .setBoxWidth {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(302px, 1fr));
+  gap: 30px;
+}
+.opportunityPart .opportunitySec {
+  background: rgb(251, 245, 244);
+  background: linear-gradient(
+    184deg,
+    rgba(251, 245, 244, 1) 32%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  display: flex;
+  flex-direction: column;
+  padding: 20px 20px;
+  border-radius: 20px;
+}
+.opportunityPart .opportunitySec .topPart {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 30px;
+  position: relative;
+}
+.opportunityPart .opportunitySec .topPart .imgpart img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  margin-right: 20px;
+}
+.opportunityPart .opportunitySec .topPart .imgtext h3 {
+  font-size: 16px;
+  color: #212121;
+  font-weight: 500;
+  margin: 0px;
+}
+.opportunityPart .opportunitySec .topPart .imgtext p {
+  font-size: 14px;
+  color: #212121;
+  font-weight: 400;
+  margin: 0px;
+}
+.opportunityPart .opportunitySec .textPart h4 {
+  font-size: 16px;
+}
+.opportunityPart .opportunitySec .textPart p {
+  font-size: 14px;
+  color: #212121;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.opportunityPart .opportunitySec .picPart {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.opportunityPart .opportunitySec .picPart img {
+  width: 48%;
+}
+.opportunityPart .opportunitySec .ulPart {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 0px 0px;
+}
+.opportunityPart .opportunitySec .ulPart .likeSec {
+  display: flex;
+  gap: 20px;
+}
+.opportunityPart .opportunitySec .ulPart .likeSec img {
+  font-size: 20px;
+  width: 18px;
+}
+.opportunityPart .opportunitySec .ulPart .viewSec {
+  display: flex;
+  gap: 6px;
+}
+.opportunityPart .opportunitySec .ulPart .viewSec img {
+  width: 18px;
+}
+
+/*** Opportunity Home Css ***/
+.oppoHead .topSecHead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px 40px 0px;
+}
+.oppoHead .topSecHead h2 {
+  font-size: 24px;
+  color: #212121;
+  font-weight: 600;
+}
+.oppoHead .topSecHead a {
+  font-size: 16px;
+  color: #ed633d;
+  font-weight: 400;
+}
+.OppOrtunityNew {
+  margin: 0% 0px 60px !important;
+}
+.oppoHead .opportunityPartNew {
+  border-radius: 32px;
+  background: #fafafa;
+}
+
+/*** MODAL LOCATION ***/
+
+.locateModal .searchSec {
+  margin: 30px 0px 0px;
+}
+.locateModal .has-search .form-control {
+  padding-left: 2.375rem;
+}
+.locateModal .has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 44px;
+  text-align: center;
+  pointer-events: none;
+  color: #3f5395;
+}
+.locateModal .currantLocate {
+  display: flex;
+  align-items: center;
+}
+.locateModal button.ant-modal-close {
+  display: none;
+}
+.locateModal .currantLocate .iconlocate svg {
+  font-size: 24px;
+  color: #ed633d;
+  margin-right: 12px;
+}
+.locateModal .currantLocate .textLocate h3 {
+  font-size: 16px;
+  color: #ed633d;
+  margin: 0px;
+}
+.locateModal .currantLocate .textLocate p {
+  font-size: 12px;
+  margin: 0px;
+  color: #3f5395;
+}
+
+.locateModal .chooseState {
+  margin: 20px 0px 0px;
+}
+.locateModal .chooseState h4 {
+  font-size: 18px;
+  font-weight: 500;
+  color: #212121;
+}
+.locateModal .chooseState h5 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #3f5395;
+}
+.locateModal .ant-modal-footer {
+  display: none;
+}
+.locateModal .chooseState ul {
+  margin-top: 20px;
+}
+.locateModal .chooseState ul li {
+  font-size: 16px;
+  color: #757575;
+  border-bottom: solid 1px #e0e0e0;
+  padding: 14px 0px;
+}
+.locateModal .chooseState ul li:last-child {
+  border-bottom: 0px;
+}
+
+/*** My Post Opportunity ***/
+.opportunityPart .opportunitySec .topPart .imgtext .showLeft {
+  text-shadow: none !important;
+  color: #757575 !important;
+  padding: 10px 0px 0px;
+  display: block;
+  cursor: pointer;
+}
+.opportunityPart .opportunitySec .topPart .imgtext .icons li {
+  background: #757575;
+  height: 6px;
+  width: 6px;
+  list-style: none;
+  margin-right: 4px;
+  margin-top: 3px;
+  border-radius: 50%;
+  pointer-events: none;
+}
+.opportunityPart .opportunitySec .topPart .imgtext .btn-right {
+  right: 0px;
+}
+.opportunityPart .opportunitySec .topPart .imgtext .btn-right {
+  position: absolute;
+  top: 0px;
+}
+.opportunityPart .opportunitySec .topPart .imgtext .dropdown {
+  position: absolute;
+  display: inline-block;
+  right: 0px;
+  top: 0px;
+}
+.opportunityPart .opportunitySec .topPart .imgtext .dropdown-content {
+  display: none;
+  position: initial;
+  margin-top: 44px;
+  background-color: #f9f9f9;
+  min-width: 90px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+.opportunityPart .opportunitySec .topPart .imgtext .dropdown-content.show {
+  display: block;
+}
+.opportunityPart .opportunitySec .topPart .imgtext .dropdown-content a {
+  color: #757575;
+  padding: 6px 16px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+.opportunityPart .opportunitySec .topPart .imgtext .dropdown-content a svg {
+  font-size: 12px;
+  margin-right: 6px;
+}
+.opportunityPart .opportunitySec .topPart .imgtext .dropdown-content a:hover {
+  background-color: #f1f1f1;
+}
+.opportunityPart .opportunitySec .topPart .imgtext .divider {
+  height: 1px;
+  background-color: #ccc;
+  margin: 5px 0;
+  list-style: none;
+}
+
+/*** Create Post ***/
+.createPost {
+  margin: 24px 0px;
+}
+.createPost .tabbingPart .imgSec {
+  background: #ed633d1a;
+  width: 100px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 14px;
+}
+.createPost .tabbingPart ul.nav.nav-pills {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+.createPost .tabbingPart li.nav-item {
+  text-align: center;
+  width: 96px;
+}
+.createPost .tabbingPart li img {
+  width: 24px;
+  height: 24px;
+}
+.createPost .tabbingPart button.active img {
+  filter: brightness(0) saturate(100%) invert(100%) sepia(96%) saturate(15%)
+    hue-rotate(212deg) brightness(104%) contrast(104%);
+}
+.createPost .tabbingPart li p {
+  color: #212121;
+  margin: 6px 0px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+}
+.createPost .tabbingPart button.nav-link {
+  width: 96px;
+  height: 60px;
+  background: #ed633d1a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.createPost .tabbingPart .nav-pills .nav-link.active,
+.createPost .tabbingPart .nav-pills .show > .nav-link {
+  background: #ed633d !important;
+}
+.createPost .tabbingPart .tab-content {
+  margin: 20px 0px;
+}
+.createPost .createPostPart {
+  max-width: 992px;
+  background: rgb(251, 245, 244);
+  background: linear-gradient(
+    184deg,
+    rgba(251, 245, 244, 1) 32%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  padding: 24px 24px;
+  border-radius: 12px;
+}
+
+.createPost .createPostPart .topPart {
+  display: flex;
+  align-items: center;
+}
+.createPost .createPostPart .topPart .imgpart img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-right: 20px;
+}
+.createPost .createPostPart .topPart .imgtext h3 {
+  font-size: 16px;
+  color: #212121;
+  font-weight: 500;
+  margin: 0px;
+}
+.createPost .createPostPart .topPart .imgtext p {
+  font-size: 14px;
+  color: #212121;
+  font-weight: 400;
+  margin: 0px;
+}
+.createPost .createPostPart .textAreaPart {
+  margin: 20px 0px;
+}
+.createPost .createPostPart .btnSec {
+  display: flex;
+  justify-content: space-between;
+  margin: 40px 0px 0px;
+}
+.createPost .createPostPart .btnSecNew {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.createPost .createPostPart .btnSec button {
+  background: #3f5395;
+  color: #fff;
+  font-size: 14px;
+}
+.createPost .createPostPart .btnSec button.post {
+  background: #9e9e9e !important;
+  height: 32px;
+}
+.createPost .pollSection {
+  background: #fafafa;
+  padding: 20px 20px;
+  border-radius: 12px;
+}
+.createPost .pollSection .topPart {
+  display: flex;
+  align-items: center;
+}
+.createPost .pollSection .topPart .imgpart img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-right: 20px;
+}
+.createPost .pollSection .topPart .imgtext h3 {
+  font-size: 16px;
+  color: #212121;
+  font-weight: 500;
+  margin: 0px;
+}
+.createPost .pollSection .topPart .imgtext p {
+  font-size: 14px;
+  color: #212121;
+  font-weight: 400;
+  margin: 0px;
+}
+.createPost .pollSection p {
+  font-size: 16px;
+  color: #212121;
+  font-weight: 400;
+  margin: 16px 0px 0px;
+}
+.createPost .pollQuestion {
+  background: rgb(251, 245, 244);
+  background: linear-gradient(
+    184deg,
+    rgba(251, 245, 244, 1) 32%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  padding: 24px 24px;
+  border-radius: 16px;
+  margin: 24px 0px 0px;
+}
+.createPost .pollQuestion h3 {
+  font-size: 16px;
+  color: #212121;
+  font-weight: 500;
+}
+
+.createPost .pollQuestion input[type="text"].setOfinput {
+  font-size: 14px !important;
+  color: #212121 !important;
+  font-weight: 600 !important;
+}
+.createPost .pollQuestion input.setOfinput {
+  border: none;
+  background: none;
+  min-height: 0px;
+  margin-bottom: 10px;
+  padding: 0px;
+}
+.createPost .pollQuestion .form-group {
+  margin: 10px 10px;
+}
+.createPost .pollQuestion .form-control {
+  min-height: 44px;
+  border-radius: 12px;
+}
+.createPost .pollQuestion .form-control:focus {
+  box-shadow: none;
+}
+.createPost .pollQuestion .Options {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 0px 0px;
+}
+.createPost .pollQuestion .Options button.optionAdd {
+  font-size: 16px;
+  font-weight: 500;
+  color: #ed633d;
+}
+.createPost .pollQuestion .Options button:hover.optionAdd {
+  color: #ed633d;
+}
+.createPost .pollQuestion .Options button.btnPost {
+  background: #9e9e9e !important;
+  height: 32px;
+  color: #ffffff;
+}

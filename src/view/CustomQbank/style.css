@@ -1,0 +1,1620 @@
+/** QBank **/
+.NewcustomQbank {
+  margin: 3% 0px 0%;
+  background: #fafafa;
+  padding: 60px 0px 40px;
+}
+.NewcustomQbank .boxSectiontopDivSet {
+  width: 100%;
+  display: flex;
+  gap: 30px;
+}
+.NewcustomQbank .boxSection {
+  text-align: center;
+  width: 180px;
+}
+.NewcustomQbank .boxSection .imgPart {
+  /* width: 70px; */
+  height: 100px;
+  border-radius: 12px;
+  background: #eeeeee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.NewcustomQbank .boxSection .imgPart img {
+  width: 26px;
+  height: 26px;
+  filter: brightness(0) saturate(100%) invert(37%) sepia(1%) saturate(1089%)
+    hue-rotate(340deg) brightness(102%) contrast(92%);
+}
+.NewcustomQbank .boxSection .textPart h3 {
+  font-size: 18px;
+  font-weight: 400;
+  margin: 20px 0px;
+  color: #212121;
+}
+.NewcustomQbank .boxSection .message {
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  top: -8px;
+  right: -12px;
+  background: #007aff;
+  border-radius: 20px;
+}
+.NewcustomQbank .boxSection .message p {
+  font-size: 16px;
+  color: #fff;
+  font-weight: 500;
+}
+.NewcustomQbank .mainHeading {
+  border-top: solid 1px #eeeeee;
+  padding: 30px 0px 20px;
+  margin: 20px 0px 0px;
+}
+.NewcustomQbank .mainHeading1 {
+  border-top: solid 0px;
+}
+.NewcustomQbank .mainHeading h1 {
+  font-size: 20px;
+  font-weight: 500;
+}
+.NewcustomQbank .anatomyBoxes {
+  display: flex;
+  align-items: center;
+  background: #ffffff;
+  padding: 16px 20px;
+  margin: 0px 0px 24px;
+  border-radius: 20px;
+  box-shadow: rgba(63, 83, 149, 0.2) 0px 2px 8px 0px;
+}
+.NewcustomQbank .anatomyBoxes .boximg {
+  width: 12%;
+}
+.NewcustomQbank .anatomyBoxes .boxenter {
+  width: 50px;
+  height: 50px;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(229, 234, 249);
+  background: linear-gradient(
+    184deg,
+    rgba(229, 234, 249, 1) 15%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+.NewcustomQbank .anatomyBoxes .boxenter img {
+  width: 22px;
+  height: 22px;
+  filter: brightness(0) saturate(100%) invert(32%) sepia(13%) saturate(2158%)
+    hue-rotate(189deg) brightness(98%) contrast(98%);
+}
+.NewcustomQbank .anatomyBoxes .textSec {
+  width: 88%;
+  display: flex;
+  align-items: center;
+}
+.NewcustomQbank .anatomyBoxes .textSec p {
+  margin: 0px;
+  color: #212121;
+  font-size: 18px;
+  font-weight: 500;
+}
+.NewcustomQbank .anatomyBoxes .textSec .textBlock {
+  display: block;
+  color: #757575;
+  font-size: 16px;
+}
+.NewcustomQbank .anatomyBoxes .textSec em.fa.fa-angle-right {
+  position: absolute;
+  right: 0px;
+  font-size: 24px;
+  color: #212121;
+}
+
+/** Custom QBank **/
+.customizeQBank .attemptedBoxes {
+  display: flex;
+  align-items: center;
+  background: #ffffff;
+  box-shadow: #3f53951a 0 1px 3px, #3f53950f 0 1px 2px;
+  padding: 20px 20px;
+  margin: 0px 0px 24px;
+  border-radius: 16px;
+}
+.customizeQBank .attemptedBoxes .boximg {
+  width: 12%;
+  margin-right: 20px;
+}
+.customizeQBank .attemptedBoxes .boxenter {
+  width: 50px;
+  height: 50px;
+  background: #eeeeee;
+  background: linear-gradient(184deg, #eeeeee 15%, #fff);
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.customizeQBank .attemptedBoxes .boxenter img {
+  width: 24px;
+  filter: brightness(0) saturate(100%) invert(43%) sepia(72%) saturate(5928%)
+    hue-rotate(199deg) brightness(101%) contrast(102%);
+}
+.customizeQBank .attemptedBoxes .textSec {
+  width: 88%;
+}
+.customizeQBank .attemptedBoxes .textSec ul {
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  justify-content: space-around;
+}
+.customizeQBank .attemptedBoxes .textSec ul li {
+  font-size: 16px;
+  font-weight: 500;
+  color: #757575;
+  line-height: 32px;
+  width: 28%;
+}
+.customizeQBank .attemptedBoxes .textSec h3 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #212121;
+}
+.customizeQBank .attemptedBoxes .textSec h4 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #757575;
+  margin: 0px;
+}
+.customizeQBank .attemptedBoxes .textSec h4 span {
+  font-size: 14px;
+  font-weight: 500;
+  color: #007aff;
+  float: right;
+}
+.customizeQBank .attemptedBoxes .textBLock {
+  display: block;
+  font-size: 15px;
+  font-weight: 500;
+  color: #007aff;
+}
+.customizeQBank .attemptedBoxes .textBLock1 {
+  display: block;
+  font-size: 15px;
+  font-weight: 500;
+  color: #212121;
+}
+.customizeQBank .attemptedBoxesNew {
+  display: flex;
+  align-items: center;
+  /* background: #F7F8FB; */
+  background: #ffffff;
+  box-shadow: #3f53951a 0 1px 3px, #3f53950f 0 1px 2px;
+  padding: 20px 20px;
+  margin: 0px 0px 24px;
+  border-radius: 16px;
+}
+.customizeQBank .attemptedBoxesNew .boximg {
+  width: 12%;
+  margin-right: 20px;
+}
+.customizeQBank .attemptedBoxesNew .boxenter {
+  width: 50px;
+  height: 50px;
+  background: #eeeeee;
+  background: linear-gradient(184deg, #eeeeee 15%, #fff);
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.customizeQBank .attemptedBoxesNew .boxenter img {
+  width: 24px;
+  filter: brightness(0) saturate(100%) invert(43%) sepia(72%) saturate(5928%)
+    hue-rotate(199deg) brightness(101%) contrast(102%);
+}
+.customizeQBank .attemptedBoxesNew .textSet {
+  width: 88%;
+}
+.customizeQBank .attemptedBoxesNew .textSet h2 {
+  font-size: 12px;
+  color: #757575;
+  margin: 0px;
+}
+.customizeQBank .attemptedBoxesNew .textSet .timepic img {
+  width: 14px;
+  margin-right: 10px;
+}
+.customizeQBank .attemptedBoxesNew .textSet h3 {
+  font-size: 16px;
+  color: #212121;
+  font-weight: 500;
+}
+.customizeQBank .attemptedBoxesNew .textSet h3 span {
+  font-size: 14px;
+  color: #757575;
+  font-weight: 500;
+  float: right;
+}
+.customizeQBank .attemptedBoxesNew .textSet h4 {
+  font-size: 16px;
+  color: #757575;
+}
+.customizeQBank .attemptedBoxesNew .textSet .checkpic img {
+  width: 20px;
+  float: right;
+}
+.customizeQBank .attemptedBoxesNew .textSet h5 {
+  font-size: 14px;
+  color: #212121;
+  font-weight: 400;
+  margin: 0px;
+}
+.customizeQBank .attemptedBoxesNew .textSet .menpic img {
+  width: 12px;
+  margin-right: 10px;
+}
+
+/** Choose Levels **/
+.chooseLevel {
+  margin: 8% 0% 4%;
+}
+.chooseLevel .numberHeading h1 {
+  font-size: 18px;
+  color: #212121;
+}
+.chooseLevel .custome-select {
+  background-color: #ddd;
+  position: relative;
+  width: 80px;
+  height: 40px;
+  float: right;
+  border-radius: 8px;
+  z-index: 3;
+}
+.chooseLevel .custome-select select {
+  background: transparent;
+  border: none;
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  z-index: 2;
+  padding: 0 10px;
+  position: relative;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+.chooseLevel .custome-select select:hover {
+  cursor: pointer;
+}
+.chooseLevel .custome-select:after {
+  content: "\25bc";
+  font-size: 14px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  z-index: 1;
+  right: 0px;
+  top: 10px;
+  text-align: center;
+}
+.chooseLevel .difLevel {
+  border-top: solid 1px #eeeeee;
+  padding: 40px 0px 0px;
+  margin-top: 40px;
+}
+.chooseLevel .difLevel h2 {
+  font-size: 18px;
+  color: #212121;
+}
+.chooseLevel .difLevel img {
+  width: 40px;
+  margin-right: 16px;
+}
+.chooseLevel .levelTab {
+  margin: 40px 0px;
+}
+.chooseLevel .levelTab .nav-pills .nav-link.active {
+  color: #3f5395;
+  background: none;
+  border-bottom: solid 4px #3f5395 !important;
+  border-radius: 0px;
+}
+.chooseLevel .levelTab .nav-link {
+  color: #212121;
+  font-weight: 500;
+  font-size: 18px;
+  width: 180px;
+}
+.chooseLevel .workingBox {
+  margin: 40px 0px;
+}
+.chooseLevel .workingBox .nav-pills .nav-link.active {
+  color: #fff;
+  background: #007aff;
+  border-radius: 30px;
+  border-bottom: solid 0px #007aff !important;
+}
+.chooseLevel .workingBox .nav-link {
+  color: #212121;
+  font-weight: 500;
+  font-size: 18px;
+  width: 180px;
+  padding: 12px 0px;
+}
+.chooseLevel .workingBox .nav-pills .nav-link img {
+  padding-right: 6px;
+}
+.chooseLevel .workingBox .nav-pills .nav-link.active img {
+  filter: brightness(0) invert(1);
+  height: fit-content;
+}
+.chooseLevel .workingBox ul.nav.nav-pills {
+  background: #fff9f7;
+  display: inline-flex;
+  border-radius: 30px;
+  padding: 6px;
+}
+.chooseLevel .levelTab .levelsBox {
+  margin: 60px 0px;
+}
+.chooseLevel .levelTab .levelsBox h3 {
+  color: #212121;
+  font-weight: 500;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+.chooseLevel .levelTab .form-check-input {
+  background-color: #fff;
+  border: 1px solid #757575;
+  appearance: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.chooseLevel .levelTab .form-check-input:checked {
+  background-color: #007aff;
+  border: 1px solid #007aff;
+}
+.chooseLevel .levelTab .form-check-input:checked + .form-check-label {
+  color: #007aff;
+}
+.chooseLevel .levelTab .form-check-label:checked {
+  color: #007aff;
+}
+.chooseLevel .levelTab .form-check-input:focus {
+  border-color: #007aff;
+  outline: 0;
+  box-shadow: none;
+}
+.chooseLevel .levelTab .form-group label {
+  font-weight: 400;
+  font-size: 16px;
+  padding-left: 14px;
+}
+.chooseLevel .levelTab .form-group.form-check {
+  margin: 20px 0px 0px;
+}
+.chooseLevel .levelTab button.btn {
+  background: #3f5395;
+  color: #fff;
+  width: 260px;
+  padding: 10px 0px;
+  margin: 0 auto;
+  display: block;
+}
+.chooseLevel .levelTab .workingBox .mcqPart {
+  background: #007aff;
+  padding: 10px 20px;
+  border-radius: 12px;
+  margin: 60px 0px 0px;
+}
+.chooseLevel .levelTab .workingBox .mcqPart p {
+  margin: 0px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+/** Attempted History  **/
+.attemptHistory {
+  margin: 8% 0% 4%;
+}
+.attemptHistory .historyBox {
+  display: flex;
+  align-items: center;
+  background: #ffffff;
+  box-shadow: #3f53951a 0 1px 3px, #3f53950f 0 1px 2px;
+  padding: 20px 20px;
+  margin: 0px 0px 24px;
+  border-radius: 16px;
+}
+.attemptHistory .historyBox .boximg {
+  width: 12%;
+  margin-right: 20px;
+}
+.attemptHistory .attemptPeriod {
+  width: 88%;
+}
+.attemptHistory .historyBox .boxenter {
+  width: 50px;
+  height: 50px;
+  background: #e5eaf9;
+  background: linear-gradient(184deg, #e5eaf9 15%, #fff);
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.attemptHistory .historyBox .boxenter img {
+  width: 24px;
+}
+.attemptHistory .attemptPeriod h1 {
+  color: #212121;
+  font-weight: 500;
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+.attemptHistory .attemptPeriod h2 {
+  color: #424242;
+  font-weight: 400;
+  font-size: 14px;
+  margin: 6px 0px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.attemptHistory .attemptPeriod em.fa.fa-circle {
+  font-size: 6px;
+  /* margin-right: 6px; */
+}
+.attemptPeriod .btnSet {
+  position: absolute;
+  top: 12px;
+  right: 0px;
+  display: flex;
+  gap: 4px;
+}
+.attemptPeriod button.btn.review {
+  background: #3f5395;
+  color: #fff;
+  width: 100px;
+  font-size: 14px;
+}
+.attemptPeriod .btnSet img {
+  margin-right: 10px;
+  width: 20px;
+}
+.attemptPeriod .btnSet img:last-child {
+  margin-right: 0px;
+}
+
+/** Invited **/
+.invitedQBank {
+  margin: 8% 0% 4%;
+}
+.invitedQBank .qbankPart {
+  display: flex;
+  align-items: center;
+  background: #ffffff;
+  box-shadow: #3f53951a 0 1px 3px, #3f53950f 0 1px 2px;
+  padding: 20px 20px;
+  margin: 0px 0px 24px;
+  border-radius: 16px;
+}
+
+.invitedQBank .qbankPart .boximg {
+  width: 12%;
+  margin-right: 20px;
+}
+.invitedQBank .qbankPart .namePart {
+  width: 50px;
+  height: 50px;
+  background: #e5eaf9;
+  background: linear-gradient(184deg, #e5eaf9 15%, #fff);
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.invitedQBank .qbankPart .namePart h3 {
+  font-size: 18px;
+  color: #3f5395;
+  margin: 0px;
+  /* margin: 0px;
+    width: 50px;
+    height: 50px;
+    background: #ffeee8;
+    border-radius: 30px;
+    color: #007aff;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+.invitedQBank .qbankPart .qbankinvite {
+  width: 88%;
+}
+/* .invitedQBank .qbankPart .qbankinvite p{
+    margin: 0px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #007aff;
+} */
+.invitedQBank .qbankPart .qbankinvite h1 {
+  color: #212121;
+  font-weight: 500;
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+.invitedQBank .qbankPart .qbankinvite h2 {
+  color: #424242;
+  font-weight: 400;
+  font-size: 14px;
+  margin: 6px 0px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.invitedQBank .qbankPart .qbankinvite p {
+  color: #007aff;
+  font-weight: 400;
+  font-size: 14px;
+  margin: 0px;
+}
+.invitedQBank .inviteHead h3 {
+  color: #212121;
+  font-weight: 500;
+  font-size: 20px;
+  margin-bottom: 24px;
+}
+.invitedQBank .qbankPart .qbankinvite em.fa.fa-circle {
+  font-size: 6px;
+}
+.invitedQBank .qbankPart span.inviteBlock {
+  display: block;
+  color: #212121;
+}
+.invitedQBank .qbankPart .btnGrp {
+  position: absolute;
+  top: 12px;
+  right: 0px;
+  display: flex;
+  gap: 4px;
+}
+.invitedQBank .qbankPart .btnGrpNew {
+  top: 30px;
+  right: 0px;
+}
+.invitedQBank .qbankPart .btnGrp button.btn {
+  background: #3f5395;
+  color: #ffffff;
+  font-size: 14px;
+  width: 64px;
+  height: 28px;
+  padding: 0px 0px;
+}
+.invitedQBank .qbankPart .btnGrp button.btn.send {
+  color: #ffffff;
+  background: #ff1e1e;
+  border: solid 1px #ff1e1e !important;
+}
+.invitedQBank .qbankPart .btnGrp button.btn.start {
+  color: #ffffff;
+  background: #54b335;
+  border: solid 1px #54b335 !important;
+}
+.invitedQBank .qbankPart .btnGrp button.btn.receive {
+  color: #ffffff;
+  background: #3f5395;
+  border: solid 1px #3f5395 !important;
+}
+.invitedQBank .qbankPart .btnGrp button.btn:last-child {
+  margin: 0px 0px;
+}
+
+/** Number Select Question **/
+.numberOFquestion {
+  margin: 8% 20% 4%;
+}
+.numberOFquestion .selectPicker h1 {
+  font-size: 18px;
+  color: #212121;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.numberOFquestion .spinner {
+  position: relative;
+  width: 400px;
+  height: 260px;
+  margin: 0 auto;
+  overflow: hidden;
+  background: #ffeee8;
+}
+.numberOFquestion .spinner_inner {
+  height: 100%;
+  text-align: center;
+}
+.numberOFquestion .spinner ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.numberOFquestion .spinner li {
+  height: 50px;
+  line-height: 50px;
+  font-size: 18px;
+  text-align: center;
+}
+.numberOFquestion .spinner li.highlighted {
+  font-weight: 500;
+  font-size: 30px;
+  color: #007aff;
+  border-top: solid 1px #007aff;
+  border-bottom: solid 1px #007aff;
+}
+.numberOFquestion .tap_area {
+  position: absolute;
+  width: 100%;
+  height: 30px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.numberOFquestion .value_up {
+  top: 0;
+}
+.numberOFquestion .value_down {
+  bottom: 0;
+}
+.numberOFquestion .arrow {
+  width: 0;
+  height: 0;
+  border-width: 0 0px 0px 0;
+  padding: 0px;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+}
+.numberOFquestion .arrow.up {
+  border-bottom: 10px solid #007aff;
+}
+.numberOFquestion .arrow.down {
+  border-top: 10px solid #007aff;
+}
+.numberOFquestion .buttonGroup {
+  text-align: center;
+}
+.numberOFquestion .buttonGroup .btn {
+  background: #3f5395;
+  color: #fff;
+  margin: 50px 10px 0px;
+  width: 120px;
+  padding: 8px 0px;
+}
+.numberOFquestion .buttonGroup .btn.back {
+  background: #e0e0e0;
+  color: #757575;
+}
+
+/** Choose Subject **/
+.chooseSubject {
+  margin: 8% 20% 4%;
+}
+.chooseSubject .difLevel {
+  border-top: solid 0px #eeeeee;
+  padding: 0px 0px 0px;
+  margin-top: 0px;
+}
+.chooseSubject .levelsBox {
+  border-top: solid 1px #eeeeee;
+}
+.chooseSubject .levelTab .levelsBox {
+  margin: 40px 0px;
+  padding: 16px 0px;
+}
+.chooseSubject .levelTab .form-group label {
+  font-weight: 400;
+  font-size: 16px;
+  padding-left: 14px;
+  width: 100%;
+}
+.chooseSubject span.allTopic {
+  float: right;
+}
+
+/** Select Mode **/
+.selectMode .difLevel {
+  border-top: solid 0px #eeeeee;
+  padding: 0px 0px 0px;
+  margin-top: 0px;
+}
+.selectMode .headmain h2 {
+  font-size: 18px;
+  color: #212121;
+  margin: 40px 0px 20px;
+}
+.selectMode .modeOption {
+  display: flex;
+  margin: 20px 0px 0px;
+  padding: 16px;
+}
+.selectMode .modeOption .modeimg {
+  min-width: 50px;
+  height: 50px;
+  margin-right: 20px;
+  background: #eeeeee;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.selectMode .modeOption .modeimg img {
+  width: 20px;
+  filter: brightness(0) saturate(100%) invert(37%) sepia(1%) saturate(1089%)
+    hue-rotate(340deg) brightness(102%) contrast(92%);
+}
+.selectMode .modeOption .modetext h3 {
+  font-size: 18px;
+  color: #212121;
+}
+.SetCirleOfMode {
+  display: flex;
+}
+.selectMode .modeOption .modetext p {
+  font-size: 16px;
+  color: #757575;
+}
+
+/** Topic Share **/
+.topicShare {
+  margin: 3% 0% 0%;
+  padding: 40px 0px 40px;
+  background: #fafafa;
+}
+.topicShare .liveChallenge .startingSoon {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 20px;
+  border-radius: 8px 8px 0px 0px;
+}
+.topicShare .liveChallenge .startingSoon p {
+  margin: 0px;
+  margin: 0px;
+  font-size: 16px;
+}
+
+.topicShare .liveChallenge .startingSoon span.time {
+  display: block;
+  color: #212121;
+  font-size: 18px;
+  font-weight: 500;
+}
+.topicShare .liveChallenge .startingSoon button.btn.custonBtn {
+  background: #b8b8b8;
+  background: linear-gradient(
+    90deg,
+    rgba(184, 184, 184, 1) 0%,
+    rgba(33, 33, 33, 1) 100%
+  );
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: 500;
+  padding: 8px 20px;
+}
+.topicShare .liveChallenge .fulllBox {
+  background: #ffffff;
+  padding: 10px 20px;
+  border-radius: 8px !important;
+}
+.topicShare .liveChallenge .fulllBox .topicBox {
+  display: flex;
+  align-items: center;
+}
+.topicShare .liveChallenge .fulllBox .topicBox .imgPart {
+  width: 50px;
+  height: 50px;
+  font-size: 18px;
+  margin-right: 20px;
+  background: #eeeeee;
+  background: linear-gradient(184deg, #eeeeee 15%, #fff);
+  border-radius: 30px;
+  color: #007aff;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.topicShare .liveChallenge .fulllBox .topicBox .imgPartNew img {
+  width: 40px;
+  margin-right: 18px;
+  filter: brightness(0) saturate(100%) invert(43%) sepia(72%) saturate(5928%)
+    hue-rotate(199deg) brightness(101%) contrast(102%);
+}
+.topicShare .liveChallenge .fulllBox .topicBox .imgPart img {
+  width: 20px;
+  filter: brightness(0) saturate(100%) invert(43%) sepia(72%) saturate(5928%)
+    hue-rotate(199deg) brightness(101%) contrast(102%);
+}
+.topicShare .liveChallenge .fulllBox .topicBox .textPart p {
+  margin: 0px;
+  color: #757575;
+  font-size: 16px;
+  font-weight: 500;
+}
+.topicShare .liveChallenge .fulllBox .topicBox .textPart h3 {
+  color: #212121;
+  font-size: 18px;
+  font-weight: 500;
+}
+.topicShare .fulllBox .totalTime {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.topicShare .fulllBox .totalTime .timePer {
+  display: flex;
+  align-items: center;
+  margin: 30px 0px 0px;
+}
+.topicShare .totalTime .timePer .imgSec img {
+  width: 24px;
+  margin-right: 20px;
+}
+.totalTime .timePer p {
+  margin: 0px;
+  font-size: 14px;
+  color: #757575;
+}
+.totalTime .timePer span.qsnNumber {
+  display: block;
+  font-size: 18px;
+  color: #212121;
+  font-weight: 500;
+}
+.topicShare .sharePart {
+  background: #f5f5f5;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  border-radius: 8px;
+  margin: 6% 0px;
+}
+.topicShare .sharePart p {
+  margin: 0px;
+  color: #212121;
+  font-size: 16px;
+}
+.topicShare .scanPay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.topicShare .scanPay img {
+  width: 80px;
+}
+.topicShare .scanPay p {
+  margin: 0px;
+  padding-left: 20px;
+  font-size: 18px;
+  color: #007aff;
+  font-weight: 500;
+}
+
+.topicShare .searchSec {
+  margin: 6% 0px;
+}
+.topicShare .searchSec .has-search .form-control {
+  padding-left: 60px;
+  background: #f5f5f5;
+  border: 0px;
+  height: 50px;
+}
+.topicShare .searchSec .has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 70px;
+  height: 70px;
+  line-height: 50px;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+}
+.topicShare .searchSec .cList {
+  position: absolute;
+  top: 12px;
+  right: 24px;
+  border-left: solid 1px #e0e0e0;
+  padding-left: 16px;
+}
+.topicShare .searchSec .cList img {
+  filter: brightness(0) saturate(100%) invert(43%) sepia(72%) saturate(5928%)
+    hue-rotate(199deg) brightness(101%) contrast(102%);
+}
+.topicShare .Players h4 {
+  font-size: 18px;
+  color: #212121;
+  margin-bottom: 30px;
+}
+.topicShare .Players .btnGroup {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.topicShare .Players .btnGroup button.btn {
+  background: #e8f5e9;
+  color: #66bb6a;
+  font-size: 16px;
+  font-weight: 500;
+  width: 40%;
+  padding: 10px 10px;
+}
+.topicShare .Players .btnGroup button.btn.invite {
+  background: #ffebee;
+  color: #ef5350;
+}
+.topicShare .availabelPlayer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 2% 0px;
+}
+.topicShare .availabelPlayer img.profile {
+  width: 44px;
+  height: 44px;
+  margin-right: 28px;
+  border-radius: 30px;
+}
+.topicShare .availabelPlayer p {
+  margin: 0px;
+  font-size: 18px;
+  color: #212121;
+  font-weight: 500;
+}
+.topicShare .availabelPlayer button.btn {
+  background: #f5f5f5;
+  color: #757575;
+  border-radius: 30px;
+  width: 140px;
+  padding: 8px 0px;
+  font-size: 16px;
+  font-weight: 500;
+}
+.topicShare .availabelPlayer span.checked img {
+  width: 24px;
+  padding-left: 6px;
+}
+.topicShare .butnPart {
+  text-align: center;
+  margin: 10% 0px 0px;
+}
+.topicShare .butnPart button.btn.attempt {
+  background: #3f5395;
+  color: #fff;
+  width: 30%;
+  padding: 10px 0px;
+}
+
+/** Leader Board **/
+.leaderBoard {
+  width: 1200px;
+  margin: 2% auto;
+}
+.leaderBoard .headingSec h1 {
+  font-size: 20px;
+  color: #212121;
+  font-weight: 500;
+}
+.leaderBoard .headingSec p {
+  font-size: 14px;
+  color: #757575;
+  margin: 0px;
+}
+.leaderBoard .qsnTotal {
+  background: #fafafa;
+  display: flow-root;
+  padding: 30px 30px;
+  margin: 40px 0px 0px;
+  border-radius: 16px;
+}
+.leaderBoard .qsnTotal h2 {
+  font-size: 20px;
+}
+.leaderBoard .qsnTotal .butnSet {
+  width: 50%;
+  float: left;
+}
+.leaderBoard .qsnTotal .butnSet button.btn {
+  background: #e8f5e9;
+  color: #54b435;
+  width: 36%;
+  font-size: 18px;
+  font-weight: 500;
+  padding: 0px 0px 0px 16px;
+  margin: 16px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.leaderBoard .qsnTotal .butnSet button.btn.inco {
+  background: #ffebee;
+  color: #ef5350;
+}
+.leaderBoard .qsnTotal .butnSet button.btn.miss {
+  background: #fbf0e9;
+  color: #ff9551;
+}
+.leaderBoard .qsnTotal .butnSet span.numeric {
+  background: #54b435;
+  float: right;
+  color: #ffffff;
+  padding: 10px 10px;
+  width: 30%;
+}
+.leaderBoard .qsnTotal .butnSet span.numeric.fntclr {
+  background: #ff4949;
+}
+.leaderBoard .qsnTotal .butnSet span.numeric.fntclra {
+  background: #ff9551;
+}
+.leaderBoard .qsnTotal .correctResult {
+  width: 50%;
+  float: left;
+  text-align: right;
+}
+.leaderBoard .finalresult {
+  margin: 40px 0px 20px;
+}
+.leaderBoard .finalresult h2 {
+  font-size: 20px;
+  color: #007aff;
+  font-weight: 500;
+  text-align: center;
+}
+.leaderBoard .SetPositionBox {
+  background: #fff9f7;
+  border-radius: 16px;
+  padding: 40px 30px 30px;
+}
+.leaderBoard .positionAttempt {
+  display: flex;
+  align-items: center;
+  margin: 0px 0px 30px;
+}
+.leaderBoard .positionAttempt img.number {
+  width: 30px;
+}
+.leaderBoard .positionAttempt img.crown {
+  position: absolute;
+  top: -22px;
+  left: 64px;
+}
+.leaderBoard .positionAttempt img.pic {
+  width: 50px;
+  margin: 0px 20px;
+}
+.leaderBoard .positionAttempt h3 {
+  font-size: 20px;
+  color: #212121;
+  margin: 0px;
+  font-weight: 400;
+}
+.leaderBoard .positionAttempt h4 {
+  position: absolute;
+  right: 30px;
+  color: #007aff;
+  font-size: 18px;
+}
+
+/** Attempt **/
+.attempT {
+  margin: 8% 20% 4%;
+}
+.attempT .heaDing h1 {
+  font-size: 20px;
+  color: #212121;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+.attempT .attempQBank {
+  display: flex;
+  justify-content: space-between;
+  margin: 24px 0px;
+}
+.attempT .attempQBank .imagPart {
+  width: 10%;
+}
+.attempT .attempQBank .imagPart img {
+  width: 50px;
+  height: 50px;
+  font-size: 18px;
+  margin-right: 20px;
+  background: #ffeee8;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+}
+.attempT .attempQBank .textPArt {
+  width: 84%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.attempT .attempQBank .textPArt h3 {
+  font-size: 20px;
+  color: #212121;
+  font-weight: 400;
+  margin: 0px;
+}
+.attempT .attempQBank .textPArt button.Btn {
+  background: #3f5395;
+  color: #ffffff;
+  width: 140px;
+  border-radius: 8px;
+  padding: 10px 10px;
+}
+
+/** QBank List **/
+.QbankList {
+  margin: 8% 20% 4%;
+}
+.QbankList .allQBankhead h1 {
+  font-size: 20px;
+  color: #212121;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.QbankList .allQBankhead p {
+  font-size: 18px;
+  color: #757575;
+  font-weight: 500;
+  margin: 0px;
+}
+.QbankList .allQBankhead span.textOrg {
+  color: #007aff;
+}
+.QbankList .subJect {
+  margin: 8% 0px 0px;
+}
+.QbankList .subJect p {
+  font-size: 18px;
+  color: #757575;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: solid 1px #eeeeee;
+  padding: 22px 0px 0px;
+}
+.QbankList .subJect p:last-child {
+  border-bottom: solid 1px #eeeeee;
+  padding: 22px 0px 22px;
+}
+.QbankList .subJect span.textnewOrg {
+  color: #007aff;
+}
+.QbankList .QbankComplete {
+  text-align: center;
+  margin: 8% 0px 0px;
+}
+.QbankList .QbankComplete img {
+  width: 200px;
+  margin: 10px 0px 40px;
+}
+.QbankList .QbankComplete h3 {
+  font-size: 22px;
+  color: #007aff;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.QbankList .QbankComplete h4 {
+  font-size: 18px;
+  color: #212121;
+  font-weight: 500;
+}
+.QbankList .QbankComplete h5 {
+  font-size: 16px;
+  color: #212121;
+  font-weight: 400;
+}
+.QbankList .rewButton {
+  text-align: center;
+  margin: 8% 0px 0px;
+}
+.QbankList .rewButton button.btn {
+  background: #3f5395;
+  color: #ffffff;
+  padding: 10px 0px;
+  font-size: 18px;
+  width: 400px;
+}
+
+/** UPDATE CSS QBank **/
+.customQBank .qbankInnerNew {
+  width: 992px;
+  margin: 0 auto;
+}
+.qbankInnerNew .qsnNumber select {
+  background: #007aff;
+  color: #ffffff;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+}
+.qbankInnerNew .setdiffiLevel {
+  background: #eeeeee;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 16px;
+  padding: 24px 24px;
+  margin: 40px 0px 0px;
+}
+.qbankInnerNew .setdiffiLevel1 {
+  background: none;
+  background: linear-gradient(none);
+}
+.qbankInnerNew .qsnNumber {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: solid 1px #e0e0e0;
+  padding: 12px 20px;
+  border-radius: 16px;
+}
+.qbankInnerNew .qsnNumber h4 {
+  font-size: 18px;
+  margin: 0px;
+}
+.qbankInnerNew .qBankOptionPart {
+  width: 100%;
+  margin: 10px 0;
+  padding: 40px 40px;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+  border-radius: 10px;
+}
+.qbankInnerNew .difLevel {
+  margin: 0px 0px 40px;
+  display: flex;
+  align-items: center;
+}
+.qbankInnerNew .difLevel h2 {
+  font-size: 20px;
+  color: #212121;
+  font-weight: 500;
+  margin: 0px;
+}
+.qbankInnerNew .difLevel .difImgSet {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  background: #eeeeee;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.qbankInnerNew .difLevel .difImgSet img {
+  width: 30px;
+  filter: brightness(0) saturate(100%) invert(37%) sepia(1%) saturate(1089%)
+    hue-rotate(340deg) brightness(102%) contrast(92%);
+}
+.qbankInnerNew .difLevel h3 {
+  font-size: 18px;
+  color: #007aff;
+  font-weight: 500;
+  margin: 0px;
+}
+.qbankInnerNew .naPillsTab ul.nav.nav-pills {
+  background: #fff9f7;
+  width: max-content;
+  padding: 10px 10px;
+  border-radius: 30px;
+}
+.qbankInnerNew .naPillsTab li .nav-link {
+  color: #212121;
+  width: 130px;
+  border-radius: 30px;
+}
+.qbankInnerNew .naPillsTab .nav-link.active {
+  background: #007aff !important;
+  color: #ffffff !important;
+  border-radius: 30px;
+}
+.qbankInnerNew .naPillsTab .nav-link.active img {
+  filter: brightness(0) saturate(100%) invert(100%) sepia(93%) saturate(36%)
+    hue-rotate(130deg) brightness(106%) contrast(100%);
+}
+.setdiffiLevel .inputSection {
+  display: flex;
+  align-items: center;
+  gap: 60px;
+}
+.setdiffiLevel .inputSection [type="radio"]:checked,
+.setdiffiLevel .inputSection [type="radio"]:not(:checked) {
+  position: absolute;
+  left: -9999px;
+}
+.setdiffiLevel .inputSection [type="radio"]:checked + label,
+.setdiffiLevel .inputSection [type="radio"]:not(:checked) + label {
+  position: relative;
+  padding-left: 34px;
+  cursor: pointer;
+  line-height: 20px;
+  display: inline-block;
+  color: #666;
+  margin-bottom: 30px;
+  font-size: 18px;
+  font-weight: 400;
+}
+.setdiffiLevel .inputSection.inputSectionNew2 [type="radio"]:checked + label,
+.setdiffiLevel
+  .inputSection.inputSectionNew2
+  [type="radio"]:not(:checked)
+  + label {
+  position: relative;
+  padding-right: 34px;
+  padding-left: 0px;
+  cursor: pointer;
+  line-height: 20px;
+  display: inline-block;
+  color: #666;
+  margin-bottom: 30px;
+  font-size: 18px;
+  font-weight: 400;
+}
+.setdiffiLevel
+  .inputSection.inputSectionNew2
+  [type="radio"]:checked
+  + label:before,
+.setdiffiLevel
+  .inputSection.inputSectionNew2
+  [type="radio"]:not(:checked)
+  + label:before {
+  content: "";
+  position: absolute;
+  right: 0 !important;
+  left: auto;
+  top: 0;
+  width: 22px;
+  height: 22px;
+  border: 1px solid #007aff;
+  border-radius: 100%;
+  background: #fff;
+}
+.setdiffiLevel
+  .inputSection.inputSectionNew2
+  [type="radio"]:checked
+  + label:after,
+.setdiffiLevel
+  .inputSection.inputSectionNew2
+  [type="radio"]:not(:checked)
+  + label:after {
+  content: "";
+  width: 22px;
+  height: 22px;
+  border: solid 5px #007aff;
+  position: absolute;
+  top: 0px;
+  right: 0px !important;
+  left: auto;
+  border-radius: 100%;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+.setdiffiLevel .inputSection [type="radio"]:checked + label:before,
+.setdiffiLevel .inputSection [type="radio"]:not(:checked) + label:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 22px;
+  height: 22px;
+  border: 1px solid #007aff;
+  border-radius: 100%;
+  background: #fff;
+}
+.setdiffiLevel .inputSection [type="radio"]:checked + label:after,
+.setdiffiLevel .inputSection [type="radio"]:not(:checked) + label:after {
+  content: "";
+  width: 22px;
+  height: 22px;
+  border: solid 5px #007aff;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 100%;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+.setdiffiLevel .inputSection [type="radio"]:not(:checked) + label:after {
+  opacity: 0;
+  -webkit-transform: scale(0);
+  transform: scale(0);
+}
+.setdiffiLevel .inputSection [type="radio"]:checked + label:after {
+  opacity: 1;
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+.setdiffiLevel .inputSection p {
+  margin: 0px;
+}
+.setdiffiLevel .inputSection [type="radio"]:checked + label {
+  color: #007aff;
+}
+.setdiffiLevel .inputSectionNew {
+  display: inline-block;
+}
+.setdiffiLevel .inputSectionNew1 {
+  display: flex;
+}
+.setdiffiLevel .inputSectionNew2 {
+  display: flex;
+}
+.setdiffiLevel .inputSectionNew [type="radio"]:checked + label {
+  color: #007aff;
+  font-weight: 500;
+}
+
+.qBankOptionPart .formPartNew {
+  margin: 40px 0px;
+}
+.qBankOptionPart .formPartNew h4 {
+  font-size: 20px;
+  color: #212121;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+.qBankOptionPart .formPartNew select.selct {
+  width: 100%;
+  padding: 10px 10px;
+  border-radius: 10px;
+  border: solid 1px #bdbdbd;
+}
+.groupbtndata .allSelectedData {
+  overflow-y: auto;
+  height: 500px;
+  background: #eeeeee;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 16px;
+  padding: 10px 40px;
+  margin: 20px 0px;
+}
+.groupbtndata .difLevel {
+  /* background: #fbf5f4;
+  background: linear-gradient(184deg, #fbf5f4 32%, #fff); */
+  border-radius: 16px;
+  padding: 20px 0px;
+}
+.groupbtndata {
+  margin: 10px 0;
+  padding: 40px 40px;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+  border-radius: 10px;
+}
+.groupbtndata .btndataset {
+  margin-bottom: 20px;
+}
+.groupbtndata .btndataset button.selectedBtn {
+  padding: 10px 0px;
+  width: 160px;
+  border-radius: 12px;
+  margin: 10px 10px 10px 0px;
+}
+.groupbtndata .btndataset button.nonselectedBtn {
+  padding: 10px 0px;
+  width: 160px;
+  border-radius: 12px;
+  margin: 10px 10px 10px 0px;
+}
+.allSubInner .form-check-input {
+  background-color: #fff;
+  border: 1px solid #757575;
+  appearance: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.allSubInner .form-check-input:checked {
+  background-color: #007aff;
+  border: 1px solid #007aff;
+}
+.allSubInner .form-check-input:checked + .form-check-label {
+  color: #007aff;
+}
+.allSubInner .form-check-label:checked {
+  color: #007aff;
+}
+.allSubInner .form-check-input:focus {
+  border-color: #007aff;
+  outline: 0;
+  box-shadow: none;
+}
+.allSubInner .form-group label {
+  font-weight: 400;
+  font-size: 16px;
+  padding-left: 14px;
+}
+
+.qbankInnerNew .selectMode .SetBoxBgMode {
+  padding: 0px 24px 40px;
+  border-radius: 16px;
+  background: #eeeeee;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+.ModeSetBox {
+  display: flex;
+}
+.modeDiv {
+  width: 50%;
+}
+.playerScroll {
+  height: 300px;
+  overflow-y: auto;
+}
+.topicShare .joinCustomQbank {
+  width: 992px;
+  margin: 0 auto;
+  padding: 40px 40px;
+  border-radius: 10px;
+  background: #eeeeee99;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+.attemptPeriod h1 span.examModetext {
+  font-size: 16px;
+  padding: 0px 10px;
+  color: #212121;
+  font-weight: 500;
+}
+.attemptPeriod .btnSet button {
+  width: 60px;
+  height: 28px;
+}
+.attemptHistory .bottomNextNew {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 4% 0px;
+}
+.attemptHistory .bottomNextNew .btn {
+  background: #3f5395;
+  width: 120px;
+  padding: 8px 0px;
+  color: #ffffff;
+}
+.questionHead h3 {
+  color: #212121;
+}
+.qbankInnerNew ::-webkit-scrollbar-thumb {
+  background: #eeeeee;
+  border-radius: 10px;
+}

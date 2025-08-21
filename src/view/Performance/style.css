@@ -1,0 +1,370 @@
+.performanceData{
+    margin-top: 50px;
+    padding: 80px 0;
+}
+.performanceData .performanceInner {
+    display: flex;
+    justify-content: left;
+    margin-bottom: 20px;
+    align-items: center;
+}
+.performanceData .performanceInner .innerBtn {
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin-right: 15px;
+    width: 150px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.performanceData .selectBtn {
+    background: rgb(251, 219, 210);
+    border-radius: 5px;
+    padding: 20px;
+}
+.performanceData .selectBtn .selectInner {
+    border: 1px solid grey;
+    border-radius: 5px;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.slectCondition{
+    border: 1px solid #F16136;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.QbankData {
+    border: 1px solid grey;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+.DqbData{
+    margin: 10px 0;
+    border-radius: 5px;
+    background: rgb(246, 245, 242);   
+}
+.moduleAnalysis{
+    margin: 5px 0;
+    border-radius: 5px;
+    background: rgb(246, 245, 242);
+    padding: 3px;
+}
+.moduleAnalysis .AnalysisChild{
+    margin: 10px 10px 20px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    background: rgb(238, 238, 238); 
+}
+.moduleAnalysis .AnalysisChild h6{
+    margin-bottom: 15px;
+    font-size: 16px;
+    margin-top: 8px;
+    color: #000;
+}
+.moduleAnalysis .progresData{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.moduleAnalysis .progresData span{
+  color: #000;
+}
+.moduleAnalysis .attempTopic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 0px 20px;
+}
+
+.TestPerformset{
+    margin-top: 20px;
+}
+.TestPerformset .ChildTest {
+    padding: 10px 10px;
+    border-radius: 5px;
+    background: rgb(241, 97, 54);
+    font-size: 18px;
+}
+.TestPerformset .ChildTest span{
+    color: #fff;
+    font-weight: 700;
+}
+.TestPerformset .mainChild {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+.TestPerformset .mainChild h6{
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: 500;
+    color: #000; 
+}
+.TestPerformset .mainChild span{
+    font-size: 16px; 
+}
+.TestPerformset .mainChild .dropChild {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0px;
+}
+.TestPerformset .mainChild .spanChild {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0px;
+}
+.TestPerformset .mainChild table th{
+    border: 1px solid #f5f5f5;
+    text-align: left;
+    padding: 10px 10px;
+    color: #333;
+    font-size: 16px;
+}
+.TestPerformset .mainChild table td{
+    border: 1px solid #f5f5f5;
+    text-align: left;
+    padding: 10px 10px;
+    font-size: 15px;
+}
+
+.TestPerformset .LeaderData{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+.TestPerformset .LeaderData .leaderInner {
+    border: 1px solid #ddd;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: flex;
+}
+.TestPerformset .LeaderData .leaderInner span{
+    padding: 7px 30px;
+    margin: 2px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.TestPerformset .LeaderBoardData{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+.TestPerformset .LeaderBoardData .innerSec{
+    border: 1px solid #ddd;
+    padding: 12px 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f5f5f5;
+}
+.TestPerformset .LeaderBoardData .innerSec span{
+    padding: 7px 32px;
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: 500;
+    background: #fff;
+}
+.performanceGroup{
+    margin-top: 60px;  
+}
+.performanceGroup .groupdata {
+    border: 1px solid #ddd;
+    background: #fafafa;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.performanceGroup .groupdata ul{
+    margin: 10px 0px !important; 
+}
+.performanceGroup .groupdata ul li{
+    font-size: 15px;
+    padding-bottom: 6px;
+    font-weight: 500;
+}
+.performanceGroup .groupdata h3{
+    font-size: 21px;
+    margin-bottom: 10px;
+    color: #000;
+    font-weight: 500;
+}
+.performanceGroup .groupdata h5{
+    font-size: 16px;
+    color: #000;
+    margin-bottom: 15px;
+}
+.performanceGroup .groupdata .percentile {
+    font-size: 17px;
+    font-weight: 500;
+    color: #000
+}
+.performanceGroup .groupdata .numberbg{
+    margin-bottom: 12px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.performanceGroup .groupdata .progress-bar{
+    height: 50px;
+}
+.blankData{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+.apexcharts-text tspan {
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.rightPopdata{
+    border: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    border-radius: 4px;
+    margin: 6px 10px;
+    background: #fafafa;
+}
+.rightPopdata .rightInner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.rightPopdata .rightChildData{
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+@media only screen and (max-width:767px){
+    .performanceData {
+        margin-top: 12px;
+    }
+    .performanceData .selectBtn {
+        padding: 5px 10px;
+    }
+    .moduleAnalysis .AnalysisChild {
+        margin: 0px 10px 10px;
+        padding: 4px 8px;
+    }
+    .moduleAnalysis .AnalysisChild h6 {
+        margin-bottom: 5px;
+        font-size: 15px;
+        margin-top: 6px;
+    }
+    .AnalysisChild span{
+        font-size: 13px;
+    }
+    .TestPerformset .LeaderData .leaderInner{
+        white-space: nowrap;
+        flex-wrap: initial;
+        overflow: auto;
+        scrollbar-width: none; 
+    }
+    .TestPerformset .LeaderBoardData .innerSec{
+        white-space: nowrap;
+        flex-wrap: initial;
+        overflow: auto;
+        scrollbar-width: none;
+        padding: 8px 10px;   
+    }
+    .slectCondition{
+        padding: 0px;
+        border: 0;
+    }
+    .TestPerformset .ChildTest {
+        padding:8px 0px;
+        font-size: 15px;
+        text-align: center;
+    }
+    .TestPerformset .mainChild h6{
+        font-size: 13px;
+    }
+    .TestPerformset .mainChild span {
+        font-size: 13px;
+    }
+    .TestPerformset .mainChild table th{
+        min-width: auto;
+        padding: 10px 10px !important;
+        font-size: 14px !important;
+    }
+    .TestPerformset .mainChild table td {
+        padding: 10px 10px !important;
+        font-size: 13px !important;
+    }
+    .TestPerformset .LeaderData .leaderInner span {
+        padding: 5px 10px;
+        font-size: 13px;
+    }
+    .TestPerformset .LeaderBoardData .innerSec span {
+        padding: 7px 12px;
+        font-size: 13px;
+        margin-right: 5px;
+    }
+    .TestPerformset .LeaderBoardData .innerSec b{
+        font-size: 13px;
+    }
+    .performanceGroup {
+        margin-top: 30px;
+    }
+    .performanceGroup .groupdata h3{
+        font-size: 18px;
+    }
+    .performanceGroup .groupdata {
+        padding: 10px 10px;
+        margin-bottom: 10px;
+    }
+    .performanceGroup .groupdata h5 {
+        font-size: 13px;
+        margin-bottom: 7px;
+    }
+    .performanceGroup .groupdata .percentile {
+        font-size: 14px;
+    }
+    .performanceGroup .groupdata .numberbg {
+        margin-bottom: 0;
+        font-size: 13px;
+    }
+    .performanceGroup .groupdata .progress {
+        margin-top: 20px;
+    }
+    .performanceGroup .groupdata .progress .progress-bar {
+        width: 100% !important;
+    }
+    .apexcharts-text tspan {
+        font-size: 10px;
+    }
+    .rightPopUp{
+        width: 100% !important;
+        margin-top: 48px !important;
+    }
+    .ant-drawer-header{
+        padding: 7px 10px !important;
+    }
+    .ant-drawer-content-wrapper{
+        width: 95% !important;
+    }
+    .ant-drawer-body {
+        max-height: 750px !important;
+    }
+    .ant-drawer-content{
+        margin-top: 48px !important;
+    }
+}

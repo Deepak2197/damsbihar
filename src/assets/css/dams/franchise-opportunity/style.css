@@ -1,0 +1,668 @@
+.Franchise {
+  width: 100%;
+  float: left;
+}
+/* .Franchise .commanColor {
+    position: absolute;
+    background: #fdede8;
+    top: 0;
+    width: 365px;
+    height: 320px;
+    right: 0;
+    z-index: -1;
+  } */
+.franchise-opportunity {
+  width: 100%;
+  /* float: left;
+      background-image: url(https://d2enu63wt1sf3u.cloudfront.net/react_emed_web/conatcbg.png);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: auto; */
+  background: #eeeeee99;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  padding: 10px 40px;
+  /* border-left: 16px solid #f16136; */
+  margin: 20px 0px;
+  border-radius: 16px;
+}
+.franchise-opportunity .franchiseImg {
+  text-align: right;
+  /* background: #f8ccd257; */
+  border-radius: 16px;
+  padding: 10px;
+}
+.franchise-opportunity .franchiseImg img {
+  max-width: 100%;
+  width: 340px;
+  /* height: 290px; */
+}
+.franchise-opportunity .franchisetext {
+  margin-top: 50px;
+}
+.franchise-opportunity .franchisetext h1 {
+  color: #212121;
+  font-size: 28px;
+  margin-bottom: 20px;
+  font-weight: 700;
+  line-height: 40px;
+}
+.franchise-opportunity .franchisetext h3 {
+  color: #007aff;
+  font-size: 24px;
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+.franchise-opportunity .franchisetext p {
+  color: #424242;
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0;
+}
+
+.Franchise .middle-section {
+  width: 100%;
+  float: left;
+  margin-top: 50px;
+}
+
+.Franchise .franchiseData {
+  padding-top: 30px;
+}
+.Franchise .franchiseData .commonaData {
+  margin-bottom: 30px;
+}
+.Franchise .franchiseData .commonaData li {
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #757575;
+  text-align: justify;
+}
+.Franchise .franchiseData h5 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #212121;
+}
+.Franchise .franchiseData p {
+  font-size: 14px;
+  color: #757575;
+  margin-bottom: 2px;
+  text-align: justify;
+  font-weight: 400;
+  line-height: 25px;
+}
+.Franchise .franchiseData h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #424242;
+  font-weight: 600;
+}
+.Franchise .franchiseData .conInfodata p a {
+  color: #f15a22;
+  font-weight: 500;
+  font-size: 15px;
+}
+.Franchise .franchiseData p strong {
+  font-weight: 500;
+}
+.Franchise .franchiseData .conInfodata h3 {
+  margin-top: 15px;
+  margin-bottom: 0;
+}
+.Franchise .middle-section .main-hdng h1 {
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  color: #212121;
+  margin: 0;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 15px;
+}
+
+.middle-section .model-part .btn {
+  border-radius: 4px;
+  background: #007aff;
+  font-weight: 400;
+  font-size: 14px;
+  padding: 10px 18px;
+}
+
+.Franchise .middle-section .model-part .btn-grp {
+  float: right;
+}
+
+.Franchise .middle-section .model-part .btn-grp .button-two {
+  border-radius: 4px;
+  background: #3f5395;
+  border: none;
+  padding: 10px 20px;
+  width: auto;
+  transition: all 0.5s;
+  color: #fff;
+}
+
+.Franchise .middle-section .model-part .btn-grp .button-two span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.Franchise .middle-section .model-part .btn-grp .button-two span:after {
+  content: "»";
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Franchise .middle-section .model-part .btn-grp .button-two:hover span {
+  padding-right: 25px;
+}
+
+.Franchise .middle-section .model-part .btn-grp .button-two:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.Franchise .middle-section .model-part .btn-position {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+.Franchise .middle-section .model-part .modal.right.fade.in .modal-dialog {
+  right: 0 !important;
+  transform: translateX(-50%);
+}
+
+.Franchise .middle-section .model-part .modal.right .modal-content {
+  width: 80%;
+  height: 100%;
+  overflow: auto;
+  border-radius: 20px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border: none !important;
+}
+
+.Franchise .middle-section .model-part .modal.right .modal-dialog {
+  position: fixed;
+  margin: auto;
+  height: 100%;
+  -webkit-transform: translate3d(0%, 0, 0);
+  -ms-transform: translate3d(0%, 0, 0);
+  -o-transform: translate3d(0%, 0, 0);
+  transform: translate3d(0%, 0, 0);
+}
+
+.Franchise .middle-section .model-part .modal.right.fade.in .modal-dialog {
+  transform: translateX(0px);
+}
+
+.Franchise .middle-section .model-part .modal.right.fade .modal-dialog {
+  right: -100px;
+  -webkit-transition: opacity 0.3s linear, right 0.3s ease-out;
+  -moz-transition: opacity 0.3s linear, right 0.3s ease-out;
+  -o-transition: opacity 0.3s linear, right 0.3s ease-out;
+  transition: opacity 0.3s linear, right 0.3s ease-out;
+}
+.Franchise .middle-section .model-part .modal-header {
+  background: #3f5395;
+}
+.Franchise .middle-section .model-part .modal.right .modal-header {
+  display: block !important;
+}
+
+.Franchise .middle-section .model-part .modal.right .modal-header h4 {
+  color: #fff;
+}
+
+.middle-section .model-part .modal.right .modal-header::after {
+  content: "";
+  display: inline-block;
+}
+
+.middle-section .model-part .modal.right .close {
+  text-shadow: none;
+  opacity: 1;
+  color: #fff;
+  font-size: 26px;
+  margin: 0px;
+}
+
+.middle-section .model-part .form-control {
+  box-shadow: none;
+  border-radius: 4px;
+}
+
+.middle-section .model-part .form-control:focus {
+  box-shadow: none;
+}
+
+.middle-section .model-part .floating-label-group {
+  position: relative;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+.middle-section .model-part .floating-label {
+  font-size: 13px;
+  color: #999;
+  position: absolute;
+  pointer-events: none;
+  top: 9px;
+  left: 12px;
+  transition: all 0.1s ease;
+}
+
+.middle-section .model-part input:focus ~ .floating-label,
+input:not(:focus):valid ~ .floating-label {
+  top: -22px;
+  bottom: 0px;
+  left: 0px;
+  font-size: 11px;
+  opacity: 1;
+  color: #404040;
+}
+
+.middle-section .left-sec-text {
+  margin: 60px 0px 0px;
+}
+
+.middle-section .left-sec-text h2 {
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0px;
+}
+
+.middle-section .left-sec-text h3 {
+  font-size: 12px;
+  font-weight: 400;
+  margin: 0px;
+  line-height: 34px;
+}
+
+.middle-section .left-sec-text span.brdr {
+  border-right: solid 4px #212121;
+  margin-right: 10px;
+}
+
+.middle-section .left-sec-text p.p-text {
+  margin: 20px 0px 12px;
+}
+.middle-section .left-sec-text p {
+  font-size: 12px;
+  text-align: justify;
+}
+
+.middle-section .franchise-opr {
+  margin: 30px 0px 70px 0px;
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
+
+.middle-section .franchise-opr li a {
+  color: #f15a22 !important;
+  margin-top: 10px;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.middle-section .franchise-opr .list-text {
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  width: 100%;
+  font-weight: 500;
+  font-size: 15px;
+}
+.middle-section .franchise-opr h5 {
+  font-size: 18px;
+  margin-bottom: 30px;
+  font-weight: 600;
+  color: #3f5395;
+}
+
+.middle-section .franchise-opr ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+.middle-section .franchise-opr ul li {
+  list-style: none;
+  font-size: 16px;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  width: 18%;
+  padding: 30px 10px;
+  margin-right: 20px;
+  border-radius: 16px;
+  background-image: linear-gradient(101deg, #fff5f2 0%, #bcffdc 100%);
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.middle-section .franchise-opr ul li.crl-1 {
+  background-image: linear-gradient(4deg, #0093e969 0%, #e9dfff 100%);
+}
+
+.middle-section .franchise-opr ul li.crl-2 {
+  background-image: linear-gradient(4deg, #3f539500 0%, #37b8755c 100%);
+}
+
+.middle-section .franchise-opr ul li.crl-3 {
+  background-image: linear-gradient(4deg, #3f53953d 0%, #f15a2230 100%);
+}
+
+.middle-section .franchise-opr li .circle-image img {
+  border-radius: 100px;
+  width: 100px;
+  height: 100px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border: solid 6px #fff;
+  margin-top: 50px;
+}
+
+.middle-section .franchise-opr li .list-text {
+  padding: 0 9px !important;
+}
+
+.middle-section .table-part {
+  width: 992px;
+  margin: 10px auto 20px;
+}
+
+.middle-section .table-part table thead th {
+  color: #3f5395;
+  vertical-align: middle;
+  font-size: 18px;
+  font-weight: 500;
+  padding: 12px 15px;
+  text-align: center;
+  border: 1px solid #ddd !important;
+  background: #f5f5f5;
+}
+
+.middle-section .table-part table td {
+  padding: 10px 10px !important;
+  text-align: center;
+  font-size: 15px;
+  color: #212121;
+  font-weight: 500;
+  border: 1px solid #ddd;
+}
+
+.middle-section .table-part table tbody td > a {
+  font-size: 12px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.middle-section .table-part table.tbl-tp {
+  margin-top: 20px;
+}
+
+.middle-section .whtsap-img img {
+  width: 12%;
+  margin-bottom: 30px;
+}
+
+/* Begin: Franchise Model */
+
+.franchiseModel .modal-header {
+  background: #3f5395 !important;
+}
+.franchiseModel .modal-header .modal-title.h4 {
+  color: #fff !important;
+  font-size: 18px !important;
+}
+.franchiseModel .modal-header button.btn-close {
+  padding: 0 10px;
+  margin-top: -20px;
+  float: right;
+  filter: invert(1);
+  opacity: 1;
+  font-size: 13px;
+}
+
+.franchiseModel .modal-content {
+  width: 360px;
+  height: 100%;
+  overflow: auto;
+  border-radius: 20px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border: none !important;
+  margin-right: 0px;
+}
+.middle-section .model-part .btn:focus {
+  box-shadow: 0 0 0 0px !important;
+}
+
+.franchiseModel .modal-content button.btn.btn-success {
+  border-radius: 4px;
+  background: #3f5395;
+  font-weight: 400;
+  font-size: 15px;
+  padding: 6px 5px;
+  float: right;
+  margin: 15px 0px;
+  width: 120px;
+}
+.franchiseModel .modal-dialog {
+  float: right;
+  margin-top: 4%;
+}
+.franchiseModel .floating-label {
+  font-size: 13px;
+  color: #999;
+  position: absolute;
+  pointer-events: none;
+  top: 9px;
+  left: 12px;
+  transition: all 0.1s ease;
+}
+.franchiseModel em.down-toggle {
+  position: absolute;
+  right: 25px;
+  top: 12px;
+  z-index: 1;
+}
+.franchiseModel .form-group {
+  z-index: 22;
+}
+
+.franchiseModel .floating-label-group {
+  position: relative;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .franchise-opportunity .franchiseImg img {
+    max-width: 100%;
+    width: 300px;
+    height: 243px;
+  }
+  .franchise-opportunity .franchisetext h1 {
+    font-size: 25px;
+    line-height: 34px;
+    margin-bottom: 15px;
+  }
+  .franchise-opportunity .franchisetext h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  .franchise-opportunity .franchisetext p {
+    font-size: 15px;
+  }
+  /* .Franchise .commanColor {
+    width: 260px;
+    height: 262px;
+  } */
+  .middle-section .franchise-opr ul li {
+    width: 22%;
+    margin-bottom: 15px;
+  }
+  .middle-section .table-part {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .franchise-opportunity .franchiseImg img {
+    max-width: 100%;
+    width: 230px;
+    height: 200px;
+  }
+  .franchise-opportunity .franchisetext {
+    margin-top: 20px;
+  }
+  .franchise-opportunity .franchisetext h1 {
+    font-size: 22px;
+    line-height: 32px;
+    margin-bottom: 15px;
+  }
+  .franchise-opportunity .franchisetext h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .franchise-opportunity .franchisetext p {
+    font-size: 15px;
+  }
+  /* .Franchise .commanColor {
+    width: 260px;
+    height: 262px;
+  } */
+  .middle-section .franchise-opr ul li {
+    width: 23%;
+    margin-bottom: 15px;
+    margin-right: 9px;
+  }
+  .middle-section .table-part {
+    width: 100%;
+  }
+  .Franchise .middle-section .main-hdng h1 {
+    font-size: 20px;
+  }
+  .middle-section .whtsap-img img {
+    width: 15%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .franchise-opportunity {
+    padding: 0px 10px;
+  }
+  .Franchise .commanColor {
+    display: none;
+  }
+
+  .franchise-opportunity .franchisetext {
+    margin-top: 22px;
+  }
+  .franchise-opportunity .franchisetext h1 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    line-height: 27px;
+  }
+  .franchise-opportunity .franchisetext h3 {
+    font-size: 17px;
+    margin-bottom: 8px;
+  }
+  .franchise-opportunity .franchisetext p {
+    font-size: 13px;
+    margin-bottom: 15px;
+    line-height: 22px;
+  }
+  .franchise-opportunity .franchiseImg {
+    text-align: center;
+  }
+  .franchise-opportunity .franchiseImg img {
+    width: 190px;
+    height: 150px;
+  }
+  .middle-section .table-part {
+    width: 100%;
+  }
+  .Franchise .middle-section .main-hdng h1 {
+    font-size: 16px;
+    border: 0px;
+  }
+  .middle-section .franchise-opr h5 {
+    font-size: 15px;
+    line-height: 23px;
+  }
+  .middle-section .model-part .btn {
+    font-size: 12px;
+    padding: 6px 6px;
+  }
+  .franchise-opportunity .middle-section .main-hdng h1 {
+    font-size: 12px;
+  }
+  .franchise-opportunity .middle-section .model-part .btn-grp .button-two {
+    padding: 4px 0px;
+    font-size: 10px;
+  }
+  .middle-section .franchise-opr ul li {
+    width: 46%;
+    margin-bottom: 15px;
+  }
+  .middle-section .franchise-opr li .circle-image img {
+    width: 70px;
+    height: 70px;
+    margin-top: 25px;
+    border: solid 3px #fff;
+  }
+  .middle-section .franchise-opr li .list-text {
+    padding: 0px !important;
+  }
+  .middle-section .franchise-opr .list-text {
+    font-size: 13px;
+  }
+  .middle-section .franchise-opr li a {
+    font-size: 14px;
+  }
+  .middle-section .franchise-opr ul li:nth-child(even) {
+    margin-right: 0px;
+  }
+  .middle-section .table-part table thead th {
+    font-size: 14px;
+  }
+  .middle-section .table-part table td {
+    font-size: 13px;
+  }
+  .franchiseModel .modal-content {
+    width: 100%;
+  }
+  .middle-section .whtsap-img img {
+    width: 32%;
+  }
+  .Franchise .franchiseData h5 {
+    font-size: 14px;
+    line-height: 23px;
+  }
+  .Franchise .franchiseData p {
+    font-size: 13px;
+    line-height: 22px;
+    text-align: left;
+  }
+  .Franchise .franchiseData h3 {
+    font-size: 17px;
+    margin-bottom: 8px;
+  }
+  .Franchise .franchiseData .conInfodata h3 {
+    font-size: 15px;
+    line-height: 20px;
+  }
+}

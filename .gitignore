@@ -1,0 +1,27 @@
+# Ignore Node.js modules
+node_modules/
+dist/
+
+# Ignore YAML files
+*.yml
+
+# Ignore Dockerfile (not the directory)
+dockerfile
+Jenkinsfile
+
+# production builds
+/build
+
+# Ignore system files
+.DS_Store
+
+# Optional: Ignore logs and lock files if needed
+*.log
+*.lock
+
+# Ignore specific sensitive API files
+src/API/axiosConfig.jsx
+src/API/image.jsx
+src/API/MY_BASE_RZP.js
+src/API/MY_PAYTM_MERCHANTPG.js
+src/API/MyBase.js

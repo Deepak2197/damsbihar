@@ -1,0 +1,116 @@
+import { writeFile } from 'fs/promises';
+import { SitemapStream, streamToPromise } from 'sitemap';
+import { resolve } from 'path';
+
+const links = [
+  { url: '/', changefreq: 'daily', priority: 1.0 },
+  { url: '/Homepage', changefreq: 'monthly', priority: 0.8 },
+  { url: '/about', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Header', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Footer', changefreq: 'monthly', priority: 0.8 },
+  { url: '/CoursePlan', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Contactus', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Career', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Helpandsupport', changefreq: 'monthly', priority: 0.8 },
+  { url: '/FindCenter', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Franchise', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Csr', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Sitemap', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Privacypolicy', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Disclaimer', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Termsconditions', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Newsandarticle', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Educator', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Studentinfo', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Blogs', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Eventlist', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Eventbooking', changefreq: 'monthly', priority: 0.8 },
+  { url: '/PublishBook', changefreq: 'monthly', priority: 0.8 },
+  { url: '/PublishbookForm', changefreq: 'monthly', priority: 0.8 },
+  { url: '/EbookSale', changefreq: 'monthly', priority: 0.8 },
+  { url: '/LiveQuiz', changefreq: 'monthly', priority: 0.8 },
+  { url: '/HostChallenge', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Eventcenter', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Cbtlist', changefreq: 'monthly', priority: 0.8 },
+  { url: '/TestInstruction', changefreq: 'monthly', priority: 0.8 },
+  { url: '/ProfileUpdate', changefreq: 'monthly', priority: 0.8 },
+  { url: '/SelectLocation', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Mypayment', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Myorder', changefreq: 'monthly', priority: 0.8 },
+  { url: '/MyAddress', changefreq: 'monthly', priority: 0.8 },
+  { url: '/UserReg', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Store', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Detail', changefreq: 'monthly', priority: 0.8 },
+
+  { url: '/ProductList', changefreq: 'monthly', priority: 0.8 },
+  { url: '/QuickBuy', changefreq: 'monthly', priority: 0.8 },
+  { url: '/BestSellingSell', changefreq: 'monthly', priority: 0.8 },
+  { url: '/SubCategory', changefreq: 'monthly', priority: 0.8 },
+  { url: '/SubSubCategory', changefreq: 'monthly', priority: 0.8 },
+  { url: '/SubCategoryProduct', changefreq: 'monthly', priority: 0.8 },
+  { url: '/CategoryProductList', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Ovalpodcast', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Sidebar', changefreq: 'monthly', priority: 0.8 },
+  { url: '/CourseCategory', changefreq: 'monthly', priority: 0.8 },
+  { url: '/CourseCategoryList', changefreq: 'monthly', priority: 0.8 },
+  { url: '/AddNewAddress', changefreq: 'monthly', priority: 0.8 },
+
+  { url: '/EditNewAddress', changefreq: 'monthly', priority: 0.8 },
+  { url: '/NewsArticledetails', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Bookmarklist', changefreq: 'monthly', priority: 0.8 },
+  { url: '/ScoreCard', changefreq: 'monthly', priority: 0.8 },
+  { url: '/MyCourse', changefreq: 'monthly', priority: 0.8 },
+  { url: '/TopperszoneList', changefreq: 'monthly', priority: 0.8 },
+  { url: '/CoursesDqb', changefreq: 'monthly', priority: 0.8 },
+
+  { url: '/DqbTestAll', changefreq: 'monthly', priority: 0.8 },
+  { url: '/TestSeries', changefreq: 'monthly', priority: 0.8 },
+  { url: '/CourseDetail', changefreq: 'monthly', priority: 0.8 },
+  { url: '/ClassSchedulesDetails', changefreq: 'monthly', priority: 0.8 },
+  { url: '/RecordedSession', changefreq: 'monthly', priority: 0.8 },
+  { url: '/RecordedTopic', changefreq: 'monthly', priority: 0.8 },
+  { url: '/ReferenceList', changefreq: 'monthly', priority: 0.8 },
+  { url: '/ProfileEditFile', changefreq: 'monthly', priority: 0.8 },
+  { url: '/TestHome', changefreq: 'monthly', priority: 0.8 },
+  { url: '/PaymentSucess', changefreq: 'monthly', priority: 0.8 },
+  { url: '/TestHomeDQB', changefreq: 'monthly', priority: 0.8 },
+  { url: '/TestPanelDQB', changefreq: 'monthly', priority: 0.8 },
+  { url: '/TestResultDQB', changefreq: 'monthly', priority: 0.8 },
+  { url: '/PausedTestPanel', changefreq: 'monthly', priority: 0.8 },
+  { url: '/TestHomeCHO', changefreq: 'monthly', priority: 0.8 },
+  { url: '/TestPanelCHO', changefreq: 'monthly', priority: 0.8 },
+  { url: '/TestResultCHO', changefreq: 'monthly', priority: 0.8 },
+  { url: '/TestHomeDQ', changefreq: 'monthly', priority: 0.8 },
+  { url: '/TestResultDQ', changefreq: 'monthly', priority: 0.8 },
+
+  { url: '/TestPanelDQ', changefreq: 'monthly', priority: 0.8 },
+  { url: '/PausedTestPanelDQ', changefreq: 'monthly', priority: 0.8 },
+  { url: '/TestWait', changefreq: 'monthly', priority: 0.8 },
+  { url: '/AllLounge', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Lounge', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Ordertracking', changefreq: 'monthly', priority: 0.8 },
+  { url: '/CbtComboList', changefreq: 'monthly', priority: 0.8 },
+  { url: '/CbtComboReport', changefreq: 'monthly', priority: 0.8 },
+  { url: '/AdmitCard', changefreq: 'monthly', priority: 0.8 },
+  { url: '/AdmitCardDetail', changefreq: 'monthly', priority: 0.8 },
+  { url: '/NursingHome', changefreq: 'monthly', priority: 0.8 },
+  { url: '/NursingPanel', changefreq: 'monthly', priority: 0.8 },
+  { url: '/NursingResult', changefreq: 'monthly', priority: 0.8 },
+  { url: '/Scheduler', changefreq: 'monthly', priority: 0.8 },
+  { url: '/PausedNursingPanel', changefreq: 'monthly', priority: 0.8 },
+  { url: '/ReferEarn', changefreq: 'monthly', priority: 0.8 },
+  { url: '/AddCart', changefreq: 'monthly', priority: 0.8 },
+  { url: '/CbtEnrolledSuccess', changefreq: 'monthly', priority: 0.8 },  
+  // Add more routes here
+];
+
+(async () => {
+  const sitemapStream = new SitemapStream({ hostname: 'https://damsdelhi.com/' });
+
+  links.forEach(link => sitemapStream.write(link));
+  sitemapStream.end();
+
+  const sitemap = await streamToPromise(sitemapStream).then(data => data.toString());
+
+  await writeFile(resolve('public', 'sitemap.xml'), sitemap);
+})();

@@ -1,0 +1,654 @@
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+  .publish-receiptid {
+    margin: 50px 6%;
+  }
+  .publish-books-tab .group-border {
+    border-radius: 10px;
+    padding: 6px 6px;
+  }
+  .publish-books-tab .book-title {
+    min-height: 105px;
+  }
+  .publish-books-tab .book-img img {
+    width: 115px;
+  }
+  .publish-books-tab .view-detail {
+    margin: 0 -13px;
+  }
+  .publish-books-tab .book-title td {
+    font-size: 14px;
+  }
+  .chart canvas#barChart {
+    height: 170px !important;
+    width: 100% !important;
+  }
+  .chart canvas#barChart1 {
+    height: 170px !important;
+    width: 100% !important;
+  }
+  .publish-books-tab .total-sold .box {
+    padding: 15px 0px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .publish-book .img-publish {
+    width: 430px;
+  }
+  .publish-receiptid {
+    margin: 50px 0px;
+  }
+  .publish-books-tab .group-border {
+    padding: 6px 5px;
+  }
+  .publish-books-tab {
+    margin: 50px 0;
+  }
+  .publish-books-tab .total-sold .box {
+    padding: 15px 0px;
+  }
+  .publish-books-tab .total-sold .box h4 {
+    font-size: 15px;
+    margin-bottom: 12px;
+    line-height: 18px;
+  }
+  .publish-books-tab .book-title td {
+    font-size: 11px;
+  }
+  .chart canvas#barChart {
+    width: 100% !important;
+    height: 113px !important;
+  }
+  .chart canvas#barChart1 {
+    width: 100% !important;
+    height: 113px !important;
+  }
+  .publish-books-tab .view-detail a {
+    font-size: 12px;
+  }
+  .publish-books-tab .sales-report li.nav-item a {
+    font-size: 13px;
+  }
+  .publish-books-tab .sales-report .table th {
+    font-size: 13px;
+  }
+  .publish-books-tab .sales-report .table td {
+    font-size: 13px;
+  }
+  .publish-books-tab .page-item.disabled .page-link {
+    font-size: 12px;
+  }
+  .publish-books-tab .page-item.active .page-link {
+    font-size: 12px;
+  }
+  .publish-sign-agreement {
+    margin: 30px 0px;
+  }
+  .publish-viewdetail {
+    margin: 40px 0;
+  }
+
+  .myProductSales .tabpart {
+    justify-content: normal;
+  }
+  .myProductSales .mainBox .imgPart {
+    width: 120px;
+  }
+  .myProductSales .soldPart {
+    justify-content: normal;
+  }
+  .myProductSales .totalSaleproduct .sale {
+    width: 50%;
+  }
+
+  .publishProduct .productSection .textPart h3 {
+    font-size: 14px;
+  }
+  .publishProduct .productSection .picPart img {
+    padding-right: 16px;
+  }
+  .publishProduct .productSection a.btn.detail {
+    font-size: 13px;
+    padding: 4px 10px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .publish-book .img-publish {
+    width: 430px;
+  }
+  .publish-book .img-publish a {
+    font-size: 15px;
+  }
+  .publish-receiptid {
+    margin: 30px 0px;
+  }
+  .publish-receiptid .box-text {
+    padding: 10px 10px;
+  }
+  .publish-receiptid .box-text h4 {
+    font-size: 15px;
+    line-height: 20px;
+  }
+  .publish-receiptid .reciept-id a {
+    margin-top: 25px;
+  }
+  .publish-receiptid .need-help li a {
+    font-size: 14px;
+  }
+  .publish-books-tab {
+    margin: 35px 0;
+  }
+  .publish-books-tab li.nav-item {
+    width: 140px;
+  }
+  .publish-books-tab li.nav-item a {
+    padding: 10px 0px 10px;
+    font-size: 14px;
+  }
+  .publish-books-tab li.nav-item img {
+    margin-bottom: 4px;
+    width: 33px;
+  }
+  .publish-books-tab .group-border {
+    padding: 6px 0;
+    border-radius: 10px;
+  }
+  .publish-books-tab .book-title td {
+    font-size: 11px;
+    padding: 3px 1px;
+  }
+  .publish-books-tab .view-detail {
+    margin: -25px 0px 0 -13px;
+  }
+  .publish-books-tab .view-detail a {
+    font-size: 13px;
+  }
+  .publish-books-tab .sales-report li.nav-item a {
+    font-size: 13px;
+  }
+  .publish-books-tab .page-item.disabled .page-link {
+    font-size: 12px;
+  }
+  .publish-books-tab .page-item.active .page-link {
+    font-size: 12px;
+  }
+  .publish-books-tab .total-sold {
+    margin: 0 10% 7%;
+  }
+  .publish-books-tab .total-sold .box h4 {
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 14px;
+    line-height: 18px;
+  }
+  .publish-books-tab .sales-report li.nav-item {
+    margin-right: 10px;
+    width: 109px;
+  }
+  .publish-sign-agreement {
+    margin: 30px 0px;
+  }
+  .publish-sign-successful {
+    margin: 30px 0px;
+  }
+  .publish-sign-successful .para {
+    width: 100%;
+  }
+  .publish-sign-successful .para {
+    padding: 20px 15px 5px;
+  }
+  .publish-viewdetail {
+    margin: 40px 0;
+  }
+  .publish-receiptid .need-help li {
+    width: 210px;
+  }
+  .publish-book-detail button.btn {
+    width: 44%;
+  }
+
+  .myProductSales .tabpart {
+    justify-content: space-between;
+  }
+  .myProductSales .soldPart {
+    justify-content: space-between;
+  }
+  .myProductSales .totalSaleproduct .sale {
+    width: 50%;
+  }
+
+  .publishProduct .productSection .textPart h3 {
+    font-size: 14px;
+  }
+  .publishProduct .productSection .picPart img {
+    padding-right: 16px;
+  }
+  .publishProduct .productSection a.btn.detail {
+    font-size: 13px;
+    padding: 4px 10px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .DaysTab .tabData .daybtn {
+    width: 74px;
+    height: 48px;
+    font-size: 13px;
+  }
+  .DaysTab table th {
+    padding: 8px 10px;
+    font-size: 11px;
+  }
+  .publish-book .img-publish {
+    width: 100%;
+  }
+  .publish-book .img-publish a {
+    font-size: 14px;
+    padding: 6px 6px;
+    margin-top: 9%;
+  }
+  .publish-book .img-publish h3 {
+    font-size: 16px;
+  }
+  .publish-book .img-publish img {
+    padding: 15px 25px;
+    width: 100px;
+  }
+  .publish-book-detail a {
+    font-size: 12px;
+  }
+  .publish-receiptid {
+    margin: 30px 0px;
+  }
+  .publish-receiptid p {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  .publish-receiptid .box-text {
+    margin-top: 0;
+  }
+  .publish-receiptid .box-text h4 {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .publish-receiptid .box-text {
+    padding: 14px 14px;
+  }
+  .publish-receiptid .reciept-id h2 {
+    font-size: 16px;
+  }
+  .publish-receiptid .reciept-id {
+    margin: 10% 0;
+  }
+  .publish-receiptid .reciept-id a {
+    font-size: 13px;
+    margin-top: 16px;
+    width: 190px;
+  }
+  .publish-receiptid .need-help h3 {
+    font-size: 15px;
+  }
+  .publish-receiptid .need-help li {
+    padding: 8px 2px;
+    margin: 15px 10px 0;
+  }
+  .publish-receiptid .need-help li a {
+    font-size: 14px;
+  }
+  .publish-receiptid .need-help li i {
+    margin-right: 2px;
+    font-size: 13px;
+  }
+  .publish-books-tab .sales-report .table-responsive {
+    display: block;
+  }
+  .publish-books-tab .sales-report .table th {
+    min-width: 120px;
+  }
+  .publish-books-tab .sales-report .table::-webkit-scrollbar {
+    width: 5px;
+    height: 8px !important;
+  }
+  .publish-books-tab {
+    margin: 30px 0;
+  }
+
+  .publish-book-detail button.btn {
+    width: 100% !important;
+  }
+
+  .publish-books-tab li.nav-item img {
+    margin-bottom: 5px;
+    width: 30px;
+  }
+  .publish-books-tab .book-title {
+    min-height: 70px;
+  }
+  .publish-books-tab .book-title td {
+    font-size: 10px;
+    padding: 6px 0px 0 6px;
+  }
+  .publish-books-tab .book-img img {
+    width: 90px;
+  }
+  .publish-books-tab .group-border {
+    margin-bottom: 10px;
+  }
+  .publish-books-tab .view-detail a {
+    font-size: 13px;
+  }
+  .publish-books-tab .sales-report li.nav-item a {
+    font-size: 11px;
+    padding: 4px 0px;
+  }
+  .publish-books-tab .sales-report li.nav-item {
+    margin-right: 5px;
+    width: 66px;
+    margin-bottom: 10px;
+  }
+  .publish-books-tab li.nav-item {
+    width: 85px;
+  }
+  .publish-books-tab li.nav-item a {
+    font-size: 12px;
+    padding: 8px 0px 8px;
+  }
+  .publish-books-tab li.nav-item img {
+    width: 30px;
+    height: 30px;
+  }
+  .gutter-row {
+    max-width: 100%;
+  }
+  .mobileData {
+    display: block;
+  }
+  .salesbookTab .bookChild .textSide span {
+    font-size: 13px;
+  }
+  .salesbookTab .bookChild .imgSide {
+    margin-right: 20px;
+  }
+
+  .publish-books-tab .total-sold .box {
+    padding: 10px 0px;
+    margin-bottom: 8px;
+  }
+  .publish-books-tab .sales-report input[type="date"] {
+    font-size: 13px;
+    padding: 2px 7px;
+    color: #262525c7;
+    font-weight: 500;
+  }
+  .publish-books-tab .total-sold .box h4 {
+    font-size: 14px;
+    margin-bottom: 13px;
+    line-height: 19px;
+  }
+  .publish-books-tab .total-sold .box h1 {
+    font-size: 18px;
+    text-align: center;
+  }
+  .publish-books-tab .total-sold h3 {
+    font-size: 12px;
+  }
+  .chart canvas#barChart {
+    width: 100% !important;
+    margin-bottom: -20px;
+  }
+  .chart canvas#barChart1 {
+    width: 100% !important;
+    margin-bottom: -20px;
+    margin-top: 30px;
+  }
+  .publish-books-tab div.dataTables_wrapper div.dataTables_info {
+    font-size: 13px;
+  }
+  .publish-books-tab .page-item.disabled .page-link {
+    font-size: 12px;
+  }
+  .publish-books-tab .page-item.active .page-link {
+    font-size: 12px;
+  }
+  .publish-books-tab .bar-group {
+    margin-top: 30px;
+  }
+  .publish-books-tab .tab-content {
+    margin-top: 20px;
+  }
+  .publish-sign-agreement {
+    margin: 30px 0%;
+  }
+  .publish-sign-agreement .signature {
+    width: 100%;
+    margin: 30px auto 30px;
+  }
+  .publish-sign-agreement .agreement {
+    padding: 10px 10px;
+  }
+  .publish-sign-agreement h3 {
+    font-size: 15px;
+  }
+  .publish-sign-agreement .background h4 {
+    font-size: 13px;
+    margin-bottom: 5px;
+  }
+  .publish-sign-agreement .background li {
+    font-size: 13px;
+    line-height: 25px;
+    padding: 2px 10px;
+    text-align: justify;
+  }
+  .publish-sign-agreement .signature .sign p {
+    font-size: 10px;
+  }
+  .publish-sign-agreement .submit a {
+    width: 120px;
+    font-size: 14px;
+    padding: 8px 0;
+  }
+  .publish-sign-successful {
+    margin: 30px 0;
+  }
+  .publish-sign-successful .para {
+    width: 100%;
+  }
+  .publish-sign-successful .support-btn {
+    width: 100%;
+  }
+  .publish-sign-successful .support-btn h3 {
+    font-size: 17px;
+    margin-bottom: 10px;
+  }
+  .publish-sign-successful .support-btn li {
+    margin: 0 0px 10px;
+    padding: 6px 10px;
+    width: 100%;
+  }
+  .publish-sign-successful .support-btn li a {
+    font-size: 12px;
+  }
+  .publish-sign-successful .support-btn li i {
+    margin-right: 10px;
+  }
+  .publish-viewdetail {
+    margin: 30px 0;
+  }
+  .publish-viewdetail .table-responsive {
+    display: block;
+  }
+  .publish-viewdetail .total-sold {
+    width: 100%;
+  }
+  .publish-viewdetail .table th {
+    min-width: 90px;
+  }
+  .publish-viewdetail .total-sold .box h1 {
+    text-align: center;
+  }
+  .publish-viewdetail .total-sold .box {
+    padding: 15px 0px;
+  }
+  .publish-viewdetail .total-sold h3 {
+    font-size: 13px;
+  }
+  .publish-viewdetail .total-sold .box h4 {
+    font-size: 14px;
+    margin-bottom: 11px;
+  }
+  .publish-book-detail {
+    padding: 30px 0px;
+  }
+  .publish-book-detail h3 {
+    font-size: 16px;
+    line-height: 23px;
+    margin-bottom: 30px;
+  }
+  .publish-book-detail .form-group label {
+    font-size: 14px;
+  }
+
+  ::-webkit-scrollbar {
+    height: 7px;
+  }
+  .myProductSales .tabpart {
+    gap: 18px;
+  }
+  .myProductSales .mainBox .imgPart {
+    height: 90px;
+    width: 90px;
+  }
+  .myProductSales .mainBox h2 {
+    font-size: 14px;
+  }
+  .myProductSales .saleReport {
+    margin: 30px 0px;
+  }
+  .myProductSales .saleReport .mainheading h3 {
+    font-size: 16px;
+  }
+  .myProductSales .saleReport .tablePart .tabs {
+    margin: 20px 0px 20px;
+  }
+  .scrolling {
+    flex-wrap: initial !important;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  .scrolling::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: none;
+  }
+  .myProductSales .saleReport .tablePart .tabs button {
+    padding: 6px 0px;
+    min-width: 90px;
+  }
+  .tablePart ::-webkit-scrollbar-thumb {
+    background: none;
+  }
+  .myProductSales .soldPart .productSold h3 {
+    font-size: 20px;
+  }
+  .myProductSales .soldPart .productSold h4 {
+    font-size: 14px;
+  }
+  .myProductSales .soldPart .productSold h5 {
+    font-size: 16px;
+  }
+  .myProductSales .soldPart .productSold {
+    padding: 20px 0px;
+  }
+  .myProductSales .totalSaleproduct .sale {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .myProductSales .totalSaleproduct .sale h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .addProductSection .ant-steps.ant-steps-vertical {
+    display: flex;
+    flex-direction: revert;
+  }
+  .addProductSection
+    .ant-steps
+    .ant-steps-item-finish
+    > .ant-steps-item-container
+    > .ant-steps-item-tail::after {
+    background-color: #54b434;
+  }
+  .addProductSection .allSteping h2 {
+    font-size: 16px;
+  }
+  .receiptModal .ant-modal-body img {
+    width: 100%;
+  }
+  .receiptModal .ant-modal-content {
+    padding: 24px 24px;
+  }
+  .publishProduct .heading h1 {
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  .publishProduct .productSection .productPart {
+    flex: 1 0 calc(100% - 0px);
+  }
+  .publishProduct .productSection .picPart img {
+    padding-right: 10px;
+  }
+  .publishProduct .productSection a.btn.detail {
+    font-size: 12px;
+    padding: 4px 10px;
+  }
+  .publishProduct .productSection .textPart h3 {
+    font-size: 14px;
+  }
+  .signAgreement {
+    width: 100%;
+  }
+  .addProductSection .stepThirdData .addressAdd input.contact-input {
+    width: 90%;
+  }
+  .receiptModal .ant-modal-body p {
+    padding: 16px 20px;
+  }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+  .publish-book .img-publish {
+    width: 350px;
+  }
+  .publish-sign-successful .support-btn li {
+    width: 200px;
+  }
+
+  .publish-books-tab li.nav-item {
+    width: 120px;
+  }
+  .publish-books-tab li.nav-item a {
+    padding: 14px 0px 14px;
+  }
+
+  .myProductSales .totalSaleproduct .sale {
+    width: 50%;
+    margin-bottom: 20px;
+  }
+
+  .publishProduct .productSection .productPart {
+    flex: 0 0 calc(49% - 16px);
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 639px) {
+  .publish-sign-successful .support-btn li {
+    width: 190px;
+  }
+
+  .publish-books-tab li.nav-item {
+    width: 120px;
+  }
+  .publish-books-tab li.nav-item a {
+    padding: 14px 0px 14px;
+  }
+}

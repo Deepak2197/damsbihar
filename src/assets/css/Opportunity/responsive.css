@@ -1,0 +1,401 @@
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+  /*** Create Post  ***/
+  .createPost .tabbingPart li.nav-item {
+    width: 82px;
+  }
+  .createPost .tabbingPart button.nav-link {
+    width: 82px;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    padding-bottom: 8px;
+    scrollbar-width: thin;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills::-webkit-scrollbar {
+    height: 4px;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills::-webkit-scrollbar-thumb {
+    background: #c4c4c4;
+    border-radius: 4px;
+  }
+  .createPost .tabbingPart li.nav-item {
+    flex: 0 0 80px;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  /*** Home Opportunity Section ***/
+  .opportunityPart .opportunitySec .topPart .imgpart img {
+    width: 42px;
+    height: 42px;
+    border-radius: 50px;
+    margin-right: 10px;
+  }
+  .OppOrtunity .opportunityPart {
+    padding: 20px 40px;
+  }
+
+  /*** Create Post  ***/
+  .createPost .tabbingPart li.nav-item {
+    width: 82px;
+  }
+  .createPost .tabbingPart button.nav-link {
+    width: 82px;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    padding-bottom: 8px;
+    scrollbar-width: thin;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills::-webkit-scrollbar {
+    height: 4px;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills::-webkit-scrollbar-thumb {
+    background: #c4c4c4;
+    border-radius: 4px;
+  }
+  .createPost .tabbingPart li.nav-item {
+    flex: 0 0 80px;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  /*** Home Opportunity Section ***/
+  .opportunityPart .opportunitySec .textPart p {
+    font-size: 14px;
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    line-clamp: 6;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .opportunityPart .setBoxWidth {
+    display: flex;
+    overflow-x: auto;
+    gap: 1rem;
+    padding-inline: 1rem;
+    scroll-snap-type: x mandatory;
+  }
+  .opportunityPart .opportunitySec {
+    flex: 0 0 80%;
+    max-width: 24rem;
+    scroll-snap-align: start;
+  }
+  .opportunityPart .setBoxWidth {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .opportunityPart .setBoxWidth::-webkit-scrollbar {
+    display: none;
+  }
+  .opportunityPart
+    .setBoxWidth:is(:hover, :active, :focus-visible)::-webkit-scrollbar {
+    display: block;
+    height: 0.4rem;
+  }
+  .opportunityPart
+    .setBoxWidth:is(:hover, :active, :focus-visible)::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.25);
+    border-radius: 9999px;
+  }
+  .opportunityPart .setBoxWidth::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 9999px;
+  }
+  .opportunityPart .setBoxWidth::-webkit-scrollbar {
+    height: 0.5rem;
+  }
+  .opportunityPart .setBoxWidth::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 9999px;
+  }
+  .opportunityPart .opportunitySec {
+    scroll-snap-align: start;
+    flex: 0 0 auto;
+  }
+  .opportunityPart .opportunitySec .topPart .imgpart img {
+    width: 50px;
+    height: 50px;
+    margin-right: 16px;
+  }
+
+  /*** Create Post  ***/
+  .createPost .tabbingPart li.nav-item {
+    width: 82px;
+  }
+  .createPost .tabbingPart button.nav-link {
+    width: 82px;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    padding-bottom: 8px;
+    scrollbar-width: thin;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills::-webkit-scrollbar {
+    height: 4px;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills::-webkit-scrollbar-thumb {
+    background: #c4c4c4;
+    border-radius: 4px;
+  }
+  .createPost .tabbingPart li.nav-item {
+    flex: 0 0 80px;
+  }
+}
+@media only screen and (min-width: 845px) and (max-width: 991px) {
+}
+@media only screen and (min-width: 812px) and (max-width: 844px) {
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /*** Home Opportunity Section ***/
+  .opportunityPart .opportunitySec .textPart p {
+    font-size: 14px;
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    line-clamp: 6;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .opportunityPart .setBoxWidth {
+    display: flex;
+    overflow-x: auto;
+    gap: 1rem;
+    padding-inline: 1rem;
+    scroll-snap-type: x mandatory;
+  }
+  .opportunityPart .opportunitySec {
+    flex: 0 0 80%;
+    max-width: 24rem;
+    scroll-snap-align: start;
+  }
+  .opportunityPart .setBoxWidth {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .opportunityPart .setBoxWidth::-webkit-scrollbar {
+    display: none;
+  }
+  .opportunityPart
+    .setBoxWidth:is(:hover, :active, :focus-visible)::-webkit-scrollbar {
+    display: block;
+    height: 0.4rem;
+  }
+  .opportunityPart
+    .setBoxWidth:is(:hover, :active, :focus-visible)::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.25);
+    border-radius: 9999px;
+  }
+  .opportunityPart .setBoxWidth::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 9999px;
+  }
+  .opportunityPart .setBoxWidth::-webkit-scrollbar {
+    height: 0.5rem;
+  }
+  .opportunityPart .setBoxWidth::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 9999px;
+  }
+  .opportunityPart .opportunitySec {
+    scroll-snap-align: start;
+    flex: 0 0 auto;
+  }
+  .opportunityPart .opportunitySec .topPart .imgpart img {
+    width: 42px;
+    height: 42px;
+    margin-right: 12px;
+  }
+
+  /*** Create Post  ***/
+  .createPost .tabbingPart li.nav-item {
+    width: 82px;
+  }
+  .createPost .tabbingPart button.nav-link {
+    width: 82px;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    padding-bottom: 8px;
+    scrollbar-width: thin;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills::-webkit-scrollbar {
+    height: 4px;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills::-webkit-scrollbar-thumb {
+    background: #c4c4c4;
+    border-radius: 4px;
+  }
+  .createPost .tabbingPart li.nav-item {
+    flex: 0 0 80px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  /*** Home Opportunity Section ***/
+  .oppoHead .topSecHead {
+    padding: 24px 24px 0px;
+  }
+  .oppoHead .topSecHead h2 {
+    font-size: 18px;
+  }
+  .oppoHead .topSecHead a {
+    font-weight: 500;
+  }
+  .OppOrtunity .opportunityPart {
+    padding: 24px 24px;
+  }
+  .opportunityPart .opportunitySec .textPart p {
+    font-size: 14px;
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    line-clamp: 6;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .opportunityPart .setBoxWidth {
+    display: flex;
+    overflow-x: auto;
+    gap: 1rem;
+    padding-inline: 1rem;
+    scroll-snap-type: x mandatory;
+  }
+  .opportunityPart .opportunitySec {
+    flex: 0 0 80%;
+    max-width: 20rem;
+    scroll-snap-align: start;
+  }
+  .opportunityPart .setBoxWidth {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .opportunityPart .setBoxWidth::-webkit-scrollbar {
+    display: none;
+  }
+  .opportunityPart
+    .setBoxWidth:is(:hover, :active, :focus-visible)::-webkit-scrollbar {
+    display: block;
+    height: 0.4rem;
+  }
+  .opportunityPart
+    .setBoxWidth:is(:hover, :active, :focus-visible)::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.25);
+    border-radius: 9999px;
+  }
+  .opportunityPart .setBoxWidth::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 9999px;
+  }
+  .opportunityPart .setBoxWidth::-webkit-scrollbar {
+    height: 0.5rem;
+  }
+  .opportunityPart .setBoxWidth::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 9999px;
+  }
+  .opportunityPart .opportunitySec {
+    scroll-snap-align: start;
+    flex: 0 0 auto;
+  }
+  .opportunityPart .opportunitySec .topPart .imgpart img {
+    width: 42px;
+    height: 42px;
+    margin-right: 12px;
+  }
+  .opportunityPart .opportunitySec .topPart .imgtext p {
+    font-size: 13px;
+  }
+  .opportunityPart .opportunitySec .topPart .imgtext .icons li {
+    height: 4px;
+    width: 4px;
+  }
+
+  /*** Opportunity Section ***/
+  .OppOrtunity .createBtn {
+    margin-top: 30px;
+  }
+  .OppOrtunity .Located a {
+    font-size: 14px;
+  }
+
+  /*** Location Modal Section ***/
+  .locateModal .chooseState h4 {
+    font-size: 16px;
+  }
+  .locateModal .chooseState h5 {
+    font-size: 14px;
+  }
+  .locateModal .chooseState ul li {
+    font-size: 14px;
+    padding: 12px 0px;
+  }
+
+  /*** Create Post  ***/
+  .createPost .tabbingPart li.nav-item {
+    width: 82px;
+  }
+  .createPost .tabbingPart button.nav-link {
+    width: 82px;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    padding-bottom: 8px;
+    scrollbar-width: thin;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills::-webkit-scrollbar {
+    height: 4px;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .createPost .tabbingPart ul.nav.nav-pills::-webkit-scrollbar-thumb {
+    background: #c4c4c4;
+    border-radius: 4px;
+  }
+  .createPost .tabbingPart li.nav-item {
+    flex: 0 0 80px;
+  }
+  .createPost .createPostPart .btnSecNew span.photVido {
+    display: none;
+  }
+  .createPost .createPostPart .btnSecNew span.attafile {
+    display: none;
+  }
+  .createPost .createPostPart .btnSec button {
+    background: #ed633d;
+  }
+  .createPost .createPostPart .topPart .imgtext span {
+    font-size: 12px;
+  }
+  .createPost .pollSection .topPart .imgtext span {
+    font-size: 12px;
+  }
+  .createPost .pollQuestion {
+    padding: 10px 10px;
+  }
+  .createPost .pollQuestion .ant-row {
+    row-gap: 0px !important;
+  }
+  .createPost .pollQuestion input.setOfinput {
+    font-size: 15px;
+  }
+  .createPost .pollQuestion .form-control {
+    font-size: 12px;
+  }
+}

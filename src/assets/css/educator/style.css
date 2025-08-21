@@ -1,0 +1,1446 @@
+a {
+    text-decoration: none!important;
+}
+
+.pt-social-link ul li a em.fa-facebook:before {
+    content: "\f09a";
+    font-family: FontAwesome;
+    font-weight: 400;
+}
+
+.pt-social-link ul li a em.fa-instagram:before {
+    content: "\f16d";
+    font-family: FontAwesome;
+    font-weight: 400;
+}
+
+.pt-social-link ul li a em.fa-twitter:before {
+    content: "\f099";
+    font-family: FontAwesome;
+    font-weight: 400;
+}
+
+.pt-social-link ul li a em.fa-pinterest-p:before {
+    content: "\f231";
+    font-family: FontAwesome;
+    font-weight: 400;
+}
+
+.container {
+    max-width: 1400px !important;
+    width: 92% !important;
+}
+
+.header-data {
+    margin: 0px 0px 0px;
+}
+
+.header-data .menu-logo p {
+    color: #000000;
+    /* font-family: Roboto; */
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    margin-top: 10px;
+    line-height: 0;
+    margin-bottom: 0;
+}
+
+.header-data .menu-logo img {
+    max-height: 48px;
+    width: auto;
+    max-width: 100%;
+    margin-top: 6px;
+}
+
+.headbrd {
+    background: url(http://emedicoz.com/assets/newjs/img/about/Path_6812.png);
+    background-position: -30px;
+    background-repeat: no-repeat;
+    background-size: 132px;
+}
+
+
+.header-transparent .menu-bar {
+    background-color: #fff;
+    box-shadow: 1px 3px 24px rgb(0 0 0 / 14%);
+    padding: 12px 0px;
+}
+
+.search_input_login {
+    width: 300px;
+}
+
+img.locate-img-a {
+    width: 26px;
+    height: 26px;
+    margin-left: 5px;
+}
+
+.search_icon {
+    border-radius: 50%;
+    height: auto;
+    width: auto!important;
+    display: block !important;
+}
+
+.search_icon em.fa.fa-search {
+    color: #2e90cf;
+    position: absolute;
+    top: 9px;
+    right: 15px;
+}
+
+.searchbar {
+    border: 0px !important
+}
+
+.searchbar input[type="text"] {
+    height: auto;
+    border-radius: 100px;
+    background-color: #ebf4fa !important;
+    border: 0px !important;
+    padding: 5px 20px;
+    font-size: 14px;
+}
+
+::placeholder {
+    color: #2e90cf;
+}
+
+*:-ms-input-placeholder {
+    color: #2e90cf !important;
+}
+
+ ::-ms-input-placeholder {
+    color: #2e90cf !important;
+}
+
+.header-transparent .menu-links .nav>li>a,
+.header-transparent .navbar-toggler,
+.header-transparent .secondary-menu .btn-link,
+.header-transparent .menu-links .nav>li>a:hover {
+    color: #fff;
+    text-align: center;
+    font-weight: 500;
+}
+
+.cours-bx .info-bx {
+    padding: 15px;
+}
+
+.cours-more-info .review,
+.course-detail-bx .cours-more-info .price {
+    width: 50%;
+}
+
+.price {
+    display: flex;
+    text-align: left;
+}
+
+.cours-more-info {
+    justify-content: space-evenly;
+}
+
+.cours-star li.active {
+    color: #ffc700;
+}
+
+
+.loginbtnSignupbtn {
+    display: inline-block;
+    width: 31%;
+    background: #095fb6;
+    text-align: center;
+    margin-top: 10px!important;
+    border-top: 1px solid #095fb6!important;
+    border-radius: 30px!important;
+}
+
+.loginbtnSignupbtn:hover {
+    background: transparent;
+    color: #095fb6 !important;
+}
+
+.cours-bx .info-bx {
+    padding: 10px;
+}
+
+.index-btn {
+    width: 49%;
+}
+
+#output {
+    width: 100%;
+    height: 500px;
+    border: 2px solid #3d9bf3;
+    border-radius: 5px;
+    background: #fff;
+}
+
+.profile-bx {
+    background: #fff;
+    border-radius: 5px;
+}
+
+.slider .owl-nav {
+    margin-top: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+}
+
+.slider .owl-nav .owl-next,
+.slider .owl-nav .owl-prev {
+    position: absolute;
+    top: 0;
+    transform: translateY(-50%);
+    background: transparent !important;
+    color: #298ee2 !important;
+}
+
+.slider .owl-nav .owl-next {
+    right: -25px;
+}
+
+.slider .owl-nav .owl-prev {
+    left: -25px;
+}
+
+.header-transparent .navbar-toggler span {
+    background-color: #3f9bf3;
+}
+
+
+/* Begin: Educator Home page */
+
+
+.group-icon {
+    margin: 70px 0px 30px;
+}
+
+.group-icon .group-border {
+    border-bottom: 1px solid #757575ab;
+    padding-bottom: 25px;
+}
+
+.group-icon .icon-text {
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.24);
+    border-radius: 16px;
+    background-color: #ffffff;
+    text-align: center;
+    padding: 20px 0px;
+    margin-bottom: 30px;
+}
+
+.group-icon .icon-text img {
+    height: 32px;
+}
+
+.group-icon .icon-text h4 {
+    margin: 0px;
+    color: #212121;
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 9px;
+}
+
+.group-icon .interact img {
+    width: 45px;
+}
+
+.schedule-tab {
+    margin: 60px 0px 70px;
+}
+
+.schedule-tab h2 {
+    color: #212121;
+    font-family: Nunito;
+    font-size: 21px;
+    margin: 0px;
+    line-height: 20px;
+    font-weight: 700;
+}
+
+.schedule-tab .tabbing {
+    margin-top: 30px;
+}
+
+.schedule-tab .tabbing .tab-content {
+    margin-top: 40px;
+}
+
+.schedule-tab .tabbing .nav-item a.nav-link {
+    border-radius: 4px;
+    background-color: #e0e0e0;
+    color: #757575;
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 14px;
+    width: 140px;
+    padding: 15px 0px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.schedule-tab .tabbing .nav-item a.nav-link.calender {
+    width: 200px;
+    padding: 7px 0px;
+}
+
+.schedule-tab .tabbing .nav-item a.nav-link.calender img {
+    height: 30px;
+    margin-right: 6px;
+}
+
+.schedule-tab .tabbing .nav-item a.nav-link.active {
+    box-shadow: 0 3px 10px rgb(0 0 0 / 24%);
+    border-radius: 4px;
+    background-color: #ffffff;
+    color: #0096ff;
+}
+
+.schedule-tab .tabbing .tab-content .cal-group {
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.24);
+    border-radius: 16px;
+    background-color: #ffffff;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.schedule-tab .tabbing .tab-content .cal-group h3 {
+    color: #212121;
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0px;
+    line-height: 21px;
+}
+
+.schedule-tab input[type="date"] {
+    position: relative;
+    padding: 9px 6px;
+    font-size: 15px;
+    border-radius: 5px;
+    font-weight: 500;
+    color: #757575;
+    border: 1px solid #e0e0e0;
+}
+
+.schedule-tab input[type="date"]:after {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f073";
+    color: #757575;
+    padding: 0 5px;
+}
+
+.schedule-tab input[type="date"]:hover:after {
+    color: #757575;
+}
+
+.schedule-tab input[type="date"]::-webkit-calendar-picker-indicator {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    color: transparent;
+    background: transparent;
+}
+
+.schedule-tab input[type="date"]::-webkit-inner-spin-button {
+    z-index: 1;
+}
+
+.schedule-tab input[type="date"]::-webkit-clear-button {
+    z-index: 1;
+}
+
+.schedule-tab span.sdate {
+    color: #757575;
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 7px;
+}
+
+
+/* End: Schedule section */
+
+
+/* End Educator Home page */
+
+.my-class {
+    margin: 70px 0px;
+}
+
+.my-class h2 {
+    color: #212121;
+    font-family: Nunito;
+    font-size: 21px;
+    font-weight: 700;
+    margin: 0px;
+    line-height: 20px;
+}
+
+.my-class .tabbing {
+    margin-top: 30px;
+}
+
+.my-class .tabbing .tab-content {
+    margin-top: 40px;
+}
+
+.my-class .tabbing .nav-item a.nav-link {
+    border-radius: 4px;
+    background-color: #e0e0e0;
+    color: #757575;
+    font-family: Nunito;
+    font-size: 15px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 14px;
+    width: 140px;
+    padding: 15px 0px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.my-class .tabbing .nav-item a.nav-link.calender {
+    width: 150px;
+    padding: 7px 0px;
+}
+
+.schedule-tab .tabbing .nav-item a.nav-link.calender img {
+    height: 28px;
+    margin-right: 6px;
+}
+
+.my-class .tabbing .nav-item a.nav-link.active {
+    box-shadow: 0 3px 10px rgb(0 0 0 / 24%);
+    border-radius: 4px;
+    background-color: #ffffff;
+    color: #0096ff;
+}
+
+.my-class .tabbing .nav-item a.nav-link.calender img {
+    height: 28px;
+    margin-right: 6px;
+}
+
+.my-class .tabbing .tab-content .course-group {
+    box-shadow: 0 6px 16px rgb(0 0 0 / 24%);
+    border-radius: 12px;
+    background-color: #ffffff;
+    padding: 15px 15px 15px;
+    height: auto;
+}
+
+.my-class .tabbing .tab-content .course-group .thumbnailbg {
+    border-radius: 8px;
+    background-color: #0000005c;
+    width: auto;
+}
+
+.my-class .tabbing .tab-content .course-group .thumbnailbg .live {
+    color: #ffffff;
+    font-family: Nunito;
+    font-weight: 600;
+    box-shadow: 1px 1px 8px rgb(0 0 0 / 16%);
+    border-radius: 4px;
+    background-color: #d32f2f;
+    position: absolute;
+    left: 2px;
+    top: 4px;
+    width: 45px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.my-class .tabbing .tab-content .course-group .fmge h3 {
+    color: #0096ff;
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+
+.my-class .tabbing .tab-content .course-group .fmge p {
+    line-height: 21px;
+    margin-bottom: 0;
+    font-size: 12px;
+    font-weight: 500;
+    /* display: inline-block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden!important;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical; */
+}
+
+.my-class .tabbing .tab-content .course-group .fmge span.time {
+    color: #757575;
+    font-family: Nunito;
+    font-size: 13px;
+    font-weight: 600;
+    margin: 10px 0px 0;
+    display: inline-block;
+}
+
+.my-class .tabbing .tab-content .course-group .fmge .fa-clock:before {
+    content: "\f017";
+    font-family: FontAwesome;
+    font-weight: 400;
+}
+
+.my-class .tabbing .tab-content .course-group .fmge span.time em {
+    margin-right: 6px;
+    /* rotate: 103deg; */
+    font-size: 15px;
+}
+
+.my-class .tabbing .tab-content .course-group .fmge .join-img h3 {
+    color: #212121;
+    font-family: Nunito;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover {
+    margin: 15px 0px;
+}
+
+.my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover img {
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    margin: 0 -8px 0 0px;
+    object-fit: cover;
+    object-position: center right;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.24);
+    border: 1px solid #0096ff;
+}
+
+.my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover span {
+    color: #757575;
+    font-family: Nunito;
+    font-weight: 400;
+    font-size: 10px;
+    padding-left: 10px;
+}
+
+.my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover img.wifi {
+    width: 15px;
+    height: 10px;
+    border: 0px;
+    margin-left: 10px;
+    box-shadow: 0 0 0 0px;
+    border-radius: 0px;
+}
+
+.my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover .fa-icon img {
+    width: 14px;
+    height: 15px;
+    border: 0px;
+    margin-left: 12px;
+    margin-right: 3px;
+    box-shadow: 0 0 0 0px;
+    border-radius: 0px;
+}
+
+
+/* .my-class .tabbing .tab-content .course-group .fmge .join-img .fa-commenting-o:before {
+    content: "\f27b";
+    font-family: FontAwesome;
+    font-size: 13px;
+    font-weight: 400;
+    margin-right: -2px;
+} */
+
+
+/* .my-class .tabbing .tab-content .course-group .link {
+    margin-top: 25px;
+}
+
+.my-class .tabbing .tab-content .course-group .link li {
+    list-style: none;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    box-shadow: 1px 1px 6px rgb(0 0 0 / 29%);
+    background-color: #ffffff;
+    border-radius: 100px;
+    padding: 5px 7px;
+    margin-right: 10px;
+}
+
+.my-class .tabbing .tab-content .course-group .link li img {
+    width: 20px;
+    height: 18px;
+}
+
+.my-class .tabbing .tab-content .course-group .fmge .link a.join {
+    box-shadow: 1px 1px 8px rgb(0 0 0 / 16%);
+    border-radius: 4px;
+    background-color: #0096ff;
+    display: inline-block;
+    color: #ffffff;
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 17px;
+    padding: 8px 0px;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.my-class .tabbing .tab-content .course-group .link ul {
+    float: right;
+} */
+
+.my-class li.nav-item.selectDate {
+    border-radius: 4px;
+    background-color: #e0e0e0;
+    padding: 0 10px 0 0px;
+}
+
+.my-class input[type="date"] {
+    position: relative;
+    padding: 9px 0px 0 6px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #757576;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    background-color: #e0e0e0;
+}
+
+.my-class input[type="date"]:after {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f073";
+    color: #757575;
+    padding: 0 5px;
+    margin-left: -18px;
+}
+
+.my-class input[type="date"]:hover:after {
+    color: #757575;
+}
+
+.my-class input[type="date"]::-webkit-calendar-picker-indicator {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    color: transparent;
+    background: transparent;
+}
+
+.my-class input[type="date"]::-webkit-inner-spin-button {
+    z-index: 1;
+}
+
+.my-class input[type="date"]::-webkit-clear-button {
+    z-index: 1;
+}
+
+.my-class span.sdate {
+    color: #757575;
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.my-class .course-group a.join-now {
+    box-shadow: 1px 1px 8px rgb(0 0 0 / 16%);
+    border-radius: 4px;
+    background-color: #0096ff;
+    color: #ffffff;
+    font-family: Nunito;
+    font-size: 17px;
+    font-weight: 600;
+    display: inline-block;
+    padding: 8px 0px;
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+/* Begin: My schedule page*/
+
+.my-schedule {
+    margin: 60px 0px;
+}
+
+.my-schedule .select-date {
+    margin-bottom: 40px;
+    color: #212121;
+    font-family: Nunito;
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.my-schedule input[type="date"] {
+    position: relative;
+    border: 1px solid #095fb626;
+    margin-left: 15px;
+    padding: 0 10px;
+    font-size: 17px;
+    color: #0096ff;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.my-schedule input[type="date"]:after {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f073";
+    color: #0096ff;
+    padding: 0 5px;
+}
+
+.my-schedule input[type="date"]:hover:after {
+    color: #0096ff;
+}
+
+.my-schedule input[type="date"]::-webkit-calendar-picker-indicator {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    color: transparent;
+    background: transparent;
+}
+
+.my-schedule input[type="date"]::-webkit-inner-spin-button {
+    z-index: 1;
+}
+
+.my-schedule input[type="date"]::-webkit-clear-button {
+    z-index: 1;
+}
+
+.my-schedule span.selectDate {
+    color: #0096ff;
+}
+
+.my-schedule span.selectDate span.sdate {
+    margin-left: 14px;
+    color: #0096ff;
+    font-family: Nunito;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.my-schedule .month-wise {
+    text-align: center;
+    color: #212121;
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.my-schedule .month-wise a {
+    color: #212121;
+}
+
+.my-schedule .month-wise span.middle {
+    padding: 0 15px;
+}
+
+.my-schedule .month-wise .fa-angle-left::before {
+    content: "\f104";
+    font-family: FontAwesome;
+}
+
+.my-schedule .month-wise .fa-angle-right::before {
+    content: "\f105";
+    font-family: FontAwesome;
+}
+
+.my-schedule .calender-view {
+    margin-top: 40px;
+}
+
+.my-schedule .calender-view th {
+    color: #212121;
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    border: 0px !important;
+}
+
+.my-schedule .calender-view td {
+    color: #212121;
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    border: 1px solid #bdbdbd99;
+    padding: 15px 0px;
+    height: 250px;
+    width: 170px;
+    min-width: 170px;
+}
+
+.my-schedule .calender-view .note a {
+    border-radius: 2px;
+    background-color: #fae4fc;
+    display: inline-block;
+    line-height: 22px;
+    width: 200px;
+    margin-top: 20px;
+    color: #d602ee;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.my-schedule .calender-view .note span {
+    color: #212121;
+    font-family: Nunito;
+    font-size: 10px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 14px;
+}
+
+.my-schedule .calender-view .rme a {
+    border-radius: 2px;
+    background-color: #ffebee;
+    display: inline-block;
+    line-height: 22px;
+    width: 200px;
+    margin-top: 6px;
+    font-size: 12px;
+    color: #ef5350;
+    font-weight: 600;
+}
+
+.my-schedule .calender-view .pool a {
+    border-radius: 2px;
+    background-color: #e1f5fe;
+    display: inline-block;
+    line-height: 22px;
+    width: 200px;
+    margin-top: 6px;
+    font-size: 12px;
+    color: #29b6f6;
+    font-weight: 600;
+}
+
+.my-schedule .calender-view .join a {
+    border-radius: 2px;
+    background-color: #e8f5e9;
+    display: inline-block;
+    line-height: 22px;
+    width: 200px;
+    margin-top: 6px;
+    font-size: 12px;
+    color: #66bb6a;
+    font-weight: 600;
+}
+
+.copybg {
+    font-size: 15px;
+}
+
+
+/* End: My schedule page */
+
+@media only screen and (min-width:1330px) and (max-width:1440px) {
+    .menu-links .nav>li {
+        padding: 0px 8px !important;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge h3 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .my-schedule .calender-view td {
+        width: 220px;
+        min-width: 220px;
+    }
+    .my-class .tabbing .tab-content .course-group .link li {
+        padding: 4px 6px;
+        margin-right: 10px;
+        width: 35px;
+        height: 35px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover .fa-icon img {
+        margin-left: -8px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover {
+        margin: 10px 0px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge .join-img h3 {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1329px) {
+    .menu-links .nav>li {
+        padding: 0px 9px !important;
+    }
+    .searchbar input[type="text"] {
+        padding: 6px 10px;
+    }
+    .menu-links .nav li a {
+        font-size: 14px !important;
+    }
+    .group-icon .icon-text h4 {
+        font-size: 14px;
+    }
+    .group-icon .icon-text {
+        padding: 15px 0px;
+    }
+    .group-icon .icon-text img {
+        height: 30px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge h3 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .my-class .tabbing .tab-content .course-group .link li {
+        width: 30px;
+        height: 30px;
+        padding: 4px 5px;
+    }
+    .my-schedule .calender-view td {
+        width: 220px;
+        min-width: 220px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge p {
+        line-height: 17px;
+        font-size: 10px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover {
+        margin: 10px 0px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover .fa-icon img {
+        margin-left: -6px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover span {
+        padding-left: 10px;
+        font-size: 7px;
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .headbrd {
+        background-size: 100px;
+    }
+    .header-data .menu-logo p {
+        font-size: 11px;
+    }
+    .header-transparent .menu-bar {
+        padding: 0px 0px;
+    }
+    .menu-logo {
+        padding: 0 15px !important;
+    }
+    .menu-links .nav>li {
+        padding: 0px 6px !important;
+    }
+    .menu-links .nav li a {
+        font-size: 11px !important;
+    }
+
+    .searchbar input[type="text"] {
+        padding: 5px 5px;
+        font-size: 12px;
+    }
+    .group-icon .icon-text h4 {
+        font-size: 12px;
+    }
+    .group-icon .icon-text img {
+        height: 25px;
+    }
+    .group-icon .icon-text {
+        padding: 10px 0px;
+    }
+    .my-schedule .calender-view td {
+        width: 225px;
+        min-width: 225px;
+    }
+    .schedule-tab h2 {
+        font-size: 17px;
+    }
+    .schedule-tab .tabbing .nav-item a.nav-link {
+        font-size: 13px;
+        width: 105px;
+        padding: 11px 0px;
+    }
+    .schedule-tab input[type="date"] {
+        padding: 7px 6px;
+        font-size: 13px;
+    }
+    .schedule-tab span.sdate {
+        font-size: 13px;
+    }
+    .schedule-tab .tabbing .tab-content .cal-group {
+        height: 100px;
+    }
+    .schedule-tab .tabbing .tab-content .cal-group h3 {
+        font-size: 15px;
+    }
+    .my-class h2 {
+        font-size: 17px;
+    }
+    .my-class .tabbing .nav-item a.nav-link {
+        font-size: 13px;
+        width: 105px;
+        padding: 11px 0px;
+    }
+    .my-class input[type="date"] {
+        padding: 7px 6px;
+        font-size: 13px;
+    }
+    .my-class span.sdate {
+        font-size: 13px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge h3 {
+        font-size: 11px;
+        margin-bottom: 3px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge span.rating {
+        font-size: 10px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge span.enrolled {
+        width: 100px;
+        font-size: 11px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge span.start {
+        font-size: 12px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge span.time {
+        font-size: 12px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge span.time em {
+        font-size: 13px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge .link a.join {
+        font-size: 12px;
+        padding: 4px 0px;
+        width: 35%;
+    }
+    .my-class .tabbing .tab-content .course-group .link li {
+        padding: 4px 6px;
+        margin-right: 10px;
+        width: 30px;
+        height: 30px;
+    }
+    .my-class .tabbing .tab-content .course-group .link {
+        margin-top: 10px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge p {
+        line-height: 17px;
+        font-size: 10px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover {
+        margin: 10px 0px;
+    }
+    .my-class .course-group a.join-now {
+        font-size: 15px;
+        padding: 6px 0px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge {
+        margin: 0px -15px !important;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .headbrd {
+        background-size: 100px;
+    }
+    .header-data .menu-logo p {
+        font-size: 12px;
+    }
+    .menu-logo {
+        padding: 0 12px !important;
+    }
+    .collapse.show {
+        background: #095fb6;
+    }
+    .collapse.show .nav {
+        background: #e2e7ec !important;
+    }
+    .search_input_login {
+        width: 82%;
+    }
+    .slider .owl-nav .owl-prev {
+        left: -10px;
+    }
+    .slider .owl-nav .owl-next {
+        right: -10px;
+    }
+   
+    .header-transparent .menu-bar {
+        padding: 0px 0px;
+    }
+   
+    .group-icon .icon-text img {
+        height: 25px;
+    }
+    .group-icon .icon-text h4 {
+        font-size: 12px;
+    }
+    .group-icon .icon-text {
+        padding: 12px 0px;
+        margin-bottom: 20px;
+    }
+    .schedule-tab h2 {
+        font-size: 17px;
+    }
+    .schedule-tab .tabbing .nav-item a.nav-link {
+        width: 100px;
+        padding: 12px 0px;
+        font-size: 13px;
+        margin-right: 15px;
+    }
+    .schedule-tab input[type="date"] {
+        padding: 7px 6px;
+        font-size: 13px;
+    }
+    .schedule-tab span.sdate {
+        font-size: 14px;
+    }
+    .schedule-tab .tabbing .tab-content .cal-group h3 {
+        font-size: 16px;
+    }
+    .schedule-tab .tabbing .tab-content .cal-group {
+        height: 85px;
+    }
+    .my-class h2 {
+        font-size: 17px;
+    }
+    .my-class .tabbing .nav-item a.nav-link {
+        width: 100px;
+        padding: 12px 0px;
+        font-size: 13px;
+        margin-right: 15px;
+    }
+    .my-class input[type="date"] {
+        padding: 7px 6px;
+        font-size: 13px;
+    }
+    .my-classspan.sdate {
+        font-size: 14px;
+    }
+    .my-class .tabbing .tab-content .cal-group h3 {
+        font-size: 16px;
+    }
+    .my-class .tabbing .tab-content .cal-group {
+        height: 85px;
+    }
+    .my-class .tabbing .tab-content .course-group {
+        margin-bottom: 30px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge h3 {
+        font-size: 14px;
+        margin-bottom: 4px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge {
+        margin: 0px -15px !important;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover img {
+        width: 15px;
+        height: 15px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover .fa-icon img {
+        width: 11px;
+        height: 12px;
+        margin-left: -10px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge span.rating {
+        width: 50px;
+        height: 21px;
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge .link a.join {
+        font-size: 12px;
+        padding: 5px 0px;
+        width: 40%;
+    }
+    .my-class .tabbing .tab-content .course-group .link li {
+        width: 35px;
+        height: 35px;
+        padding: 6px 8px;
+        margin-left: 10px;
+    }
+    .my-schedule .calender-view td {
+        min-width: 215px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge p {
+        line-height: 18px;
+        font-size: 11px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover {
+        margin: 10px 0px;
+    }
+    .my-class .course-group a.join-now {
+        padding: 8px 0px;
+        font-size: 15px;
+    }
+    .my-schedule #header {
+        font-size: 17px;
+    }
+    .my-schedule #weekdays div {
+        width: 15% !important;
+    }
+    .my-schedule .day {
+        width: 15% !important;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .pt-social-link ul {
+        margin-right: 30px !important;
+    }
+    .footer-bottom .copybg {
+        font-size: 12px !important;
+    }
+    .collapse.show {
+        background: #095fb6;
+    }
+    .collapse.show .nav {
+        background: #d3d9df !important;
+    }
+    
+    .slider .owl-nav .owl-prev {
+        left: -10px;
+    }
+    .slider .owl-nav .owl-next {
+        right: -10px;
+    }
+    
+    .header-transparent .menu-bar {
+        padding: 0px 0px;
+        margin: 0;
+    }
+    .headbrd {
+        background-size: 100px;
+    }
+    .menu-logo {
+        padding: 0px 20px !important;
+    }
+    .header-data .menu-logo p {
+        font-size: 10px;
+        margin-top: 8px;
+    }
+   
+    .group-icon .icon-text {
+        padding: 10px 0px;
+        margin-bottom: 15px;
+    }
+    .group-icon .icon-text img {
+        height: 25px;
+    }
+    .group-icon .icon-text h4 {
+        font-size: 12px;
+    }
+    .schedule-tab h2 {
+        font-size: 16px;
+    }
+    .schedule-tab .tabbing .nav-item a.nav-link {
+        width: 75px;
+        padding: 9px 0;
+        font-size: 14px;
+        margin-right: 10px;
+    }
+    .schedule-tab .tabbing .nav-item.selectDate {
+        margin-top: 12px;
+    }
+    .schedule-tab span.sdate {
+        font-size: 14px;
+    }
+    .schedule-tab input[type="date"] {
+        padding: 9px 6px;
+        font-size: 12px;
+    }
+    .schedule-tab .tabbing .tab-content .cal-group {
+        height: 85px;
+    }
+    .schedule-tab .tabbing .tab-content .cal-group h3 {
+        font-size: 16px;
+    }
+    .my-class {
+        margin: 50px 0px;
+    }
+    .my-class h2 {
+        font-size: 16px;
+    }
+    .my-class .tabbing .nav-item a.nav-link {
+        width: 76px;
+        padding: 10px 1px;
+        font-size: 12px;
+        margin-right: 10px;
+    }
+    .my-class .tabbing .nav-item.selectDate {
+        margin-top: 12px;
+    }
+    .my-class span.sdate {
+        font-size: 14px;
+    }
+    .my-class input[type="date"] {
+        padding: 9px 6px;
+        font-size: 12px;
+    }
+    .my-class .tabbing .tab-content .cal-group {
+        height: 85px;
+    }
+    .my-class .tabbing .tab-content .cal-group h3 {
+        font-size: 16px;
+    }
+    .my-class .tabbing .tab-content .course-group {
+        margin-bottom: 25px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge {
+        margin: 0 -15px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover {
+        margin: 10px 0px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge h3 {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge .join-img h3 {
+        font-size: 13px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge span.rating {
+        font-size: 11px;
+        line-height: 20px;
+        width: 44px;
+        height: 18px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge span.start {
+        font-size: 12px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge span.enrolled {
+        width: 100px;
+        font-size: 12px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge p {
+        line-height: 19px;
+        font-size: 10px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge span.time {
+        font-size: 11px;
+    }
+    .my-class .course-group a.join-now {
+        font-size: 15px;
+        padding: 6px 0px;
+    }
+    .my-class .tabbing .tab-content .course-group .fmge .link a.join {
+        padding: 3px 0px;
+        width: 35%;
+        font-size: 10px;
+        line-height: 17px;
+    }
+    .my-class .tabbing .tab-content .course-group .link li {
+        width: 25px;
+        height: 25px;
+        padding: 0px 3px;
+        margin-right: 6px;
+    }
+    .my-schedule .select-date {
+        font-size: 14px;
+    }
+    .my-schedule input[type="date"] {
+        margin-top: 10px;
+        padding: 0 10px;
+        margin-left: 0;
+        font-size: 11px;
+    }
+    .my-schedule span.selectDate span.sdate {
+        font-size: 14px;
+    }
+    .my-schedule .month-wise {
+        font-size: 14px;
+    }
+    .my-schedule .calender-view td {
+        font-size: 13px;
+        min-width: 220px;
+    }
+}
+
+@media only screen and (min-width:568px) and (max-width:740px) {
+
+    .header-transparent .menu-bar {
+        padding: 0 0px 15px;
+    }
+    .group-icon .icon-text {
+        padding: 25px 0px;
+    }
+    .schedule-tab .tabbing .nav-item a.nav-link {
+        width: 75px;
+        padding: 9px 0;
+        font-size: 11px;
+        margin-right: 6px;
+    }
+    .schedule-tab .tabbing .nav-item.selectDate {
+        margin-top: 0;
+    }
+    .schedule-tab input[type="date"] {
+        padding: 6px 6px;
+        font-size: 11px;
+    }
+    .schedule-tab span.sdate {
+        font-size: 13px;
+    }
+    .my-class .tabbing .nav-item a.nav-link {
+        width: 75px;
+        padding: 9px 0;
+        font-size: 11px;
+        margin-right: 6px;
+    }
+    .my-class .tabbing .nav-item.selectDate {
+        margin-top: 0;
+    }
+    .my-class input[type="date"] {
+        padding: 6px 6px;
+        font-size: 11px;
+    }
+    .my-class span.sdate {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:376px) {
+    .my-class .tabbing .tab-content .course-group .fmge .join-img .image-cover .fa-icon {
+        display: block;
+        text-align: left !important;
+        margin-left: 45px;
+        margin-top: 3px;
+    }
+}

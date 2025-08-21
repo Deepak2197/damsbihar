@@ -1,0 +1,1335 @@
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .Mystudy .fixdwidth {
+    width: 100%;
+  }
+  .recentActivity .recentGroup .imgText .anatomy img {
+    width: 270px;
+  }
+  .recentActivity .recentGroup .textSeries {
+    width: 270px;
+  }
+  .recentActivity .recentGroup .imgText .anatomy {
+    width: 270px;
+  }
+  .recentActivity .recentGroup .textSeries img {
+    width: 175px;
+    padding: 30px 10px;
+  }
+  .recentActivity .recentGroup .pdf {
+    width: 270px;
+  }
+  .recentActivity .recentGroup .pdf img {
+    width: 140px;
+    padding: 30px 10px;
+  }
+  .Mystudy .fixdwidth .LiveClass .liveVideo .imgTextset {
+    padding: 40px 15px 25px;
+  }
+  .Mystudy .fixdwidth .LiveClass .liveVideo .imgTextset img {
+    width: 130px;
+  }
+  .AichatData {
+    width: 100%;
+    border-radius: 0px;
+    margin: 0px;
+  }
+  .maintainStreak {
+    width: 100%;
+  }
+  .Mystudy .fixdwidth .attempdata {
+    justify-content: space-between;
+  }
+  .Mystudy .fixdwidth .AiButton a {
+    font-size: 14px;
+  }
+  .ViewDatailAnaysis {
+    width: 100% !important;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .Mystudy .fixdwidth {
+    width: 100% !important;
+    padding: 5px 0px 0px;
+    box-shadow: 0 0 0 0px;
+  }
+  .recentActivity .recentGroup {
+    white-space: nowrap;
+    flex-wrap: initial;
+    overflow: auto;
+    scrollbar-width: none;
+    margin-bottom: 20px;
+  }
+  .recentActivity .recentGroup .imgText {
+    margin-right: 0px;
+  }
+  .recentActivity .recentGroup .imgText .anatomy {
+    width: auto;
+  }
+  .recentActivity .recentGroup .imgText .anatomy img {
+    width: 100%;
+  }
+  .recentActivity .recentGroup .textSeries {
+    width: auto;
+    border-radius: 15px;
+  }
+  .recentActivity .recentGroup .textSeries img {
+    width: 100%;
+    padding: 8px 15px;
+  }
+  .recentActivity .recentGroup .pdf {
+    width: auto;
+  }
+  .recentActivity .recentGroup .pdf img {
+    width: 100%;
+    padding: 0 11px;
+  }
+  .recentActivity .recentGroup .textG h3 {
+    font-size: 18px;
+  }
+  .recentActivity .recentGroup .textG h4 a {
+    font-size: 16px;
+  }
+  .maintainStreak {
+    width: 100%;
+  }
+  .Mystudy .fixdwidth .LiveClass .liveVideo .imgTextset {
+    border: none;
+    padding: 28px 10px 20px;
+    border-radius: 32px;
+    margin-right: 10px;
+  }
+  .Mystudy .fixdwidth .LiveClass .liveVideo .textData h3 {
+    font-size: 16px;
+  }
+  .Mystudy .fixdwidth .LiveClass .liveVideo .imgTextset img {
+    width: 115px;
+    margin-right: 20px;
+  }
+  .Mystudy .fixdwidth .LiveClass .liveVideo .textData h4 {
+    font-size: 14px;
+  }
+  .Mystudy .fixdwidth .LiveClass .liveVideo .textData p {
+    font-size: 13px;
+  }
+  .Mystudy .fixdwidth .mostConsistent {
+    padding: 30px 15px;
+  }
+  .Mystudy .fixdwidth .image-front {
+    right: 50px;
+  }
+  .Mystudy .fixdwidth .Consistentdata .namewise img.imageLight {
+    width: 180px !important;
+    top: 42px;
+    left: 21px;
+  }
+  .planInclusion .planData {
+    width: 48%;
+    height: 65px;
+  }
+  .planInclusion .planData .dividesec h3 {
+    font-size: 13px;
+  }
+  .planInclusion .planData .dividesec em {
+    font-size: 22px;
+  }
+  .LiveCourseVideos {
+    width: 100%;
+  }
+  .courseVideo .livedata img {
+    margin-right: 30px;
+    height: 90px;
+  }
+  .courseVideo .innertext {
+    padding-bottom: 10px;
+  }
+  .courseVideo .innertext::after {
+    display: none;
+  }
+  .LiveCourseVideos {
+    width: 100%;
+  }
+  .Nodownload {
+    width: 100%;
+    box-shadow: 0 0 0 0px;
+  }
+  .AichatData {
+    width: 100%;
+    border-radius: 0px;
+  }
+  .AichatData .report {
+    padding: 15px 20px;
+    width: 100%;
+  }
+  .AppoitmentData {
+    width: 100%;
+  }
+  .Markattendance {
+    width: 100%;
+  }
+  .ScanqrData .Scandata {
+    width: 100%;
+  }
+  .Selfattendance .selfData {
+    width: 100%;
+  }
+  .Locationmatch .selfData {
+    width: 100%;
+  }
+  .Mylibrarydata .Mylibrarysec {
+    width: 100%;
+  }
+  .courseLinkdata .innertext {
+    width: 100%;
+  }
+  .courseLinkdata .livedata h3 {
+    font-size: 16px;
+  }
+  .courseLinkdata .innertext .btnLink em {
+    font-size: 18px;
+  }
+  .RecentlyAdd h2 {
+    font-size: 20px;
+  }
+  .RecentlyAdd .recentGroup .pdf img {
+    width: 245px;
+  }
+  .RecentlyAdd .recentGroup .textG h4 {
+    font-size: 13px;
+  }
+  .ViewDatailAnaysis {
+    width: 100% !important;
+    margin: 28px auto;
+  }
+  .ViewDatailAnaysis .headingtext h1 {
+    font-size: 20px;
+  }
+  .ViewDatailAnaysis .proData span {
+    width: 200px;
+    font-size: 14px;
+  }
+  .ViewDatailAnaysis .AccuracyMarker h2 {
+    font-size: 18px;
+  }
+  .ViewDatailAnaysis .Accuracydqb .accracyGroup .twoGroup .process h3 {
+    font-size: 15px;
+  }
+  .ViewDatailAnaysis .Accuracydqb .accracyGroup .twoGroup .process h4 {
+    font-size: 14px;
+  }
+  .ViewDatailAnaysis .Accuracydqb .accracyGroup .twoGroup .process .normal {
+    height: 20px;
+  }
+  .ViewDatailAnaysis .Accuracydqb .accracyGroup .twoGroup .process .red {
+    height: 20px;
+  }
+  .ViewDatailAnaysis .QbankModule h2 {
+    font-size: 16px;
+  }
+  .ViewDatailAnaysis .QbankModule .accuracyGroup {
+    padding: 20px 20px;
+  }
+  .ViewDatailAnaysis .QbankModule .accuracyGroup .accuText h3 {
+    font-size: 16px;
+  }
+  .ViewDatailAnaysis .QbankModule .accuracyGroup .coutText {
+    font-size: 16px;
+  }
+  .ViewDatailAnaysis .QbankModule .accuracyGroup .correctText h3 {
+    font-size: 16px;
+  }
+  .ViewDatailAnaysis .Testperformance h2 {
+    font-size: 18px;
+  }
+  .ViewDatailAnaysis .Testwisechart {
+    padding: 20px 20px;
+  }
+  .ViewDatailAnaysis .Testwisechart h3 {
+    font-size: 18px;
+  }
+  .ViewDatailAnaysis .comparisonOther h2 {
+    font-size: 18px;
+  }
+  .ViewDatailAnaysis .comparisonOther .rank-section h2,
+  .time-section h2 {
+    font-size: 18px;
+  }
+  .ViewDatailAnaysis .comparisonOther .rank-details .rank-item {
+    font-size: 18px;
+  }
+  .ViewDatailAnaysis .comparisonOther .rank-number {
+    font-size: 18px;
+  }
+  .LeaderBoardModule .RankProfile .studentDetail .textData h3 {
+    font-size: 18px;
+  }
+  .LeaderBoardModule .RankProfile .studentDetail .textData h4 {
+    font-size: 18px;
+  }
+  .LeaderBoardModule .RankProfile .studentDetail .textData h5 {
+    font-size: 16px;
+  }
+  .LeaderBoardModule .namewiseDeatil .innerDetail {
+    padding: 10px 10px;
+    width: 49%;
+    margin-right: 10px;
+  }
+  .LeaderBoardModule .namewiseDeatil .innerDetail .hastag h2 {
+    font-size: 14px;
+  }
+  .LeaderBoardModule .namewiseDeatil .innerDetail .studText h3 {
+    margin-bottom: 10px;
+    font-size: 13px;
+  }
+  .LeaderBoardModule .namewiseDeatil .innerDetail .studentImg img {
+    width: 50px;
+    height: 50px;
+  }
+  .LeaderBoardModule .namewiseDeatil .innerDetail .studText h4 {
+    font-size: 13px;
+  }
+  .LeaderBoardModule .namewiseDeatil .innerDetail .correcttext h5 {
+    font-size: 13px;
+  }
+  .TestReportData .ReportTestSec .tab-item {
+    padding: 7px 10px;
+    font-size: 14px;
+  }
+  .TestReportwiseAnalysis {
+    padding: 25px 20px;
+  }
+  .TestReportwiseAnalysis .AnalysisData h2 {
+    font-size: 18px;
+  }
+  .TestReportwiseAnalysis .AnalysisData .result-card h3 {
+    font-size: 16px;
+  }
+  .TestReportwiseAnalysis .AnalysisData .result-card {
+    padding: 20px 20px;
+    margin-bottom: 15px;
+    width: 100%;
+  }
+  /**** AI SECTION PAGE  CSS****/
+
+  .AISection {
+    width: 100%;
+  }
+  .aiPart .reviSionPart h2 {
+    font-size: 20px;
+  }
+  .aiPart .reviSionPart h3 {
+    font-size: 20px;
+    margin: 20px 0px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .Mystudy .fixdwidth {
+    width: 100% !important;
+    box-shadow: 0 0 0 0px;
+    padding: 5px 0px 0px;
+  }
+  .Mystudy .fixdwidth .dropbtn {
+    margin: 10px 0px 25px;
+  }
+  .Mystudy .fixdwidth .groupbox {
+    width: 100% !important;
+    margin: 35px 0px;
+  }
+  .Mystudy .fixdwidth .LiveClass {
+    margin: 50px 0px;
+  }
+  .Mystudy .fixdwidth .LiveClass .liveVideo {
+    display: block;
+  }
+  .Mystudy .fixdwidth .dropbtn select {
+    padding: 6px 10px;
+    border-radius: 8px;
+    font-size: 16px;
+    background-position-x: 96% !important;
+    background-size: 10px !important;
+    height: 45px;
+  }
+  .Mystudy .fixdwidth .textdata p {
+    font-size: 12px;
+  }
+  .Mystudy .fixdwidth .activetBtn button {
+    border-radius: 7px;
+    padding: 6px 2px;
+    font-size: 11px;
+    width: 82px;
+  }
+  .Mystudy .fixdwidth .Activatenow {
+    padding: 10px 10px;
+    border-radius: 5px;
+  }
+  .Mystudy .fixdwidth .groupbox .imgText {
+    margin-right: 10px;
+  }
+  .Mystudy .fixdwidth .groupbox .imgText a {
+    width: 95px;
+    height: 82px;
+    border-radius: 12px;
+    padding: 10px 0px;
+  }
+  .Mystudy .fixdwidth .groupbox .imgText img {
+    width: 20px;
+    margin-bottom: 10px;
+  }
+  .Mystudy .fixdwidth .groupbox .imgText h4 {
+    font-size: 13px;
+  }
+  .Mystudy .fixdwidth .LiveClass h2 {
+    font-size: 18px;
+  }
+  .Mystudy .fixdwidth .LiveClass .liveVideo .imgTextset {
+    border: 0;
+    padding: 10px 10px 10px;
+    border-radius: 0;
+    margin-right: 0;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  .Mystudy .fixdwidth .LiveClass .liveVideo .textData h3 {
+    font-size: 14px;
+  }
+  .Mystudy .fixdwidth .LiveClass .liveVideo .textData h4 {
+    font-size: 15px;
+  }
+  .Mystudy .fixdwidth .LiveClass .liveVideo .textData p {
+    font-size: 13px;
+  }
+  .Mystudy .fixdwidth .LiveClass .liveVideo button {
+    font-size: 12px;
+    width: 100px;
+    padding: 8px 5px;
+  }
+  .Mystudy .fixdwidth .LiveClass .liveVideo .imgTextset img {
+    width: 100px;
+    margin-right: 0px;
+    margin-top: 0;
+  }
+  .Mystudy .fixdwidth .LiveClass .liveVideo img.liveimg {
+    top: 12px;
+    left: 18px;
+    width: 40px !important;
+    margin-top: 0px !important;
+  }
+  .Mystudy .fixdwidth .attempdata {
+    margin: 30px 0px;
+    padding: 0;
+    justify-content: space-between;
+  }
+  .Mystudy .fixdwidth .attempdata .testAttemp a {
+    width: 145px;
+    border-radius: 16px;
+    padding: 18px 10px;
+    border: 0px;
+  }
+  .Mystudy .fixdwidth .attempdata .testAttemp h1 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .Mystudy .fixdwidth .attempdata .testAttemp h3 {
+    font-size: 15px;
+  }
+  .maintainStreak {
+    width: 100% !important;
+    padding: 25px 20px;
+  }
+  .maintainStreak h2 {
+    font-size: 18px;
+    margin-bottom: 0;
+  }
+  .maintainStreak .thisWeek .weekslide h3 {
+    font-size: 17px;
+  }
+  .maintainStreak .thisWeek .weekslide em {
+    font-size: 18px;
+  }
+  .maintainStreak .thisWeek .datatext h4 {
+    font-size: 15px;
+  }
+  .maintainStreak .thisWeek .datatext h5 {
+    font-size: 14px;
+  }
+  .maintainStreak .calData .number p {
+    font-size: 13px;
+  }
+  .maintainStreak .calData .number .day {
+    width: 32px;
+    height: 32px;
+    font-size: 12px;
+    margin-bottom: 5px;
+  }
+  .maintainStreak .twoSection .roundCircle .ant-progress-inner {
+    width: 90px !important;
+    height: 90px !important;
+  }
+  .maintainStreak .roundCircle img.liveimg {
+    width: 50px;
+    right: 20px;
+    top: 13px;
+  }
+
+  .maintainStreak .twoSection {
+    margin-top: 40px;
+  }
+  .maintainStreak .thisWeek {
+    width: 140px;
+  }
+  .Mystudy .fixdwidth .mostConsistent {
+    padding: 25px 5px;
+    margin: 30px 0px;
+    border-radius: 20px;
+  }
+  .Mystudy .fixdwidth .mostConsistent h1 {
+    font-size: 18px;
+  }
+  .Mystudy .fixdwidth .Consistentdata {
+    margin: 20px 0px 0;
+  }
+  .Mystudy .fixdwidth .Consistentdata .namewise h2 {
+    font-size: 13px;
+  }
+  .Mystudy .fixdwidth .attempdata .testAttemp {
+    margin-right: 15px;
+  }
+  .Mystudy .fixdwidth .image-front {
+    width: 70px;
+    padding: 2px;
+    top: -27px;
+    right: 12px;
+  }
+  .Mystudy .fixdwidth .Consistentdata .belowtext h3 {
+    font-size: 15px;
+  }
+  .Mystudy .fixdwidth .Consistentdata .belowtext h5 {
+    font-size: 10px;
+  }
+  .Mystudy .fixdwidth .image-behind {
+    width: 95px;
+    margin-right: -8px;
+    margin-top: -26px;
+  }
+  .Mystudy .fixdwidth .groupLink {
+    display: block !important;
+  }
+  .Mystudy .fixdwidth .AiButton {
+    border-radius: 16px;
+    width: 100%;
+    margin: 0 0px 30px;
+  }
+  .Mystudy .fixdwidth .AiButton a {
+    padding: 17px 15px;
+    border-radius: 14px;
+    font-size: 16px;
+  }
+  .Mystudy .fixdwidth .AiButton img {
+    margin-right: 10px;
+    width: 20px;
+  }
+  .recentActivity {
+    margin: 30px 0px 30px;
+  }
+  .recentActivity h2 {
+    font-size: 18px;
+  }
+  .recentActivity .recentGroup {
+    white-space: nowrap;
+    flex-wrap: initial;
+    overflow: auto;
+    scrollbar-width: none;
+    margin-bottom: 20px;
+  }
+  .recentActivity .recentGroup .imgText {
+    margin-right: 20px;
+  }
+  .recentActivity .recentGroup .imgText .anatomy {
+    width: auto;
+  }
+  .recentActivity .recentGroup .textSeries {
+    width: auto;
+    border-radius: 15px;
+  }
+  .recentActivity .recentGroup .pdf {
+    width: auto;
+  }
+  .recentActivity .recentGroup .imgText .anatomy img {
+    width: 100%;
+  }
+  .recentActivity .recentGroup .textSeries img {
+    width: 100%;
+    padding: 8px 15px;
+  }
+  .recentActivity .recentGroup .pdf img {
+    width: 100%;
+    padding: 0 11px;
+  }
+  .recentActivity .recentGroup .textG h3 {
+    font-size: 13px;
+    margin-bottom: 0;
+  }
+  .recentActivity .recentGroup .textG h4 a {
+    font-size: 13px;
+  }
+  .planInclusion {
+    margin: 25px 0px;
+    border-top: 0;
+    padding-top: 0;
+  }
+  .planInclusion h2 {
+    font-size: 18px;
+  }
+  .planInclusion .planData .dividesec h3 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .planInclusion .planData {
+    width: 100%;
+    padding: 15px 15px;
+    margin-right: 0;
+  }
+  .planInclusion .progress {
+    width: 100% !important;
+    height: 10px;
+  }
+  .planInclusion .planData p {
+    font-size: 13px;
+    margin-bottom: 0px;
+  }
+  .planInclusion .planData .dividesec em {
+    font-size: 20px;
+  }
+  .LiveCourseVideos {
+    width: 100%;
+  }
+  .courseVideo .livedata h3 {
+    font-size: 13px;
+  }
+  .courseVideo .livedata h4 {
+    font-size: 12px;
+  }
+  .courseVideo .livedata img {
+    margin-right: 60px;
+    height: 50px;
+  }
+  .courseVideo .innertext {
+    padding-bottom: 10px;
+  }
+  .courseVideo .innertext::after {
+    display: none;
+  }
+  .courseVideo {
+    width: 100%;
+  }
+  .LiveCourseVideos {
+    width: 100%;
+  }
+  .LiveCourseVideos .livedata img {
+    margin-right: 35px;
+    height: 40px;
+  }
+  .LiveCourseVideos .livedata h3 {
+    font-size: 13px;
+  }
+  .btnLink a em {
+    font-size: 18px;
+  }
+  .searchbox em {
+    font-size: 14px;
+  }
+  .searchbox input {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  .Nodownload {
+    width: 100%;
+  }
+  .Nodownload .showdata img {
+    width: 190px;
+  }
+  .Nodownload .showdata .downloadtext h2 {
+    font-size: 18px;
+  }
+  .Nodownload .showdata .downloadtext p {
+    font-size: 13px;
+    line-height: 23px;
+  }
+  .Nodownload .showdata a.gotohome {
+    width: 100%;
+    font-size: 15px;
+  }
+  .AichatData {
+    width: 100%;
+    border-radius: 0px;
+  }
+  .AichatData .report {
+    padding: 15px 20px;
+    width: 100%;
+  }
+  .AichatData .userdata .userimg img {
+    width: 80px;
+  }
+  .AichatData .userdata .nameText h3 {
+    font-size: 18px;
+  }
+  .AichatData .userdata .userimg {
+    margin-right: 15px;
+  }
+  .AichatData .report h2 {
+    font-size: 15px;
+  }
+  .AichatData .DamsAi .AIimg img {
+    width: 30px;
+  }
+  .AichatData .DamsAi .nameText h3 {
+    font-size: 15px;
+  }
+  .AichatData .DamsAi .AIimg {
+    width: 50px;
+    height: 50px;
+    margin-right: 15px;
+  }
+  .AichatData .intelegentReport h2 {
+    font-size: 18px;
+  }
+  .AichatData .intelegentReport p {
+    margin-top: 0;
+    font-size: 14px;
+    line-height: 25px;
+  }
+  .AppoitmentData {
+    width: 100%;
+    padding: 15px 0px;
+  }
+  .AppoitmentData .tabbingshow button.tab-button {
+    margin-right: 15px;
+    width: 140px;
+    font-size: 15px;
+  }
+  .AppoitmentData .tabbingshow .tab-content .joinclass {
+    padding: 12px 10px;
+    margin-top: 20px;
+  }
+  .AppoitmentData .tabbingshow .tab-content .dataShow h3.changeText {
+    font-size: 16px;
+  }
+  .AppoitmentData .tabbingshow .tab-content .imgname img {
+    width: 60px;
+    border-radius: 10px;
+  }
+  .AppoitmentData .tabbingshow .tab-content .imgname {
+    margin-right: 15px;
+  }
+  .namedata h3 {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  .namedata h4 {
+    font-size: 12px;
+    margin-bottom: 2px;
+  }
+  .namedata p {
+    font-size: 12px;
+  }
+  .joinbtn button {
+    width: 75px;
+    padding: 7px 0px;
+    border-radius: 6px;
+    font-size: 11px;
+  }
+  .Markattendance {
+    width: 100%;
+    margin: 0;
+  }
+  .Markattendance .profile-card {
+    padding: 20px 15px 30px;
+    border-radius: 20px 20px 0px 0px;
+  }
+  .Markattendance .name {
+    font-size: 17px;
+  }
+  .Markattendance .profile-card .prodetail p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  .Markattendance .profile-pic {
+    width: 90px;
+    height: 90px;
+  }
+  .Markattendance .details table td {
+    font-size: 12px;
+    padding: 6px 5px 6px 0;
+  }
+  .Markattendance .qr-section img {
+    width: 110px;
+  }
+  .Markattendance .btnData button {
+    padding: 8px 8px;
+    margin-right: 4px;
+    border-radius: 8px;
+    font-size: 12px;
+  }
+  .ScanqrData .Scandata {
+    width: 100%;
+  }
+  .ScanqrData .profile-card {
+    padding: 30px 10px 30px;
+    border-radius: 20px 20px 0px 0px;
+  }
+  .ScanqrData .qr-section img {
+    width: 110px;
+  }
+  .ScanqrData .profile-card .btnData .selfAtte {
+    width: 100%;
+    font-size: 13px;
+    padding: 10px 10px;
+  }
+  .ScanqrData .name {
+    font-size: 15px;
+    margin-bottom: 0;
+  }
+  .ScanqrData .profile-pic {
+    width: 60px;
+    height: 60px;
+  }
+  .Selfattendance .selfData {
+    width: 100%;
+    margin: 15px auto 0px;
+    border-radius: 0;
+    background-image: none;
+  }
+  .Selfattendance .imgGroup img {
+    width: 170px;
+  }
+  .Selfattendance .imgGroup h3 {
+    font-size: 14px;
+  }
+  .Selfattendance .btnshowdata button {
+    width: 48%;
+    padding: 12px 10px;
+    margin-right: 5px;
+    font-size: 14px;
+  }
+  .Locationmatch .selfData {
+    width: 100%;
+  }
+  .Locationmatch .imgGroup .mapData {
+    width: 100%;
+  }
+  .Locationmatch .imgGroup img {
+    width: 115px;
+    margin: 10% 0px;
+  }
+  .Locationmatch .imgGroup .textdata h3 {
+    font-size: 12px;
+  }
+  .Locationmatch .btnshowdata button {
+    width: 100%;
+    padding: 12px 10px;
+    margin-right: 0;
+    font-size: 15px;
+  }
+  .Mylibrarydata .Mylibrarysec {
+    width: 100%;
+    padding: 30px 0px 0;
+  }
+  .RecentlyAdd .recentGroup .textG h4 {
+    font-size: 12px;
+  }
+  .RecentlyAdd .recentGroup .pdf img {
+    width: 220px;
+  }
+  .RecentlyAdd .courseLinkdata {
+    margin: 50px 0px 0px;
+  }
+  .courseLinkdata .innertext {
+    width: 100%;
+    margin-right: 0;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+  }
+  .courseLinkdata .innertext:last-child {
+    width: 100%;
+    margin-right: 0;
+    border-bottom: 0px;
+  }
+  .courseLinkdata .livedata h3 {
+    font-size: 15px;
+  }
+  .courseLinkdata .livedata img {
+    width: 25px;
+    margin-right: 15px;
+    height: 25px;
+  }
+  .courseLinkdata .innertext .btnLink em {
+    font-size: 20px;
+  }
+  .classSchedule {
+    width: 100%;
+    margin: 0px auto 0px;
+    box-shadow: 0 0 0px;
+  }
+  .classSchedule .tab-content {
+    margin-top: 15px;
+  }
+  .classSchedule .tabbingshow .tabs {
+    background: none;
+  }
+  .classSchedule .tabbingshow button.tab-button {
+    padding: 8px 0px;
+    width: 149px;
+    font-size: 12px;
+    height: 50px;
+    margin-right: 8px;
+    border-radius: 6px;
+  }
+  .classSchedule .tabbingshow button.tab-button:last-child {
+    margin-right: 0px;
+  }
+  .classSchedule .tab-content .calenderData .date-picker-container {
+    padding: 10px;
+  }
+  .classSchedule .tab-content .Logistmain {
+    width: 100%;
+    min-height: 135px;
+    margin-right: 0;
+    padding: 0 4px;
+  }
+  .classSchedule .tab-content .Radiologist {
+    padding: 10px 5px;
+  }
+  .classSchedule .tab-content .Radiologist .logistimg {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+  }
+  .classSchedule .tab-content .Radiologist .logistimg img {
+    width: 25px;
+  }
+  .classSchedule .tab-content .Radiologist .textonline h3 {
+    font-size: 15px;
+    margin-bottom: 3px;
+  }
+  .classSchedule .tab-content .Radiologist .textonline p {
+    font-size: 13px;
+  }
+  .classSchedule .enterClass button {
+    width: 85px;
+    padding: 6px 5px;
+    border-radius: 6px;
+    font-size: 12px;
+  }
+  .classSchedule .tab-content .Radiologist .textonline h3 span {
+    font-size: 10px;
+  }
+  .classSchedule .tab-content .Datedata h4 {
+    font-size: 12px;
+  }
+  .classSchedule .tab-content .Datedata p {
+    font-size: 11px;
+  }
+  .classSchedule .tab-content .Datedata {
+    padding: 10px 10px 0;
+  }
+  .classSchedule .tab-content .calenderData .month-navigation h2 {
+    font-size: 14px;
+  }
+  .classSchedule .Attendacetab {
+    border-radius: 20px 20px 0 0;
+    padding: 15px 0px 0px;
+    box-shadow: 0 0 0px;
+  }
+  .classSchedule .tab-content .Attendacetab .tabs button {
+    padding: 9px 0px;
+    margin-right: 5px;
+    width: 46%;
+    font-size: 15px;
+  }
+  .classSchedule .tab-content .calenderData .day-name {
+    font-size: 13px;
+  }
+  .classSchedule .tab-content .calenderData .day-number {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  .classSchedule .tab-content .calenderData .day-navigation button {
+    border: 0px !important;
+    padding: 1px 10px;
+    font-size: 16px;
+    margin: 0 7px;
+  }
+  .classSchedule .tab-content .calenderData .days-container {
+    background: none;
+    padding: 0px 0 5px;
+  }
+  .classSchedule
+    .tab-content
+    .Attendacetab
+    .tabData
+    .dateGroup
+    .radiodata
+    h4
+    span {
+    font-size: 13px;
+  }
+  .classSchedule ::-webkit-scrollbar {
+    width: 1px;
+    height: 5px;
+  }
+  .classSchedule ::-webkit-scrollbar-thumb {
+    background: #3f5395;
+    border-radius: 10px;
+  }
+
+  .classSchedule .tab-content .Attendacetab .tabData {
+    margin-top: 20px;
+  }
+  .classSchedule .tab-content .Attendacetab .Daypresent .dataDate h4 {
+    font-size: 11px;
+    line-height: 21px;
+  }
+  .classSchedule .tab-content .Attendacetab .Daypresent .dataDate li {
+    margin-left: 10px;
+    font-size: 12px;
+  }
+  .classSchedule .tab-content .Attendacetab .tabData .dateGroup {
+    padding: 10px 15px;
+    margin-top: 20px;
+  }
+  .classSchedule .tab-content .Attendacetab .tabData .dateGroup .timeset h3 {
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .classSchedule .tab-content .Attendacetab .tabData .dateGroup .radiodata h4 {
+    font-size: 13px;
+  }
+  .classSchedule .tab-content .Attendacetab .tabData .dateGroup .radiodata p {
+    font-size: 13px;
+  }
+  .classSchedule .tab-content .Attendacetab .absent {
+    width: 30px;
+    height: 30px;
+  }
+  .classSchedule .tab-content .Attendacetab .Daypresent .dataDate li em {
+    margin-right: 5px;
+    font-size: 10px;
+  }
+  .ViewDatailAnaysis {
+    width: 100% !important;
+    margin: 28px auto;
+  }
+  .ViewDatailAnaysis .headingtext h1 {
+    font-size: 18px;
+  }
+  .ViewDatailAnaysis .progressGroup {
+    padding: 25px 20px;
+  }
+  .ViewDatailAnaysis .progressGroup h2 {
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+
+  .ViewDatailAnaysis .comparisonOther {
+    padding: 25px 20px;
+  }
+  .ViewDatailAnaysis .Accuracydqb .accracyGroup .twoGroup .process .red {
+    width: 100%;
+    height: 18px;
+  }
+  .TestReportData .ReportTestSec .tabs-container {
+    white-space: nowrap;
+    flex-wrap: initial;
+    overflow: auto;
+    scrollbar-width: none;
+  }
+
+  .TestReportData .ReportTestSec .tab-item {
+    padding: 10px 8px;
+    font-size: 13px;
+  }
+  .performanceYou .tabs-container {
+    white-space: nowrap;
+    flex-wrap: initial;
+    overflow: auto;
+    scrollbar-width: none;
+  }
+  .ViewDatailAnaysis .proData span {
+    width: 200px;
+    font-size: 12px;
+  }
+  .ViewDatailAnaysis .AccuracyMarker {
+    padding: 25px 15px;
+  }
+  .ViewDatailAnaysis .AccuracyMarker h2 {
+    font-size: 14px;
+  }
+  .ViewDatailAnaysis .AccuracyMarker canvas {
+    width: 100% !important;
+  }
+  .ViewDatailAnaysis .Accuracydqb {
+    padding: 25px 15px;
+  }
+  .ViewDatailAnaysis .Accuracydqb h2 {
+    font-size: 17px;
+    margin-bottom: 20px;
+  }
+  .ViewDatailAnaysis .Accuracydqb h4 {
+    font-size: 14px;
+  }
+  .ViewDatailAnaysis .Accuracydqb select {
+    padding: 7px 10px;
+    border-radius: 10px;
+    font-size: 12px !important;
+    background-position-x: 96% !important;
+    background-size: 10px !important;
+    height: 42px;
+  }
+  .ViewDatailAnaysis .Accuracydqb .accracyGroup .twoGroup .process h3 {
+    font-size: 12px;
+  }
+  .ViewDatailAnaysis .Accuracydqb .accracyGroup .twoGroup .process h4 {
+    font-size: 12px;
+  }
+  .ViewDatailAnaysis .Accuracydqb .accracyGroup .twoGroup .process .normal {
+    height: 18px;
+    width: 60%;
+  }
+  .ViewDatailAnaysis .Accuracydqb .accracyGroup .twoGroup {
+    margin-bottom: 30px;
+  }
+  .ViewDatailAnaysis
+    .Accuracydqb
+    .accracyGroup
+    .twoGroup
+    .process
+    .positive-val {
+    width: 10%;
+  }
+  .ViewDatailAnaysis .Accuracydqb .accracyGroup .twoGroup .process .toptext {
+    width: 25%;
+  }
+  .ViewDatailAnaysis .QbankModule {
+    padding: 25px 20px;
+  }
+  .ViewDatailAnaysis .QbankModule h2 {
+    font-size: 13px;
+  }
+  .ViewDatailAnaysis .QbankModule select {
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-position-x: 95% !important;
+    background-size: 10px !important;
+    height: 42px;
+  }
+  .ViewDatailAnaysis .QbankModule .accuracyGroup {
+    padding: 12px 10px;
+  }
+  .ViewDatailAnaysis .QbankModule .accuracyGroup .count {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .ViewDatailAnaysis .QbankModule .accuracyGroup .accuText h3 {
+    font-size: 13px;
+  }
+  .ViewDatailAnaysis .QbankModule .accuracyGroup .coutText {
+    font-size: 14px;
+    width: auto;
+  }
+  .ViewDatailAnaysis .QbankModule .accuracyGroup .correctText h3 {
+    font-size: 11px;
+  }
+  .ViewDatailAnaysis .QbankModule .accuracyGroup .AccBar {
+    width: 50%;
+    height: 15px;
+  }
+  .ViewDatailAnaysis .QbankModule .accuracyGroup .AccBar .activeBar {
+    height: 15px;
+  }
+  .ViewDatailAnaysis .Testperformance h2 {
+    font-size: 16px;
+  }
+  .ViewDatailAnaysis .Testwisechart {
+    margin: 18px 0px;
+    padding: 10px 15px;
+  }
+  .ViewDatailAnaysis .Testwisechart canvas {
+    width: 100% !important;
+  }
+  .ViewDatailAnaysis .Testwisechart label {
+    font-size: 12px !important;
+  }
+  .ViewDatailAnaysis .Testwisechart h3 {
+    font-size: 16px;
+  }
+  .ViewDatailAnaysis .comparisonOther h2 {
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+  .ViewDatailAnaysis .comparisonOther .rank-section h2,
+  .time-section h2 {
+    font-size: 15px;
+  }
+  .ViewDatailAnaysis .comparisonOther .rank-details .rank-item {
+    font-size: 13px;
+  }
+  .ViewDatailAnaysis .comparisonOther .rank-number {
+    margin: 0 2px;
+    font-size: 14px;
+  }
+  .ViewDatailAnaysis .comparisonOther .time-text {
+    font-size: 15px;
+  }
+  .rank-comparison {
+    padding: 20px 20px 20px;
+    border-radius: 16px;
+  }
+  .rank-comparison .comparison-table th,
+  .comparison-table td {
+    padding: 8px 6px;
+    font-size: 13px;
+  }
+  .rank-comparison .ant-slider-handle.ant-tooltip-open:after {
+    width: 22px;
+    height: 22px;
+    margin-top: -4px;
+  }
+  .performanceYou .tab-item {
+    padding: 10px 10px;
+    font-size: 12px;
+  }
+  .LeaderBoardModule {
+    padding: 25px 20px;
+  }
+  .LeaderBoardModule .leadeLink h3 {
+    font-size: 18px;
+  }
+  .LeaderBoardModule .leadeLink button {
+    font-size: 14px;
+  }
+  .LeaderBoardModule .RankProfile .profile-container {
+    width: 70px;
+    height: 70px;
+  }
+  .LeaderBoardModule .RankProfile .profile-container.first {
+    width: 100px;
+    height: 100px;
+  }
+  .LeaderBoardModule .RankProfile .maskImg {
+    left: 16%;
+    top: -18px;
+  }
+  .LeaderBoardModule .RankProfile .maskImg img {
+    width: 170px;
+  }
+  .LeaderBoardModule .RankProfile .crown {
+    top: -39px;
+    left: 21px;
+  }
+  .LeaderBoardModule .RankProfile .crown img {
+    width: 50px;
+  }
+  .LeaderBoardModule .RankProfile .diamond {
+    width: 20px;
+    height: 20px;
+    bottom: -8px;
+    right: 23px;
+  }
+  .LeaderBoardModule .RankProfile .profile-container.first .diamond {
+    bottom: -9px;
+    right: 35px;
+  }
+  .LeaderBoardModule .RankProfile .number {
+    font-size: 18px;
+  }
+  .LeaderBoardModule .RankProfile .profile-container.third .diamond {
+    bottom: -9px;
+    right: 22px;
+  }
+  .LeaderBoardModule .RankProfile .studentDetail .textData h3 {
+    font-size: 11px;
+  }
+  .LeaderBoardModule .RankProfile .studentDetail .textData h4 {
+    font-size: 12px;
+  }
+  .LeaderBoardModule .RankProfile .studentDetail .textData h5 {
+    font-size: 10px;
+  }
+  .LeaderBoardModule .namewiseDeatil .innerDetail {
+    width: 100%;
+    padding: 8px 8px;
+  }
+  .LeaderBoardModule .namewiseDeatil .innerDetail .studText h3 {
+    font-size: 12px;
+  }
+  .LeaderBoardModule .namewiseDeatil .innerDetail .studText h4 {
+    font-size: 11px;
+  }
+  .LeaderBoardModule .namewiseDeatil .innerDetail .correcttext h5 {
+    font-size: 10px;
+  }
+  .LeaderBoardModule .namewiseDeatil .innerDetail .hastag h2 {
+    font-size: 12px;
+  }
+  .LeaderBoardModule .namewiseDeatil .innerDetail .studentImg img {
+    width: 40px;
+    height: 40px;
+  }
+  .TestReportData {
+    padding: 20px 15px;
+    margin-top: 20px;
+  }
+  .TestReportData .ReportTestSec h2 {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .TestReportwiseAnalysis {
+    padding: 15px 10px;
+  }
+  .TestReportwiseAnalysis .AnalysisData h2 {
+    font-size: 16px;
+  }
+  .TestReportwiseAnalysis .AnalysisData .result-card {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  .TestReportwiseAnalysis .AnalysisData .result-card h3 {
+    font-size: 15px;
+  }
+  .TestReportwiseAnalysis .AnalysisData .result-card p {
+    font-size: 13px;
+    margin-bottom: 10px;
+  }
+  .TestReportwiseAnalysis .AnalysisData .percentile-bar .percentile-label {
+    font-size: 13px;
+  }
+  .TestReportwiseAnalysis .AnalysisData .percentile-bar .percentile-value {
+    font-size: 11px;
+  }
+  .TestReportwiseAnalysis .AnalysisData .result-card .progress-fill {
+    width: 90px;
+  }
+  .TestReportwiseAnalysis .AnalysisData .progress-bar {
+    width: 60%;
+  }
+  .TestReportwiseAnalysis .AnalysisData .stats span {
+    font-size: 12px;
+  }
+  .TestReportwiseAnalysis .AnalysisData .summary span {
+    font-size: 11px;
+  }
+
+  /**** AI SECTION PAGE  CSS****/
+
+  .AISection {
+    width: 100%;
+  }
+  .aiPart .reviSionPart h2 {
+    font-size: 20px;
+  }
+  .aiPart .reviSionPart h3 {
+    font-size: 20px;
+    margin: 20px 0px;
+  }
+}

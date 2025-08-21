@@ -1,0 +1,172 @@
+.newPlanpage {
+    width: 100%;
+    float: left;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 0px 5px 0px;
+    margin: 70px 0px;
+    font-family: sans-serif;
+}
+.newPlanpage .PlanComman {
+    width: 25%;
+    float: left;
+    background: #fff;
+    margin-right: 0px;
+    border-right: 2px solid #eeeeee;
+}
+.newPlanpage .PlanComman:last-child{
+    border-right: 0px solid #eeeeee;
+}
+.newPlanpage .PlanComman .planWidth {
+    padding: 30px 10px;
+    text-align: center;
+}
+.newPlanpage .PlanComman .planWidth h2{
+    font-size: 20px;
+    margin: 0;
+    color: #00a859;
+    font-weight: 700;
+}
+.newPlanpage .planList {
+    background: #fef6f3;
+    padding: 20px 15px;
+}
+.newPlanpage .PlanComman .enrollNow {
+    padding: 50px 0px;
+    text-align: center;
+}
+.newPlanpage .PlanComman .enrollNow a{
+    display: inline-block;
+    display: inline-block;
+    width: 200px;
+    margin: 0 auto;
+    background: #0a1850;
+    padding: 12px 0px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    font-weight: 500;
+}
+.newPlanpage .PlanComman .enrollNow a:hover{
+    color: #fff;  
+}
+.newPlanpage .PlanComman .planList li {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 25px;
+    margin-bottom: 10px;
+}
+
+.newPlanpage .PlanComman .planList li span {
+    margin-right: 10px;
+}
+.newPlanpage .PlanComman .planList li span img {
+    width: 12px;
+}
+
+.newPlanpage .activeGroup{
+    background: #f16136 !important;
+}
+
+.newPlanpage .activeGroup .planWidth h2{
+    color: #fff;
+}
+.newPlanpage .activeGroup .planList li{
+    color: #fff; 
+}
+
+.newPlanpage .activeGroup .enrollNow a {
+    background-color: #fff;
+    color: #0a1850;
+}
+
+.newPlanpage .activeGroup .planList li span img {
+    filter: brightness(0) invert(1);
+}
+
+.newPlanpage .activeGroup .planList{
+    background: none;
+}
+
+.newPlanpage .activeGroup .enrollNow a:hover{
+    color: #0a1850;
+}
+
+.free-trail {
+    border: 1px solid #00a859;
+    padding: 10px 0px 10px;
+    text-align: center;
+    margin: 10px auto;
+    width: 242px;
+    border-radius: 10px;
+    background: #00a859;
+    color: #fff;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+    line-height: 18px;
+}
+.free-trail span{
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+@media only screen and (min-width:1200px) and (max-width:1329px){
+    .newPlanpage .PlanComman .planWidth h2 {
+        font-size: 18px;
+    }
+    .newPlanpage .planList {
+        padding: 15px 7px;
+    }
+    .newPlanpage .PlanComman .planList li {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .newPlanpage .PlanComman{
+        width: 33.33%;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    .newPlanpage .PlanComman{
+        width: 50%;
+        margin-bottom: 0px;
+        border-top: 1px solid #eee;
+    }
+}
+@media only screen and  (max-width:767px){
+    .newPlanpage {
+        display: -webkit-box !important;
+        -ms-flex-wrap: wrap;
+        overflow-x: auto;
+        flex-wrap: nowrap !important;
+    }
+    .newPlanpage .PlanComman{
+        width: 100%;
+        margin-bottom: 5px;
+        border-bottom: 1px solid #eeeeee;
+        border-right: 0;
+    }
+    .newPlanpage .PlanComman:last-child{
+        margin-bottom: 0px;
+    }
+    .newPlanpage .PlanComman .planWidth {
+        padding: 15px 10px;
+        text-align: center;
+    }
+    .newPlanpage .PlanComman .planWidth h2 {
+        font-size: 18px;
+    }
+    .newPlanpage .PlanComman .planList li{
+        font-size: 12px;
+    }
+    .newPlanpage .PlanComman .enrollNow {
+        padding: 27px 0px;
+    }
+    .newPlanpage .PlanComman .enrollNow a{
+        padding: 10px 0px;
+        font-size: 15px
+    }
+}

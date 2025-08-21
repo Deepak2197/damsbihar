@@ -1,0 +1,671 @@
+@media only screen and (min-width:992px) and (max-width:1199px) {
+	.shoping-cart .group-item h2 {
+		font-size: 18px;
+		margin-bottom: 13px;
+	}
+	.shoping-cart .ibox .cart-product-img img {
+		width: 115px;
+	}
+	.shoping-cart .group-item .monthly-price {
+		padding: 13px 0px 0;
+		margin: -55px 0 0 26%;
+	}
+	.shoping-cart .ibox .icon_add input.form-control {
+		font-size: 18px !important;
+		border: 0;
+		margin: 0 !important;;
+		padding: 4px 4px !important;
+	}
+	.shoping-cart .ibox .icon_add button.btn.btn-number {
+		width: 28px !important;
+		height: 28px !important;
+	}
+	.select-code button.apply_coupon {
+		font-size: 12px;
+	}
+	.shoping-cart .group-item .product-title {
+		font-size: 15px;
+	}
+	
+	.payCoupon {
+		float: right;
+        display: block;
+		width: auto;
+	}
+}
+
+@media only screen and (min-width:768px) and (max-width:991px){
+	.shoping-cart .ibox .icon_add input.form-control {
+		font-size: 18px !important;
+		border: 0;
+		margin: 0 !important;;
+		padding: 4px 4px !important;
+	}
+	.shoping-cart .ibox .icon_add button.btn.btn-number {
+		width: 28px !important;
+		height: 28px !important;
+	}
+	.shoping-cart .group-item .monthly-price{
+		margin: -59px 0% 0 26%;
+	}
+	.shoping-cart .left-side table.table td{
+		padding: 12px 20px;
+		font-size: 14px;
+	}
+	.shoping-cart .ibox {
+		padding: 10px 15px;
+	}
+	.shoping-cart .group-item h2 {
+		font-size: 17px;
+	}
+	.shoping-cart .group-item .monthly-price {
+		margin: -64px 1% 0 26%;
+	}
+	.shoping-cart .ibox .cart-product-img img {
+		width: 110px;
+	}
+	.shoping-cart .group-item .delbg img {
+		width: 24px;
+	}
+	.shoping-cart .group-item .monthly-price .heading h3 {
+		font-size: 17px;
+	}
+	.shoping-cart .group-item .course-pricel h3 {
+		font-size: 16px;
+	}
+	.shoping-cart .group-item .course-pricel .pricep p {
+		font-size: 16px;
+	}
+	.shoping-cart .select-code input {
+		font-size: 15px;
+	}
+	.select-code button.apply_coupon{
+		font-size: 13px;	
+	}
+	.address-group h4 {
+		font-size: 17px;
+	}
+	.address-group a {
+		font-size: 13px;
+	}
+	.shoping-cart .no-found {
+		font-size: 17px;
+	}
+	.shoping-cart .paypoints .switch {
+		width: 60px;
+		height: 30px;
+	}
+	.shoping-cart .paypoints .slider:before {
+		height: 20px;
+		width: 20px;
+		left: 7px;
+		bottom: 5px;
+	}
+	.shoping-cart .empty-cart {
+		margin: 10px 0;
+	}
+
+	.payCoupon {
+		float: initial;
+	}
+}
+
+@media only screen and (max-width:767px) {
+
+	.walletBalance{
+		font-size: 14px;
+	}
+	.savingCorner h4 {
+		margin-bottom: 14px;
+	}
+	.walletBalance span.balCoin {
+		font-size: 13px;
+		margin-left: 12px;
+	}
+	.walletBalance input[type=checkbox]+label {
+		padding-left: 15px !important;
+	}
+	.shoping-cart .left-side {
+		margin-top: 14px;
+	}
+	.shoping-cart .left-side .btn {
+		padding: 8px 0px !important;
+	}
+	.shoping-cart .ibox .icon_add button.btn.btn-number{
+		width: 25px !important;
+		height: 25px !important;
+	}
+	.shoping-cart .ibox .icon_add input.form-control{
+		font-size: 15px !important;
+		border: 0px;
+	}
+	.shoping-cart .ibox {
+		clear: both;
+		padding: 10px 9px;
+	}
+	.shoping-cart .group-item .monthly-price {
+		margin: -42px 0% 0 0;
+	}
+	.shoping-cart .group-item .monthly-price .heading h3 {
+		font-size: 14px;
+	}
+	.shoping-cart .group-item .monthly-price .heading span{
+		font-size: 12px !important;
+	}
+	.shoping-cart .product-title {
+		font-size: 15px !important;
+	}
+	.shoping-cart .ibox .product-title h3 {
+		font-size: 12px;
+	}
+	.shoping-cart h2 {
+		font-size: 15px;
+		margin-bottom: 15px;
+	}
+	.small-ratings em {
+		font-size: 12px;
+		margin-right: 1px;
+	}
+	.shoping-cart .group-item .monthly-price .heading h3 {
+		font-size: 11px;
+	}
+	.shoping-cart  span.rating{
+		font-size: 12px !important;
+	}
+	.shoping-cart  .mobile_view {
+		padding: 0px !important;
+	}
+	.shoping-cart .no-found p {
+		font-size: 13px;
+		margin-bottom: 0px;
+	}
+	.paypoints_earn li{
+		font-size: 15px;
+	}
+	.shoping-cart .ibox .cart-product-img img {
+		width: 85px;
+	}
+	.shoping-cart h2 {
+		font-size: 17px;
+	}
+	.shoping-cart .empty-cart {
+		margin: 10px 0 50px;
+	}
+	.shoping-cart .alert-success {
+		width: 100%;
+		float: none;
+		position: absolute;
+		bottom: 15px;
+		right: 0;
+	}
+	.shoping-cart .group-item h2 {
+		font-size: 17px;
+		margin-bottom: 12px;
+		display: none;
+	}
+	.shoping-cart .ibox {
+		padding: 13px 12px;
+		margin-bottom: 13px;
+	}
+	.shoping-cart .ibox .cart-product-img {
+		width: 100px;
+		height: 70px;
+		display: block;
+		padding: 0;
+		border: 0;
+		background: none;
+	}
+	.shoping-cart .ibox .cart-product-img img {
+		border-radius: 9px;
+		padding: 0;
+		border: none;
+		width: 60px;
+		height: 60px;
+	}
+	.shoping-cart .ibox .product-title h3 {
+		font-size: 11px;
+		margin: 0;
+	}
+	.shoping-cart .select-code input {
+		margin-bottom: 10px;
+		font-size: 12px;
+		text-align: center;
+	}
+	.shoping-cart .select-code a.apply_coupon {
+		font-size: 14px;
+		margin-top: 12px;
+	}
+	.shoping-cart .special-reward {
+		margin: 15px 0 5px;
+	}
+	.shoping-cart .apply_coupon {
+		font-size: 14px;
+	}
+	.paypoints_earn li {
+		font-size: 13px;
+	}
+	.special-reward .card {
+		margin-top: 0 !important;
+	}
+	.shoping-cart .ibox .product-title .small-ratings .rating-color {
+		font-size: 11px;
+	}
+	.shoping-cart .ibox .product-title .small-ratings span.rating {
+		font-size: 11px;
+	}
+	.shoping-cart .group-item .delbg img {
+		width: 23px;
+		margin: 0 5px;
+	}
+	.shoping-cart .group-item .course-pricel h3 {
+		font-size: 13px;
+	}
+	.shoping-cart .group-item .course-pricel .type {
+		margin-bottom: 15px;
+	}
+	.shoping-cart .group-item .heading {
+		margin: 0;
+	}
+	.shoping-cart .group-item .course-pricel .pricep p {
+		font-size: 13px;
+	}
+	.shoping-cart .group-item .course-pricel {
+		padding: 4px 7px 4px;
+		margin: 18px 0px 5px;
+	}
+	.shoping-cart .group-item .course-pricel .pricep {
+		margin-top: -5px;
+	}
+	.shoping-cart .address-group h4{
+		font-size: 13px;
+		margin-top: 0px;
+	}
+	.shoping-cart .address-group a {
+		padding: 0 1px;
+		font-size: 13px;
+	}
+	.shoping-cart .address-group {
+		padding: 10px 10px;
+	}
+	.shoping-cart .address-group i {
+		display: none;
+	}
+	.shoping-cart .no-found {
+		padding: 14px 8px !important;
+		font-size: 11px;
+	}
+	.shoping-cart .paypoints li {
+		font-size: 13px;
+	}
+	.shoping-cart .paypoints li span {
+		margin-top: 1px;
+		font-size: 13px;
+	}
+	.shoping-cart .paypoints li.borderbg {
+		margin-right: 0px;
+	}
+	.shoping-cart .paypoints .switch {
+		width: 45px;
+		height: 22px;
+		margin: 12px 0px 0;
+	}
+	.shoping-cart .paypoints .slider:before {
+		height: 15px;
+		width: 15px;
+		left: 2px;
+		bottom: 4px;
+	}
+	.shoping-cart .special-reward .card-header {
+		font-size: 13px;
+	}
+	.shoping-cart .special-reward .accordion .card-header:after {
+		font-size: 12px;
+	}
+	.shoping-cart .special-reward .accordion .card-header.collapsed:after {
+		font-size: 12px;
+	}
+	.shoping-cart .special-reward .collapse.show {
+		background: none;
+	}
+	.shoping-cart .special-reward .course-group {
+		padding: 5px 0px;
+		margin: 0px 0px 3px;
+	}
+	.shoping-cart .special-reward .course-group .left-text h3 {
+		font-size: 13px;
+	}
+	.shoping-cart .special-reward .course-group button {
+		font-size: 11px;
+	}
+	.shoping-cart .special-reward .course-group .left-text h3 {
+		margin-top: 5px;
+		font-size: 13px;
+	}
+	.shoping-cart .left-side .ibox-title h5 {
+		font-size: 14px;
+	}
+	.shoping-cart .left-side table.table td {
+		padding: 9px 7px;
+		font-size: 13px;
+	}
+	.shoping-cart .left-side .paybtn a {
+		padding: 9px 0px;
+		font-size: 12px;
+	}
+	.shoping-cart .left-side .paybtn {
+		margin-top: 10px;
+	}
+	.shoping-cart h4.modal-title {
+		font-size: 14px;
+	}
+	.shoping-cart .modal-body .form-group label {
+		font-size: 13px;
+	}
+	.shoping-cart .modal-body .form-group {
+		margin-bottom: 5px;
+	}
+	.shoping-cart .modal-body .form-group .form-control {
+		font-size: 12px;
+		height: 32px;
+	}
+	.shoping-cart .modal-body .form-group button.btn {
+		font-size: 13px;
+		padding: 0px 8px;
+	}
+	.shoping-cart .empty-cart img {
+		width: 110px;
+	}
+	.shoping-cart .empty-cart h3 {
+		font-size: 16px;
+	}
+	.shoping-cart .empty-cart p {
+		font-size: 13px;
+		line-height: 22px;
+	}
+	.shoping-cart .empty-cart a {
+		padding: 7px 0px;
+		font-size: 13px;
+		width: 150px;
+	}
+	
+	.shoping-cart .group-item .monthly-price .price-listing li {
+		padding: 0px 4px;
+		font-size: 12px;
+		line-height: 19px;
+	}
+	.shoping-cart .ibox {
+		padding: 10px 10px 10px;
+	}
+	.shoping-cart span.rating {
+        font-size: 13px !important;
+    }
+	.shoping-cart .group-item .delbg svg {
+		width: 40px;
+		height: 28px;
+		margin-left: -12px;
+	}
+	.couponModalApply span.textSet {
+		display: -webkit-box;
+		-webkit-line-clamp: 1;
+		line-clamp: 1;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+		width: 190px;
+	  }
+}
+
+@media only screen and (min-width:740px) and (max-width:767px) {
+	.shoping-cart .group-item .delbg img {
+		margin: 0 0px;
+	}
+	.shoping-cart .left-side {
+		margin-top: 14px;
+	}
+	.shoping-cart .ibox .product-title h3 {
+		font-size: 16px;
+	}
+	.shoping-cart .ibox .product-title .small-ratings span.rating {
+		font-size: 16px;
+	}
+	.address-group h4 {
+		font-size: 16px;
+		margin-top: 2px;
+	}
+	.address-group a {
+		padding: 0 7px;
+		font-size: 14px;
+	}
+	.shoping-cart .ibox .cart-product-img img {
+		width: 80px;
+	}
+	.shoping-cart .ibox .product-title .small-ratings .rating-color {
+		font-size: 13px;
+	}
+	.shoping-cart .group-item .monthly-price {
+		margin: 6px 3px 0 3px;
+		padding: 0 0px 0;
+	}
+	.shoping-cart .group-item .monthly-price .heading h3 {
+		font-size: 17px;
+	}
+	.shoping-cart .group-item .course-pricel h3 {
+		font-size: 16px;
+	}
+	.shoping-cart .group-item .course-pricel .pricep p {
+		font-size: 16px;
+	}
+	.shoping-cart .select-code input {
+		font-size: 16px;
+	}
+	.shoping-cart .no-found {
+		font-size: 18px;
+	}
+	.shoping-cart .paypoints li {
+		font-size: 17px;
+	}
+	.shoping-cart .paypoints li span {
+		font-size: 16px;
+	}
+	.shoping-cart .special-reward .card-header {
+		font-size: 16px;
+	}
+	.shoping-cart .special-reward .course-group .left-text h3 {
+		font-size: 16px;
+	}
+	.shoping-cart .special-reward .course-group button {
+		font-size: 13px;
+	}
+	.shoping-cart .left-side .ibox-title h5 {
+		font-size: 16px;
+	}
+	.shoping-cart .left-side table.table td {
+		font-size: 16px;
+	}
+	.shoping-cart .ibox .product-title .small-ratings {
+		margin-top: 6px;
+	}
+}
+
+@media only screen and (min-width:568px) and (max-width:667px) {
+	.shoping-cart .group-item .delbg img {
+		margin: 0 0px;
+	}
+	.shoping-cart .ibox .product-title h3 {
+		font-size: 16px;
+	}
+	.shoping-cart .ibox .product-title .small-ratings span.rating {
+		font-size: 16px;
+	}
+	.shoping-cart .group-item .monthly-price .price-listing li {
+		padding: 0px 25px;
+		font-size: 15px;
+	}
+	.address-group h4 {
+		font-size: 16px;
+		margin-top: 2px;
+	}
+	.address-group a {
+		padding: 0 7px;
+		font-size: 14px;
+	}
+	.shoping-cart .ibox .cart-product-img img {
+		width: 80px;
+	}
+	.shoping-cart .ibox .product-title .small-ratings .rating-color {
+		font-size: 13px;
+	}
+	.shoping-cart .group-item .monthly-price {
+		margin: 6px 3px 0 3px;
+		padding: 0 0px 0;
+	}
+	.shoping-cart .group-item .monthly-price .heading h3 {
+		font-size: 17px;
+	}
+	.shoping-cart .group-item .course-pricel h3 {
+		font-size: 16px;
+	}
+	.shoping-cart .group-item .course-pricel .pricep p {
+		font-size: 16px;
+	}
+	.shoping-cart .select-code input {
+		font-size: 16px;
+	}
+	.shoping-cart .no-found {
+		font-size: 18px;
+	}
+	.shoping-cart .paypoints li {
+		font-size: 17px;
+	}
+	.shoping-cart .paypoints li span {
+		font-size: 16px;
+	}
+	.shoping-cart .special-reward .card-header {
+		font-size: 16px;
+	}
+	.shoping-cart .special-reward .course-group .left-text h3 {
+		font-size: 16px;
+	}
+	.shoping-cart .special-reward .course-group button {
+		font-size: 13px;
+	}
+	.shoping-cart .left-side .ibox-title h5 {
+		font-size: 16px;
+	}
+	.shoping-cart .left-side table.table td {
+		font-size: 16px;
+	}
+	.shoping-cart .ibox .product-title .small-ratings {
+		margin-top: 6px;
+	}
+}
+
+@media only screen and (min-width:480px) and (max-width:567px) {
+	.shoping-cart .group-item .delbg img {
+		margin: 0 0px;
+	}
+	.shoping-cart .ibox .product-title h3 {
+		font-size: 16px;
+	}
+	.shoping-cart .ibox .product-title .small-ratings span.rating {
+		font-size: 16px;
+	}
+	.shoping-cart .group-item .monthly-price .price-listing li {
+		padding: 0px 8px;
+		font-size: 15px;
+	}
+	.address-group h4 {
+		font-size: 16px;
+		margin-top: 2px;
+	}
+	.address-group a {
+		padding: 0 7px;
+		font-size: 14px;
+	}
+	.shoping-cart .ibox .cart-product-img img {
+		width: 55px;
+	}
+	.shoping-cart .ibox .product-title .small-ratings .rating-color {
+		font-size: 13px;
+	}
+	.shoping-cart .group-item .monthly-price {
+		margin: 6px 3px 0 3px;
+		padding: 0 0px 0;
+	}
+	.shoping-cart .group-item .monthly-price .heading h3 {
+		font-size: 17px;
+	}
+	.shoping-cart .group-item .course-pricel h3 {
+		font-size: 16px;
+	}
+	.shoping-cart .group-item .course-pricel .pricep p {
+		font-size: 16px;
+	}
+	.shoping-cart .select-code input {
+		font-size: 16px;
+	}
+	.shoping-cart .no-found {
+		font-size: 18px;
+	}
+	.shoping-cart .paypoints li {
+		font-size: 17px;
+	}
+	.shoping-cart .paypoints li span {
+		font-size: 16px;
+	}
+	.shoping-cart .special-reward .card-header {
+		font-size: 16px;
+	}
+	.shoping-cart .special-reward .course-group .left-text h3 {
+		font-size: 16px;
+	}
+	.shoping-cart .special-reward .course-group button {
+		font-size: 13px;
+	}
+	.shoping-cart .left-side .ibox-title h5 {
+		font-size: 16px;
+	}
+	.shoping-cart .left-side table.table td {
+		font-size: 16px;
+	}
+}
+
+@media only screen and (min-width:375px) and (max-width:479px) {
+	.shoping-cart .ibox .product-title h3 {
+		font-size: 14px;
+	}
+	.shoping-cart .ibox .product-title .small-ratings span.rating {
+		font-size: 13px;
+	}
+	.shoping-cart .group-item .monthly-price .price-listing li {
+		padding: 0px 8px;
+		font-size: 12px;
+	}
+	.address-group h4 {
+		font-size: 13px;
+	}
+	.address-group a {
+		padding: 0 4px;
+		font-size: 11px;
+	}
+}
+
+@media only screen and (min-width:360px) and (max-width:374px) {
+	.shoping-cart .ibox .product-title h3 {
+		font-size: 13px;
+	}
+	.shoping-cart .ibox .product-title .small-ratings span.rating {
+		font-size: 12px;
+	}
+	.shoping-cart .group-item .monthly-price .price-listing li {
+		padding: 0px 8px;
+		font-size: 12px;
+	}
+	.address-group h4 {
+		font-size: 12px;
+		margin-top: 6px;
+	}
+	.address-group a {
+		padding: 0 4px;
+		font-size: 11px;
+	}
+}

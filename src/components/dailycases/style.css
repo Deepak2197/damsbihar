@@ -1,0 +1,32 @@
+/* .readMore {
+    display: inline-block;
+    margin-top: 5px;
+    color: #0056b3;
+    font-weight: 500;
+  }
+  
+  .readBtn {
+    background-color: #2d54f1;
+    color: #fff;
+    padding: 8px 14px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  } */
+
+.CommentsContainer {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid #e8e8e8;
+}
+
+.CommentsContainer .ant-list-item {
+  padding: 12px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.CommentsContainer .ant-list-item:last-child {
+  border-bottom: none;
+}

@@ -1,0 +1,138 @@
+.scoreCardData {
+  padding: 60px 0px;
+  background: #fafafa;
+}
+
+.scoreCardData .profile-content-bx {
+  border-radius: 10px;
+  background: #fff;
+}
+.scoreCardData .profile-content-bx .profile-head {
+  border: none !important;
+}
+.scoreCardData .profile-content-bx .profile-head ul {
+  border: 0px;
+}
+
+.scoreCardData .profile-content-bx .nav-tabs .nav-item button {
+  border: 1px solid #eeeeee !important;
+  font-size: 16px;
+  border-radius: 10px;
+  width: 120px !important;
+  color: #757575;
+  background: #eeeeee;
+  font-weight: 400;
+}
+.scoreCardData .profile-content-bx .nav-tabs .nav-item button.active {
+  background: #ed633d;
+  color: #fff !important;
+  border: 1px solid #ed633d !important;
+}
+.scoreCardData .profile-content-bx .teacher-info .price .btn.result {
+  background: #3f5395;
+  color: #fff !important;
+  border: 1px solid #3f5395 !important;
+  border-radius: 4px;
+  font-size: 13px;
+  padding: 6px 20px;
+}
+.scoreCardData
+  .profile-content-bx
+  .teacher-info
+  .teacher-name
+  p.date_txt
+  em.fa-clock-o {
+  color: #3f5395;
+  font-size: 14px;
+  margin-right: 6px;
+}
+.scoreCardData .profile-content-bx .teacher-bx {
+  height: auto;
+  overflow-y: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px 64px;
+}
+.scoreCardData .teacher-bx {
+  padding: 0 0px;
+}
+.pro-expert-eme .teacher-info:last-child {
+  border-bottom: 0px;
+  margin-bottom: 0;
+}
+.pro-expert-eme .teacher-info {
+  border-bottom: 1px solid #eeeeee;
+  box-shadow: none;
+  margin: 0px 0px 10px;
+  padding: 10px 0 10px;
+  width: 30%;
+}
+.scoreCardData
+  .profile-content-bx
+  .teacher-info
+  .teacher-name
+  p.date_txt
+  em.fa-clock-o {
+  color: #ed633d;
+}
+
+
+
+
+
+/**** MEDIA QUERY ****/
+
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+  .pro-expert-eme .teacher-info {
+    width: 30%;
+  }
+  .scoreCardData .profile-content-bx .teacher-bx {
+    gap: 20px 56px;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  .pro-expert-eme .teacher-info {
+    width: 30%;
+  }
+  .scoreCardData .profile-content-bx .teacher-bx {
+    gap: 20px 48px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .pro-expert-eme .teacher-info {
+    width: 48%;
+  }
+  .scoreCardData .profile-content-bx .teacher-bx {
+    gap: 20px 23px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .pro-expert-eme .teacher-info {
+    width: 48%;
+  }
+  .scoreCardData .profile-content-bx .teacher-bx {
+    gap: 20px 23px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .scoreCardData {
+    margin: 25px 0px;
+  }
+  .scoreCardData .profile-content-bx .nav-tabs .nav-item button {
+    font-size: 14px;
+    border-radius: 8px;
+    width: 90px !important;
+    padding: 8px 0px;
+  }
+  .scoreCardData .profile-content-bx .teacher-info .price .btn.result {
+    font-size: 12px;
+    padding: 3px 10px;
+  }
+  .pro-expert-eme .teacher-info {
+    width: 100%;
+  }
+}

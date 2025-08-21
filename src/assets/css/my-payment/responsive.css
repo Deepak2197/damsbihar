@@ -1,0 +1,223 @@
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+     /* My Payment */
+     .my-payment .foundation-live {
+        margin: 10px 0px 40px;
+        padding: 0px 10px;
+    }
+    .my-payment .foundation-live h2 {
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .my-payment .foundation-live h3 {
+        font-size: 14px;
+    }
+    .my-payment .foundation-live h4 {
+        font-size: 14px;
+    }
+    .my-payment .foundation-live h5 {
+        font-size: 14px;
+    }
+    .my-payment .foundation-live .found-table .table td {
+        font-size: 13px;
+    }
+    .my-payment .foundation-live .found-table .table th span.text-weight {
+        font-weight: 500;
+        font-size: 13px;
+    }
+    .my-payment .foundation-live button.btn.pay-btn {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+
+    /* My Payment */
+    .my-payment .foundation-live {
+        margin: 10px 0px 40px;
+        padding: 0px 10px;
+    }
+    .my-payment .foundation-live h2 {
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .my-payment .foundation-live h3 {
+        font-size: 14px;
+    }
+    .my-payment .foundation-live h4 {
+        font-size: 14px;
+    }
+    .my-payment .foundation-live h5 {
+        font-size: 14px;
+    }
+    .my-payment .foundation-live .found-table .table td {
+        font-size: 13px;
+    }
+    .my-payment .foundation-live .found-table .table th span.text-weight {
+        font-weight: 500;
+        font-size: 13px;
+    }
+    .my-payment .foundation-live button.btn.pay-btn {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+    /* My Payment */
+    .my-payment .foundation-live {
+        margin: 10px 0px 40px;
+        padding: 0px 20px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    /* My Payment */
+  
+    .my-payment .foundation-live {
+        margin: 10px 0px 40px;
+        padding: 0px 20px;
+    }
+    .my-payment .foundation-live h2 {
+        font-size: 12px;
+        font-weight: 500;
+    }
+    .my-payment .foundation-live h3 {
+        font-size: 12px;
+    }
+    .my-payment .foundation-live h4 {
+        font-size: 12px;
+    }
+    .my-payment .foundation-live h5 {
+        font-size: 12px;
+    }
+    .my-payment .foundation-live .found-table {
+        margin: 14px 0px 0px;
+    }
+    .my-payment .foundation-live .found-table .table td {
+        font-size: 13px;
+    }
+    .my-payment .foundation-live .found-table .table th span.text-weight {
+        font-weight: 500;
+        font-size: 13px;
+    }
+    .my-payment .foundation-live button.btn.pay-btn {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    
+    .my-payment .foundation-live {
+        margin: 10px 0px 40px;
+        padding: 0px 0px;
+    }
+    .my-payment .foundation-live h2 {
+        font-size: 13px;
+        font-weight: 500;
+    }
+    .my-payment .foundation-live h3 {
+        font-size: 13px;
+    }
+    .my-payment .foundation-live h4 {
+        font-size: 13px;
+    }
+    .my-payment .foundation-live h5 {
+        font-size: 13px;
+    }
+    .my-payment .foundation-live .found-table {
+        margin: 14px 0px 0px;
+    }
+    .my-payment .foundation-live .found-table .table td {
+        font-size: 13px;
+    }
+    .my-payment .foundation-live .found-table .table th span.text-weight {
+        font-weight: 500;
+        font-size: 13px;
+    }
+    .my-payment .foundation-live button.btn.pay-btn {
+        font-size: 13px;
+    }
+
+
+
+    /* Foundation popup */
+    .foundation-popup .popup-bg ul li img {
+        width: 84px;
+    }
+    .foundation-popup .popup-bg ul li {
+        font-size: 11px;
+        margin-right: 10px;
+    }
+    .foundation-popup .popup-bg ul li a.paynw-btn {
+        font-size: 12px;
+        padding: 2px 4px;
+        border-radius: 4px;
+        min-width: 60px;
+        display: block;
+        text-align: center;
+        margin-right: 10px;
+    }
+
+
+
+
+
+
+
+
+    /* Begin: Partner Web Request Payment Page Css */
+
+    .req-payment{
+        width: 100%;
+    }
+    .req-payment .pay-section ul li {
+        font-size: 13px;
+        padding: 10px 0px;
+        margin-right: 30px;
+    }
+    .req-payment .pay-section ul li:last-child {
+        margin-right: 0px;
+    }
+    .req-payment .pay-section button.btn.req-payment {
+        font-size: 12px;
+    }
+    .req-payment .pay-section button.btn.continues {
+        font-size: 12px;
+    }
+
+
+
+
+    /* Begin: Partner Web Request Payment Modal Css */
+    .success_modal .pop-sec img {
+        width: 70px;
+    }
+    .success_modal .pop-sec h3 {
+        font-size: 13px;
+    }
+    .success_modal .pop-sec p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+
+
+
+}
+
+@media only screen and (min-width: 640px) and (max-width: 739px) {
+    /* My Payment */
+    .my-payment .foundation-live h2 {
+        font-size: 11px;
+        font-weight: 500;
+    }
+    .my-payment .foundation-live h3 {
+        font-size: 11px;
+    }
+    .my-payment .foundation-live h4 {
+        font-size: 11px;
+    }
+    .my-payment .foundation-live h5 {
+        font-size: 11px;
+    }
+}

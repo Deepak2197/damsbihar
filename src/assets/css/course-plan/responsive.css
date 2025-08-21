@@ -1,0 +1,537 @@
+@media only screen and (min-width: 1330px) and (max-width: 1400px) {
+  .plan-Neet-Pg .tab-content .free-trail a.deactive {
+    font-size: 15px !important;
+  }
+
+  .plan-Neet-Pg .need-help ul {
+    padding: 10px 12px !important;
+    font-size: 16px !important;
+  }
+  .plan-Neet-Pg .share ul {
+    padding: 13px 13px !important;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .plan-Neet-Pg li.nav-item a.nav-link {
+    font-size: 14px !important;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text h3 {
+    font-size: 18px !important;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text a.byu-now {
+    font-size: 15px !important;
+  }
+
+  .plan-Neet-Pg .tab-content .free-trail a.deactive {
+    font-size: 15px !important;
+  }
+
+  .plan-Neet-Pg .need-help ul {
+    padding: 10px 12px !important;
+    font-size: 16px !important;
+  }
+
+  .My-course-page {
+    margin: 50px 0%;
+  }
+
+  .plan-Neet-Pg ul.nav {
+    white-space: nowrap;
+    flex-wrap: initial;
+    overflow: auto;
+    justify-content: left;
+    width: 100%;
+  }
+  .plan-Neet-Pg ::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+    background-color: #c1c1c1;
+  }
+  .plan-Neet-Pg ::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    background-color: #f5f5f5;
+  }
+
+  .plan-Neet-Pg ::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+    background-color: #f5f5f5;
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .plan-Neet-Pg li.nav-item a.nav-link {
+    font-size: 13px;
+  }
+
+  .plan-Neet-Pg ul.nav {
+    white-space: nowrap;
+    flex-wrap: initial;
+    overflow: auto;
+    justify-content: left;
+    width: 100%;
+  }
+  .plan-Neet-Pg ::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+    background-color: #c1c1c1;
+  }
+  .plan-Neet-Pg ::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    background-color: #f5f5f5;
+  }
+
+  .plan-Neet-Pg ::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+    background-color: #f5f5f5;
+    display: none;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text {
+    width: 500px !important;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text li {
+    font-size: 15px;
+    margin-bottom: 17px;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text h3 {
+    font-size: 20px !important;
+    padding: 22px 0px;
+  }
+
+  .plan-Neet-Pg .tab-content .free-trail a.deactive {
+    font-size: 15px !important;
+  }
+
+  .plan-Neet-Pg .help-share {
+    width: 500px !important;
+  }
+
+  .plan-Neet-Pg .share ul {
+    padding: 12px 10px !important;
+    font-size: 12px;
+    width: 80px;
+  }
+
+  .plan-Neet-Pg .need-help ul {
+    padding: 9px 9px !important;
+    font-size: 11px !important;
+    width: 390px;
+  }
+
+  .plan-Neet-Pg {
+    width: 100%;
+  }
+
+  .plan-Neet-Pg .subscription {
+    width: 730px;
+    background: #00000078;
+    padding: 0 15px !important;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text a.byu-now {
+    padding: 15px 0px;
+    font-size: 15px;
+  }
+
+  .plan-Neet-Pg .subscription-data .slider {
+    padding: 30px 0px;
+  }
+
+  .plan-Neet-Pg .slider img {
+    width: 150px;
+  }
+
+  .plan-Neet-Pg .subscription-data {
+    margin: 40px 0px;
+  }
+
+  .plan-Neet-Pg .subscription-data .show-center .dams-center {
+    padding: 10px 10px;
+    margin: 0px 0px 15px;
+  }
+
+  .plan-Neet-Pg .subscription-data .show-center .dams-center .month-text h5 {
+    font-size: 11px;
+  }
+
+  .plan-Neet-Pg .subscription-data .show-center .dams-center .dams-text h3 {
+    font-size: 12px;
+  }
+
+  .plan-Neet-Pg .subscription-data .show-center .dams-center .round {
+    width: 15px;
+    height: 15px;
+  }
+
+  .plan-Neet-Pg .subscription-data .show-center .continuebtn a {
+    font-size: 12px;
+  }
+
+  .plan-Neet-Pg .subscription-data .show-center .continuebtn {
+    width: 100%;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text li span img {
+    width: 10px;
+  }
+
+  .plan-Neet-Pg .tab-content .free-trail a {
+    font-size: 16px;
+    padding: 10px 0px;
+  }
+
+  .plan-Neet-Pg .need-help ul {
+    font-size: 16px;
+  }
+
+  .My-course-page {
+    margin: 50px 0%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .plan-Neet-Pg {
+    width: 100%;
+    padding: 25px 0 40px;
+  }
+
+  .plan-Neet-Pg .help-share {
+    width: 100% !important;
+  }
+
+  .plan-Neet-Pg .subscription {
+    width: 100%;
+    margin: 0px;
+    background: #0a0a0a24;
+  }
+
+  .plan-Neet-Pg .subscription-data .show-center .dams-center .dams-text h3 {
+    font-size: 12px;
+  }
+
+  .plan-Neet-Pg .subscription-data {
+    margin: 30px 10px;
+  }
+
+  .plan-Neet-Pg .slider img {
+    width: 100px;
+  }
+
+  .plan-Neet-Pg .subscription-data .slider {
+    padding: 15px 0px;
+    margin-bottom: 20px;
+  }
+
+  .plan-Neet-Pg .subscription-data .show-center .continuebtn {
+    width: 100%;
+  }
+
+  .plan-Neet-Pg .subscription-data .show-center .dams-center {
+    padding: 10px 15px;
+    margin: 0px 0px 12px;
+  }
+
+  .plan-Neet-Pg .subscription-data .show-center .dams-center .month-text {
+    margin: 0 -15px;
+  }
+
+  .plan-Neet-Pg .subscription-data .show-center .dams-center .month-text h5 {
+    font-size: 11px;
+  }
+
+  .plan-Neet-Pg
+    .subscription-data
+    .show-center
+    .dams-center.active
+    .active-img
+    img {
+    width: 17px;
+  }
+
+  .plan-Neet-Pg .need-help li {
+    font-size: 14px;
+  }
+
+  .plan-Neet-Pg .subscription-data .show-center .dams-center .round {
+    width: 17px;
+    height: 17px;
+  }
+
+  .plan-Neet-Pg .subscription-data .show-center .continuebtn a {
+    font-size: 11px;
+  }
+
+  .plan-Neet-Pg .Class_className__yAM1H {
+    font-size: 12px;
+  }
+
+  .plan-Neet-Pg .modal-header .close {
+    padding: 0px 9px;
+    margin-top: -25px;
+    font-size: 23px;
+  }
+
+  .plan-Neet-Pg .need-help {
+    width: 100%;
+    margin: 0px auto 0px;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text {
+    width: 100%;
+    margin-top: 40px;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text ul {
+    padding: 20px 20px !important;
+  }
+
+  .plan-Neet-Pg .tab-content .free-trail {
+    width: 100%;
+  }
+
+  .new_couponcode .modal-header .close {
+    padding: 3px 8px !important;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text h3 {
+    font-size: 18px;
+    padding: 18px 0px;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text h3::after {
+    top: 35px !important;
+    left: 30% !important;
+    width: 126px !important;
+    display: none;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text li {
+    font-size: 14px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text li span img {
+    width: 10px;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text li span {
+    margin-right: 9px;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text a.byu-now {
+    font-size: 14px !important;
+    margin-bottom: 0;
+  }
+
+  .plan-Neet-Pg .tab-content .free-trail a {
+    font-size: 13px !important;
+    padding: 6px 0px !important;
+    border-radius: 6px !important;
+  }
+
+  .plan-Neet-Pg .help-share {
+    width: auto;
+    display: flex;
+    align-items: center;
+  }
+
+  .plan-Neet-Pg .share ul {
+    padding: 11px 10px !important;
+    font-size: 14px;
+    max-width: 82px;
+  }
+
+  .plan-Neet-Pg .need-help ul {
+    padding: 9px 9px !important;
+    font-size: 9px !important;
+    max-width: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .plan-Neet-Pg li.nav-item {
+    margin-bottom: 12px;
+  }
+
+  .plan-Neet-Pg ul.nav {
+    white-space: nowrap;
+    flex-wrap: initial;
+    overflow: auto;
+    justify-content: left;
+    width: 100%;
+  }
+  .plan-Neet-Pg ::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+    background-color: #c1c1c1;
+  }
+  .plan-Neet-Pg ::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    background-color: #f5f5f5;
+  }
+
+  .plan-Neet-Pg ::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+    background-color: #f5f5f5;
+    display: none;
+  }
+
+  .plan-Neet-Pg li.nav-item a.nav-link {
+    font-size: 12px;
+    padding: 14px 14px;
+    margin: 0px 6px;
+  }
+
+  .plan-Neet-Pg .subscription .modal-dialog {
+    margin-top: 95px !important;
+    padding: 10px !important;
+  }
+
+  .plan-Neet-Pg .tab-content .inclusions-text .enrollBtn {
+    width: 230px !important;
+    padding-bottom: 30px;
+    margin: 15px auto 0;
+  }
+
+  .My-course-page {
+    margin: 30px 0px;
+  }
+
+  .My-course-page ul.help-tab {
+    width: 100%;
+    margin: 25% auto 0 !important;
+    padding: 10px 11px;
+  }
+
+  .My-course-page h2.purs {
+    font-size: 17px;
+    margin-bottom: 20px;
+  }
+
+  .My-course-page .card {
+    margin-bottom: 12px;
+    margin-top: 0;
+    padding: 8px 0;
+  }
+
+  .My-course-page #faq .card .card-header img {
+    width: 60px;
+    margin-right: 6px;
+    height: 42px;
+    border-radius: 6px;
+  }
+
+  .My-course-page #faq .card .card-header .btn-header-link {
+    margin: 0px 10px;
+    font-size: 13px;
+  }
+
+  .My-course-page #faq .card .card-header .btn-header-link:after {
+    font-size: 15px;
+  }
+
+  .My-course-page .text-plan .imgtext {
+    width: 35px;
+    height: 35px;
+    border-radius: 4px;
+  }
+
+  .My-course-page .text-plan .imgtext img {
+    width: 15px;
+  }
+
+  .My-course-page .text-plan .tttetx p {
+    font-size: 14px;
+  }
+
+  .My-course-page .text-plan em.fa.fa-angle-right {
+    font-size: 13px;
+    margin-top: 14px;
+  }
+
+  .My-course-page .help-tab li {
+    font-size: 15px;
+  }
+
+  .My-course-page .help-tab li em {
+    font-size: 20px;
+  }
+
+  .plan-Neet-Pg .comparison-table .table-group {
+    margin: 0;
+    z-index: 5555;
+    background: #fff;
+  }
+
+  .plan-Neet-Pg .pricing-feature li p {
+    font-size: 13px;
+    line-height: 21px;
+  }
+
+  .plan-Neet-Pg .style-3 .pricing-header h5 {
+    font-size: 11px;
+  }
+
+  .plan-Neet-Pg .style-3 .pricing-feature li.bg-none {
+    padding: 23px 0px;
+  }
+
+  .plan-Neet-Pg .style-3 .pricing-footer .btn-act.btn-line {
+    font-size: 10px;
+    padding: 3px 1px;
+  }
+
+  .plan-Neet-Pg .comparison-table .pricing-col.active img.star {
+    top: -30px;
+    left: 18px;
+  }
+
+  .plan-Neet-Pg .comparison-table .pricing-col:hover img.star {
+    top: -30px;
+    left: 18px;
+  }
+
+  .plan-Neet-Pg .procedd {
+    width: 100%;
+  }
+
+  .plan-Neet-Pg .procedd a {
+    font-size: 15px;
+  }
+
+  .student_course_category .course_group h3 {
+    font-size: 12px !important;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .student_course_category .course_group img {
+    height: 40px !important;
+  }
+
+  .student_course_category .height-group {
+    padding: 7px 6px 6px !important;
+    width: 100%;
+    min-height: 100px;
+  }
+}

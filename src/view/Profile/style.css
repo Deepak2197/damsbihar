@@ -1,0 +1,540 @@
+.ProfileUpdate .profile_complete {
+  border: 1px solid #dddd;
+  background-color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.1) 2px 3px 5px;
+  padding: 15px 15px;
+  border-radius: 8px;
+  width: 568px;
+  margin: 15px auto 15px;
+}
+
+.profile_complete .circle-chart__background {
+  stroke: #ede4e4;
+  stroke-width: 1;
+}
+:focus-visible {
+  border: solid 1px #d9d9d9 !important;
+}
+.ProfileUpdate .profile_complete .circle-chart__circle {
+  stroke: #4dc247;
+  stroke-width: 2;
+  stroke-linecap: square;
+  fill: #fff;
+  animation: circle-chart-fill 2s reverse;
+  transform: rotate(-90deg);
+  transform-origin: center;
+}
+.ProfileUpdate .profile_complete .circle-chart__info {
+  animation: circle-chart-appear 2s forwards;
+  opacity: 0;
+  transform: translateY(0.3em);
+}
+.ProfileUpdate .profile_complete .circle-chart__percent {
+  /* alignment-baseline: central; */
+  text-anchor: middle;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.profile_complete .circle-chart {
+  width: 45px;
+  height: 45px;
+}
+
+.profile_complete .circle-chart__circle {
+  stroke: #4dc247;
+  stroke-width: 2;
+  stroke-linecap: square;
+  fill: #fff;
+  animation: circle-chart-fill 2s reverse;
+  transform: rotate(-90deg);
+  transform-origin: center;
+}
+
+.profile_complete .circle-chart__circle--negative {
+  transform: rotate(-90deg) scale(1, -1);
+}
+
+.ProfileUpdate .profile_complete .textbg {
+  margin-left: 0;
+  margin-top: 0;
+}
+.ProfileUpdate .profile_complete .circlechart {
+  margin-left: 0;
+}
+.ProfileUpdate .profile_complete .textbg h3 {
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0px;
+}
+.ProfileUpdate .profile_complete button {
+  width: auto;
+  font-size: 15px;
+  border-radius: 4px;
+  background: #4dc24721;
+  color: #4dc247;
+  font-weight: 600;
+  margin-left: 0;
+  padding: 7px 15px;
+  margin-top: 6px;
+}
+.ProfileUpdate .closebtn {
+  position: absolute;
+  top: 0;
+  right: 1px;
+  font-size: 15px;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  border-radius: 50%;
+  background: #00a651;
+  opacity: 1;
+  color: #fff;
+  z-index: 9;
+  padding: 0px;
+}
+
+.profileNewupdate {
+  width: 100%;
+  float: left;
+  margin: 60px 0px;
+}
+.profileNewupdate .avatar-upload {
+  position: relative;
+  margin: 0px;
+}
+
+.profileNewupdate .avatar-upload .avatar-preview {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  border-radius: 100%;
+  border: 6px double #f5f5f5;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profileNewupdate .avatar-upload .avatar-preview img {
+  max-width: 100%;
+  width: 120px;
+  height: 120px;
+  border-radius: 100px !important;
+}
+.profileNewupdate .avatar-upload .avatar-preview > div {
+  width: 100%;
+  height: 100%;
+  border-radius: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: solid 1px #e0e0e0;
+}
+.profileNewupdate .form-group {
+  margin-bottom: 24px;
+}
+.profileNewupdate .form-group select.form-select {
+  color: #757575;
+  font-size: 13px;
+  height: 40px;
+}
+.profileNewupdate .form-group .ant-select-single {
+  font-size: 13px;
+  height: 40px;
+  color: #757575;
+}
+.profileNewupdate .form-group .ant-select .ant-select-selection-wrap {
+  font-size: 13px;
+}
+.profileNewupdate .form-group .ant-select .ant-select-selection-item {
+  color: #757575;
+}
+input::placeholder {
+  color: #757575 !important;
+}
+.profileNewupdate label {
+  font-size: 15px;
+  font-weight: 400;
+  margin-bottom: 6px !important;
+  color: #212121;
+}
+.profileNewupdate label b {
+  font-size: 14px;
+  font-weight: 500;
+}
+.profileNewupdate label:hover {
+  margin-bottom: 10px !important;
+  background: linear-gradient(to right, #000, #000);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.profileNewupdate .form-group .form-control {
+  font-size: 15px !important;
+  color: #757575;
+  height: 40px;
+  font-weight: 400;
+}
+.profileNewupdate .form-group .ant-select-selector {
+  min-height: 38px;
+}
+.profileNewupdate .form-control:disabled,
+.form-control[readonly] {
+  background-color: #fafafa;
+  opacity: 1;
+}
+
+.profileNewupdate .subbutton {
+  text-align: left;
+  margin-bottom: 20px;
+}
+.profileNewupdate .subbutton button {
+  border: 1px solid #3f5395;
+  margin: 50px auto 0;
+  background: #3f5395;
+  width: 165px;
+  text-align: center;
+  padding: 10px 0px;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+}
+.profileNewupdate .subbutton button.botn {
+  border: 1px solid #3f5395;
+  margin: 50px auto 0;
+  background: #3f5395;
+  width: 165px;
+  height: 40px;
+  text-align: center;
+  padding: 0px 0px;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  margin-right: 18px;
+}
+.profileNewupdate .subbutton button.botn:last-child {
+  margin-right: 0px;
+}
+.text-right {
+  margin: 0 !important;
+}
+
+.newProfileUpdate {
+  padding: 60px 0px;
+}
+.newProfileUpdate .verifyDiv h3 {
+  font-size: 20px;
+  margin-bottom: 24px;
+  color: #ed633d;
+  font-weight: 600;
+}
+:focus-visible {
+  outline: -webkit-focus-ring-color auto 0px;
+  border: none;
+}
+.newProfileUpdate .verifyDiv {
+  width: 50%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: #fff;
+  padding: 50px 0px;
+  border: 1px solid #eeee;
+  border-radius: 15px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.newProfileUpdate .btnProfile {
+  background: #3f5395 !important;
+  padding: 8px 0px;
+  color: white;
+  border-radius: 4px;
+  margin-right: 10px;
+  width: 130px;
+  height: 40px;
+  text-align: center;
+}
+.newProfileUpdate .btnProfile:last-child {
+  margin-right: 0px;
+}
+.newProfileUpdate .numberType {
+  margin: 20px auto;
+  width: 40%;
+}
+
+.newProfileUpdate .typebox {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 20px 0px;
+}
+.newProfileUpdate .typebox input {
+  width: 22px;
+  height: 50px;
+  font-size: 20px;
+  border-bottom: 2px solid #9e9e9e !important;
+  border: 0px;
+  /* border-radius: 100px; */
+  text-align: center;
+  font-weight: 500;
+  margin: 0px 10px;
+}
+.newProfileUpdate .verifyBtn {
+  margin: 24px auto 0;
+  width: 30%;
+}
+.newProfileUpdate .verifyBtn button {
+  padding: 10px 0px;
+  text-align: center;
+  height: auto;
+  font-size: 15px;
+  font-weight: 500;
+  background: #3f5395;
+}
+.completepage {
+  margin: 145px 0px 70px;
+}
+.updatePro {
+  padding: 40px 0px;
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  background: #f5f5f5;
+  border-radius: 10px;
+}
+.updatePro h3 {
+  font-size: 22px;
+  margin-bottom: 0;
+  padding: 20px 0px;
+  text-align: center;
+  color: green;
+}
+.updatePro p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 15px;
+  color: #000;
+}
+.updatePro img {
+  max-width: 100%;
+  width: 120px;
+  height: 120px;
+  border-radius: 100px;
+  border: 2px solid #ccc;
+}
+.updatePro button {
+  border: 1px solid #000 !important;
+  padding: 10px 0px;
+  width: 200px;
+  margin-top: 15px;
+  border-radius: 5px;
+  background: #3f5395;
+  color: #fff;
+  font-size: 15px;
+  text-align: center;
+}
+
+/* start pin */
+.modal {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.overlay {
+  background: rgba(0, 0, 0, 0.6);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pin-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.pin-container input {
+  width: 50px;
+  height: 50px;
+  font-size: 24px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.btn {
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btn-primary {
+  background: #3b5998;
+}
+
+.btn-success {
+  background: #4caf50;
+}
+
+.error {
+  color: red;
+  margin-bottom: 10px;
+}
+button.setPinbtn {
+  margin-left: 16px !important;
+  height: 44px;
+}
+button.saveBtnonModal {
+  background: #3f5395;
+  width: 150px !important;
+  color: #ffffff !important;
+  margin: 0 auto;
+  display: block;
+  height: 44px;
+  font-size: 16px;
+}
+button.setPinbtn2 {
+  background: #3f5395;
+  width: 150px !important;
+  margin: 0 auto;
+  height: 42px;
+  font-size: 16px;
+}
+button.setPinbtn2:hover {
+  background: #3f5395 !important;
+}
+/* end pin */
+
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+  .newProfileUpdate .verifyDiv {
+    width: 60%;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  .newProfileUpdate .verifyDiv {
+    width: 60%;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .profileNewupdate {
+    margin: 30px 0px 50px;
+  }
+  .profileNewupdate .avatar-upload {
+    margin: 0px auto 20px !important;
+  }
+  .newProfileUpdate .verifyDiv {
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .ProfileUpdate .profile_complete {
+    width: 100%;
+    padding: 6px 5px;
+  }
+  .profile_complete .circlechart {
+    margin-left: 3px !important;
+    margin-top: 2px !important;
+  }
+  .profile_complete .circle-chart {
+    width: 35px;
+    height: 35px;
+  }
+  .profileNewupdate {
+    margin: 0px 0px 50px;
+  }
+  .ProfileUpdate .profile_complete button {
+    font-size: 11px;
+    padding: 7px 3px;
+    margin-top: 3px;
+  }
+  .ProfileUpdate .profile_complete .textbg h3 {
+    font-size: 10px;
+    line-height: 19px;
+  }
+  .ProfileUpdate .closebtn {
+    top: -11px;
+    right: 1px;
+    font-size: 13px;
+  }
+  .profileNewupdate .avatar-upload {
+    margin: 0 auto 30px;
+    width: 135px;
+  }
+  .profileNewupdate .avatar-upload .avatar-preview {
+    width: 130px;
+    height: 130px;
+  }
+  .profileNewupdate .avatar-upload .avatar-preview img {
+    width: 90px;
+    height: 90px;
+  }
+  .profileNewupdate label {
+    font-size: 13px;
+    margin-bottom: 6px !important;
+  }
+  .profileNewupdate .form-group .form-control {
+    font-size: 12px !important;
+    height: 40px;
+  }
+  .profileNewupdate .subbutton button {
+    margin: 35px auto 0;
+    width: 120px;
+    padding: 7px 0px;
+    font-size: 15px;
+  }
+  .newProfileUpdate .verifyDiv {
+    width: 100%;
+    padding: 30px 0px;
+  }
+  .newProfileUpdate {
+    margin-top: 50px !important;
+  }
+  .newProfileUpdate .verifyDiv h3 {
+    font-size: 17px;
+  }
+  .newProfileUpdate .btnProfile {
+    padding: 6px 0px;
+    width: 90px;
+  }
+  .newProfileUpdate .verifyBtn {
+    width: 50%;
+  }
+  .newProfileUpdate .verifyBtn button {
+    padding: 8px 0px;
+    font-size: 13px;
+  }
+  .newProfileUpdate .numberType {
+    width: auto !important;
+  }
+  .newProfileUpdate .numberType input {
+    text-align: center;
+  }
+  .newProfileUpdate .typebox input {
+    font-size: 16px;
+  }
+  .updatePro {
+    width: 100%;
+    padding: 0px 0px 40px;
+  }
+  .updatePro h3 {
+    font-size: 20px;
+  }
+  .profileNewupdate .subbutton button.botn {
+    width: 120px;
+  }
+}

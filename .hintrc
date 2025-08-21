@@ -1,0 +1,11 @@
+{
+  "extends": ["main"],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": ["height: fit-content", "scrollbar-width", "min-height: auto"]
+      }
+    ]
+  }
+}

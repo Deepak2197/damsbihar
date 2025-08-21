@@ -1,0 +1,52 @@
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+    /* PROFILE NEW MODULE */
+    .profileNew{
+        width: auto;
+        margin: 0px auto 0px;
+    }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+    /* PROFILE NEW MODULE */
+    .profileNew{
+        width: auto;
+        margin: 0px auto 0px;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    /* PROFILE NEW MODULE */
+    .profileNew{
+        width: auto;
+        margin: 0px auto 0px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    /* PROFILE NEW MODULE */
+    .profileNew{
+        width: auto;
+        margin: 0px auto 0px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    /* PROFILE NEW MODULE */
+    .profileNew{
+        width: auto;
+        margin: 0px auto 0px;
+    }
+    .profileNew .avatar-upload .avatar-preview {
+        width: 150px;
+        height: 150px;
+    }
+    .profileNew .avatar-upload {
+        max-width: 160px;
+        margin: 10px auto;
+    }
+    .profileNew .form-group {
+        margin-bottom: 16px;
+    }
+    .profileNew .form-group input[type=checkbox]+label {
+        padding-left: 4px!important;
+    }
+}
+

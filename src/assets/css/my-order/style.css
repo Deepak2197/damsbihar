@@ -1,0 +1,1206 @@
+.ordeRDetailBG {
+  background: #fafafa;
+}
+.my-order {
+  padding: 60px 0px !important;
+  background: #fafafa;
+}
+.my-order ul.order_summery {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  list-style: none;
+  margin-bottom: 5px !important;
+}
+.my-order ul.order_summery li {
+  color: #212121;
+  font-size: 14px;
+}
+
+.my-order .invoice_data span {
+  float: right;
+}
+
+.my-order .lean_pri span {
+  float: right;
+  margin-bottom: 8px;
+  font-size: 14px;
+  font-weight: 600;
+}
+.my-order .event-info .event-title {
+  overflow: hidden;
+  font-size: 17px;
+  color: #000000ba;
+  margin-bottom: 20px;
+}
+.my-order .det_in {
+  color: #0e0f0f;
+  font-size: 14px;
+  font-weight: 500;
+  margin: 18px 0 0px;
+}
+.my-order .det_in svg {
+  margin-left: 5px;
+}
+
+.my-order ul.invoice_data li:last-child {
+  font-weight: 600;
+  margin-top: 7px;
+  border-top: 1px solid #d0d0d0;
+  padding-top: 3px;
+}
+.my-order .gray {
+  color: #373737;
+  font-weight: 500;
+  font-size: 14px;
+}
+.my-order .red {
+  color: #df2f2f;
+  font-weight: 500;
+  font-size: 14px;
+}
+.my-order .green {
+  color: #00a651 !important;
+  font-weight: 500;
+}
+.my-order .orange {
+  color: #e9793c;
+  font-weight: 500;
+}
+.my-order ul.order_summery .defr {
+  color: #3f9bf3;
+  font-weight: 500;
+  margin-left: 3px;
+}
+.my-order .searchPart .has-search .form-control {
+  padding-left: 2.375rem;
+}
+.my-order .searchPart .has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #757575;
+}
+.my-order .searchPart {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 4%;
+  margin: 0px 0px 40px;
+}
+.my-order .searchPart .serchSec {
+  width: 50%;
+}
+.my-order .searchPart .dropSec {
+  width: 30%;
+}
+.my-order .searchPart .dropSec .form-control {
+  padding: 0px 0px 0px 100px;
+}
+.my-order .searchPart .dropSec .sorted {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.my-order .searchPart .sort-container {
+  width: 300px;
+  margin: 0 auto;
+  border: solid 1px #e0e0e0;
+  padding: 6px 10px;
+  border-radius: 6px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  z-index: 1;
+  background: #ffffff;
+}
+.my-order .searchPart .sort-header {
+  font-size: 16px;
+  font-weight: 500;
+}
+.my-order .searchPart .sort-header span {
+  font-size: 16px;
+  font-weight: 400;
+}
+.my-order .searchPart .sort-options {
+  margin-top: 6px;
+}
+.my-order .searchPart .sort-option {
+  padding: 10px;
+  cursor: pointer;
+}
+.my-order .searchPart .sort-option:hover {
+  background: #f4f4f5;
+}
+.my-order .searchPart .sort-option:last-child {
+  border-bottom: none;
+}
+.my-order .ultimateLive {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  margin: 0px 0px 40px;
+}
+.my-order .fullSec {
+  width: calc(32.3% - 20px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-bottom: 20px;
+  box-sizing: border-box;
+}
+.my-order .fullSec a {
+  display: flex;
+  width: 100%;
+}
+.my-order .imgSec {
+  width: 24%;
+}
+.my-order .imgSec img {
+  width: 72px;
+  height: auto;
+  margin-right: 15px;
+}
+.my-order .textSec {
+  width: 76%;
+  border-bottom: solid 1px #e0e0e0;
+  padding-bottom: 14px;
+}
+.my-order .textSec h2 {
+  font-size: 18px;
+  font-weight: 500;
+  color: #212121;
+  line-height: 24px;
+}
+.my-order .textSec h3 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #212121;
+}
+.my-order .textSec h3 span {
+  color: #007aff;
+  font-weight: 500;
+}
+.my-order .textSec h3 span.angelErow {
+  color: #212121;
+}
+.my-order .textSec h3 span em {
+  position: absolute;
+  right: 0px;
+  font-size: 22px;
+}
+.my-order .textSec h4 {
+  font-size: 13px;
+  font-weight: 400;
+  color: #757575;
+}
+.my-order .textSec h5 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #212121;
+}
+
+.my-order .event-bx {
+  margin-bottom: 30px;
+  padding: 20px 20px;
+  text-align: center;
+  border-radius: 12px;
+  position: relative;
+  background: #fafafa;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+}
+.my-order .event-bx h4 {
+  font-size: 15px;
+  margin-bottom: 12px;
+  margin-top: 0;
+  text-transform: capitalize;
+  line-height: 22px;
+  height: 35px;
+}
+.my-order .event-bx .track-btn {
+  color: #ffffff;
+  border: 1px solid #00a859;
+  background: #00a859;
+  padding: 7px 5px;
+  border-radius: 4px;
+  position: absolute;
+  top: 18px;
+  right: 15px;
+  font-size: 13px;
+  text-transform: capitalize;
+  cursor: pointer;
+  line-height: 10px;
+}
+
+.my-order .event-bx img.order-img {
+  margin: 0px 0 15px;
+  max-width: 100%;
+  height: 80px;
+  width: 80px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 8px;
+}
+/* .event-info.event-eme {
+    min-height: 310px;
+} */
+
+.my-order .event-bx .join-text ul li {
+  padding: 8px 0px;
+  text-align: justify;
+  color: #666666;
+  margin: 0;
+  line-height: 14px;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.my-order .btn-load {
+  background: #095fb6;
+  padding: 6px 0px;
+  width: 145px !important;
+  font-size: 15px !important;
+  border-radius: 100px !important;
+  display: inline-block;
+  color: #fff;
+  margin-top: 20px;
+}
+.my-order .btn-load:hover {
+  color: #fff;
+}
+.join-text button {
+  font-size: 14px;
+  margin-top: 10px;
+  margin-bottom: 0;
+  color: #f15a22;
+  font-weight: 600;
+}
+.join-text button em {
+  font-size: 13px;
+  margin-right: 7px;
+}
+.my-order .invoiceFile {
+  padding: 3px 8px;
+  background-color: #f15a2208;
+  margin-left: 20px;
+  color: #f15a22;
+  border-radius: 5px;
+  font-size: 13px;
+  border: 1px solid #f15a225c !important;
+}
+
+/* Begin: Invoise page */
+
+.invoice-card {
+  width: 50vw;
+  margin: 50px auto;
+  padding: 35px 45px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.invoice-card .table td {
+  padding: 10px 10px;
+  text-align: left;
+  color: #424242;
+  font-weight: 500;
+  font-size: 14px;
+  border: 0px;
+}
+.invoice-card .table tr:nth-child(even) {
+  background: none;
+}
+.invoice-card .bottom_sec td span.total {
+  margin-right: 35px;
+  margin-bottom: 0;
+}
+/* .totalbotom {
+  margin-top: 30px;
+} */
+.invoice-card .table td span {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.invoice-card table,
+ul {
+  margin-bottom: 0px;
+}
+.invoice-card .table td.bill {
+  background: #fff;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  border-right: 0px;
+  border-left: 0px;
+  padding: 14px 74px;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: right;
+  color: #000;
+}
+
+.invoice-card .invoice .top_left_sec img {
+  width: 70px;
+}
+
+.invoice-card .invoice .top_left_sec h3 {
+  font-size: 18px;
+  margin: 22px 0px 12px;
+}
+
+.invoice-card .invoice .top_left_sec p {
+  font-size: 15px;
+  color: #212121;
+  font-weight: 500;
+  margin: 0;
+}
+.invoice-card .invoice .topHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.invoice-card .invoice .topHeader .logoPart img {
+  width: 64px;
+}
+.invoice-card .invoice .appStorePart {
+  display: flex;
+  gap: 10px;
+}
+.invoice-card .invoice .appStorePart img {
+  width: 110px;
+}
+.invoice-card .invoice .taxInvoice h1 {
+  text-align: center;
+  margin: 20px 0px 0px;
+  font-size: 24px;
+  color: #007aff;
+}
+
+.invoice-card .invoice .adressFul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 24px 0px;
+}
+.invoice-card .invoice .leftPart h3 {
+  font-size: 16px;
+  color: #212121;
+  font-weight: 500;
+}
+.invoice-card .invoice .leftPart p {
+  font-size: 14px;
+  color: #424242;
+  font-weight: 500;
+  margin: 0px;
+}
+.invoice-card .invoice .RightPart h4 {
+  font-size: 14px;
+  color: #424242;
+  font-weight: 500;
+}
+
+.invoice-card .invoice .top_ryt_sec {
+  text-align: right;
+}
+.invoice-card .invoice .top_ryt_sec h2 {
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-bottom: 30px;
+  color: #2e90ed;
+  text-transform: uppercase;
+  font-size: 26px;
+}
+
+.invoice-card .invoice .top_ryt_sec img {
+  width: 60px;
+  margin: 15px 0px 10px;
+}
+
+.invoice-card .invoice .top_ryt_sec h4 {
+  color: #212121;
+  font-size: 16px;
+}
+
+.invoice-card .invoice .border_btm {
+  border-bottom: solid 2px #ccc;
+  padding-bottom: 10px;
+}
+
+.invoice-card .invoice .middle_sec {
+  margin: 20px 0px;
+}
+
+.invoice-card .invoice .middle_sec .order_id ul li {
+  padding-bottom: 10px;
+  font-size: 14px;
+  font-weight: 500;
+}
+.invoice-card .invoice .middle_sec .order_id ul li span {
+  font-weight: 400;
+  margin-left: 4px;
+}
+.invoice-card .invoice .middle_sec .order_id ul li span.addrs {
+  font-weight: 500;
+}
+
+.invoice-card .invoice .bottom_sec .table th {
+  font-size: 16px;
+  padding: 10px 10px;
+  border: 1px solid #ccc;
+  border-right: 0px;
+  border-left: 0px;
+  border-top: 1px solid #ccc !important;
+  color: #212121;
+  font-weight: 500;
+}
+
+.invoice-card .invoice .bottom_sec .tbl_txt {
+  text-align: right;
+  margin: 6px 0px 20px;
+}
+
+.invoice-card .invoice .bottom_sec .tbl_txt h3 {
+  font-size: 14px;
+  color: #616161;
+  font-weight: 400;
+  margin: 0;
+}
+
+.invoice-card .invoice .bottom_sec .link_txt p {
+  font-size: 14px;
+  color: #616161;
+  font-weight: 400;
+  margin-bottom: 0px;
+}
+.invoice-card .invoice .bottom_sec .copyRight p {
+  font-size: 14px;
+  color: #616161;
+  font-weight: 500;
+  text-align: center;
+  margin: 40px 0px;
+}
+.invoice-card .invoice .bottom_sec .copyRight p span {
+  display: block;
+}
+.invoice-card .invoice .bottom_sec .copyRight p span.company {
+  color: #007aff;
+  display: inline-block;
+}
+
+.invoice-card .invoice .bottom_sec .footer_navi ul {
+  text-align: center;
+  margin-bottom: 50px !important;
+}
+
+.invoice-card .footer_navi ul li {
+  display: inline-block;
+  margin: 15px 10px 0px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.pdfdownload a {
+  border: 1px solid #ccc;
+  padding: 8px 0px;
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  width: 150px;
+  text-align: center;
+  border-radius: 7px;
+  background: transparent linear-gradient(269deg, #f18f20 0%, #e52b26 100%) 0%
+    0% no-repeat;
+  color: #fff;
+}
+.pagination {
+  justify-content: center;
+}
+.pagination button {
+  margin: 4px;
+  padding: 3px 8px;
+  border-radius: 5px;
+  background: #757575;
+  color: white;
+  font-weight: 400;
+}
+.pagination button:disabled {
+  background-color: #ddd;
+  cursor: not-allowed;
+}
+.pagination button.active {
+  background: #007aff;
+}
+
+/* ORDER DETAIL PAGE */
+.OrderDetail {
+  margin: 0px auto;
+  width: 1024px;
+  padding: 40px 0px;
+}
+.OrderDetail .downloadInvoice {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+  border-radius: 16px;
+  padding: 20px 40px;
+}
+.OrderDetail .downloadInvoice p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #757575;
+  margin: 10px 0px;
+}
+.OrderDetail .downloadInvoice p span {
+  float: right;
+  color: #212121;
+  font-weight: 500;
+}
+.OrderDetail .downloadInvoice .Invoice {
+  border-top: solid 1px #e0e0e0;
+  margin: 20px 0px 0px;
+  padding: 20px 0px 0px;
+}
+.OrderDetail .downloadInvoice .Invoice a {
+  color: #212121;
+}
+.OrderDetail .downloadInvoice .Invoice h3 {
+  font-size: 20px;
+  color: #212121;
+  font-weight: 500;
+  margin: 0px;
+}
+.OrderDetail .downloadInvoice .Invoice h3 img {
+  width: 24px;
+  margin-right: 10px;
+  filter: brightness(0) saturate(100%) invert(32%) sepia(62%) saturate(6347%)
+    hue-rotate(203deg) brightness(110%) contrast(101%);
+}
+.OrderDetail .downloadInvoice .Invoice h3 span {
+  float: right;
+  color: #007aff;
+  font-size: 24px;
+}
+.OrderDetail .shipmentDetails {
+  background: #eeeeee99;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 16px;
+  padding: 40px 40px;
+  margin: 6% 0px;
+}
+.OrderDetail .shipmentDetails h1 {
+  font-size: 20px;
+  color: #007aff;
+  font-weight: 500;
+}
+
+.OrderDetail .shipmentDetails .Delivered {
+  padding: 10px 0px;
+}
+.OrderDetail .shipmentDetails .Delivered h2 {
+  font-size: 18px;
+  font-weight: 500;
+  color: #212121;
+}
+.OrderDetail .shipmentDetails .Delivered h3 {
+  font-size: 16px;
+  color: #757575;
+  font-weight: 400;
+}
+.OrderDetail .shipmentDetails .Delivered h4 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #08d002;
+}
+.OrderDetail .shipmentDetails .Ultimate {
+  display: flex;
+  position: relative;
+  margin: 16px 0px;
+}
+.OrderDetail .shipmentDetails .bookSide {
+  width: 20%;
+}
+.OrderDetail .shipmentDetails .bookSide img {
+  width: 120px;
+}
+.OrderDetail .shipmentDetails .textSide {
+  width: 80%;
+}
+.OrderDetail .shipmentDetails .textSide h2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #212121;
+}
+.OrderDetail .shipmentDetails .textSide .ruppes {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  color: #007aff;
+  font-size: 20px;
+  font-weight: 500;
+}
+.OrderDetail .shipmentDetails .textSide h3 {
+  font-size: 16px;
+  color: #757575;
+  font-weight: 500;
+  margin: 16px 0px;
+}
+.OrderDetail .shipmentDetails .textSide h4 {
+  font-size: 16px;
+  color: #757575;
+  font-weight: 500;
+}
+.OrderDetail .shipmentDetails .workbookUltimate .orderTrak p {
+  margin: 0px;
+  font-size: 18px;
+  font-weight: 400;
+}
+.OrderDetail .shipmentDetails .workbookUltimate .orderTrak p a {
+  color: #007aff;
+}
+.OrderDetail .shipmentDetails .workbookUltimate .orderTrak p span {
+  margin-left: 20px;
+}
+.OrderDetail .addressDetail {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+  border-radius: 16px;
+  padding: 20px 40px;
+  margin-bottom: 40px;
+}
+.OrderDetail .addressDetail h2 {
+  font-size: 20px;
+  color: #007aff;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+.OrderDetail .addressDetail h3 {
+  font-size: 18px;
+  font-weight: 500;
+  color: #212121;
+}
+.OrderDetail .addressDetail h4 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #212121;
+  margin: 0px;
+}
+.OrderDetail .addressDetail p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #212121;
+  margin: 0px;
+}
+.OrderDetail .RateYourExperience {
+  background: #eeeeee;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 16px;
+  padding: 40px 40px;
+  margin: 6% 0px;
+}
+.OrderDetail .RateYourExperience h2 {
+  font-size: 20px;
+  color: #007aff;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+.OrderDetail .RateYourExperience h3 {
+  font-size: 18px;
+  font-weight: 500;
+  color: #212121;
+}
+.OrderDetail .RateYourExperience li {
+  display: inline-block;
+  margin-right: 20px;
+}
+.OrderDetail .RateYourExperience li:last-child {
+  margin-right: 0px;
+}
+.OrderDetail .RateYourExperience li img {
+  width: 40px;
+}
+
+.OrderDetail .RateYourExperience .seculli {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0px 0px;
+}
+.OrderDetail .RateYourExperience .seculli .btn.photoadd {
+  border: solid 1px #bdbdbd !important;
+  color: #007aff;
+}
+.OrderDetail .RateYourExperience .seculli .btn img {
+  width: 10px;
+}
+.OrderDetail .RateYourExperience .seculli .uploadbtn label {
+  border: solid 1px #bdbdbd;
+  padding: 10px 0px;
+  border-radius: 14px;
+  color: #007aff;
+  width: 116px;
+  text-align: center;
+  font-size: 14px;
+}
+.OrderDetail .RateYourExperience .seculli .uploadbtn label img {
+  width: 16px;
+  margin-right: 6px;
+}
+.OrderDetail .RateYourExperience .seculli .uploadbtn .imgupload img {
+  max-width: 200px;
+}
+.OrderDetail .RateYourExperience .seculli .uploadbtn .addBtn {
+  float: right;
+}
+.OrderDetail .RateYourExperience .seculli .uploadbtn .inpucls {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.OrderDetail .RateYourExperience .seculli .uploadbtn .imgupload {
+  text-align: right;
+}
+.OrderDetail .orderSummary {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 20px 40px;
+}
+.OrderDetail .orderSummary h2 {
+  font-size: 20px;
+  color: #007aff;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+.OrderDetail .orderSummary table td {
+  border: none !important;
+  font-size: 16px;
+  color: #212121;
+}
+.OrderDetail .orderSummary table td:last-child {
+  border: none !important;
+  text-align: right;
+}
+.OrderDetail .orderSummary table td.textGrn {
+  color: #08d002;
+  font-weight: 500;
+}
+.OrderDetail .orderSummary table th {
+  border: none !important;
+}
+.OrderDetail .orderSummary table th:last-child {
+  border: none !important;
+  text-align: right;
+}
+.OrderDetail .orderSummary tr:nth-child(even) {
+  background: none;
+}
+.OrderDetail .orderSummary table th.textOrg {
+  color: #007aff;
+  font-weight: 500;
+}
+.OrderDetail .workbookUltimate .orderTrak .timeline {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 50px 0px 40px;
+  width: 100%;
+}
+.OrderDetail .workbookUltimate .orderTrak .timeline li {
+  transition: all 200ms ease-in;
+  width: 100%;
+}
+.OrderDetail .workbookUltimate .orderTrak .timeline .status {
+  border-top: 2px solid #d6dce0;
+  position: relative;
+  transition: all 200ms ease-in;
+}
+.OrderDetail .workbookUltimate .orderTrak .timeline .status label {
+  font-weight: 400;
+  margin-top: 1rem;
+  text-align: center;
+  color: #757575;
+  font-size: 14px;
+}
+.OrderDetail .workbookUltimate .orderTrak .timeline .status:before {
+  content: "";
+  width: 25px;
+  height: 25px;
+  background-color: white;
+  text-align: center;
+  border-radius: 25px;
+  border: 1px solid #ddd;
+  position: absolute;
+  top: -15px;
+  transition: all 200ms ease-in;
+  color: #fff;
+}
+.OrderDetail .workbookUltimate .orderTrak .timeline li.complete .status {
+  border-top: 2px solid #08d002;
+}
+.OrderDetail .workbookUltimate .orderTrak .timeline li.complete .status:before {
+  background-color: #08d002;
+  border: none;
+  transition: all 200ms ease-in;
+  content: "\f00c"; /* FontAwesome check icon */
+  font-family: FontAwesome;
+}
+.OrderDetail .workbookUltimate .orderTrak .timeline li.complete .status label {
+  color: #212121;
+}
+.OrderDetail .workbookUltimate .orderTrak .timeline li:last-child .status {
+  border-top: none !important;
+}
+.OrderDetail .workbookUltimate .orderTrak .timeline .status.clickable label {
+  cursor: pointer;
+}
+.OrderDetail .workbookUltimate .orderTrak .timeline .status.clickable:before {
+  cursor: pointer;
+}
+
+/* End: Invoise page */
+
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+  .invoice-card {
+    width: 65vw;
+  }
+  .invoice-card .invoice .top_left_sec h3 {
+    font-size: 18px;
+  }
+  .invoice-card .invoice .top_left_sec p {
+    font-size: 15px;
+    margin: 0;
+  }
+  .invoice-card .invoice .top_ryt_sec h2 {
+    margin-bottom: 17px;
+  }
+  .invoice-card .invoice .middle_sec .order_id ul li {
+    font-size: 14px;
+  }
+  .invoice-card .table td span {
+    margin-bottom: 6px;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  .invoice-card {
+    width: 75vw;
+  }
+  .invoice-card .invoice .middle_sec .order_id ul li {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .invoice-card {
+    width: 100%;
+  }
+  .invoice-card .invoice .top_left_sec h3 {
+    font-size: 19px;
+  }
+  .my-order .event-bx .join-text ul li {
+    line-height: 20px;
+    font-size: 12px;
+  }
+  .my-order .event-bx img.order-img {
+    max-width: 100%;
+  }
+  .my-order .event-bx .track-btn {
+    padding: 5px 3px;
+    right: 7px;
+    font-size: 11px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .my-order .event-bx .join-text ul li {
+    font-size: 13px;
+  }
+  .my-order .event-bx img.order-img {
+    max-width: 100%;
+    height: 70px;
+    width: 70px;
+  }
+  .invoice-card {
+    width: 100%;
+  }
+  .invoice-card .invoiceText h3 {
+    font-size: 20px;
+  }
+  .invoice-card .invoiceData p {
+    font-size: 14px;
+  }
+  .invoice-card .invoiceText p {
+    font-size: 14px;
+  }
+  .invoice-card .table td {
+    font-size: 12px;
+  }
+  .invoice-card .table td.bill {
+    font-size: 15px;
+  }
+
+  .invoice-card .invoice .top_left_sec img {
+    width: 60px;
+  }
+
+  .invoice-card .invoice .top_ryt_sec h2 {
+    font-size: 16px;
+  }
+
+  .invoice-card .invoice .top_left_sec h3 {
+    font-size: 14px;
+    margin: 15px 0px 14px;
+  }
+
+  .invoice-card .invoice .top_ryt_sec img {
+    width: 40px;
+    margin: 32px 0px 16px;
+  }
+
+  .invoice-card .invoice .top_left_sec p {
+    font-size: 12px;
+    color: #212121;
+  }
+
+  .invoice-card .invoice .top_ryt_sec h4 {
+    font-size: 12px;
+  }
+
+  .invoice-card .invoice .middle_sec .order_id ul li {
+    font-size: 14px;
+  }
+
+  .invoice-card .invoice .middle_sec .bill_to h3 {
+    font-size: 11px;
+  }
+
+  .invoice-card .invoice .middle_sec .bill_to h4 {
+    font-size: 12px;
+  }
+
+  .invoice-card .invoice .middle_sec .bill_to h5 {
+    font-size: 11px;
+  }
+
+  .invoice-card .invoice .bottom_sec h2 {
+    font-size: 13px;
+  }
+
+  .invoice-card .invoice .bottom_sec .table th {
+    font-size: 13px;
+    min-width: auto;
+  }
+
+  .invoice-card .invoice .bottom_sec .table td {
+    font-size: 12px;
+    min-width: auto;
+    padding: 8px 10px !important;
+  }
+
+  .invoice-card .invoice .bottom_sec .tbl_txt {
+    margin: 16px 0px;
+  }
+
+  .invoice-card .invoice .bottom_sec .tbl_txt h3 {
+    font-size: 14px;
+  }
+
+  .invoice-card .invoice .bottom_sec .link_txt {
+    margin: 30px 0px 0px;
+  }
+
+  .invoice-card .invoice .bottom_sec .link_txt p {
+    font-size: 14px;
+  }
+
+  .invoice-card .footer_navi ul li {
+    margin: 50px 2px 0px;
+    font-size: 11px;
+  }
+  .invoice-card .invoice .leftPart h3 {
+    font-size: 15px;
+  }
+  .invoice-card .invoice .leftPart p {
+    font-size: 13px;
+  }
+  .invoice-card .invoice .RightPart h4 {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .my-order .event-bx .track-btn {
+    padding: 6px 4px;
+    right: 11px;
+    font-size: 12px;
+  }
+  .my-order .event-bx h4 {
+    margin-bottom: 15px;
+    height: auto;
+  }
+  .my-order .event-bx .join-text ul li {
+    line-height: 20px;
+    font-size: 12px;
+  }
+  .my-order .event-bx img.order-img {
+    max-width: 100%;
+    height: 70px;
+    width: 70px;
+  }
+  .event-info.event-eme {
+    min-height: auto;
+  }
+
+  .invoice-card {
+    width: 100%;
+    border: 0px;
+    padding: 0px 0px;
+    margin: 25px auto;
+  }
+
+  .invoice-card .table td.bill {
+    font-size: 14px;
+    padding: 13px 0px;
+  }
+
+  .pdfdownload a {
+    padding: 5px 0px;
+    font-size: 13px;
+    width: 110px;
+  }
+
+  .invoice-card .invoice .top_left_sec img {
+    width: 50px;
+  }
+
+  .invoice-card .invoice .top_ryt_sec h2 {
+    font-size: 16px;
+  }
+
+  .invoice-card .invoice .top_left_sec h3 {
+    font-size: 12px;
+    margin: 16px 0px 5px;
+    line-height: 20px;
+  }
+
+  .invoice-card .invoice .top_ryt_sec img {
+    width: 32px;
+    margin: 32px 0px 16px;
+  }
+
+  .invoice-card .invoice .top_left_sec p {
+    font-size: 10px;
+    color: #212121;
+    line-height: 18px;
+  }
+
+  .invoice-card .invoice .top_ryt_sec h4 {
+    font-size: 9px;
+  }
+
+  .invoice-card .invoice .middle_sec .order_id ul li {
+    padding-bottom: 12px;
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .invoice-card .invoice .middle_sec .bill_to h3 {
+    font-size: 9px;
+  }
+
+  .invoice-card .invoice .middle_sec .bill_to h4 {
+    font-size: 10px;
+  }
+
+  .invoice-card .invoice .middle_sec .bill_to h5 {
+    font-size: 9px;
+  }
+
+  .invoice-card .invoice .bottom_sec h2 {
+    font-size: 12px;
+  }
+
+  .invoice-card .invoice .bottom_sec .table th {
+    font-size: 14px !important;
+    padding: 0px 10px !important;
+  }
+
+  .invoice-card .invoice .bottom_sec .table td {
+    font-size: 12px;
+    padding: 9px 6px;
+  }
+
+  .invoice-card .invoice .bottom_sec .tbl_txt {
+    margin: 16px 0px;
+  }
+
+  .invoice-card .invoice .bottom_sec .tbl_txt h3 {
+    font-size: 14px;
+    text-align: justify;
+  }
+
+  .invoice-card .invoice .bottom_sec .link_txt {
+    margin: 30px 0px 0px;
+  }
+
+  .invoice-card .invoice .bottom_sec .link_txt p {
+    font-size: 13px;
+  }
+
+  .invoice-card .footer_navi ul li {
+    margin: 20px 2px 0px;
+    font-size: 13px;
+  }
+  .totalbotom {
+    margin-top: 0;
+    padding: 0;
+    margin-bottom: 0;
+  }
+  .invoice-card .invoice .topHeader .logoPart img {
+    width: 56px;
+  }
+  .invoice-card .invoice .appStorePart img {
+    width: 86px;
+  }
+  .invoice-card .invoice .taxInvoice h1 {
+    font-size: 20px;
+  }
+  .invoice-card .invoice .adressFul {
+    gap: 10px;
+    align-items: start;
+  }
+  .invoice-card .invoice .leftPart h3 {
+    font-size: 14px;
+  }
+  .invoice-card .invoice .RightPart h4 {
+    font-size: 12px;
+  }
+  .invoice-card .invoice .leftPart p {
+    line-height: 20px;
+  }
+  .invoice-card .invoice ::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    background-color: #f5f5f5;
+  }
+  .invoice-card .invoice ::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+    background-color: #c1c1c1;
+  }
+  .invoice-card .invoice ::-webkit-scrollbar {
+    height: 6px;
+    background-color: #f5f5f5;
+  }
+}

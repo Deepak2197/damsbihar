@@ -1,0 +1,612 @@
+ul {
+  padding: 0px;
+  margin: 0px;
+}
+a {
+  text-decoration: none !important;
+}
+
+* {
+  font-family: Segoe UI;
+}
+.fa {
+  font-family: "FontAwesome" !important;
+}
+.home_banner {
+  background-color: #f5f5f5;
+}
+.page-content {
+  margin-top: 72px !important;
+}
+.page-content ul.list-inline li {
+  margin-right: 3px;
+  padding: 4px 0px;
+  color: #000;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.page-content ul.list-inline li:after {
+  content: "\f105";
+  margin-left: 5px;
+  font-family: fontawesome;
+}
+.page-content ul.list-inline li:last-child {
+  color: #000;
+}
+.page-content ul.list-inline li:last-child:after {
+  display: none;
+}
+
+.page-content ul.list-inline a {
+  color: #212121;
+}
+
+.breadcrumb-row {
+  background: #fafafa;
+  border: 0px !important;
+  padding: 0px 0px;
+  border-bottom: 1px solid #fafafa !important;
+}
+
+.breadcrumb-row ul li:after {
+  content: "\f105";
+  margin-left: 7px;
+  font-family: fontawesome;
+}
+
+.breadcrumb-row ul li:last-child {
+  color: #000;
+}
+
+.breadcrumb-row ul li:last-child:after {
+  display: none;
+}
+
+.fa-arrow-right:before {
+  font-size: 13px;
+}
+
+.fa-angle-right:before {
+  font-family: "FontAwesome";
+  font-weight: 400;
+}
+
+.fa-whatsapp:before {
+  content: "\f232";
+  font-family: "FontAwesome";
+  font-weight: 400;
+}
+.setbg {
+  background: #e0e0e0;
+  width: 33%;
+  height: 75%;
+  position: absolute;
+  right: 0px;
+}
+
+.borderbgright {
+  position: absolute;
+  right: 0px;
+  top: 0;
+  border-right: 15px solid #212121;
+  height: 75%;
+}
+
+.ftlogobg img {
+  max-width: 100%;
+  width: 68px !important;
+}
+
+.footer-top {
+  background: #f5f5f5;
+  width: 100%;
+  float: left;
+  border-top: solid 1px #e0e0e0;
+}
+
+.footer_widget ul li a {
+  color: #424242;
+  display: block;
+  font-weight: 400;
+  font-size: 14px;
+}
+.footer_widget ul li img {
+  margin-right: 5px;
+}
+.footer_widget h5.footer-title {
+  margin-bottom: 25px;
+  font-size: 18px;
+  color: #212121;
+  font-weight: 600;
+  text-transform: capitalize;
+  position: relative;
+}
+
+.widget {
+  margin-bottom: 35px;
+  position: relative;
+}
+
+footer .widget ul {
+  list-style: none;
+  margin-top: 5px;
+}
+
+.footer-top .pt-btn-join p {
+  color: #212121;
+  margin-bottom: 10px;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+ul.flex-bg {
+  display: flex;
+  margin-bottom: -8px !important;
+}
+
+ul.flex-bg li {
+  color: #000;
+  display: block;
+  font-weight: 400;
+  font-size: 15px;
+}
+ul.flex-bg li i {
+  font-size: 18px;
+  color: #424242 !important;
+  margin-right: 10px;
+  font-family: "FontAwesome";
+  margin-top: 6px;
+  font-weight: 500;
+  text-transform: capitalize;
+  position: relative;
+}
+
+ul.flex-bg p {
+  margin: 0;
+  color: #000;
+  font-size: 15px;
+}
+
+.pt-social-link ul li {
+  width: 26px;
+  margin-right: 8px;
+  display: inline-block;
+}
+
+.pt-exebar {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  margin-bottom: 50px;
+}
+
+.appImgbg {
+  margin-top: 25px;
+}
+.appImgbg a {
+  display: inline-block;
+}
+.appImgbg img {
+  max-width: 100%;
+  width: 105px !important;
+  margin-right: 7px;
+}
+
+.footer_widget ul li {
+  display: block;
+  margin-bottom: 18px;
+}
+.footer_widget ul li p {
+  margin: 0px;
+  color: #424242;
+  font-weight: 400;
+  font-size: 14px;
+}
+.copyright {
+  margin: 0px auto 15px !important;
+  color: #111;
+  font-size: 15px;
+  font-weight: 500;
+}
+.copyright b {
+  color: #212121 !important;
+}
+.copyright span {
+  color: #6e6e73 !important;
+}
+
+.footer-top .rectangle-1218-kNzq5P {
+  background-color: #bdbdbd;
+  height: 1px;
+  margin: 30px 0px 15px;
+  width: 100%;
+}
+.whatsapp-icon-container {
+  position: fixed;
+  bottom: 30px;
+  right: 10px;
+  z-index: 9999999;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border-radius: 0;
+  padding: 0;
+}
+.whatsapp-icon-container li {
+  display: inline-block;
+  margin-right: 20px;
+  border-right: 2px solid #f6c1a7;
+  padding-right: 20px;
+}
+.whatsapp-icon-container li:last-child {
+  border-right: none;
+  padding-right: 0px;
+  margin-right: 0;
+}
+.whatsapp-icon-container img {
+  max-width: 100%;
+  width: 45px;
+}
+.whatsapp-icon-container img.iconwidth {
+  max-width: 100%;
+  width: 36px;
+  height: 30px;
+}
+.popLinkbtn {
+  display: none !important;
+}
+.Techtbtn {
+  position: absolute;
+  right: -50px;
+  bottom: 24px;
+}
+.Techtbtn button.techdata {
+  border-radius: 8px !important;
+  padding: 8px 10px;
+  background: #424242;
+  text-align: center;
+  color: #fff !important;
+  font-size: 13px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.AppIcon {
+  position: fixed;
+  top: 60%;
+  right: -35px;
+  border: 1px solid #e1c699;
+  border-radius: 3px;
+  padding: 5px;
+  background: #fff3e0;
+  transform: rotate(90deg);
+}
+
+.AppIcon a {
+  color: #000;
+  font-size: 15px;
+}
+
+/* Media Query */
+
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+  .setbg {
+    width: 28%;
+    height: 74%;
+  }
+  .appImgbg img {
+    width: 93px !important;
+  }
+  .Techtbtn {
+    right: -30px;
+    bottom: 50px;
+  }
+}
+@media only screen and (min-width: 1345px) and (max-width: 1440px) {
+  .appImgbg img {
+    width: 90px !important;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  .adddownload {
+    padding: 10px 10px;
+    margin-top: 2px;
+  }
+  .pamentfooter {
+    width: 140px !important;
+  }
+  .appImgbg img {
+    width: 81px !important;
+    margin-right: 5px;
+  }
+  .setbg {
+    width: 30%;
+  }
+  .Techtbtn {
+    right: -28px;
+    bottom: 55px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .footer_widget h5.footer-title {
+    font-size: 15px;
+  }
+  .footer_widget ul li a {
+    font-size: 13px;
+  }
+  .footer_widget ul li {
+    margin-bottom: 20px;
+  }
+  .pt-social-link ul li {
+    width: 19px;
+  }
+  .appImgbg img {
+    width: 65px !important;
+  }
+  .setbg {
+    width: 30%;
+    height: 85%;
+  }
+
+  .online-ani img {
+    width: 140px;
+  }
+  .adddownload {
+    padding: 10px 5px;
+    font-size: 13px;
+  }
+
+  .pamentfooter {
+    margin-top: 10px;
+    width: 140px !important;
+  }
+  .footer-top .rectangle-1218-kNzq5P {
+    margin: 12px 0px;
+  }
+  footer .footer-bottom {
+    text-align: center;
+    font-size: 14px;
+    padding: 10px;
+  }
+  .copyright {
+    font-size: 11px;
+  }
+
+  .widget {
+    margin-bottom: 16px;
+  }
+  .whatsapp-icon-container img.iconwidth {
+    height: 28px;
+  }
+  .Techtbtn {
+    position: absolute;
+    right: -35px;
+    bottom: 65px;
+  }
+  .Techtbtn a.techdata {
+    border-radius: 6px !important;
+    padding: 6px 10px;
+    font-size: 11px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .footer_widget ul li p {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .footer_widget ul li {
+    margin-bottom: 15px;
+  }
+  .setbg {
+    width: 28%;
+  }
+  .online-ani {
+    display: none;
+  }
+
+  .appImgbg img {
+    margin-bottom: 6px;
+  }
+  .footer-title {
+    font-size: 15px !important;
+  }
+  .footer-top .rectangle-1218-kNzq5P {
+    margin: 12px 0px;
+  }
+  footer .footer-bottom {
+    text-align: center;
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  .footer_widget ul li a {
+    font-size: 13px;
+  }
+  .pt-social-link ul li {
+    width: 15px;
+    margin-right: 4px;
+  }
+  .pt-btn-join p {
+    margin: 0px;
+    font-size: 15px;
+  }
+  .pamentfooter {
+    width: 105px !important;
+  }
+
+  ul.flex-bg li i {
+    font-size: 15px;
+  }
+
+  .whatsapp-icon-container img.iconwidth {
+    height: 25px;
+  }
+  .whatsapp-icon-container img {
+    width: 32px;
+  }
+  .whatsapp-icon-container li {
+    margin-right: 15px;
+    padding-right: 15px;
+  }
+  .Techtbtn {
+    right: 10px;
+    bottom: -14px;
+  }
+  .Techtbtn a.techdata {
+    border-radius: 5px !important;
+    padding: 5px 10px;
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .page-content {
+    margin-top: 70px !important;
+  }
+  .page-content ul.list-inline li {
+    font-size: 13px !important;
+    padding: 3px 0px !important;
+  }
+  .page-content .breadcrumb-row button.btn.SelectCat {
+    margin: 0px 0px 0px 10px !important;
+    font-size: 12px;
+  }
+  .widget {
+    margin: 0px;
+  }
+  .online-ani {
+    display: none;
+  }
+  .adddownload {
+    padding: 0px;
+    border-radius: 0;
+    font-size: 13px !important;
+    margin-top: 0;
+  }
+  .appImgbg {
+    margin-top: 18px;
+  }
+  .appImgbg img {
+    width: 95px !important;
+    margin-bottom: 7px;
+  }
+  .footer_widget h5.footer-title {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  .footer-top .cntr {
+    padding: 10px;
+  }
+  .footer-top img {
+    max-width: 100%;
+    margin-top: 0px;
+    width: auto;
+  }
+  .footer-title {
+    font-size: 15px;
+  }
+  ul.flex-bg p {
+    font-size: 13px !important;
+  }
+  ul.flex-bg li i {
+    font-size: 16px;
+  }
+
+  .pt-exebar {
+    border-bottom: 0px;
+    padding: 12px 0;
+    margin: 0px !important;
+  }
+
+  .pamentfooter {
+    margin-top: 10px;
+    width: 90px;
+  }
+  .footer-top .rectangle-1218-kNzq5P {
+    margin: 12px 0px;
+  }
+  footer .footer-bottom {
+    text-align: center;
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  .whatsapp-icon-container img {
+    width: 40px !important;
+  }
+  .whatsapp-icon-container img.iconwidth {
+    height: 22px;
+  }
+  .whatsapp-icon-container li {
+    margin-right: 10px;
+    padding-right: 10px;
+  }
+  .pt-social-link ul li {
+    width: 18px;
+    margin-right: 4px;
+  }
+  .footer_widget ul li {
+    margin-bottom: 10px;
+  }
+  .footer_widget ul li a {
+    font-size: 13px !important;
+  }
+  .copyright {
+    font-size: 12px;
+    margin: 0;
+  }
+
+  .pt-social-link.socialIcon.ftsocial {
+    padding: 0px;
+    margin: 5px 0px;
+  }
+
+  .online-ani {
+    display: none;
+  }
+  .box-tringle {
+    display: none;
+  }
+  .box-tringle1 {
+    display: none;
+  }
+  .sec-shape {
+    display: none;
+  }
+  .sec-shape1 {
+    display: none;
+  }
+  .borderbgright {
+    border-right: 7px solid #f16136;
+    top: 62%;
+    height: 28%;
+  }
+  .setbg {
+    width: 100%;
+    height: 29%;
+    right: 0px;
+    bottom: 77px;
+  }
+  .Techtbtn {
+    position: absolute;
+    right: 0;
+    bottom: 50px;
+  }
+  .Techtbtn a.techdata {
+    border-radius: 6px !important;
+    padding: 6px 10px;
+    font-size: 12px;
+  }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 766px) {
+  .footer_widget ul li a {
+    font-size: 12px !important;
+  }
+  .setbg {
+    height: 35%;
+    bottom: 52px;
+  }
+}

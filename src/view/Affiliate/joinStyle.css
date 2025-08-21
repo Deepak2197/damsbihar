@@ -1,0 +1,361 @@
+.joinGroup {
+  margin: 55px 0;
+  text-align: center;
+  padding: 40px 0px 0;
+}
+.joinGroup h2 {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 0;
+  color: #000;
+  text-align: left;
+  margin: 40px 0px 20px;
+}
+
+/* GridComponent.css */
+.joinBanner {
+  padding: 0px 100px;
+  border-radius: 10px;
+  background: #007aff;
+  height: 320px;
+  margin-bottom: 22px;
+  background-image: url(../../../web/join-affiliate/banner.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.joinBanner h2 {
+  color: #fff;
+  margin: 0;
+  text-align: right;
+  font-size: 40px;
+  font-weight: 500;
+}
+.joinBanner h2 span {
+  display: block;
+}
+.joinGroup .grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 30px;
+  padding: 0;
+  margin: 30px 0px 50px;
+}
+.joinGroup .grid-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #eeeeee;
+  padding: 22px 10px;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 12px;
+  background: #eeeeee;
+  color: #212121;
+}
+.joinGroup .grid-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  color: #ffffff;
+}
+.joinGroup img.grid-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  width: 45px;
+  margin-bottom: 10px;
+  filter: brightness(0) saturate(100%) invert(37%) sepia(1%) saturate(1089%)
+    hue-rotate(340deg) brightness(102%) contrast(92%);
+}
+
+.joinGroup .grid-item h3.grid-title {
+  margin-top: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.joinGroup .grid-item:hover h3.grid-title {
+  color: #ffffff;
+}
+
+.joinGroup .btnMix {
+  width: 500px;
+  margin: 0 auto;
+}
+.joinGroup .btnMix button {
+  padding: 10px 0px;
+  text-align: center;
+  height: auto;
+  font-size: 16px;
+  font-weight: 500;
+  background: #007aff;
+}
+.steps-content {
+  margin-top: 16px;
+  border: 1px dashed #e9e9e9;
+  border-radius: 2px;
+  background-color: #fafafa;
+  text-align: left;
+  padding: 20px 20px;
+}
+.steps-content h4 {
+  font-size: 22px;
+  margin-bottom: 15px;
+  color: #000;
+}
+.steps-content h6 {
+  font-size: 15px;
+  margin-bottom: 0px;
+  color: #5b5858;
+}
+.steps-content .formField {
+  width: 100%;
+  margin: 30px 0px 0;
+}
+.steps-content .formField input {
+  width: 100%;
+  margin-bottom: 15px !important;
+  padding: 10px 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 15px;
+  font-weight: 500;
+}
+.joinAffiliatePro {
+  margin-top: 35px;
+}
+.joinAffiliatePro .clickNext {
+  margin: 20px auto;
+  padding: 15px 15px;
+}
+.joinAffiliatePro .clickNext .ant-steps {
+  margin: 0px 0 50px;
+}
+.joinAffiliatePro .clickNext .steps-action {
+  margin-top: 24px;
+}
+.joinAffiliatePro .clickNext .steps-action button {
+  width: 100px;
+  padding: 8px 0px;
+  height: auto;
+  font-size: 15px;
+  font-weight: 500;
+  background: #007aff;
+}
+.joinAffiliatePro .clickNext .ant-btn-primary {
+  background: #007aff !important;
+  border-color: #007aff !important;
+}
+.joinAffiliatePro .clickNext .steps-action button.ant-btn-default {
+  border: 1px solid #ccc !important;
+  background: #eee;
+}
+.joinAffiliatePro .clickNext .ant-steps-item-active .ant-steps-item-title {
+  color: #08d002 !important;
+  font-weight: 400;
+}
+
+.ant-drawer-body {
+  padding: 0 !important;
+}
+.uploadFilesdata {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.uploadFilesdata .uploadData {
+  margin-right: 30px;
+}
+.uploadFilesdata .uploadData span.anticon.anticon-delete svg {
+  color: #ff1e1e;
+}
+.uploadFilesdata .uploadData .ant-upload-list-item-container {
+  margin-top: 15px !important;
+}
+
+.grid-item {
+  border: 1px solid #d9d9d9;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+.grid-item:hover {
+  background: #b8b8b8;
+  background: linear-gradient(123deg, #eeeeee 0%, #212121 100%) 0% 0% no-repeat
+    padding-box;
+  color: #212121 !important;
+  border: none !important;
+}
+.grid-item:hover img {
+  filter: brightness(0) saturate(100%) invert(100%) sepia(82%) saturate(84%)
+    hue-rotate(1deg) brightness(116%) contrast(101%) !important;
+}
+.selected-card {
+  background: #b8b8b8 !important;
+  background: linear-gradient(123deg, #eeeeee 0%, #212121 100%) 0% 0% no-repeat
+    padding-box !important;
+  color: white !important;
+}
+.selected-card:hover {
+  background: #b8b8b8;
+  background: linear-gradient(123deg, #eeeeee 0%, #212121 100%) 0% 0% no-repeat
+    padding-box;
+  border: none !important;
+}
+.selected-card img {
+  filter: brightness(0) saturate(100%) invert(100%) sepia(82%) saturate(84%)
+    hue-rotate(1deg) brightness(116%) contrast(101%) !important;
+}
+
+/* .ant-btn-primary {
+  background-color: #007aff !important;
+  border-color: #007aff !important;
+} */
+.ant-btn[disabled] {
+  background-color: grey !important;
+  border-color: grey !important;
+  color: rgba(0, 0, 0, 0.25) !important;
+}
+.joinAffiliatePro
+  .clickNext
+  .ant-steps
+  .ant-steps-item-process
+  .ant-steps-item-icon {
+  background-color: #08d002;
+  border-color: #08d002;
+}
+.joinAffiliatePro
+  .clickNext
+  .ant-steps
+  .ant-steps-item-wait
+  .ant-steps-item-icon {
+  background: #bdbdbd;
+}
+.joinAffiliatePro
+  .clickNext
+  .ant-steps
+  .ant-steps-item-wait
+  > .ant-steps-item-container
+  > .ant-steps-item-content
+  > .ant-steps-item-title {
+  color: #212121;
+}
+
+/* Media Query */
+@media only screen and (min-width: 991px) and (max-width: 1199px) {
+  .joinGroup .grid-container {
+    gap: 20px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .joinBanner {
+    min-height: 145px;
+  }
+  .joinBanner h2 {
+    font-size: 20px;
+  }
+  .joinGroup .grid-container {
+    gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  }
+  .joinGroup .grid-item {
+    padding: 12px 5px;
+  }
+  .joinGroup h2 {
+    font-size: 20px;
+  }
+  .joinGroup .grid-image {
+    border-radius: 8px;
+    width: 38px;
+    margin-bottom: 5px;
+  }
+  .joinGroup .grid-item h3.grid-title {
+    font-size: 15px;
+  }
+  .joinAffiliatePro .clickNext .ant-steps-item-title {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .joinGroup {
+    margin: 35px 0;
+  }
+  .joinBanner {
+    height: 140px;
+    padding: 0px 10px;
+    margin-bottom: 20px;
+  }
+  .joinBanner img {
+    width: 80px;
+  }
+  .joinBanner h2 {
+    font-size: 15px;
+  }
+  .joinGroup .grid-container {
+    gap: 15px;
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  }
+  .joinGroup .grid-item {
+    padding: 12px 5px;
+  }
+  .joinGroup h2 {
+    font-size: 17px;
+  }
+  .joinGroup .grid-image {
+    border-radius: 8px;
+    width: 35px;
+    margin-bottom: 5px;
+  }
+  .joinGroup .grid-item h3.grid-title {
+    font-size: 13px;
+  }
+  .joinGroup .btnMix {
+    width: 100%;
+  }
+  .joinGroup .btnMix button {
+    padding: 8px 0px;
+    font-size: 15px;
+  }
+  .joinAffiliatePro {
+    margin-top: 0;
+  }
+  .joinAffiliatePro .clickNext {
+    padding: 15px 0px;
+  }
+  .steps-content {
+    padding: 10px 10px;
+  }
+  .steps-content h4 {
+    font-size: 17px;
+  }
+  .steps-content h6 {
+    font-size: 13px;
+  }
+  .ant-steps-item-tail:after {
+    padding: 12px 0 0px;
+  }
+  .uploadFilesdata {
+    display: block;
+  }
+  .uploadFilesdata .uploadData .ant-upload-list-item-container {
+    margin-top: 5px !important;
+    margin-bottom: 12px;
+  }
+  .joinAffiliatePro .clickNext .steps-action {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .steps-content .formField {
+    margin: 10px 0px 0;
+  }
+}
+/* -------- */

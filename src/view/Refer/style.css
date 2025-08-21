@@ -1,0 +1,460 @@
+.ReferEarnBG {
+  background: #fafafa;
+}
+.ReferEarn {
+  margin: 72px 0;
+  padding: 40px 0px;
+}
+.ReferEarn .referImg {
+  text-align: center;
+  background: #212121;
+  background: transparent
+    linear-gradient(
+      180deg,
+      #9336b4 0%,
+      #212121 0%,
+      #424242 44%,
+      #bdbdbd 62%,
+      #fafafa 100%
+    )
+    0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 20px 0px;
+}
+.ReferEarn .referImg img {
+  max-width: 100%;
+  width: 350px;
+}
+.ReferEarn .referText {
+  border: 1px solid #eee;
+  text-align: center;
+  padding: 20px 40px;
+  border-radius: 8px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.ReferEarn .referText h3 {
+  color: #212121;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-align: left;
+}
+.ReferEarn .referText h5 {
+  color: #007aff;
+  font-weight: 600;
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+.ReferEarn .referText h6 {
+  color: #212121;
+  font-size: 16px;
+  margin-bottom: 14px;
+  font-weight: 500;
+}
+.ReferEarn .referText .formbg {
+  padding: 20px 0px;
+}
+.ReferEarn .referText .formbg form input {
+  height: 42px;
+  border: 1px solid #ccc;
+  font-size: 15px;
+}
+.ReferEarn .referText .formbg form label {
+  margin: 0px;
+  font-size: 15px;
+  width: 85px;
+}
+.ReferEarn .referText .formbg form .ant-select-selector {
+  height: 42px;
+  border: 1px solid #ccc;
+  font-size: 15px;
+  text-align: left;
+}
+.ReferEarn .referText .formbg form button {
+  font-size: 16px;
+  font-weight: 600;
+  padding: 10px 0px;
+  height: 45px;
+  width: 180px !important;
+  margin-top: 25px;
+  background: #007aff;
+}
+.ReferEarn .referText .howitWork {
+  text-align: left;
+  padding: 50px 50px;
+  background: #eeeeee;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 10px;
+}
+.ReferEarn .ant-collapse-expand-icon {
+  color: #007aff;
+}
+
+.ReferEarn span.ant-collapse-header-text {
+  color: #007aff;
+  font-size: 14px;
+}
+.ReferEarn .referText .howitWork p {
+  font-size: 15px;
+  margin-bottom: 10px;
+  color: #212121;
+  line-height: 28px;
+}
+.ReferEarn .referText .howitWork h6 {
+  color: #007aff;
+  font-size: 20px;
+  margin-bottom: 14px;
+  font-weight: 600;
+}
+
+.ReferEarn .referText .terms {
+  text-align: left;
+  padding: 50px 0px;
+}
+.ReferEarn .referText .terms p {
+  font-size: 15px;
+  margin-bottom: 10px;
+  color: #212121;
+  line-height: 38px;
+  padding: 0 20px;
+}
+.ReferEarn .referText .terms .ant-collapse-header {
+  font-weight: 500;
+}
+.ReferEarn .ant-form-item-explain-error {
+  text-align: left;
+  margin: 0px 0 10px;
+}
+.referListBG {
+  background: #fafafa;
+}
+.referList {
+  margin: 70px auto 0px;
+  padding: 40px 0px;
+  width: 768px;
+}
+.referList .referBnrPart {
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 40px;
+  border-radius: 16px;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+}
+.referList .referBnrPart .textPart h5 {
+  color: #007aff;
+  font-size: 30px;
+}
+.referList .referBnrPart .textPart h6 {
+  color: #212121;
+  font-size: 18px;
+}
+.referList .referTransactiont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 80px;
+  margin: 30px 0px;
+}
+.referList .referTransactiont .referBox {
+  width: 50%;
+  background: #eeeeee;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 16px;
+  padding: 20px 20px;
+  text-align: center;
+}
+.referList .referTransactiont .referBox h2 {
+  font-size: 24px;
+  color: #007aff;
+}
+.referList .referTransactiont .referBox p {
+  font-size: 16px;
+  color: #212121;
+  font-weight: 500;
+  margin: 0px;
+}
+.referList .reddemSection {
+  display: grid;
+  /* grid-template-columns: repeat(auto-fit, minmax(238px, 1fr)); */
+  grid-template-columns: repeat(auto-fill, minmax(238px, 1fr));
+  gap: 30px;
+  padding: 0;
+  margin: 30px 0px 50px;
+}
+.referList .headINg h6 {
+  font-size: 18px;
+  color: #212121;
+  margin: 40px 0px 0px;
+}
+.referList .reddemSection .reddemBox {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background: #ffffff;
+  padding: 10px 20px;
+  border-radius: 16px;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+}
+.referList .reddemSection .reddemBox.expiredBox {
+  opacity: 0.5;
+}
+.referList .reddemSection .reddemBox .imgSec img {
+  width: 44px;
+}
+.referList .reddemSection .reddemBox .textSec {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-left: 12px;
+}
+.referList .reddemSection .reddemBox .textSec h4 {
+  font-size: 16px;
+  color: #212121;
+  margin: 0px;
+}
+.referList .reddemSection .reddemBox .textSec p {
+  font-size: 14px;
+  color: #757575;
+  margin: 0px;
+}
+.referList .reddemSection .reddemBox .textSec p.redeemed {
+  color: #08d002;
+}
+.referList .reddemSection .reddemBox .textSec p.expired {
+  color: #757575;
+}
+.referList .reddemSection .reddemBox .btnSec button {
+  background: #007aff;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 2px 6px;
+  height: auto;
+  border-radius: 6px;
+}
+.referList .reddemSection .reddemBox .btnSec button > span.mnth {
+  display: block;
+}
+.referList .reddemSection .reddemBox .btnSec button.redeemed {
+  background: #08d002;
+}
+.referList .reddemSection .reddemBox .btnSec button.expired {
+  background: #ff1e1e;
+}
+.referList .reddemSection .reddemBox .btnSec button.validity {
+  background: #08d002;
+}
+.referList .reddemSection .reddemBox .extendModalPop {
+  text-align: center;
+}
+.ant-modal.extendModalPop {
+  text-align: center;
+}
+.extendModalPop .ant-modal-body img {
+  width: 300px;
+}
+.extendModalPop .ant-modal-body h3 {
+  font-size: 24px;
+  color: #212121;
+  font-weight: 500;
+}
+.extendModalPop .ant-modal-body p {
+  font-size: 16px;
+  color: #757575;
+  font-weight: 500;
+}
+.extendModalPop .ant-modal-footer {
+  display: none;
+}
+.referList .referBnrPart img {
+  width: 200px;
+}
+.referList .innerRefer {
+  border-radius: 10px;
+  position: relative;
+}
+.referList .innerRefer img {
+  max-width: 100%;
+  width: 100%;
+}
+.referList .referText {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(80%, -50%);
+}
+.referList .referText h5 {
+  font-size: 20px;
+  color: #000;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+.referList .referText h6 {
+  font-size: 16px;
+  margin: 0;
+  color: #000;
+}
+.setdatav {
+  border: 1px solid #5ab2ff;
+  margin: 4px auto;
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  background: #a0deff;
+  border-radius: 6px;
+  padding: 1px 20px;
+}
+.setdatav .setinner {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  line-height: 20px;
+  flex-direction: column;
+}
+.setdatav .setchild {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.setchild .redeem {
+  padding: 6px 20px;
+  border-radius: 5px;
+  background: #5ab2ff;
+  color: #ffffff;
+}
+.noRecord {
+  text-align: center;
+  padding: 10px;
+  margin: 30px 25%;
+  background: #eef7ff;
+}
+
+/* Media Query */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .ReferEarn .referImg img {
+    max-width: 100%;
+    width: 240px;
+  }
+  .referList {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .ReferEarn {
+    margin: 70px 0;
+  }
+  .ReferEarn .referImg img {
+    width: 160px;
+  }
+  .ReferEarn .referText h5 {
+    font-size: 16px;
+  }
+  .ReferEarn .referText h6 {
+    font-size: 13px;
+  }
+  .ReferEarn .referText h3 {
+    font-size: 17px;
+  }
+  .ReferEarn .referText .formbg {
+    padding: 30px 15px;
+  }
+  .ReferEarn .referText .formbg form label {
+    margin: 0px;
+    font-size: 14px;
+    width: auto;
+    height: auto;
+    padding: 0;
+  }
+  .ReferEarn .referText .formbg .ant-form-item {
+    margin-bottom: 10px;
+  }
+  .ReferEarn .referText .formbg form input {
+    height: 38px;
+  }
+  .ReferEarn .referText .formbg form .ant-select-selector {
+    height: 38px;
+  }
+  .ReferEarn .referText .howitWork {
+    padding: 25px 10px;
+    margin: 0px;
+  }
+  .ReferEarn .referText .howitWork p {
+    font-size: 13px;
+    text-align: justify;
+  }
+  .ReferEarn .referText .terms {
+    margin-top: 30px;
+    padding: 0;
+  }
+  .ReferEarn .referText .terms p {
+    font-size: 14px;
+    padding: 0 0;
+  }
+  .ReferEarn .referText .formbg form button {
+    font-size: 14px;
+    padding: 6px 0px;
+    height: 40px;
+  }
+  .ReferEarn .referText .howitWork h6 {
+    font-size: 17px;
+  }
+  .referList {
+    margin: 80px 0 48px;
+    width: 100%;
+  }
+  .referList .innerRefer img {
+    width: 100%;
+  }
+  .referList .referText {
+    top: 26%;
+    left: 45%;
+    transform: translate(0%, 0%);
+  }
+  .noRecord {
+    margin: 30px 0%;
+  }
+  .referList .referBnrPart {
+    padding: 10px 10px;
+  }
+  .referList .referBnrPart img {
+    width: 138px;
+  }
+  .referList .referBnrPart .textPart h5 {
+    font-size: 18px;
+  }
+  .referList .referBnrPart .textPart h6 {
+    font-size: 14px;
+  }
+  .referList .referTransactiont .referBox {
+    padding: 14px 0px;
+  }
+  .referList .referTransactiont {
+    gap: 20px;
+  }
+  .referList .headINg h6 {
+    font-size: 16px;
+  }
+  .referList .reddemSection .reddemBox {
+    padding: 10px 10px;
+  }
+  .referList .reddemSection .reddemBox .textSec h4 {
+    font-size: 14px;
+  }
+  .referList .reddemSection {
+    gap: 20px;
+  }
+}

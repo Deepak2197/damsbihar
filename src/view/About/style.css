@@ -1,0 +1,373 @@
+.aboutBanner {
+  width: 100%;
+  float: left;
+  /* background-image:url(https://d2enu63wt1sf3u.cloudfront.net/react_emed_web/conatcbg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; */
+  margin-top: 20px;
+  height: auto;
+  padding: 40px 40px;
+  background: #eeeeee99;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 20px;
+  display: flex;
+  gap: 80px;
+  align-items: center;
+}
+
+/* .About .commanColor {
+  position: absolute;
+  background: #fdede8;
+  top: 0px;
+  width: 500px;
+  height: 300px;
+  right: 0;
+  z-index: -1;
+} */
+.aboutBanner img {
+  max-width: 100%;
+  width: 240px;
+}
+.aboutBanner .aboutCont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(251, 245, 244);
+  background: linear-gradient(
+    184deg,
+    rgba(251, 245, 244, 1) 32%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  padding: 40px 40px;
+  border-radius: 20px;
+}
+
+.About .aboutBanner h1 {
+  font-size: 30px;
+  color: #212121;
+  margin-bottom: 15px;
+}
+.About .aboutBanner h2 {
+  font-size: 20px;
+  color: #424242;
+  margin-bottom: 15px;
+}
+.About .aboutBanner span {
+  font-size: 20px;
+  color: #007aff;
+  font-weight: 600;
+}
+
+.About .aboutBanner p {
+  color: #212121;
+  line-height: 27px;
+  font-size: 16px;
+  margin-top: 12px;
+  text-align: justify;
+  margin-bottom: 0;
+  font-weight: 500;
+}
+
+.About .about-area h2 {
+  color: #212121;
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+
+.aboutText {
+  margin-top: 50px;
+  padding: 50px 0px;
+  display: flex;
+  gap: 100px;
+}
+
+.aboutText .TextPart p {
+  font-size: 15px;
+  line-height: 28px;
+  color: #212121;
+  text-align: justify;
+  margin-bottom: 15px;
+}
+
+.about-area.reverse {
+  width: 100%;
+  float: left;
+  margin-top: 50px;
+  background: #eeeeee99;
+  background: linear-gradient(
+    0deg,
+    rgba(238, 238, 238, 1) 0%,
+    rgba(250, 250, 250, 1) 52%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  border-radius: 10px;
+  padding: 40px 40px;
+}
+.about-area.reverseNew {
+  width: 100%;
+  margin-top: 50px !important;
+  padding: 40px 0px;
+  display: inline-block;
+}
+.About .categories-box h2 {
+  color: #212121;
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+
+.About .categories-box .mission-img {
+  text-align: left;
+}
+.About .categories-box .mission-img img {
+  max-width: 100%;
+  height: 260px;
+}
+
+.About .categories-box .abcontent ol {
+  padding-left: 1rem;
+  margin-top: 15px;
+}
+.About .categories-box .abcontent ol li {
+  margin-bottom: 8px;
+  font-size: 15px;
+  color: #212121;
+}
+.About .categories-box .abdirect {
+  text-align: right;
+}
+.About .categories-box .abdirect img {
+  max-width: 100%;
+  width: 375px;
+  margin: 0 auto;
+  border-radius: 10px;
+  border: 4px solid #f3efef;
+}
+.About .categories-box img {
+  max-width: 100%;
+  width: 475px;
+  border-radius: 14px;
+}
+
+.thumb.weAre {
+  text-align: right;
+}
+.thumb.visionImg {
+  text-align: right;
+}
+.thumb.visionImg img {
+  border: 1px solid #eee;
+  padding: 20px 20px;
+  width: 340px;
+}
+.thumb.weDo {
+  text-align: left;
+}
+.effort {
+  text-align: right;
+}
+
+.video-play-button {
+  left: 51%;
+  position: absolute;
+  top: 42%;
+}
+.About .about-items .thumb img {
+  max-width: 100%;
+  width: 350px;
+  float: right;
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+  .About .aboutBanner h1 {
+    font-size: 26px;
+  }
+
+  .About .aboutBanner span {
+    font-size: 15px;
+  }
+  .About .aboutBanner p {
+    font-size: 14px;
+  }
+  .aboutBanner img {
+    width: 290px;
+  }
+  .About .about-area p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  .About .categories-box h2 {
+    font-size: 22px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .video-play-button {
+    top: 24%;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .video-play-button {
+    top: 42%;
+    left: 52%;
+  }
+  .aboutBanner {
+    padding: 30px 30px;
+  }
+  .About .aboutBanner h1 {
+    font-size: 22px;
+  }
+  .About .aboutBanner span {
+    font-size: 15px;
+    line-height: 24px;
+  }
+  .About .aboutBanner p {
+    line-height: 26px;
+    font-size: 13px;
+    text-align: left;
+  }
+  .aboutText .TextPart p {
+    font-size: 14px;
+  }
+  .thumb.weAre {
+    text-align: center;
+  }
+  .thumb.weDo {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .About .categories-box img {
+    width: 400px;
+    margin-top: 20px;
+    border-radius: 14px;
+  }
+  .effort {
+    text-align: center;
+  }
+  .effort img {
+    text-align: center;
+    height: 220px;
+  }
+  .About .categories-box .mission-img {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .thumb.visionImg {
+    text-align: center;
+  }
+  .About .categories-box .abdirect {
+    text-align: center;
+  }
+  .aboutText {
+    margin-top: 00px;
+    padding: 50px 0px;
+    display: inline-block;
+    gap: 0px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .About .commanColor {
+    display: none;
+  }
+  .aboutBanner {
+    padding: 20px 20px;
+    display: inline-block;
+  }
+  .aboutBanner img {
+    width: 160px;
+    margin: 30px auto 0px;
+    display: block;
+  }
+  .aboutText {
+    padding: 0px 0px;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  .aboutText .TextPart p {
+    font-size: 14px;
+  }
+  .About .aboutBanner h1 {
+    font-size: 22px;
+  }
+  .about-area.reverse {
+    margin-top: 25px;
+    padding: 35px 20px;
+  }
+  .About .aboutBanner span {
+    font-size: 18px;
+  }
+  .About .aboutBanner h2 {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .About .aboutBanner p {
+    line-height: 22px;
+    font-size: 13px;
+    margin-top: 12px;
+  }
+  .About .about-items h1 {
+    font-size: 21px;
+  }
+  .About .about-items span {
+    font-size: 12px;
+  }
+  .About .about-items p {
+    font-size: 12px;
+  }
+  .About .about-area p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  .About .about-area h2 {
+    font-size: 20px;
+  }
+  .About .about-area {
+    padding-top: 30px;
+  }
+  .About .categories-box {
+    padding-bottom: 30px;
+  }
+  .About .categories-box .thumb {
+    text-align: center;
+  }
+  .About .categories-box .thumb img {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  .About .categories-box h2 {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+
+  .About .categories-box .abcontent ol li {
+    margin-bottom: 10px;
+    font-size: 12px;
+  }
+  .About .categories-box .mission-img img {
+    text-align: center;
+    float: none;
+    height: auto;
+    margin-bottom: 15px !important;
+  }
+  .About .categories-box .abdirect img {
+    width: 100%;
+  }
+  .video-play-button {
+    top: 30%;
+  }
+  .video-play-button i {
+    font-size: 15px;
+    bottom: 0px;
+    left: -4px;
+  }
+  .video-play-button:after {
+    width: 35px;
+    height: 35px;
+  }
+}

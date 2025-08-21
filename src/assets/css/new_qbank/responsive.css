@@ -1,0 +1,943 @@
+@media only screen and (min-width: 1330px) and (max-width: 1440px) {
+
+/**** QBank Page ******/
+
+.new_qbank_module {
+    padding: 0px 0%;
+}
+.new_qbank_module .bookmark_part p {
+    font-size: 15px;
+}
+
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1329px) {
+
+/**** QBank Page ******/
+
+.new_qbank_module {
+    padding: 0px 0%;
+}
+.new_qbank_module .bookmark_part p {
+    font-size: 15px;
+}
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+/**** QBank Page ******/
+.new_qbank_module {
+    padding: 0px 0%;
+}
+
+/****  QBank > Bookamrks Page ******/
+.new_qbank_module .bookmarks ul li.icon {
+    right: 8px;
+}
+
+/****  QBank > Information Page ******/
+.information .info_heading ul li .box_img {
+    width: 6%;
+}
+.information .info_heading ul li .info_text {
+    width: 92%;
+}
+
+}
+
+@media only screen and (min-width: 845px) and (max-width: 991px) {
+
+}
+
+@media only screen and (min-width: 812px) and (max-width: 844px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+/**** QBank Page ******/
+
+.new_qbank_module {
+    padding: 0px 0%;
+}
+.new_qbank_module .bookmark_part p {
+    font-size: 14px;
+}
+
+
+
+/****  QBank > Explanation Page ******/
+.explanation .exp_tbl .table td, .table th {
+    font-size: 13px;
+}
+.explanation .medical_image_sec img{
+    width: 160px;
+}
+.explanation .text-description p {
+    font-size: 14px;
+    text-align: justify;
+}
+.explanation .references ul li {
+    font-size: 14px;
+}
+.explanation .copy_code h2 {
+    font-size: 14px;
+}
+.explanation .copy_code input {
+    font-size: 14px;
+}
+.explanation .solution ul li {
+    font-size: 14px;
+}
+
+
+
+/****  QBank > QBank Final Page ******/
+.qbank_final .bar_chart_sec .x-axis li {
+    margin: 0px 0px 0px 18px;
+}
+.qbank_final .bar_chart_sec .bar-group {
+    margin: 0 13px;
+}
+.qbank_final .bar_chart_sec .graph {
+    width: 620px;
+}
+.qbank_final .time_section ul li .text_sec p {
+    font-size: 13px;
+}
+.qbank_final .view_solution {
+    margin: 40px 0px 20px;
+}
+.qbank_final .colaps_sec .top_sec {
+    margin: 20px 0px 40px;
+}
+.qbank_final .button_group {
+    text-align: center;
+}
+.qbank_final .button_group button.btn {
+    width: 200px;
+    padding: 8px 0px;
+    font-size: 14px;
+}
+
+
+
+/****  QBank > Information Page ******/
+.information .info_heading ul li .box_img {
+    width: 8%;
+}
+.information .info_heading ul li .info_text {
+    width: 90%;
+}
+
+
+
+/****  QBank > Review Page ******/
+.reviews .review_tabs_sec ul.nav.nav-pills {
+    flex-wrap: initial;
+    overflow: auto;
+}
+.reviews .review_tabs_sec ul.nav.nav-pills::-webkit-scrollbar-track {
+    box-shadow: none;
+}
+.reviews .review_tabs_sec ul.nav.nav-pills::-webkit-scrollbar-thumb {
+    display: none;
+}
+.reviews .review_tabs_sec ul.nav.nav-pills.qsn_scrol {
+    flex-wrap: initial;
+    overflow: auto;
+}
+.reviews .review_tabs_sec .correct_section h4 {
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.reviews .review_tabs_sec .explan_tbl .table td, .table th {
+    font-size: 13px;
+}
+.reviews .review_tabs_sec .medical_imag img {
+    width: 200px;
+}
+.reviews .review_tabs_sec .text-description p {
+    text-align: justify;
+}
+
+
+
+/*** QBank > Customize QBank > Choose Mode ***/
+.choose_mode .select_mode {
+    margin: 10px 0px 20px;
+}
+
+
+}
+
+@media only screen and (max-width: 767px) {
+/**** QBank Page ******/
+
+.new_qbank_module {
+    padding: 0px 0%;
+}
+.new_qbank_module .container.custom_cont{
+    width: 100% !important;
+}
+.new_qbank_module .bookmark_part img {
+    width: 14px;
+}
+.new_qbank_module .bookmark_part {
+    padding: 14px 10px;
+}
+.new_qbank_module .bookmark_part p {
+    font-size: 14px;
+}
+.new_qbank_module .bookmark_part {
+    margin: 4px 0px 0px;
+}
+.new_qbank_module .hading_text {
+    margin: 30px 0px 10px;
+}
+.choose_subject ul li img {
+    width: 36px;
+}
+.choose_subject ul li {
+    font-size: 14px;
+}
+.choose_subject {
+    margin-bottom: 14px;
+}
+
+
+/**** Anatomy Subject Page ******/
+
+.anatomy_sub .anatomy_top_sec ul li {
+    font-size: 12px;
+}
+.anatomy_sub .atmpt_part {
+    padding: 10px 2px 8px;
+    margin: 10px 0px;
+}
+.anatomy_sub .atmpt_part img {
+    width: 22px;
+}
+.anatomy_sub .atmpt_part p {
+    color: #212121;
+    margin: 4px 0px 0px;
+    font-size: 14px;
+}
+
+
+/**** Start QBank Page ******/
+
+.start_qbank .modes .tab-link {
+    padding: 8px 12px;
+    font-size: 14px;
+}
+.start_qbank .heading_sec h3 {
+    font-size: 16px;
+}
+.start_qbank .heading_sec p {
+    font-size: 14px;
+}
+.start_qbank .buttons .qbank_button {
+    width: 290px;
+    margin-top: 8%;
+}
+
+
+
+/****  QBank > Bookamrks Page ******/
+.new_qbank_module .bookmarks ul li.icon {
+    right: 8px;
+}
+.new_qbank_module .bookmarks {
+    margin-bottom: 4px;
+}
+
+
+
+/****  QBank > Anatomy Page ******/
+.new_qbank_module .anatomy_qsn_part a {
+    font-size: 14px;
+}
+
+
+
+/****  QBank > Start Question Page ******/
+.start_question .qsn_text {
+    margin: 20px 0px 20px;
+}
+.start_question .qsn_text p {
+    font-size: 13px;
+}
+.start_question .qsn_type p {
+    border-radius: 4px;
+    padding: 4px 10px;
+    margin: 20px 0px;
+}
+.start_question .qsn_type .marked {
+    top: 32px;
+    font-size: 13px;
+}
+.start_question .qsn_type .missed {
+    top: 32px;
+    font-size: 13px;
+}
+
+
+/****  QBank > Explanation Page ******/
+.explanation .exp_tbl {
+    margin: 20px 0px 0px;
+}
+.explanation .exp_tbl .table td, .table th {
+    font-size: 13px;
+}
+.explanation .medical_image_sec img{
+    width: 160px;
+}
+.explanation .text-description p {
+    font-size: 14px;
+    text-align: justify;
+}
+.explanation .next_btn button.btn.next_btn {
+    width: 288px;
+}
+.explanation .copy_code input {
+    width: 140px;
+    font-size: 14px;
+}
+.explanation .copy_code h2 {
+    font-size: 14px;
+}
+.explanation .references ul li {
+    font-size: 14px;
+}
+.explanation .solution ul li {
+    font-size: 13px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.explanation .solution ul li.like {
+    display: inline-block;
+    width: 40px;
+    float: left;
+}
+
+
+
+/****  QBank > Attempt list Page ******/
+.attempt_list .correct_list p {
+    font-size: 14px;
+    padding: 4px 0px;
+}
+.attempt_list .summary_atmp h2 {
+    font-size: 16px;
+}
+.attempt_list .summary_atmp {
+    margin: 0px 0px;
+}
+.attempt_list .summary_atmp a {
+    padding: 8px 12px;
+    margin: 10px 6px;
+    font-size: 14px;
+}
+.attempt_list .btn_grp button.btn {
+    width: 130px;
+    font-size: 12px;
+    padding: 10px 10px;
+    margin-right: 0px;
+}
+.attempt_list .btn_grp button.btn.resume_btn {
+    margin-left: 24px;
+}
+
+
+/****  QBank > Setting Page ******/
+.settings .heading h2 {
+    font-size: 16px;
+    margin: 20px 0px 30px;
+}
+.settings .setting_sec ul li span.counter img {
+    width: 24px;
+}
+.settings .setting_sec ul li span.counter {
+    padding: 6px 10px 12px;
+    margin-right: 10px;
+}
+.settings .setting_sec ul li {
+    font-size: 14px;
+}
+.settings .number input {
+    height: 34px;
+    width: 40px;
+    font-size: 18px;
+}
+.settings .btn_grp {
+    text-align: center;
+}
+.settings .btn_grp button.btn {
+    width: 120px;
+    margin-right: 0px;
+    text-align: center;
+    margin: 0px 10px;
+    font-size: 14px;
+}
+
+
+
+/****  QBank > QBank Final Page ******/
+.qbank_final .head_sec h3 {
+    font-size: 14px;
+}
+.qbank_final .bar_chart_sec .bar1 {
+    width: 14px;
+}
+.qbank_final .bar_chart_sec .bar-group {
+    margin: 0px 3px;
+    width: 8%;
+}
+.qbank_final .bar_chart_sec .x-axis li {
+    margin: 0 0px 0 2px;
+    width: 8%;
+}
+.qbank_final .bar_chart_sec .graph {
+    width: 290px;
+    height: 184px;
+}
+.qbank_final .bar_chart_sec .bars {
+    height: 160px;
+}
+.qbank_final .pie-chart {
+    float: none;
+    margin: 0 auto;
+}
+.qbank_final .inner {
+    width: 140px;
+    height: 140px;
+    font-size: 16px;
+}
+.qbank_final .pie-chart {
+    width: 170px;
+    height: 170px;
+}
+.qbank_final .time_section ul li {
+    display: inline-block;
+    text-align: center;
+}
+.qbank_final .time_section ul li .text_sec p {
+    font-size: 14px;
+    margin: 14px 0px;
+    line-height: 22px;
+}
+.qbank_final .time_section ul li .text_sec h4 {
+    font-size: 16px;
+    margin: 10px 0px 8px;
+}
+.qbank_final .time_section ul li .img_sec img {
+    margin-right: 0px;
+}
+.qbank_final .view_solution {
+    margin: 20px 0px 20px;
+}
+.qbank_final .colaps_sec .top_sec {
+    margin: 20px 0px 20px;
+}
+.qbank_final .colaps_sec .top_sec ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+}
+.qbank_final .colaps_sec .accordion-option .toggle-accordion {
+    font-size: 13px;
+    text-align: center;
+}
+.qbank_final .colaps_sec .top_sec ul li.img_prt {
+    padding: 6px 10px;
+    margin-right: 6px;
+}
+.qbank_final .colaps_sec .panel-default>.panel-heading a {
+    font-size: 14px;
+}
+.qbank_final .experience h4 {
+    font-size: 15px;
+}
+.qbank_final .button_group {
+    margin: 20px 0px 0px;
+    text-align: center;
+}
+.qbank_final .button_group button.btn {
+    width: 122px;
+    padding: 8px 0px;
+    font-size: 14px;
+    color: #fff;
+    margin: 0px 10px;
+}
+.qbank_final .crct_part h4 {
+    font-size: 16px;
+}
+.qbank_final .crct_part p {
+    font-size: 14px;
+    line-height: 20px;
+    margin: 6px 0px;
+}
+
+
+
+/****  QBank > Information Page ******/
+.information .info_heading {
+    margin: 10px 0px 20px;
+}
+.information .info_heading ul li .box_img {
+    width: 16%;
+    padding: 10px 0px;
+    margin-right: 5px;
+}
+.information .info_heading ul li .info_text {
+    width: 82%;
+}
+.information .info_heading ul li .box_img img {
+    width: 18px;
+}
+
+
+/****  QBank > Review Page ******/
+.reviews .review_tabs_sec ul.nav.nav-pills {
+    flex-wrap: initial;
+    overflow: auto;
+}
+.reviews .review_tabs_sec .nav-item a.nav-link {
+    margin-right: 14px;
+}
+.reviews .review_tabs_sec ul.nav.nav-pills::-webkit-scrollbar-track {
+    box-shadow: none;
+}
+.reviews .review_tabs_sec ul.nav.nav-pills::-webkit-scrollbar-thumb {
+    display: none;
+}
+.reviews .review_tabs_sec ul.nav.nav-pills.qsn_scrol {
+    flex-wrap: initial;
+    overflow: auto;
+}
+.reviews .review_tabs_sec .explan_tbl .table td, .table th {
+    font-size: 13px;
+}
+.reviews .review_tabs_sec .medical_imag img {
+    width: 200px;
+}
+.reviews .review_tabs_sec .text-description p {
+    text-align: justify;
+}
+.reviews .review_tabs_sec .btn_grp {
+    text-align: center;
+}
+.reviews .review_tabs_sec .btn_grp .btn {
+    width: 130px;
+    font-size: 14px;
+    margin: 0px 6px;
+}
+
+
+
+/****** QBank > Customize QBank **********/
+.customize_qbank .level ul li.img_box img {
+    width: 38px;
+}
+.customize_qbank .qsn_level .tab-link {
+    font-size: 14px;
+}
+.customize_qbank .qsn_from ul li.img_box img {
+    width: 44px;
+}
+.customize_qbank .checkbox_list .label_text {
+    font-size: 14px;
+}
+.customize_qbank .btn_sec {
+    text-align: center;
+}
+.customize_qbank .btn_sec button.btn.next_button {
+    font-size: 14px;
+}
+.customize_qbank .level_select ul li img {
+    width: 20px;
+}
+.customize_qbank .level_select ul li {
+    width: 84px;
+    padding: 10px 6px;
+    margin-right: 14px;
+    font-size: 14px;
+}
+.customize_qbank .level_select ul li:last-child{
+    margin-right: 0px;
+}
+
+
+/***  QBank > Customize QBank > All Subject ***/
+.customize_qbank .level {
+    margin: 0px 0px 0px;
+}
+.all_subject .checkbox_list_sub .label_text_nw {
+    font-size: 14px;
+}
+
+
+/*** QBank > Customize QBank > Choose Mode ***/
+.choose_mode .preference ul li.img_box img {
+    width: 38px;
+}
+.choose_mode .select_mode .img_sec img {
+    width: 20px;
+    height: 20px;
+}
+.choose_mode .select_mode .img_sec {
+    width: 40px;
+    height: 40px;
+}
+.choose_mode .select_mode .text_sec h3 {
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+.choose_mode .select_mode .text_sec p {
+    font-size: 13px;
+    line-height: 20px;
+}
+.choose_mode .select_mode {
+    margin: 10px 0px 20px;
+}
+
+
+/****** QBank > Customize QBank > Your QBank **********/
+
+.your_qbank .crt_qbank ul li.sid_box img {
+    padding: 8px 8px;
+    width: 36px;
+}
+.your_qbank .crt_qbank ul li {
+    font-size: 14px;
+}
+.your_qbank .subject_listing {
+    margin: 20px 0px 0px;
+    padding: 0px 0%;
+}
+.your_qbank .subject_listing ul li span.select {
+    width: auto;
+}
+.your_qbank .subject_listing ul li {
+    font-size: 14px;
+}
+.your_qbank .book_sec img {
+    width: 140px;
+}
+.your_qbank .book_sec h3 {
+    font-size: 16px;
+}
+.your_qbank .book_sec p {
+    font-size: 16px;
+}
+.your_qbank .book_sec h4 {
+    font-size: 14px;
+}
+.your_qbank .button_group button.btn {
+    margin-bottom: 40px;
+}
+
+
+
+/****** QBank > Customize QBank > My Result **********/
+
+.my_result .qbank_com img {
+    width: 140px;
+}
+.my_result .qbank_com h4 {
+    font-size: 16px;
+    margin: 6px 0px;
+}
+.my_result .accuracy {
+    width: 100%;
+    margin: 30px auto 20px;
+}
+.qbank_final .total_qsn p {
+    margin: 16px auto;
+}
+.my_result .btn_group button.btn {
+    width: 134px;
+    margin: 0px 4px;
+}
+.my_result .btn_group {
+    margin: 20% 0px 40px;
+}
+
+
+}
+
+
+
+
+@media only screen and (min-width: 740px) and (max-width: 767px) {
+
+/**** Start QBank Page ******/
+.start_qbank .modes .tab-link {
+    padding: 10px 58px;
+    font-size: 16px;
+}
+
+
+/****  QBank > QBank Final Page ******/
+.qbank_final .pie-chart {
+    float: right;
+    margin: 42px 0px;
+}
+.qbank_final .colaps_sec .top_sec ul {
+    display: inline;
+}
+
+
+
+/****  QBank > Information Page ******/
+.information .info_heading ul li .box_img {
+    width: 6%;
+}
+.information .info_heading ul li .info_text {
+    width: 92%;
+}
+
+
+
+}
+
+@media only screen and (min-width: 640px) and (max-width: 739px) {
+
+/**** Start QBank Page ******/
+.start_qbank .modes .tab-link {
+    padding: 10px 58px;
+    font-size: 16px;
+}
+
+
+/****  QBank > QBank Final Page ******/
+.qbank_final .pie-chart {
+    float: right;
+    margin: 42px 0px;
+}
+.qbank_final .colaps_sec .top_sec ul {
+    display: inline;
+}
+
+/****  QBank > Information Page ******/
+.information .info_heading ul li .box_img {
+    width: 8%;
+}
+.information .info_heading ul li .info_text {
+    width: 90%;
+}
+
+
+
+}
+
+@media only screen and (min-width: 568px) and (max-width: 639px) {
+
+/**** Start QBank Page ******/
+.start_qbank .modes .tab-link {
+    padding: 10px 58px;
+    font-size: 16px;
+}
+
+
+/****  QBank > QBank Final Page ******/
+.qbank_final .colaps_sec .top_sec ul {
+    display: inline;
+}
+
+
+/****  QBank > Information Page ******/
+.information .info_heading ul li .box_img {
+    width: 9%;
+}
+.information .info_heading ul li .info_text {
+    width: 90%;
+}
+
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 567px) {
+
+/**** Start QBank Page ******/
+.start_qbank .modes .tab-link {
+    padding: 8px 52px;
+    font-size: 14px;
+}
+
+
+/****  QBank > QBank Final Page ******/
+.qbank_final .colaps_sec .top_sec ul {
+    display: inline;
+}
+
+
+
+/****  QBank > Information Page ******/
+.information .info_heading ul li .box_img {
+    width: 10%;
+}
+.information .info_heading ul li .info_text {
+    width: 88%;
+}
+
+
+}
+
+@media only screen and (min-width: 411px) and (max-width: 479px) {
+
+/**** Start QBank Page ******/
+.start_qbank .modes .tab-link {
+    padding: 8px 34px;
+    font-size: 14px;
+}
+.new_qbank_module .bookmark_part p {
+    font-size: 12px;
+    margin: 6px 0px -4px;
+}
+.new_qbank_module .bookmark_part img {
+    width: 20px;
+}
+.new_qbank_module .bookmark_part {
+    padding: 14px 6px;
+}
+
+
+
+/****  QBank > Anatomy Page ******/
+.new_qbank_module .anatomy_qsn_part a {
+    font-size: 14px;
+}
+.new_qbank_module .anatomy_qsn_part span.qsn_number {
+    padding: 4px 14px;
+}
+
+
+/****  QBank > Attempt list Page ******/
+.attempt_list .summary_atmp a {
+    padding: 8px 12px;
+    margin: 10px 4px;
+    font-size: 14px;
+}
+
+
+/****  QBank > QBank Final Page ******/
+.qbank_final .colaps_sec .top_sec ul {
+    display: inline;
+}
+
+
+/****  QBank > Information Page ******/
+.information .info_heading ul li .box_img {
+    width: 12%;
+}
+.information .info_heading ul li .info_text {
+    width: 86%;
+}
+
+
+
+}
+
+@media only screen and (min-width: 390px) and (max-width: 410px) {
+
+/**** Start QBank Page ******/
+.start_qbank .modes .tab-link {
+    padding: 8px 30px;
+    font-size: 14px;
+}
+.start_qbank .notes li.notes_bg {
+    width: 50px;
+    height: 50px;
+    padding: 12px 6px;
+}
+.new_qbank_module .bookmark_part p {
+    font-size: 11px;
+    margin: 6px 0px -4px;
+}
+.new_qbank_module .bookmark_part img {
+    width: 20px;
+}
+.new_qbank_module .bookmark_part {
+    padding: 14px 6px;
+}
+
+
+/****  QBank > Anatomy Page ******/
+.new_qbank_module .anatomy_qsn_part span.qsn_number {
+    padding: 4px 14px;
+}
+
+
+/****  QBank > Attempt list Page ******/
+.attempt_list .summary_atmp a {
+    margin: 10px 3px;
+}
+
+/****  QBank > QBank Final Page ******/
+.qbank_final .colaps_sec .top_sec ul li.fa_icn {
+    margin: 70px 0px 0px;
+}
+
+/****  QBank > Information Page ******/
+.information .info_heading ul li .box_img {
+    width: 12%;
+}
+.information .info_heading ul li .info_text {
+    width: 86%;
+}
+
+
+}
+
+@media only screen and (min-width: 360px) and (max-width: 389px) {
+
+/**** Start QBank Page ******/
+.start_qbank .modes .tab-link {
+    padding: 8px 22px;
+    font-size: 14px;
+}
+.start_qbank .notes li.notes_bg {
+    width: 50px;
+    height: 50px;
+    padding: 12px 6px;
+}
+.start_qbank .buttons .qbank_button {
+    width: 330px;
+}
+.new_qbank_module .bookmark_part p {
+    font-size: 13px;
+    margin: 8px 0px -4px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 32px;
+    line-height: 20px;
+}
+
+
+
+/****  QBank > Anatomy Page ******/
+.new_qbank_module .anatomy_qsn_part span.qsn_number {
+    padding: 4px 14px;
+}
+
+/****  QBank > Attempt list Page ******/
+.attempt_list .summary_atmp a {
+    margin: 10px 5px;
+}
+
+
+/****  QBank > Information Page ******/
+.information .info_heading ul li .box_img {
+    width: 14%;
+}
+.information .info_heading ul li .info_text {
+    width: 84%;
+}
+
+
+}
