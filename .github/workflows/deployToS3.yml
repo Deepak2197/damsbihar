@@ -37,15 +37,17 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      # ✅ Extra step: Fix case-sensitive imports before build
+      # ✅ Fix case-sensitive import paths before build
       - name: Fix case-sensitive import paths
         run: |
           # Rename folder if needed (Linux is case-sensitive)
           if [ -d "src/API" ]; then
             mv src/API src/api
           fi
-          # Replace wrong imports in source files
-          find src -type f -name "*.js" -o -name "*.jsx" | xargs sed -i 's|from "../../API/|from "../../api/|g'
+          # Replace wrong imports in JS/JSX files
+          find src \( -name "*.js" -o -name "*.jsx" \) -print0 | xargs -0 sed -i \
+            -e 's|from "../API/|from "../api/|g' \
+            -e 's|from "../../API/|from "../../api/|g'
 
       - name: Build application
         env:
