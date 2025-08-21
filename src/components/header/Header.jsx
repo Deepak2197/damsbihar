@@ -16,7 +16,7 @@ import { useNavigate } from "react-router-dom";
 import Location from "../../modals/LocationModal";
 import AllLocation from "../../modals/AllLocationModal";
 import Login from "../Login/Login";
-import axiosInstance from "../../API/axiosConfig";
+import axiosInstance from "../../api/axiosConfig";
 import { API_ENDPOINTS } from "../../ulits/apiConstant";
 
 const Header = ({ isAuthenticated, setIsAuthenticated }) => {
